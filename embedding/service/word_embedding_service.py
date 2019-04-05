@@ -15,28 +15,35 @@ from gensim.test.utils import get_tmpfile
 
 app = Flask(__name__)
 wv = None
-VEC_FILE = "C:\\_a\ensepro\\ensepro-core\\arquivos\\fasttext-s50-m2-sg0.vec"
+VEC_FILE = "C:\\Users\\alenc\Documents\\_projetos\\ensepro\\fasttext-s50-m2-sg0.vec"
 BINARY = False
 GLOVE = False
 
 
 @app.route('/word-embedding/similarity/', methods=['GET'])
-def analisarFrase():
+def similarity():
     word1 = request.args.get('word1')
     word2 = request.args.get('word2')
 
-    score = similarity_score(word1, word2)
-    # print(word1, word2, score)
+    try:
+        score = wv.similarity(word1, word2)
+    except Exception as ex:
+        score = 0
+
     return json.dumps({"score": float(str(score))})
 
 
-def similarity_score(word1, word2):
+@app.route('/word-embedding/n-similarity/', methods=['GET'])
+def n_similarity():
+    words1 = request.args.get('word1')
+    words2 = request.args.get('word2')
+
     try:
-        result = wv.similarity(word1, word2)
-        return result
+        score = wv.n_similarity(words1, words2)
     except Exception as ex:
-        # print("erro: ", ex)
-        return 0
+        score = 0
+
+    return json.dumps({"score": float(str(score))})
 
 
 def init():
