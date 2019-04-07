@@ -35,8 +35,8 @@ def similarity():
 
 @app.route('/word-embedding/n-similarity/', methods=['GET'])
 def n_similarity():
-    words1 = request.args.get('word1')
-    words2 = request.args.get('word2')
+    words1 = request.args.getlist('word1')
+    words2 = request.args.getlist('word2')
 
     try:
         score = wv.n_similarity(words1, words2)
