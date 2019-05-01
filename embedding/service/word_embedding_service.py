@@ -20,10 +20,12 @@ VEC_FILE = "C:\\_a\\ensepro\\ensepro-core\\arquivos\\fasttext-s50-m2-sg0.vec"
 BINARY = False
 GLOVE = False
 
-@app.route('/word-embedding/similarity/', methods=['GET'])
+
+@app.route('/word-embedding/similarity/', methods=['GET', 'POST'])
 def similarity():
-    word1 = request.args.get('word1')
-    word2 = request.args.get('word2')
+    data = request.json
+    word1 = data["word1"]
+    word2 = data["word2"]
 
     try:
         score = wv.similarity(word1, word2)
@@ -33,10 +35,11 @@ def similarity():
     return json.dumps({"score": float(str(score))})
 
 
-@app.route('/word-embedding/n-similarity/', methods=['GET'])
+@app.route('/word-embedding/n-similarity/', methods=['GET', 'POST'])
 def n_similarity():
-    words1 = request.args.getlist('word1')
-    words2 = request.args.getlist('word2')
+    data = request.json
+    words1 = data["words1"]
+    words2 = data["words2"]
 
     score = 0
     count = 0
