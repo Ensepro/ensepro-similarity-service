@@ -51,7 +51,11 @@ def n_similarity():
         except Exception as ex:
             break
 
-    return json.dumps({"score": float(str(score))})
+    return json.dumps({
+        "score": float(str(score)),
+        "words1": words1,
+        "words2": words2
+    })
 
 
 @app.route('/word-embedding/vector/update', methods=['GET', 'POST'])
