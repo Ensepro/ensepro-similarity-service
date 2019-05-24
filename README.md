@@ -1,1 +1,1 @@
-# ensepro-word-embedding
+# ensepro-similarity-service
