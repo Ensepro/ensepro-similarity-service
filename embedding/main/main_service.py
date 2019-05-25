@@ -58,12 +58,12 @@ def update_file():
     new_vector_file = body.get("vector", None)
     glove = body.get("glove", False)
     binary = body.get("binary", False)
+    lang = body.get("lang", False)
 
-    if not new_vector_file:
-        from flask import abort
-        return abort(400)
+    if not new_vector_file or not lang:
+        return bad_request()
 
-    word_embedding_service.change_vector(new_vector_file, glove, binary, force_reload=force_reload)
+    word_embedding_service.change_vector(new_vector_file, glove, binary, lang, force_reload=force_reload)
 
     return jsonify(success=True)
 
@@ -82,3 +82,26 @@ def current_method():
     return json.dumps({
         "method": methods[0]["name"]
     })
+
+
+@app.route('/word-embedding/langs', methods=['GET'])
+def get_langs():
+    return json.dumps({
+        "langs": word_embedding_service.list_langs()
+    })
+
+
+@app.route('/word-embedding/langs/order', methods=['GET', 'POST'])
+def update_lang_order():
+    body = request.json
+    new_order = body["langs"]
+    if not new_order:
+        return bad_request()
+
+    word_embedding_service.update_order(new_order)
+    return get_langs()
+
+
+def bad_request():
+    from flask import abort
+    return abort(400)
