@@ -102,6 +102,16 @@ def update_lang_order():
     return get_langs()
 
 
+@app.route('/word-embedding/vectors', methods=['GET'])
+def list_vectors():
+    result = {}
+    for lang in word_embedding_service.vector_files:
+        result[lang] = {}
+        result[lang]["current"] = word_embedding_service.current_file[lang]
+        result[lang]["vectors"] = [file for file in word_embedding_service.vector_files[lang]]
+    return json.dumps(result)
+
+
 def bad_request():
     from flask import abort
     return abort(400)
