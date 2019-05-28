@@ -18,24 +18,24 @@ current_lang = None
 lang_order = []
 
 
-def similarity_words_langs(word1: str, word2: str) -> float:
+def similarity_words(word1: str, word2: str) -> float:
     for lang in lang_order:
-        score = similarity_words(word1, word2, lang)
+        score = similarity_words_lang(word1, word2, lang)
         if score > 0:
             return score
     return 0
 
 
-def similarity_words(word1: str, word2: str, lang: str) -> float:
+def similarity_words_lang(word1: str, word2: str, lang: str) -> float:
     try:
         return vector_files[lang][current_file[lang]].similarity(word1, word2)
     except Exception as ex:
         return 0
 
 
-def similarity_lists_langs(list_words1: List[str], list_words2: List[str]):
+def similarity_lists(list_words1: List[str], list_words2: List[str]):
     for lang in lang_order:
-        result = similarity_lists(list_words1, list_words2, lang)
+        result = similarity_lists_lang(list_words1, list_words2, lang)
         if result["score"] > 0:
             return result
 
@@ -46,7 +46,7 @@ def similarity_lists_langs(list_words1: List[str], list_words2: List[str]):
     }
 
 
-def similarity_lists(list_words1: List[str], list_words2: List[str], lang: str):
+def similarity_lists_lang(list_words1: List[str], list_words2: List[str], lang: str):
     score = 0
     count = 0
     while list_words2 and count < 10:
