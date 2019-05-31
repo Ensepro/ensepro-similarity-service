@@ -16,10 +16,13 @@ vector_files = {}
 current_file = {}
 current_lang = None
 lang_order = []
+active_langs = {}
 
 
 def similarity_words(word1: str, word2: str) -> float:
     for lang in lang_order:
+        if not active_langs[lang]:
+            continue
         score = similarity_words_lang(word1, word2, lang)
         if score > 0:
             return score
@@ -35,6 +38,8 @@ def similarity_words_lang(word1: str, word2: str, lang: str) -> float:
 
 def similarity_lists(list_words1: List[str], list_words2: List[str]):
     for lang in lang_order:
+        if not active_langs[lang]:
+            continue
         result = similarity_lists_lang(list_words1, list_words2, lang)
         if result["score"] > 0:
             return result
@@ -67,13 +72,18 @@ def similarity_lists_lang(list_words1: List[str], list_words2: List[str], lang: 
     }
 
 
+def toggle_lang(lang):
+    active_langs[lang] = not active_langs[lang]
+
+
 def list_langs():
-    return [{"ordem": i, "lang": lang} for i, lang in enumerate(lang_order)]
+    return [{"ordem": i, "lang": lang, "active": active_langs[lang]} for i, lang in enumerate(lang_order)]
 
 
 def update_order(new_order):
     global lang_order
     lang_order = [lang for lang in new_order if lang in lang_order]
+    lang_order += [lang for lang in vector_files if lang not in lang_order]
 
 
 def change_vector(new_vector_file, glove, binary, lang, force_reload=False):
@@ -82,6 +92,7 @@ def change_vector(new_vector_file, glove, binary, lang, force_reload=False):
 
     if lang not in vector_files:
         lang_order.append(lang)
+        active_langs[lang] = True
         vector_files[lang] = {}
 
     if force_reload and new_vector_file in vector_files[lang]:

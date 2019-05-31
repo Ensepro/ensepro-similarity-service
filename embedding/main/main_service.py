@@ -102,6 +102,12 @@ def update_lang_order():
     return get_langs()
 
 
+@app.route('/word-embedding/<lang>/toggle', methods=['GET', 'POST'])
+def toogle_lang(lang: str):
+    word_embedding_service.toggle_lang(lang)
+    return jsonify(success=True)
+
+
 @app.route('/word-embedding/vectors', methods=['GET'])
 def list_vectors():
     result = {}
@@ -110,6 +116,32 @@ def list_vectors():
         result[lang]["current"] = word_embedding_service.current_file[lang]
         result[lang]["vectors"] = [file for file in word_embedding_service.vector_files[lang]]
     return json.dumps(result)
+
+
+@app.route('/word-embedding/<lang>/similarity', methods=['GET', 'POST'])
+def word_embedding_similarity_words_lang(lang: str):
+    data = request.json
+    word1 = data["word1"]
+    word2 = data["word2"]
+
+    score = word_embedding_service.similarity_words_lang(word1, word2, lang)
+
+    return json.dumps({"score": float(str(score))})
+
+
+@app.route('/word-embedding/<lang>/n-similarity', methods=['GET', 'POST'])
+def word_embedding_similarity_lists_lang(lang: str):
+    data = request.json
+    words1 = data["words1"]
+    words2 = data["words2"]
+
+    result = word_embedding_service.similarity_lists_lang(words1, words2, lang)
+
+    return json.dumps({
+        "score": float(result["score"]),
+        "words1": result["words1"],
+        "words2": result["words2"]
+    })
 
 
 def bad_request():
