@@ -5,7 +5,7 @@ from collections import deque
 
 from flask import Flask, request, jsonify
 
-from embedding.bert import bert_service
+# from embedding.bert import bert_service
 from embedding.word_embedding import word_embedding_service
 
 app = Flask(__name__)
@@ -15,7 +15,7 @@ BERT = "BERT"
 
 methods = deque([
     {"name": EMBEDDING, "service": word_embedding_service},
-    {"name": BERT, "service": bert_service}
+    # {"name": BERT, "service": bert_service}
 ])
 
 
