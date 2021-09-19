@@ -27,81 +27,47 @@ def carregar_frases(arquivo):
 
     return frases
 
-
-
-
-
-
-frases = []
-frases = carregar_frases("qald7.txt")
-frases = carregar_frases("qald7.txt")
-frases = carregar_frases("qald7.txt")
-frases = carregar_frases("qald7.txt")
-frases = carregar_frases("qald7.txt")
-frases = carregar_frases("qald7.txt")
-
-
-print(frases)
-
-primeira_palavra_frases = []
-
-for frase in frases:
-    primeira_palavra = frase.split(" ")[0]
-    primeira_palavra_frases.append(primeira_palavra)
-    # print(primeira_palavra)
-
-
-print(primeira_palavra_frases)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-exit()
-jar = "C:\_ensepro\ensepro-answer-generator\ensepro-answer-generator-size-{size}.jar"
+base_jar = "C:\_ensepro\ensepro-answer-generator\ensepro-answer-generator-size-{size}.jar"
 configs_file = "C:\\_ensepro\\ensepro-core\\ensepro\\configuracoes\\configs.json"
 frases = carregar_frases("qald7.txt")
-sizes = [10, 50, 75, 100, "base"]
+jars_type = ["base", "slm1"]
+slm1_only_l1_options = [True, False]
+sizes = [10, 50, 75, 100, 150, 200, 300, 400, 500, 750, 1000, 2000, 3000, 4000]
 
+for jar in jars_type:
+    for slm1_only_l1 in slm1_only_l1_options:
+        for size in sizes:
+            # update jar
+            configs = json.loads(open(file=configs_file, mode="r", encoding="utf-8").read())
 
-for size in sizes:
-    # update jar
-    configs = json.loads(open(file=configs_file, mode="r", encoding="utf-8").read())
-    configs["cbc"]["path_answer_generator"] = jar.format(size=size)
-    save_as_json(configs, configs_file)
-    path = "C:/_ensepro/ensepro-similarity-service/resultados/" + str(size) + "/"
-    Path(path).mkdir(parents=True, exist_ok=True)
-    i = 90
-    for frase in frases:
-        filename = "{:0>3d}-v2-s{size}-".format(i, size=size) + frase.replace("?", "")
-        base_command = "python C:\_ensepro\ensepro-core\main\ensepro_main.py "
-        params_command = "-save-json -filename \"{filename}\" -frase \"{frase}\" -resposta"
+            configs["cbc"]["path_answer_generator"] = base_jar.format(size=jar)
+            configs["cbc"]["slm1_factor"] = size
+            configs["cbc"]["slm1_factor_only_l1"] = slm1_only_l1
 
-        final_command = base_command + params_command.format(frase=frase, filename=path + filename)
+            save_as_json(configs, configs_file)
+            path = "C:/_ensepro/ensepro-similarity-service/resultados2/"+str(jar)+ "/"+str(slm1_only_l1)+"/"+str(size)
+            Path(path).mkdir(parents=True, exist_ok=True)
+            
+            for frase in frases:
+                filename = "{:0>3d}-v2-s{size}-".format(i, size=size) + frase.replace("?", "")
+                base_command = "python C:\_ensepro\ensepro-core\main\ensepro_main.py "
+                params_command = "-save-json -filename \"{filename}\" -frase \"{frase}\" -resposta"
 
-        start = time.time()
-        os.system(final_command)
-        end = time.time()
+                final_command = base_command + params_command.format(frase=frase, filename=path + filename)
 
-        try:
-            response_file = json.loads(open(file=path + filename + ".json", mode="r", encoding="utf-8").read())
+                start = time.time()
+                os.system(final_command)
+                end = time.time()
 
-            if not response_file[0]["resposta"]:
-                response_file[0]["resposta"] = {}
+                try:
+                    response_file = json.loads(open(file=path + filename + ".json", mode="r", encoding="utf-8").read())
 
-            response_file[0]["resposta"]["total_time"] = (end - start) * 1000  # converts to ms
-            save_as_json(response_file, path + filename + ".json")
-        except Exception as e:
-            print(e)
+                    if not response_file[0]["resposta"]:
+                        response_file[0]["resposta"] = {}
 
-        i += 1
+                    response_file[0]["resposta"]["total_time"] = (end - start) * 1000  # converts to ms
+                    save_as_json(response_file, path + filename + ".json")
+                except Exception as e:
+                    print(e)
+
+                i += 1
