@@ -1,0 +1,1765 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:spec",
+          "palavra_original": "Quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "escreveu",
+          "palavra_canonica": "escrever",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "livro",
+          "palavra_canonica": "livro",
+          "tags": [
+            "<sem-r>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "Os_Pilares_da_Terra",
+          "palavra_canonica": "Os_Pilares_da_Terra",
+          "tags": [
+            "<tit>",
+            "<*>",
+            "<heur>",
+            "<np-close>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 3,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:spec",
+          "palavra_original": "Quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<rel>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "escreveu",
+          "palavra_canonica": "escrever",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "publish",
+                "sinonimo": "publicar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "redigir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "escrever",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "compose",
+                "sinonimo": "compor",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "spell",
+                "sinonimo": "soletrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "publish",
+                "sinonimo": "write",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "compose",
+                "sinonimo": "compose",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "indite",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "spell",
+                "sinonimo": "spell",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "pen",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "publish",
+                "sinonimo": "publish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "drop_a_line",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              }
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Os_pilares_da_terra",
+          "palavra_canonica": "Os_pilares_da_terra",
+          "tags": [
+            "<tit>",
+            "<*>",
+            "<heur>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "quem",
+        "confianca": 0.78,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "escreveu",
+          "palavra_canonica": "escrever",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "publish",
+                "sinonimo": "publicar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "redigir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "escrever",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "compose",
+                "sinonimo": "compor",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "spell",
+                "sinonimo": "soletrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "publish",
+                "sinonimo": "write",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "compose",
+                "sinonimo": "compose",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "indite",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "spell",
+                "sinonimo": "spell",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "pen",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "publish",
+                "sinonimo": "publish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "drop_a_line",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Os_pilares_da_terra",
+          "palavra_canonica": "Os_pilares_da_terra",
+          "tags": [
+            "<tit>",
+            "<*>",
+            "<heur>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "*os_pilares_da_terra",
+              "autor",
+              "ken_follett"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "os_pilares_da_terra"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "os_pilares_da_terra": {
+                  "keyword": {
+                    "termo": "os_pilares_da_terra",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "os_pilares_da_terra",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26,
+          "bind_control": {
+            "binds": {
+              "os_pilares_da_terra": "-1",
+              "escrever": 37
+            },
+            "best_bind": {
+              "score": 0.7043745,
+              "resource_id": 37,
+              "tr": "escrever"
+            }
+          }
+        }
+      ],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*os_pilares_da_terra",
+              "*publisher",
+              "*macmillan_publishers"
+            ]
+          ],
+          "score": 12.637541,
+          "detail": {
+            "keywords": [
+              "escrever",
+              "os_pilares_da_terra"
+            ],
+            "score_detail": {
+              "m1": 10.970874,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "escrever": {
+                  "keyword": {
+                    "termo": "publish",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "publisher",
+                  "score": 0.9708738
+                },
+                "os_pilares_da_terra": {
+                  "keyword": {
+                    "termo": "os_pilares_da_terra",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "os_pilares_da_terra",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "os_pilares_da_terra": "-1",
+              "publish": "-75"
+            },
+            "best_bind": {
+              "score": 0.33481076,
+              "resource_id": -75,
+              "tr": "escrever"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*os_pilares_da_terra",
+              "*publisher",
+              "editora_rocco"
+            ]
+          ],
+          "score": 12.637541,
+          "detail": {
+            "keywords": [
+              "escrever",
+              "os_pilares_da_terra"
+            ],
+            "score_detail": {
+              "m1": 10.970874,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "escrever": {
+                  "keyword": {
+                    "termo": "publish",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "publisher",
+                  "score": 0.9708738
+                },
+                "os_pilares_da_terra": {
+                  "keyword": {
+                    "termo": "os_pilares_da_terra",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "os_pilares_da_terra",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "os_pilares_da_terra": "-1",
+              "publish": "-75"
+            },
+            "best_bind": {
+              "score": 0.33481076,
+              "resource_id": -75,
+              "tr": "escrever"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*os_pilares_da_terra",
+              "*publisher",
+              "editorial_presenca"
+            ]
+          ],
+          "score": 12.637541,
+          "detail": {
+            "keywords": [
+              "escrever",
+              "os_pilares_da_terra"
+            ],
+            "score_detail": {
+              "m1": 10.970874,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "escrever": {
+                  "keyword": {
+                    "termo": "publish",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "publisher",
+                  "score": 0.9708738
+                },
+                "os_pilares_da_terra": {
+                  "keyword": {
+                    "termo": "os_pilares_da_terra",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "os_pilares_da_terra",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "os_pilares_da_terra": "-1",
+              "publish": "-75"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*os_pilares_da_terra",
+              "owl#sameas",
+              "q1163227"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "os_pilares_da_terra"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "os_pilares_da_terra": {
+                  "keyword": {
+                    "termo": "os_pilares_da_terra",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "os_pilares_da_terra",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "os_pilares_da_terra": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*os_pilares_da_terra",
+              "owl#sameas",
+              "pilire_zeme"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "os_pilares_da_terra"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "os_pilares_da_terra": {
+                  "keyword": {
+                    "termo": "os_pilares_da_terra",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "os_pilares_da_terra",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4,
+          "bind_control": {
+            "binds": {
+              "os_pilares_da_terra": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*os_pilares_da_terra",
+              "owl#sameas",
+              "die_saulen_der_erde"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "os_pilares_da_terra"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "os_pilares_da_terra": {
+                  "keyword": {
+                    "termo": "os_pilares_da_terra",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "os_pilares_da_terra",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "os_pilares_da_terra": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*os_pilares_da_terra",
+              "owl#sameas",
+              "the_pillars_of_the_earth"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "os_pilares_da_terra"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "os_pilares_da_terra": {
+                  "keyword": {
+                    "termo": "os_pilares_da_terra",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "os_pilares_da_terra",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6,
+          "bind_control": {
+            "binds": {
+              "os_pilares_da_terra": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*os_pilares_da_terra",
+              "owl#sameas",
+              "los_pilares_de_la_tierra"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "os_pilares_da_terra"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "os_pilares_da_terra": {
+                  "keyword": {
+                    "termo": "os_pilares_da_terra",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "os_pilares_da_terra",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7,
+          "bind_control": {
+            "binds": {
+              "os_pilares_da_terra": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*os_pilares_da_terra",
+              "owl#sameas",
+              "les_piliers_de_la_terre"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "os_pilares_da_terra"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "os_pilares_da_terra": {
+                  "keyword": {
+                    "termo": "os_pilares_da_terra",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "os_pilares_da_terra",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8,
+          "bind_control": {
+            "binds": {
+              "os_pilares_da_terra": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*os_pilares_da_terra",
+              "owl#sameas",
+              "i_pilastri_della_terra"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "os_pilares_da_terra"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "os_pilares_da_terra": {
+                  "keyword": {
+                    "termo": "os_pilares_da_terra",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "os_pilares_da_terra",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9,
+          "bind_control": {
+            "binds": {
+              "os_pilares_da_terra": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*os_pilares_da_terra",
+              "owl#sameas",
+              "_()"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "os_pilares_da_terra"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "os_pilares_da_terra": {
+                  "keyword": {
+                    "termo": "os_pilares_da_terra",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "os_pilares_da_terra",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10,
+          "bind_control": {
+            "binds": {
+              "os_pilares_da_terra": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*os_pilares_da_terra",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "os_pilares_da_terra"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "os_pilares_da_terra": {
+                  "keyword": {
+                    "termo": "os_pilares_da_terra",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "os_pilares_da_terra",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11,
+          "bind_control": {
+            "binds": {
+              "os_pilares_da_terra": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*os_pilares_da_terra",
+              "owl#sameas",
+              "the_pillars_of_the_earth_(boek)"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "os_pilares_da_terra"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "os_pilares_da_terra": {
+                  "keyword": {
+                    "termo": "os_pilares_da_terra",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "os_pilares_da_terra",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12,
+          "bind_control": {
+            "binds": {
+              "os_pilares_da_terra": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*os_pilares_da_terra",
+              "owl#sameas",
+              "filary_ziemi"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "os_pilares_da_terra"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "os_pilares_da_terra": {
+                  "keyword": {
+                    "termo": "os_pilares_da_terra",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "os_pilares_da_terra",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13,
+          "bind_control": {
+            "binds": {
+              "os_pilares_da_terra": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*os_pilares_da_terra",
+              "titulolinguapt",
+              "os pilares da terra"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "os_pilares_da_terra"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "os_pilares_da_terra": {
+                  "keyword": {
+                    "termo": "os_pilares_da_terra",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "os_pilares_da_terra",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14,
+          "bind_control": {
+            "binds": {
+              "os_pilares_da_terra": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*os_pilares_da_terra",
+              "idioma",
+              "en"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "os_pilares_da_terra"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "os_pilares_da_terra": {
+                  "keyword": {
+                    "termo": "os_pilares_da_terra",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "os_pilares_da_terra",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15,
+          "bind_control": {
+            "binds": {
+              "os_pilares_da_terra": "-1"
+            },
+            "best_bind": {
+              "score": 0.28900605,
+              "resource_id": 16,
+              "tr": "escrever"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*os_pilares_da_terra",
+              "lancamento",
+              "1989"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "os_pilares_da_terra"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "os_pilares_da_terra": {
+                  "keyword": {
+                    "termo": "os_pilares_da_terra",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "os_pilares_da_terra",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16,
+          "bind_control": {
+            "binds": {
+              "os_pilares_da_terra": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*os_pilares_da_terra",
+              "tradutorbr",
+              "paulo azevedo"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "os_pilares_da_terra"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "os_pilares_da_terra": {
+                  "keyword": {
+                    "termo": "os_pilares_da_terra",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "os_pilares_da_terra",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17,
+          "bind_control": {
+            "binds": {
+              "os_pilares_da_terra": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*os_pilares_da_terra",
+              "lancamentobr",
+              "2012"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "os_pilares_da_terra"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "os_pilares_da_terra": {
+                  "keyword": {
+                    "termo": "os_pilares_da_terra",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "os_pilares_da_terra",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18,
+          "bind_control": {
+            "binds": {
+              "os_pilares_da_terra": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*os_pilares_da_terra",
+              "paginasbr",
+              "944"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "os_pilares_da_terra"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "os_pilares_da_terra": {
+                  "keyword": {
+                    "termo": "os_pilares_da_terra",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "os_pilares_da_terra",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19,
+          "bind_control": {
+            "binds": {
+              "os_pilares_da_terra": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*os_pilares_da_terra",
+              "tradutorpt",
+              "alice rocha"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "os_pilares_da_terra"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "os_pilares_da_terra": {
+                  "keyword": {
+                    "termo": "os_pilares_da_terra",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "os_pilares_da_terra",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20,
+          "bind_control": {
+            "binds": {
+              "os_pilares_da_terra": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*os_pilares_da_terra",
+              "lancamentopt",
+              "2007"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "os_pilares_da_terra"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "os_pilares_da_terra": {
+                  "keyword": {
+                    "termo": "os_pilares_da_terra",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "os_pilares_da_terra",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21,
+          "bind_control": {
+            "binds": {
+              "os_pilares_da_terra": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*os_pilares_da_terra",
+              "paginaspt",
+              "1094"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "os_pilares_da_terra"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "os_pilares_da_terra": {
+                  "keyword": {
+                    "termo": "os_pilares_da_terra",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "os_pilares_da_terra",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22,
+          "bind_control": {
+            "binds": {
+              "os_pilares_da_terra": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*os_pilares_da_terra",
+              "isbn2pt",
+              "978"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "os_pilares_da_terra"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "os_pilares_da_terra": {
+                  "keyword": {
+                    "termo": "os_pilares_da_terra",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "os_pilares_da_terra",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23,
+          "bind_control": {
+            "binds": {
+              "os_pilares_da_terra": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*os_pilares_da_terra",
+              "owl#sameas",
+              "m.04g88q"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "os_pilares_da_terra"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "os_pilares_da_terra": {
+                  "keyword": {
+                    "termo": "os_pilares_da_terra",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "os_pilares_da_terra",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24,
+          "bind_control": {
+            "binds": {
+              "os_pilares_da_terra": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*os_pilares_da_terra",
+              "nome",
+              "the pillars of the earth"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "os_pilares_da_terra"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "os_pilares_da_terra": {
+                  "keyword": {
+                    "termo": "os_pilares_da_terra",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "os_pilares_da_terra",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25,
+          "bind_control": {
+            "binds": {
+              "os_pilares_da_terra": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*os_pilares_da_terra",
+              "autor",
+              "ken_follett"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "os_pilares_da_terra"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "os_pilares_da_terra": {
+                  "keyword": {
+                    "termo": "os_pilares_da_terra",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "os_pilares_da_terra",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26,
+          "bind_control": {
+            "binds": {
+              "os_pilares_da_terra": "-1",
+              "escrever": 37
+            },
+            "best_bind": {
+              "score": 0.7043745,
+              "resource_id": 37,
+              "tr": "escrever"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*os_pilares_da_terra",
+              "genero",
+              "ficcao_historica"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "os_pilares_da_terra"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "os_pilares_da_terra": {
+                  "keyword": {
+                    "termo": "os_pilares_da_terra",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "os_pilares_da_terra",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27,
+          "bind_control": {
+            "binds": {
+              "os_pilares_da_terra": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*os_pilares_da_terra",
+              "editora",
+              "*macmillan_publishers"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "os_pilares_da_terra"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "os_pilares_da_terra": {
+                  "keyword": {
+                    "termo": "os_pilares_da_terra",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "os_pilares_da_terra",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28,
+          "bind_control": {
+            "binds": {
+              "os_pilares_da_terra": "-1",
+              "publish": "-42",
+              "escrever": 41
+            },
+            "best_bind": {
+              "score": 0.36915553,
+              "resource_id": 41,
+              "tr": "escrever"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*os_pilares_da_terra",
+              "paginas",
+              "816"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "os_pilares_da_terra"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "os_pilares_da_terra": {
+                  "keyword": {
+                    "termo": "os_pilares_da_terra",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "os_pilares_da_terra",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29,
+          "bind_control": {
+            "binds": {
+              "os_pilares_da_terra": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "ranking_time": 866663800,
+      "total_time": 14288751800
+    }
+  }
+]

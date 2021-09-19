@@ -1,0 +1,2298 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "Que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "M/F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "cientista",
+          "palavra_canonica": "cientista",
+          "tags": [
+            "<Hprof>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<sam->",
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<-sam>",
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "H:n",
+          "palavra_original": "computação",
+          "palavra_canonica": "computação",
+          "tags": [
+            "<act>",
+            "<domain>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "ganhou",
+          "palavra_canonica": "ganhar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "DN:art",
+          "palavra_original": "um",
+          "palavra_canonica": "um",
+          "tags": [
+            "<arti>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 13,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Oscar",
+          "palavra_canonica": "Oscar",
+          "tags": [
+            "<hum>",
+            "<newlex>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 14,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "Que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "M/F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "cientista",
+          "palavra_canonica": "cientista",
+          "tags": [
+            "<Hprof>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "scientist",
+                "sinonimo": "Cientista",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "scientist",
+                "sinonimo": "cientistas",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "boffin",
+                "sinonimo": "cientista",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "scientist",
+                "sinonimo": "scientist",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "boffin",
+                "sinonimo": "boffin",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<sam->",
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<-sam>",
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "H:n",
+          "palavra_original": "computação",
+          "palavra_canonica": "computação",
+          "tags": [
+            "<act>",
+            "<domain>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 10,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "ganhou",
+          "palavra_canonica": "ganhar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "acquire",
+                "sinonimo": "receber",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "obter",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "comprar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "earn",
+                "sinonimo": "ganhar_dinheiro_com_seu_trabalho",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "auferir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "lucrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "win",
+                "sinonimo": "vencer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "atingir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "ganhar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "adquirir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "earn",
+                "sinonimo": "garner",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "acquire",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "win",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "earn",
+                "sinonimo": "earn",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "gain",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              }
+            ]
+          }
+        },
+        {
+          "id": 11,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "DN:art",
+          "palavra_original": "um",
+          "palavra_canonica": "um",
+          "tags": [
+            "<arti>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 13,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Óscar",
+          "palavra_canonica": "Óscar",
+          "tags": [
+            "<brand>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 14,
+          "tag_inicial": "?",
+          "palavra_original": " ",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "[ [ QUE:fcl|1| [ S:np|2| [DN:pron-int|3| Que] [H:n|4| cientista] [ DN:pp|5| [H:prp|6| de] [ DP:np|7| [DN:art|8| a] [H:n|9| computação] ] ] ] [P:v-fin|10| ganhou] [ Od:np|11| [DN:art|12| um] [H:prop|13| Óscar] ] [?|14|  ] ] ]",
+      "tipo": {
+        "tipo": "qual",
+        "confianca": 0.85,
+        "ids": [
+          3
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "cientista",
+          "palavra_canonica": "cientista",
+          "tags": [
+            "<Hprof>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "scientist",
+                "sinonimo": "Cientista",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "scientist",
+                "sinonimo": "cientistas",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "boffin",
+                "sinonimo": "cientista",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "scientist",
+                "sinonimo": "scientist",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "boffin",
+                "sinonimo": "boffin",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 9,
+          "tag_inicial": "H:n",
+          "palavra_original": "computação",
+          "palavra_canonica": "computação",
+          "tags": [
+            "<act>",
+            "<domain>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 10,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "ganhou",
+          "palavra_canonica": "ganhar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "acquire",
+                "sinonimo": "receber",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "obter",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "comprar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "earn",
+                "sinonimo": "ganhar_dinheiro_com_seu_trabalho",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "auferir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "lucrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "win",
+                "sinonimo": "vencer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "atingir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "ganhar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "adquirir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "earn",
+                "sinonimo": "garner",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "acquire",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "win",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "earn",
+                "sinonimo": "earn",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "gain",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              }
+            ]
+          }
+        },
+        {
+          "id": 13,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Óscar",
+          "palavra_canonica": "Óscar",
+          "tags": [
+            "<brand>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 4,
+            "tag_inicial": "H:n",
+            "palavra_original": "cientista",
+            "palavra_canonica": "cientista",
+            "tags": [
+              "<Hprof>",
+              "M/F",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "scientist",
+                  "sinonimo": "Cientista",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "scientist",
+                  "sinonimo": "cientistas",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "boffin",
+                  "sinonimo": "cientista",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "scientist",
+                  "sinonimo": "scientist",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "boffin",
+                  "sinonimo": "boffin",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 9,
+            "tag_inicial": "H:n",
+            "palavra_original": "computação",
+            "palavra_canonica": "computação",
+            "tags": [
+              "<act>",
+              "<domain>",
+              "F",
+              "S"
+            ],
+            "nivel": 4,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "*oscar_knefler_rice",
+              "givenname",
+              "*oscar"
+            ],
+            [
+              "*oscar_knefler_rice",
+              "wikipageusestemplate",
+              "*cientista"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "oscar",
+              "cientista"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "cientista": {
+                  "keyword": {
+                    "termo": "cientista",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cientista",
+                  "score": 2.0
+                },
+                "oscar": {
+                  "keyword": {
+                    "termo": "oscar",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "oscar",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "oscar": "-235",
+              "cientista": "-16945"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*oscar_knefler_rice",
+              "givenname",
+              "*oscar"
+            ],
+            [
+              "*oscar_knefler_rice",
+              "wikipageusestemplate",
+              "*cientista"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "oscar",
+              "cientista"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "cientista": {
+                  "keyword": {
+                    "termo": "cientista",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cientista",
+                  "score": 2.0
+                },
+                "oscar": {
+                  "keyword": {
+                    "termo": "oscar",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "oscar",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "oscar": "-235",
+              "cientista": "-16945"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*oscar_knefler_rice",
+              "wikipageusestemplate",
+              "*cientista"
+            ],
+            [
+              "*oscar_knefler_rice",
+              "givenname",
+              "*oscar"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "cientista",
+              "oscar"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "cientista": {
+                  "keyword": {
+                    "termo": "cientista",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cientista",
+                  "score": 2.0
+                },
+                "oscar": {
+                  "keyword": {
+                    "termo": "oscar",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "oscar",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*oscar_sala",
+              "wikipageusestemplate",
+              "*cientista"
+            ]
+          ],
+          "score": 12.578512,
+          "detail": {
+            "keywords": [
+              "cientista",
+              "oscar"
+            ],
+            "score_detail": {
+              "m1": 10.911845,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "cientista": {
+                  "keyword": {
+                    "termo": "cientista",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cientista",
+                  "score": 2.0
+                },
+                "oscar": {
+                  "keyword": {
+                    "termo": "oscar",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "oscar_sala",
+                  "score": 8.911845
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*oscar_sala",
+              "wikipageusestemplate",
+              "*cientista"
+            ],
+            [
+              "*oscar_moreno",
+              "wikipageusestemplate",
+              "*cientista"
+            ]
+          ],
+          "score": 12.245178,
+          "detail": {
+            "keywords": [
+              "cientista",
+              "oscar"
+            ],
+            "score_detail": {
+              "m1": 10.911845,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "cientista": {
+                  "keyword": {
+                    "termo": "cientista",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cientista",
+                  "score": 2.0
+                },
+                "oscar": {
+                  "keyword": {
+                    "termo": "oscar",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "oscar_sala",
+                  "score": 8.911845
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*oscar_sala",
+              "wikipageusestemplate",
+              "*cientista"
+            ],
+            [
+              "*oscar_zariski",
+              "wikipageusestemplate",
+              "*cientista"
+            ]
+          ],
+          "score": 12.245178,
+          "detail": {
+            "keywords": [
+              "cientista",
+              "oscar"
+            ],
+            "score_detail": {
+              "m1": 10.911845,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "cientista": {
+                  "keyword": {
+                    "termo": "cientista",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cientista",
+                  "score": 2.0
+                },
+                "oscar": {
+                  "keyword": {
+                    "termo": "oscar",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "oscar_sala",
+                  "score": 8.911845
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*oscar_sala",
+              "wikipageusestemplate",
+              "*cientista"
+            ],
+            [
+              "*flavio_moscardi",
+              "wikipageusestemplate",
+              "*cientista"
+            ]
+          ],
+          "score": 12.245178,
+          "detail": {
+            "keywords": [
+              "cientista",
+              "oscar"
+            ],
+            "score_detail": {
+              "m1": 10.911845,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "cientista": {
+                  "keyword": {
+                    "termo": "cientista",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cientista",
+                  "score": 2.0
+                },
+                "oscar": {
+                  "keyword": {
+                    "termo": "oscar",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "oscar_sala",
+                  "score": 8.911845
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*oscar_sala",
+              "wikipageusestemplate",
+              "*cientista"
+            ],
+            [
+              "*oscar_schlomilch",
+              "wikipageusestemplate",
+              "*cientista"
+            ]
+          ],
+          "score": 12.245178,
+          "detail": {
+            "keywords": [
+              "cientista",
+              "oscar"
+            ],
+            "score_detail": {
+              "m1": 10.911845,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "cientista": {
+                  "keyword": {
+                    "termo": "cientista",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cientista",
+                  "score": 2.0
+                },
+                "oscar": {
+                  "keyword": {
+                    "termo": "oscar",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "oscar_sala",
+                  "score": 8.911845
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*oscar_sala",
+              "wikipageusestemplate",
+              "*cientista"
+            ],
+            [
+              "*oscar_emil_meyer",
+              "wikipageusestemplate",
+              "*cientista"
+            ]
+          ],
+          "score": 12.245178,
+          "detail": {
+            "keywords": [
+              "cientista",
+              "oscar"
+            ],
+            "score_detail": {
+              "m1": 10.911845,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "cientista": {
+                  "keyword": {
+                    "termo": "cientista",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cientista",
+                  "score": 2.0
+                },
+                "oscar": {
+                  "keyword": {
+                    "termo": "oscar",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "oscar_sala",
+                  "score": 8.911845
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*oscar_sala",
+              "wikipageusestemplate",
+              "*cientista"
+            ],
+            [
+              "*oscar_knefler_rice",
+              "wikipageusestemplate",
+              "*cientista"
+            ]
+          ],
+          "score": 12.245178,
+          "detail": {
+            "keywords": [
+              "cientista",
+              "oscar"
+            ],
+            "score_detail": {
+              "m1": 10.911845,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "cientista": {
+                  "keyword": {
+                    "termo": "cientista",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cientista",
+                  "score": 2.0
+                },
+                "oscar": {
+                  "keyword": {
+                    "termo": "oscar",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "oscar_sala",
+                  "score": 8.911845
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*oscar_sala",
+              "wikipageusestemplate",
+              "*cientista"
+            ],
+            [
+              "*oscar_sala",
+              "name",
+              "*oscar sala"
+            ]
+          ],
+          "score": 12.245178,
+          "detail": {
+            "keywords": [
+              "cientista",
+              "oscar"
+            ],
+            "score_detail": {
+              "m1": 10.911845,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "cientista": {
+                  "keyword": {
+                    "termo": "cientista",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cientista",
+                  "score": 2.0
+                },
+                "oscar": {
+                  "keyword": {
+                    "termo": "oscar",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "oscar sala",
+                  "score": 8.911845
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*oscar_moreno",
+              "wikipageusestemplate",
+              "*cientista"
+            ],
+            [
+              "*oscar_sala",
+              "wikipageusestemplate",
+              "*cientista"
+            ]
+          ],
+          "score": 12.245178,
+          "detail": {
+            "keywords": [
+              "cientista",
+              "oscar"
+            ],
+            "score_detail": {
+              "m1": 10.911845,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "cientista": {
+                  "keyword": {
+                    "termo": "cientista",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cientista",
+                  "score": 2.0
+                },
+                "oscar": {
+                  "keyword": {
+                    "termo": "oscar",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "oscar_sala",
+                  "score": 8.911845
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*oscar_zariski",
+              "wikipageusestemplate",
+              "*cientista"
+            ],
+            [
+              "*oscar_sala",
+              "wikipageusestemplate",
+              "*cientista"
+            ]
+          ],
+          "score": 12.245178,
+          "detail": {
+            "keywords": [
+              "cientista",
+              "oscar"
+            ],
+            "score_detail": {
+              "m1": 10.911845,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "cientista": {
+                  "keyword": {
+                    "termo": "cientista",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cientista",
+                  "score": 2.0
+                },
+                "oscar": {
+                  "keyword": {
+                    "termo": "oscar",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "oscar_sala",
+                  "score": 8.911845
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*flavio_moscardi",
+              "wikipageusestemplate",
+              "*cientista"
+            ],
+            [
+              "*oscar_sala",
+              "wikipageusestemplate",
+              "*cientista"
+            ]
+          ],
+          "score": 12.245178,
+          "detail": {
+            "keywords": [
+              "cientista",
+              "oscar"
+            ],
+            "score_detail": {
+              "m1": 10.911845,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "cientista": {
+                  "keyword": {
+                    "termo": "cientista",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cientista",
+                  "score": 2.0
+                },
+                "oscar": {
+                  "keyword": {
+                    "termo": "oscar",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "oscar_sala",
+                  "score": 8.911845
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*oscar_schlomilch",
+              "wikipageusestemplate",
+              "*cientista"
+            ],
+            [
+              "*oscar_sala",
+              "wikipageusestemplate",
+              "*cientista"
+            ]
+          ],
+          "score": 12.245178,
+          "detail": {
+            "keywords": [
+              "cientista",
+              "oscar"
+            ],
+            "score_detail": {
+              "m1": 10.911845,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "cientista": {
+                  "keyword": {
+                    "termo": "cientista",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cientista",
+                  "score": 2.0
+                },
+                "oscar": {
+                  "keyword": {
+                    "termo": "oscar",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "oscar_sala",
+                  "score": 8.911845
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*oscar_emil_meyer",
+              "wikipageusestemplate",
+              "*cientista"
+            ],
+            [
+              "*oscar_sala",
+              "wikipageusestemplate",
+              "*cientista"
+            ]
+          ],
+          "score": 12.245178,
+          "detail": {
+            "keywords": [
+              "cientista",
+              "oscar"
+            ],
+            "score_detail": {
+              "m1": 10.911845,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "cientista": {
+                  "keyword": {
+                    "termo": "cientista",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cientista",
+                  "score": 2.0
+                },
+                "oscar": {
+                  "keyword": {
+                    "termo": "oscar",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "oscar_sala",
+                  "score": 8.911845
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*oscar_knefler_rice",
+              "wikipageusestemplate",
+              "*cientista"
+            ],
+            [
+              "*oscar_sala",
+              "wikipageusestemplate",
+              "*cientista"
+            ]
+          ],
+          "score": 12.245178,
+          "detail": {
+            "keywords": [
+              "cientista",
+              "oscar"
+            ],
+            "score_detail": {
+              "m1": 10.911845,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "cientista": {
+                  "keyword": {
+                    "termo": "cientista",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cientista",
+                  "score": 2.0
+                },
+                "oscar": {
+                  "keyword": {
+                    "termo": "oscar",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "oscar_sala",
+                  "score": 8.911845
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*oscar_sala",
+              "name",
+              "*oscar sala"
+            ],
+            [
+              "*oscar_sala",
+              "wikipageusestemplate",
+              "*cientista"
+            ]
+          ],
+          "score": 12.245178,
+          "detail": {
+            "keywords": [
+              "oscar",
+              "cientista"
+            ],
+            "score_detail": {
+              "m1": 10.911845,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "cientista": {
+                  "keyword": {
+                    "termo": "cientista",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cientista",
+                  "score": 2.0
+                },
+                "oscar": {
+                  "keyword": {
+                    "termo": "oscar",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "oscar_sala",
+                  "score": 8.911845
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*oscar_moreno",
+              "wikipageusestemplate",
+              "*cientista"
+            ]
+          ],
+          "score": 12.07184,
+          "detail": {
+            "keywords": [
+              "cientista",
+              "oscar"
+            ],
+            "score_detail": {
+              "m1": 10.405173,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "cientista": {
+                  "keyword": {
+                    "termo": "cientista",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cientista",
+                  "score": 2.0
+                },
+                "oscar": {
+                  "keyword": {
+                    "termo": "oscar",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "oscar_moreno",
+                  "score": 8.405173
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*oscar_zariski",
+              "wikipageusestemplate",
+              "*cientista"
+            ]
+          ],
+          "score": 11.805232,
+          "detail": {
+            "keywords": [
+              "cientista",
+              "oscar"
+            ],
+            "score_detail": {
+              "m1": 10.138565,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "cientista": {
+                  "keyword": {
+                    "termo": "cientista",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cientista",
+                  "score": 2.0
+                },
+                "oscar": {
+                  "keyword": {
+                    "termo": "oscar",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "oscar_zariski",
+                  "score": 8.138565
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*oscar_moreno",
+              "wikipageusestemplate",
+              "*cientista"
+            ],
+            [
+              "*oscar_zariski",
+              "wikipageusestemplate",
+              "*cientista"
+            ]
+          ],
+          "score": 11.738506,
+          "detail": {
+            "keywords": [
+              "cientista",
+              "oscar"
+            ],
+            "score_detail": {
+              "m1": 10.405173,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "cientista": {
+                  "keyword": {
+                    "termo": "cientista",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cientista",
+                  "score": 2.0
+                },
+                "oscar": {
+                  "keyword": {
+                    "termo": "oscar",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "oscar_moreno",
+                  "score": 8.405173
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*oscar_moreno",
+              "wikipageusestemplate",
+              "*cientista"
+            ],
+            [
+              "*flavio_moscardi",
+              "wikipageusestemplate",
+              "*cientista"
+            ]
+          ],
+          "score": 11.738506,
+          "detail": {
+            "keywords": [
+              "cientista",
+              "oscar"
+            ],
+            "score_detail": {
+              "m1": 10.405173,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "cientista": {
+                  "keyword": {
+                    "termo": "cientista",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cientista",
+                  "score": 2.0
+                },
+                "oscar": {
+                  "keyword": {
+                    "termo": "oscar",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "oscar_moreno",
+                  "score": 8.405173
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*oscar_moreno",
+              "wikipageusestemplate",
+              "*cientista"
+            ],
+            [
+              "*oscar_schlomilch",
+              "wikipageusestemplate",
+              "*cientista"
+            ]
+          ],
+          "score": 11.738506,
+          "detail": {
+            "keywords": [
+              "cientista",
+              "oscar"
+            ],
+            "score_detail": {
+              "m1": 10.405173,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "cientista": {
+                  "keyword": {
+                    "termo": "cientista",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cientista",
+                  "score": 2.0
+                },
+                "oscar": {
+                  "keyword": {
+                    "termo": "oscar",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "oscar_moreno",
+                  "score": 8.405173
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*oscar_moreno",
+              "wikipageusestemplate",
+              "*cientista"
+            ],
+            [
+              "*oscar_emil_meyer",
+              "wikipageusestemplate",
+              "*cientista"
+            ]
+          ],
+          "score": 11.738506,
+          "detail": {
+            "keywords": [
+              "cientista",
+              "oscar"
+            ],
+            "score_detail": {
+              "m1": 10.405173,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "cientista": {
+                  "keyword": {
+                    "termo": "cientista",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cientista",
+                  "score": 2.0
+                },
+                "oscar": {
+                  "keyword": {
+                    "termo": "oscar",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "oscar_moreno",
+                  "score": 8.405173
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*oscar_moreno",
+              "wikipageusestemplate",
+              "*cientista"
+            ],
+            [
+              "*oscar_knefler_rice",
+              "wikipageusestemplate",
+              "*cientista"
+            ]
+          ],
+          "score": 11.738506,
+          "detail": {
+            "keywords": [
+              "cientista",
+              "oscar"
+            ],
+            "score_detail": {
+              "m1": 10.405173,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "cientista": {
+                  "keyword": {
+                    "termo": "cientista",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cientista",
+                  "score": 2.0
+                },
+                "oscar": {
+                  "keyword": {
+                    "termo": "oscar",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "oscar_moreno",
+                  "score": 8.405173
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*oscar_zariski",
+              "wikipageusestemplate",
+              "*cientista"
+            ],
+            [
+              "*oscar_moreno",
+              "wikipageusestemplate",
+              "*cientista"
+            ]
+          ],
+          "score": 11.738506,
+          "detail": {
+            "keywords": [
+              "cientista",
+              "oscar"
+            ],
+            "score_detail": {
+              "m1": 10.405173,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "cientista": {
+                  "keyword": {
+                    "termo": "cientista",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cientista",
+                  "score": 2.0
+                },
+                "oscar": {
+                  "keyword": {
+                    "termo": "oscar",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "oscar_moreno",
+                  "score": 8.405173
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*flavio_moscardi",
+              "wikipageusestemplate",
+              "*cientista"
+            ],
+            [
+              "*oscar_moreno",
+              "wikipageusestemplate",
+              "*cientista"
+            ]
+          ],
+          "score": 11.738506,
+          "detail": {
+            "keywords": [
+              "cientista",
+              "oscar"
+            ],
+            "score_detail": {
+              "m1": 10.405173,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "cientista": {
+                  "keyword": {
+                    "termo": "cientista",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cientista",
+                  "score": 2.0
+                },
+                "oscar": {
+                  "keyword": {
+                    "termo": "oscar",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "oscar_moreno",
+                  "score": 8.405173
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*oscar_schlomilch",
+              "wikipageusestemplate",
+              "*cientista"
+            ],
+            [
+              "*oscar_moreno",
+              "wikipageusestemplate",
+              "*cientista"
+            ]
+          ],
+          "score": 11.738506,
+          "detail": {
+            "keywords": [
+              "cientista",
+              "oscar"
+            ],
+            "score_detail": {
+              "m1": 10.405173,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "cientista": {
+                  "keyword": {
+                    "termo": "cientista",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cientista",
+                  "score": 2.0
+                },
+                "oscar": {
+                  "keyword": {
+                    "termo": "oscar",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "oscar_moreno",
+                  "score": 8.405173
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*oscar_emil_meyer",
+              "wikipageusestemplate",
+              "*cientista"
+            ],
+            [
+              "*oscar_moreno",
+              "wikipageusestemplate",
+              "*cientista"
+            ]
+          ],
+          "score": 11.738506,
+          "detail": {
+            "keywords": [
+              "cientista",
+              "oscar"
+            ],
+            "score_detail": {
+              "m1": 10.405173,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "cientista": {
+                  "keyword": {
+                    "termo": "cientista",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cientista",
+                  "score": 2.0
+                },
+                "oscar": {
+                  "keyword": {
+                    "termo": "oscar",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "oscar_moreno",
+                  "score": 8.405173
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*oscar_knefler_rice",
+              "wikipageusestemplate",
+              "*cientista"
+            ],
+            [
+              "*oscar_moreno",
+              "wikipageusestemplate",
+              "*cientista"
+            ]
+          ],
+          "score": 11.738506,
+          "detail": {
+            "keywords": [
+              "cientista",
+              "oscar"
+            ],
+            "score_detail": {
+              "m1": 10.405173,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "cientista": {
+                  "keyword": {
+                    "termo": "cientista",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cientista",
+                  "score": 2.0
+                },
+                "oscar": {
+                  "keyword": {
+                    "termo": "oscar",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "oscar_moreno",
+                  "score": 8.405173
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*oscar_zariski",
+              "wikipageusestemplate",
+              "*cientista"
+            ],
+            [
+              "*flavio_moscardi",
+              "wikipageusestemplate",
+              "*cientista"
+            ]
+          ],
+          "score": 11.471898,
+          "detail": {
+            "keywords": [
+              "cientista",
+              "oscar"
+            ],
+            "score_detail": {
+              "m1": 10.138565,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "cientista": {
+                  "keyword": {
+                    "termo": "cientista",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cientista",
+                  "score": 2.0
+                },
+                "oscar": {
+                  "keyword": {
+                    "termo": "oscar",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "oscar_zariski",
+                  "score": 8.138565
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 20984272400,
+      "total_time": 36459401000
+    }
+  }
+]

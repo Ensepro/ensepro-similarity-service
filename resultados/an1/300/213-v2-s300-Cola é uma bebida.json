@@ -1,0 +1,967 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:n",
+          "palavra_original": "Cola",
+          "palavra_canonica": "cola",
+          "tags": [
+            "<*>",
+            "<cm>",
+            "<fruit>",
+            "F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "glue",
+                "sinonimo": "cola",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "glue",
+                "sinonimo": "materiais_aderentes",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "glue",
+                "sinonimo": "colas",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "glue",
+                "sinonimo": "mucilage",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "glue",
+                "sinonimo": "glue",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "glue",
+                "sinonimo": "gum",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "é",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<vK>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Cs:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "uma",
+          "palavra_canonica": "um",
+          "tags": [
+            "<arti>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "bebida",
+          "palavra_canonica": "bebida",
+          "tags": [
+            "<drink>",
+            "<ac-cat>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "beverage",
+                "sinonimo": "bebidas",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "drink",
+                "sinonimo": "Bebida",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "drink",
+                "sinonimo": "bebida",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "drink",
+                "sinonimo": "Bebidas",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "drink",
+                "sinonimo": "crapulence",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "draft",
+                "sinonimo": "tipple",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "drink",
+                "sinonimo": "drunkenness",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "beverage",
+                "sinonimo": "potable",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "drink",
+                "sinonimo": "drink",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "drink",
+                "sinonimo": "boozing",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "drinking",
+                "sinonimo": "imbibing",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "beverage",
+                "sinonimo": "drinkable",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "drinking",
+                "sinonimo": "imbibition",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "draft",
+                "sinonimo": "draught",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "beverage",
+                "sinonimo": "beverage",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "gulping",
+                "sinonimo": "guzzling",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "gulping",
+                "sinonimo": "gulping",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "gulping",
+                "sinonimo": "swilling",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "draft",
+                "sinonimo": "draft",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "drink",
+                "sinonimo": "drinking",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "draft",
+                "sinonimo": "potation",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "eh_um",
+        "confianca": 0.91,
+        "ids": [
+          3,
+          5
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 2,
+          "tag_inicial": "S:n",
+          "palavra_original": "Cola",
+          "palavra_canonica": "cola",
+          "tags": [
+            "<*>",
+            "<cm>",
+            "<fruit>",
+            "F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "glue",
+                "sinonimo": "cola",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "glue",
+                "sinonimo": "materiais_aderentes",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "glue",
+                "sinonimo": "colas",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "glue",
+                "sinonimo": "mucilage",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "glue",
+                "sinonimo": "glue",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "glue",
+                "sinonimo": "gum",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "bebida",
+          "palavra_canonica": "bebida",
+          "tags": [
+            "<drink>",
+            "<ac-cat>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "beverage",
+                "sinonimo": "bebidas",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "drink",
+                "sinonimo": "Bebida",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "drink",
+                "sinonimo": "bebida",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "drink",
+                "sinonimo": "Bebidas",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "drink",
+                "sinonimo": "crapulence",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "draft",
+                "sinonimo": "tipple",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "drink",
+                "sinonimo": "drunkenness",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "beverage",
+                "sinonimo": "potable",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "drink",
+                "sinonimo": "drink",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "drink",
+                "sinonimo": "boozing",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "drinking",
+                "sinonimo": "imbibing",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "beverage",
+                "sinonimo": "drinkable",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "drinking",
+                "sinonimo": "imbibition",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "draft",
+                "sinonimo": "draught",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "beverage",
+                "sinonimo": "beverage",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "gulping",
+                "sinonimo": "guzzling",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "gulping",
+                "sinonimo": "gulping",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "gulping",
+                "sinonimo": "swilling",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "draft",
+                "sinonimo": "draft",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "drink",
+                "sinonimo": "drinking",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "draft",
+                "sinonimo": "potation",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:n",
+          "palavra_original": "Cola",
+          "palavra_canonica": "cola",
+          "tags": [
+            "<*>",
+            "<cm>",
+            "<fruit>",
+            "F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "glue",
+                "sinonimo": "cola",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "glue",
+                "sinonimo": "materiais_aderentes",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "glue",
+                "sinonimo": "colas",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "glue",
+                "sinonimo": "mucilage",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "glue",
+                "sinonimo": "glue",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "glue",
+                "sinonimo": "gum",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "é",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<vK>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Cs:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "uma",
+          "palavra_canonica": "um",
+          "tags": [
+            "<arti>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "bebida",
+          "palavra_canonica": "bebida",
+          "tags": [
+            "<drink>",
+            "<ac-cat>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "beverage",
+                "sinonimo": "bebidas",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "drink",
+                "sinonimo": "Bebida",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "drink",
+                "sinonimo": "bebida",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "drink",
+                "sinonimo": "Bebidas",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "drink",
+                "sinonimo": "crapulence",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "draft",
+                "sinonimo": "tipple",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "drink",
+                "sinonimo": "drunkenness",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "beverage",
+                "sinonimo": "potable",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "drink",
+                "sinonimo": "drink",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "drink",
+                "sinonimo": "boozing",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "drinking",
+                "sinonimo": "imbibing",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "beverage",
+                "sinonimo": "drinkable",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "drinking",
+                "sinonimo": "imbibition",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "draft",
+                "sinonimo": "draught",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "beverage",
+                "sinonimo": "beverage",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "gulping",
+                "sinonimo": "guzzling",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "gulping",
+                "sinonimo": "gulping",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "gulping",
+                "sinonimo": "swilling",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "draft",
+                "sinonimo": "draft",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "drink",
+                "sinonimo": "drinking",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "draft",
+                "sinonimo": "potation",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "eh_um",
+        "confianca": 0.91,
+        "ids": [
+          3,
+          5
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 2,
+          "tag_inicial": "S:n",
+          "palavra_original": "Cola",
+          "palavra_canonica": "cola",
+          "tags": [
+            "<*>",
+            "<cm>",
+            "<fruit>",
+            "F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "glue",
+                "sinonimo": "cola",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "glue",
+                "sinonimo": "materiais_aderentes",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "glue",
+                "sinonimo": "colas",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "glue",
+                "sinonimo": "mucilage",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "glue",
+                "sinonimo": "glue",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "glue",
+                "sinonimo": "gum",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "bebida",
+          "palavra_canonica": "bebida",
+          "tags": [
+            "<drink>",
+            "<ac-cat>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "beverage",
+                "sinonimo": "bebidas",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "drink",
+                "sinonimo": "Bebida",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "drink",
+                "sinonimo": "bebida",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "drink",
+                "sinonimo": "Bebidas",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "drink",
+                "sinonimo": "crapulence",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "draft",
+                "sinonimo": "tipple",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "drink",
+                "sinonimo": "drunkenness",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "beverage",
+                "sinonimo": "potable",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "drink",
+                "sinonimo": "drink",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "drink",
+                "sinonimo": "boozing",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "drinking",
+                "sinonimo": "imbibing",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "beverage",
+                "sinonimo": "drinkable",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "drinking",
+                "sinonimo": "imbibition",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "draft",
+                "sinonimo": "draught",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "beverage",
+                "sinonimo": "beverage",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "gulping",
+                "sinonimo": "guzzling",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "gulping",
+                "sinonimo": "gulping",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "gulping",
+                "sinonimo": "swilling",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "draft",
+                "sinonimo": "draft",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "drink",
+                "sinonimo": "drinking",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "draft",
+                "sinonimo": "potation",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [],
+      "total_time": 13502272200
+    }
+  }
+]

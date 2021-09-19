@@ -1,0 +1,2193 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "Liste",
+          "palavra_canonica": "listar",
+          "tags": [
+            "<fmc>",
+            "<*>",
+            "<vH>",
+            "<mv>",
+            "PR",
+            "1/3S",
+            "SUBJ",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:pron-indef",
+          "palavra_original": "todos_os",
+          "palavra_canonica": "todo_o",
+          "tags": [
+            "<quant>",
+            "DET",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "atores",
+          "palavra_canonica": "ator",
+          "tags": [
+            "<Hprof>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "S:spec",
+          "palavra_original": "que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<clb>",
+            "<clb-fs>",
+            "<rel>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "atuaram",
+          "palavra_canonica": "atuar",
+          "tags": [
+            "<mv>",
+            "<np-close>",
+            "PS/MQP",
+            "3P",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "Op:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "H:prp",
+          "palavra_original": "em",
+          "palavra_canonica": "em",
+          "tags": [],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Last_Action_Hero",
+          "palavra_canonica": "Last_Action_Hero",
+          "tags": [
+            "<top>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": ".",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "Liste",
+          "palavra_canonica": "listar",
+          "tags": [
+            "<fmc>",
+            "<*>",
+            "<vH>",
+            "<mv>",
+            "PR",
+            "1/3S",
+            "SUBJ",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:pron-indef",
+          "palavra_original": "todos_os",
+          "palavra_canonica": "todo_o",
+          "tags": [
+            "<quant>",
+            "DET",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "atores",
+          "palavra_canonica": "ator",
+          "tags": [
+            "<Hprof>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "actor",
+                "sinonimo": "ator",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actor",
+                "sinonimo": "intérprete",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actress",
+                "sinonimo": "actriz",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actor",
+                "sinonimo": "artista",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actor",
+                "sinonimo": "actor",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actor",
+                "sinonimo": "comediante",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actor",
+                "sinonimo": "cômico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actor",
+                "sinonimo": "Atores_de_teatro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actor",
+                "sinonimo": "atriz",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "actor",
+                "sinonimo": "player",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actor",
+                "sinonimo": "role_player",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actress",
+                "sinonimo": "actress",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actor",
+                "sinonimo": "histrion",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actor",
+                "sinonimo": "actor",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actor",
+                "sinonimo": "thespian",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "S:spec",
+          "palavra_original": "que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<clb>",
+            "<clb-fs>",
+            "<rel>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "atuaram",
+          "palavra_canonica": "atuar",
+          "tags": [
+            "<mv>",
+            "<np-close>",
+            "PS/MQP",
+            "3P",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "act",
+                "sinonimo": "representar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "fazer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "fazer_papel",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "atuar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "comportar-se",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "agir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "parecer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "act",
+                "sinonimo": "behave",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "do",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "act",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "roleplay",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "play",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "playact",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              }
+            ]
+          }
+        },
+        {
+          "id": 9,
+          "tag_inicial": "Op:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "H:prp",
+          "palavra_original": "em",
+          "palavra_canonica": "em",
+          "tags": [],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "O_último_grande_herói",
+          "palavra_canonica": "O_último_grande_herói",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "<heur>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "consulta",
+        "confianca": 0.68,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "atores",
+          "palavra_canonica": "ator",
+          "tags": [
+            "<Hprof>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "actor",
+                "sinonimo": "ator",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actor",
+                "sinonimo": "intérprete",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actress",
+                "sinonimo": "actriz",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actor",
+                "sinonimo": "artista",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actor",
+                "sinonimo": "actor",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actor",
+                "sinonimo": "comediante",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actor",
+                "sinonimo": "cômico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actor",
+                "sinonimo": "Atores_de_teatro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actor",
+                "sinonimo": "atriz",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "actor",
+                "sinonimo": "player",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actor",
+                "sinonimo": "role_player",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actress",
+                "sinonimo": "actress",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actor",
+                "sinonimo": "histrion",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actor",
+                "sinonimo": "actor",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "actor",
+                "sinonimo": "thespian",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 8,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "atuaram",
+          "palavra_canonica": "atuar",
+          "tags": [
+            "<mv>",
+            "<np-close>",
+            "PS/MQP",
+            "3P",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "act",
+                "sinonimo": "representar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "fazer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "fazer_papel",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "atuar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "comportar-se",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "agir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "parecer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "act",
+                "sinonimo": "behave",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "do",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "act",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "roleplay",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "play",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "playact",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              }
+            ]
+          }
+        },
+        {
+          "id": 11,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "O_último_grande_herói",
+          "palavra_canonica": "O_último_grande_herói",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "<heur>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*jan_(ator)",
+              "*abstract",
+              "*gustavo cardenas avila (celaya estado de guanajuato, 30 de abril de 1974) e um cantor e ator mexicano de telenovelas, profissionalmente todos o conhecem como jan. filho de gustavo avila e aurora cardenas, tem uma irma aurora."
+            ]
+          ],
+          "score": 3.1741743,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.5075076,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "jan_(ator)",
+                  "score": 1.6766001
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 0
+        },
+        {
+          "triples": [
+            [
+              "*jan_(ator)",
+              "*abstract",
+              "*gustavo cardenas avila (celaya estado de guanajuato, 30 de abril de 1974) e um cantor e ator mexicano de telenovelas, profissionalmente todos o conhecem como jan. filho de gustavo avila e aurora cardenas, tem uma irma aurora."
+            ],
+            [
+              "*jan_(ator)",
+              "ocupacao",
+              "*ator"
+            ]
+          ],
+          "score": 3.1642408,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.8309076,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "ator",
+                  "score": 2.0
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*jim_davis_(ator)",
+              "*abstract",
+              "*jim davis (edgerton, missouri, 26 de agosto de 1909  northridge, california, 26 de abril de 1981) foi um ator norte-americano que ficou famoso como o patriarca jock ewing na serie dallas."
+            ],
+            [
+              "*jim_davis_(ator)",
+              "ocupacao",
+              "*ator"
+            ]
+          ],
+          "score": 3.1642408,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.8309076,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "ator",
+                  "score": 2.0
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*jim_davis_(ator)",
+              "*abstract",
+              "*jim davis (edgerton, missouri, 26 de agosto de 1909  northridge, california, 26 de abril de 1981) foi um ator norte-americano que ficou famoso como o patriarca jock ewing na serie dallas."
+            ],
+            [
+              "*jim_davis_(ator)",
+              "wikipageusestemplate",
+              "*ator"
+            ]
+          ],
+          "score": 3.1642408,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.8309076,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "ator",
+                  "score": 2.0
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*sean_flynn_(ator)",
+              "*abstract",
+              "*sean flynn-amir (los angeles, 14 de julho de 1989), filho de rory flynn e gideon amir, e o neto de errol flynn, e um ator norte-americano mais conhecido por seu trabalho no seriado zoey 101 (como o personagem chase matthews)."
+            ],
+            [
+              "*sean_flynn_(ator)",
+              "wikipageusestemplate",
+              "*ator"
+            ]
+          ],
+          "score": 3.1642408,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.8309076,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "ator",
+                  "score": 2.0
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*sean_flynn_(ator)",
+              "*abstract",
+              "*sean flynn-amir (los angeles, 14 de julho de 1989), filho de rory flynn e gideon amir, e o neto de errol flynn, e um ator norte-americano mais conhecido por seu trabalho no seriado zoey 101 (como o personagem chase matthews)."
+            ],
+            [
+              "*sean_flynn_(ator)",
+              "occupation",
+              "*ator"
+            ]
+          ],
+          "score": 3.1642408,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.8309076,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "ator",
+                  "score": 2.0
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*ben_foster_(ator)",
+              "*abstract",
+              "*ben foster (boston, massachusetts, 29 de outubro de 1980) e um ator norte-americano. ele e mais conhecido por seus papeis nos filmes teen ruas de liberdade e volta por cima, bem como nos filmes de acao refem, x-men 3: o confronto final, alpha dog, os indomaveis, 30 dias de noite, e no filme de ficcao cientifica pandorum."
+            ],
+            [
+              "*ben_foster_(ator)",
+              "wikipageusestemplate",
+              "*ator"
+            ]
+          ],
+          "score": 3.1642408,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.8309076,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "ator",
+                  "score": 2.0
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*ben_foster_(ator)",
+              "*abstract",
+              "*ben foster (boston, massachusetts, 29 de outubro de 1980) e um ator norte-americano. ele e mais conhecido por seus papeis nos filmes teen ruas de liberdade e volta por cima, bem como nos filmes de acao refem, x-men 3: o confronto final, alpha dog, os indomaveis, 30 dias de noite, e no filme de ficcao cientifica pandorum."
+            ],
+            [
+              "*ben_foster_(ator)",
+              "occupation",
+              "*ator"
+            ]
+          ],
+          "score": 3.1642408,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.8309076,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "ator",
+                  "score": 2.0
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*vitor_hugo_(ator)",
+              "*abstract",
+              "*vitor hugo azevedo cardoso nascimento (rio de janeiro, 3 de marco de 1977) e um ator e diretor teatral brasileiro."
+            ],
+            [
+              "*vitor_hugo_(ator)",
+              "ocupacao",
+              "*ator"
+            ]
+          ],
+          "score": 3.1642408,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.8309076,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "ator",
+                  "score": 2.0
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*vitor_hugo_(ator)",
+              "*abstract",
+              "*vitor hugo azevedo cardoso nascimento (rio de janeiro, 3 de marco de 1977) e um ator e diretor teatral brasileiro."
+            ],
+            [
+              "*vitor_hugo_(ator)",
+              "wikipageusestemplate",
+              "*ator"
+            ]
+          ],
+          "score": 3.1642408,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.8309076,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "ator",
+                  "score": 2.0
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*don_taylor_(ator)",
+              "*abstract",
+              "*don taylor (13 de dezembro de 1920 - 29 de dezembro de 1998) foi um ator e diretor de cinema norte-americano mais conhecido por suas atuacoes em filmes classicos como stalag 17. sepultado no westwood village memorial park cemetery."
+            ],
+            [
+              "*don_taylor_(ator)",
+              "wikipageusestemplate",
+              "*ator"
+            ]
+          ],
+          "score": 3.1642408,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.8309076,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "ator",
+                  "score": 2.0
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*tom_parker_(ator)",
+              "*abstract",
+              "*thomas scott parker (walnut creek, california, 23 de julho de 1977) e um ator estadunidense, conhecido por suas participacoes em varias series de televisao."
+            ],
+            [
+              "*tom_parker_(ator)",
+              "wikipageusestemplate",
+              "*ator"
+            ]
+          ],
+          "score": 3.1642408,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.8309076,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "ator",
+                  "score": 2.0
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*ben_johnson_(ator)",
+              "*abstract",
+              "*ben \\\"son\\\" johnson jr. foi um ator cinematografico estadunidense, que atuou em inumeros westerns e filmes de acao. tambem trabalhou como peao em rodeios, vaqueiro, duble de cinema e rancheiro. nascido em foraker oklahoma, de familia com ascendencia irlandesa. o pai dele, ben johnson sr., era um rancheiro no condado de osage, (oklahoma), e tambem campeao de rodeios. quando jovem, ben johnson ajudava no rancho de seu pai e viajava com ele para os rodeios, ate que comecou a se interessar pelas producoes cinematograficas. ele ganhou um premio por equipe dos profissionais do rodeio em 1953. johnson se casou com carol elaine jones, filha do astro dos western buck jones em 1941. ficou casado com ela por 53 anos, ate que ela veio a falecer em 1994. nao tiveram filhos."
+            ],
+            [
+              "*ben_johnson_(ator)",
+              "wikipageusestemplate",
+              "*ator"
+            ]
+          ],
+          "score": 3.1642408,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.8309076,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "ator",
+                  "score": 2.0
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*jesse_james_(ator)",
+              "*abstract",
+              "*jesse james (palm springs, california, 14 de setembro de 1989), e um ator norte-americano."
+            ],
+            [
+              "*jesse_james_(ator)",
+              "ocupacao",
+              "*ator"
+            ]
+          ],
+          "score": 3.1642408,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.8309076,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "ator",
+                  "score": 2.0
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*jason_smith_(ator)",
+              "*abstract",
+              "*jason smith (sydney, 31 de maio de 1984) e um ator e cantor australiano. participou de home and away. mas so se tornou conhecido em 2008, quando interpretava casey rhodes, o ranger vermelho em power rangers: furia da selva. jason nasceu em sydney, new south wales e ele estudou no teatro juvenil na australia. depois que ele completou o ensino medio, smith decidiu seguir a carreira de ator. ele apareceu em all saints, ocean star e um telefilme americano chamado \\\"o misterio de natalie wood\\\". jason interpretou robbie hunter na serie australiana home and away entre 2003 e 2006, ele ganhou uma indicacao para o \\\"melhor novo talento popular masculino\\\" no logie awards de 2005 pelo seu papel de destaque na epoca. em 2009, ele estrelou como gryff na serie legend of the seeker. jason comandou a primeira temporada da serie infantil australiana chamada \\\"backyard science\\\" (ou \\\"quintal cientifico\\\"). ele tambem estrelou como um flautista num comercial do desodorante axe. apareceu num game show australiano chamado \\\"talkin' 'bout your generation\\\" (algo como \\\"falando sobre sua geracao\\\") e a versao australiana do game show pyramid. em 2008, smith lancou tres musicas: \\\"what planet\\\", \\\"celebrity\\\" e \\\"where\\\". havia tambem um possivel lancamento de um album pela gravadora columbia records para o primeiro semestre de 2010, mas que nao aconteceu. no mesmo ano, ele interpretou jake em amanhecer violento. em 2012, ele reprisou o papel de robbie numa participacao da serie home and away e reprisara o papel de casey rhodes na participacao em power rangers: megaforce que exibira em 2014."
+            ],
+            [
+              "*jason_smith_(ator)",
+              "ocupacao",
+              "*ator"
+            ]
+          ],
+          "score": 3.1642408,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.8309076,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "ator",
+                  "score": 2.0
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*tony_martin_(ator)",
+              "*abstract",
+              "*tony martin (sao francisco, 25 de dezembro de 1913 - west hollywood, 30 de julho de 2012) foi um actor e cantor estadunidense. filho de imigrantes judeus poloneses, foi tambem vocalista em programas de radio com george burns e gracie allen."
+            ],
+            [
+              "*tony_martin_(ator)",
+              "wikipageusestemplate",
+              "*ator"
+            ]
+          ],
+          "score": 3.1642408,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.8309076,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "ator",
+                  "score": 2.0
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*david_cross_(ator)",
+              "*abstract",
+              "*david cross (atlanta, 4 de abril de 1964) e um comediante, escritor e ator estadunidense. david interpretou a voz do personagem \\\"zero\\\" do jogo gta: san andreas."
+            ],
+            [
+              "*david_cross_(ator)",
+              "wikipageusestemplate",
+              "*ator"
+            ]
+          ],
+          "score": 3.1642408,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.8309076,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "ator",
+                  "score": 2.0
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*john_morris_(ator)",
+              "*abstract",
+              "*john charles morris (paris, texas, 2 de outubro de 1984) e um ator e dublador estadunidense. e conhecido por dublar o garoto andy davis nos filmes da serie toy story."
+            ],
+            [
+              "*john_morris_(ator)",
+              "ocupacao",
+              "*ator"
+            ]
+          ],
+          "score": 3.1642408,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.8309076,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "ator",
+                  "score": 2.0
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*john_morris_(ator)",
+              "*abstract",
+              "*john charles morris (paris, texas, 2 de outubro de 1984) e um ator e dublador estadunidense. e conhecido por dublar o garoto andy davis nos filmes da serie toy story."
+            ],
+            [
+              "*john_morris_(ator)",
+              "wikipageusestemplate",
+              "*ator"
+            ]
+          ],
+          "score": 3.1642408,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.8309076,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "ator",
+                  "score": 2.0
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*carlos_cunha_(ator)",
+              "*abstract",
+              "*jose carlos braga da cunha (lisboa, 27 de marco de 1954) e um actor portugues. estreou-se em 1973 no teatro variedades, de lisboa, parque mayer em o principe e a corista. foi casado com a atriz marina mota."
+            ],
+            [
+              "*carlos_cunha_(ator)",
+              "wikipageusestemplate",
+              "*ator"
+            ]
+          ],
+          "score": 3.1642408,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.8309076,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "ator",
+                  "score": 2.0
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*carlos_cunha_(ator)",
+              "*abstract",
+              "*jose carlos braga da cunha (lisboa, 27 de marco de 1954) e um actor portugues. estreou-se em 1973 no teatro variedades, de lisboa, parque mayer em o principe e a corista. foi casado com a atriz marina mota."
+            ],
+            [
+              "*carlos_cunha_(ator)",
+              "occupation",
+              "*ator"
+            ]
+          ],
+          "score": 3.1642408,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.8309076,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "ator",
+                  "score": 2.0
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*kevin_mchale_(ator)",
+              "*abstract",
+              "*kevin michael mchale (nascido em 14 de junho de 1988) e um ator e cantor r&b/pop. anteriormente, fez parte da boy band nlt, e mais conhecido por seu papel como artie abrams na serie de televisao glee."
+            ],
+            [
+              "*kevin_mchale_(ator)",
+              "wikipageusestemplate",
+              "*ator"
+            ]
+          ],
+          "score": 3.1642408,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.8309076,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "ator",
+                  "score": 2.0
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*kevin_mchale_(ator)",
+              "*abstract",
+              "*kevin michael mchale (nascido em 14 de junho de 1988) e um ator e cantor r&b/pop. anteriormente, fez parte da boy band nlt, e mais conhecido por seu papel como artie abrams na serie de televisao glee."
+            ],
+            [
+              "*kevin_mchale_(ator)",
+              "occupation",
+              "*ator"
+            ]
+          ],
+          "score": 3.1642408,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.8309076,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "ator",
+                  "score": 2.0
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*bill_elliott_(ator)",
+              "*abstract",
+              "*gordon a. nance, conhecido como bill elliott (pattonsburg - missouri, 16 de outubro de 1904 - 26 de novembro de 1965) foi um conhecido ator norte americano, cowboy dos filmes da columbia pictures e da republic pictures, esta especializada em western b."
+            ],
+            [
+              "*bill_elliott_(ator)",
+              "wikipageusestemplate",
+              "*ator"
+            ]
+          ],
+          "score": 3.1642408,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.8309076,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "ator",
+                  "score": 2.0
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*carlos_cesar_(ator)",
+              "*abstract",
+              "*carlos cesar (1943 - coimbra, 10 de janeiro de 2001) foi um actor e encenador portugues. foi um dos fundadores do teatro animacao de setubal (tas), grupo que atingiu algum prestigio e contribuiu para a descentralizacao do teatro portugues. fez televisao onde se destacou em vila faia, gente fina e outra coisa, desencontros, entre outros. tambem fez cinema, contando no seu curriculo titulos como o barao de altamira (1986), aqui d'el rei (1992) e afirma pereira (1996). no tas, onde exerceu as funcoes de director ate a sua morte, encenou e protagonizou pecas como arsenico e rendas velhas (1990), falar verdade a mentir (1999) e quem tem medo de virginia woolf? (2000). morreu no hospital da universidade de coimbra a 10 de janeiro de 2001, vitima de complicacoes cardiacas, depois de se ter sentido mal quando se deslocava de automovel para o porto."
+            ],
+            [
+              "*carlos_cesar_(ator)",
+              "wikipageusestemplate",
+              "*ator"
+            ]
+          ],
+          "score": 3.1642408,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.8309076,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "ator",
+                  "score": 2.0
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*james_gregory_(ator)",
+              "*abstract",
+              "*james gregory (nova york, 23 de dezembro de 1911  sedona, 16 de setembro de 2002) foi um ator norte-americano. participou de mais de 170 producoes, com destaque em the manchurian candidate."
+            ],
+            [
+              "*james_gregory_(ator)",
+              "wikipageusestemplate",
+              "*ator"
+            ]
+          ],
+          "score": 3.1642408,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.8309076,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "ator",
+                  "score": 2.0
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*james_gregory_(ator)",
+              "*abstract",
+              "*james gregory (nova york, 23 de dezembro de 1911  sedona, 16 de setembro de 2002) foi um ator norte-americano. participou de mais de 170 producoes, com destaque em the manchurian candidate."
+            ],
+            [
+              "*james_gregory_(ator)",
+              "occupation",
+              "*ator"
+            ]
+          ],
+          "score": 3.1642408,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.8309076,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "ator",
+                  "score": 2.0
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*miguel_borges_(ator)",
+              "*abstract",
+              "*miguel borges (7 de setembro de 1966) e um actor portugues. concluiu o curso de formacao de actores, na escola superior de teatro e cinema de lisboa. iniciou-se em teatro nos netos do metropolitano e nas marionetas de lisboa. posteriormente, trabalhou com o teatro da cornucopia (sob a direccao de miguel guilherme, stephan stroux e luis miguel cintra), no projecto olho (com joao garcia miguel), depois da uma  teatro?, sensurround (direccao de lucia sigalho) e artistas unidos (com jorge silva melo, joana barcia, americo silva, claudio da silva, joao fiadeiro e antonio simao). ja interpretou pecas de bertolt brecht, harold pinter, antonio onetti, samuel beckett, william shakespeare, jon fosse, jose maria vieira mendes ou miguel castro caldas. co-encenou cafe, a partir de spiro scimone, nos artistas unidos. no cinema trabalhou com os realizadores teresa villaverde nos filmes tres irmaos e agua e sal; edgar pera em manual de evasao  lx94, a konspiracao dos mil timpanos, a janela nao e a minha paisagem e a janela  maryalva mix, joao pinto, florence strauss, tiago guedes e frederico serra (o ralo, alta fidelidade e coisa ruim), manuel mozos, jose de sa caetano, leonel vieira e no fime de joao cesar monteiro vai e vem. e desde 2006 presenca frequente nas campanhas \\\"roucos\\\" da vodafone, fazendo uma dupla engracada com o actor luis gaspar."
+            ],
+            [
+              "*miguel_borges_(ator)",
+              "wikipageusestemplate",
+              "*ator"
+            ]
+          ],
+          "score": 3.1642408,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.8309076,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "ator",
+                  "score": 2.0
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*miguel_borges_(ator)",
+              "*abstract",
+              "*miguel borges (7 de setembro de 1966) e um actor portugues. concluiu o curso de formacao de actores, na escola superior de teatro e cinema de lisboa. iniciou-se em teatro nos netos do metropolitano e nas marionetas de lisboa. posteriormente, trabalhou com o teatro da cornucopia (sob a direccao de miguel guilherme, stephan stroux e luis miguel cintra), no projecto olho (com joao garcia miguel), depois da uma  teatro?, sensurround (direccao de lucia sigalho) e artistas unidos (com jorge silva melo, joana barcia, americo silva, claudio da silva, joao fiadeiro e antonio simao). ja interpretou pecas de bertolt brecht, harold pinter, antonio onetti, samuel beckett, william shakespeare, jon fosse, jose maria vieira mendes ou miguel castro caldas. co-encenou cafe, a partir de spiro scimone, nos artistas unidos. no cinema trabalhou com os realizadores teresa villaverde nos filmes tres irmaos e agua e sal; edgar pera em manual de evasao  lx94, a konspiracao dos mil timpanos, a janela nao e a minha paisagem e a janela  maryalva mix, joao pinto, florence strauss, tiago guedes e frederico serra (o ralo, alta fidelidade e coisa ruim), manuel mozos, jose de sa caetano, leonel vieira e no fime de joao cesar monteiro vai e vem. e desde 2006 presenca frequente nas campanhas \\\"roucos\\\" da vodafone, fazendo uma dupla engracada com o actor luis gaspar."
+            ],
+            [
+              "*miguel_borges_(ator)",
+              "occupation",
+              "*ator"
+            ]
+          ],
+          "score": 3.1642408,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.8309076,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "ator",
+                  "score": 2.0
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*thomas_dekker_(ator)",
+              "*abstract",
+              "*thomas alexander dekker (las vegas, 28 de dezembro de 1987) e um ator, dublador e musico norte-americano. ele e mais conhecido por atuar em terminator: the sarah connor chronicles como john connor, heroes como zach e the secret circle como adam conant."
+            ],
+            [
+              "*thomas_dekker_(ator)",
+              "wikipageusestemplate",
+              "*ator"
+            ]
+          ],
+          "score": 3.1642408,
+          "detail": {
+            "keywords": [
+              "ator",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 2.8309076,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "ator": {
+                  "keyword": {
+                    "termo": "ator",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "ator",
+                  "score": 2.0
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 1265347800,
+      "total_time": 10685903400
+    }
+  }
+]

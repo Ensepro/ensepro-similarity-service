@@ -1,0 +1,1828 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:adv",
+          "palavra_original": "Quando",
+          "palavra_canonica": "quando",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "princesa",
+          "palavra_canonica": "príncipe",
+          "tags": [
+            "<Htit>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "Diana",
+          "palavra_canonica": "Diana",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<np-close>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "morreu",
+          "palavra_canonica": "morrer",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 3,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:adv",
+          "palavra_original": "Quando",
+          "palavra_canonica": "quando",
+          "tags": [
+            "<clb>",
+            "<clb-fs>",
+            "<*>",
+            "<rel>",
+            "<ks>"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Diana_prince",
+          "palavra_canonica": "Diana_prince",
+          "tags": [
+            "<org>",
+            "<*>",
+            "<heur>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "morreu",
+          "palavra_canonica": "morrer",
+          "tags": [
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "die",
+                "sinonimo": "falecer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "morrer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "succumb",
+                "sinonimo": "bater_a_bota",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "bater_as_botas",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "comer_capim_pela_raiz",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "succumb",
+                "sinonimo": "sucumbir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "die",
+                "sinonimo": "pass",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "pass_away",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "decease",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "croak",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "snuff_it",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "cash_in_one's_chips",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "buy_the_farm",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "pop_off",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "exit",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "conk",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "perish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "kick_the_bucket",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "give-up_the_ghost",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "succumb",
+                "sinonimo": "succumb",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "succumb",
+                "sinonimo": "yield",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "go",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "drop_dead",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "choke",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "die",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "expire",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "quanto",
+        "confianca": 0.55,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 5,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Diana_prince",
+          "palavra_canonica": "Diana_prince",
+          "tags": [
+            "<org>",
+            "<*>",
+            "<heur>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "morreu",
+          "palavra_canonica": "morrer",
+          "tags": [
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "die",
+                "sinonimo": "falecer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "morrer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "succumb",
+                "sinonimo": "bater_a_bota",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "bater_as_botas",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "comer_capim_pela_raiz",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "succumb",
+                "sinonimo": "sucumbir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "die",
+                "sinonimo": "pass",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "pass_away",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "decease",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "croak",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "snuff_it",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "cash_in_one's_chips",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "buy_the_farm",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "pop_off",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "exit",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "conk",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "perish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "kick_the_bucket",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "give-up_the_ghost",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "succumb",
+                "sinonimo": "succumb",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "succumb",
+                "sinonimo": "yield",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "go",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "drop_dead",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "choke",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "die",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "expire",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "owl#sameas",
+              "q5271277"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "diana_prince"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "owl#sameas",
+              "*diana_prince"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "diana_prince"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "nomepersonagem",
+              "diana prince"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "diana_prince"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "publicacao",
+              "dc_comics"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "diana_prince"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "primeiraaparicao",
+              "era de ouro\\nsensation comics #1"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "diana_prince"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "primeiraaparicao",
+              "era moderna :\\nwonder woman  #1"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "diana_prince"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "criador",
+              "charles moulton"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "diana_prince"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "criador",
+              "harry g. peter"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "diana_prince"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "nomereal",
+              "princesa diana"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "diana_prince"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "nomecompleto",
+              "princesa diana da ilha paraiso"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "diana_prince"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "especie",
+              "humana"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "diana_prince"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "terranatal",
+              "ilha paraiso"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "diana_prince"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "codenomes",
+              "princesa diana"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "diana_prince"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "codenomes",
+              "diana white"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "diana_prince"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "codenomes",
+              "mulher_maravilha"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "diana_prince"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "super_heroi"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "diana_prince"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "wikipageusestemplate",
+              "predefinicao:esboco_dc_comics"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "diana_prince"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "subject",
+              "categoria:identidades_secretas"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "diana_prince"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "subject",
+              "categoria:personagens_com_supervelocidade"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "diana_prince"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "subject",
+              "categoria:personagens_com_superforca"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "diana_prince"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "subject",
+              "categoria:artistas_marciais_da_dc_comics"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "diana_prince"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "subject",
+              "categoria:herois_da_dc_comics"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "diana_prince"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "subject",
+              "categoria:mulher_maravilha"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "diana_prince"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "owl#sameas",
+              "m.0sc7q"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "diana_prince"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "owl#sameas",
+              "m.0sc7q"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "diana_prince"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "rdf_schema#label",
+              "diana prince"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "diana_prince"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "rdf_schema#label",
+              "diana prince"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "diana_prince"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "abstract",
+              "diana prince e personagem ficticia conhecida como a identidade secreta da original mulher-maravilha, ambos os nomes sao o alter ego da princesa diana da ilha paraiso. ela e uma super-heroina da editora dc comics, originalmente, a tenente diana prince era a enfermeira militar que concordou em ceder sua identidade civil a mulher-maravilha. criado por william moulton marston e hg peter estreou no sensation comics # 1 (janeiro de 1942)"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "diana_prince"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "name",
+              "diana prince"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "diana_prince"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*diana_prince",
+              "gender",
+              "feminino"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "diana_prince"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "diana_prince": {
+                  "keyword": {
+                    "termo": "diana_prince",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "diana_prince",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29,
+          "bind_control": {
+            "binds": {
+              "diana_prince": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "ranking_time": 670.4554557800293,
+      "l_sizes": [
+        405
+      ],
+      "total_time": 6934.704542160034
+    }
+  }
+]

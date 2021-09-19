@@ -1,0 +1,1490 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:spec",
+          "palavra_original": "Quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "desenvolveu",
+          "palavra_canonica": "desenvolver",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "jogo",
+          "palavra_canonica": "jogo",
+          "tags": [
+            "<activity>",
+            "<occ>",
+            "<cc-h>",
+            "<game>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "World_of_Warcraft",
+          "palavra_canonica": "World_of_Warcraft",
+          "tags": [
+            "<genre>",
+            "<*>",
+            "<np-close>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 3,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:spec",
+          "palavra_original": "Quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<rel>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "desenvolveu",
+          "palavra_canonica": "desenvolver",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "evolve",
+                "sinonimo": "evoluir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "criar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "fazer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "progredir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "build_up",
+                "sinonimo": "desenvolver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "evolve",
+                "sinonimo": "elaborar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "evolve",
+                "sinonimo": "develop",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "evolve",
+                "sinonimo": "evolve",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "build_up",
+                "sinonimo": "work_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "acquire",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "build_up",
+                "sinonimo": "build_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "build_up",
+                "sinonimo": "progress",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "build_up",
+                "sinonimo": "build",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "evolve",
+                "sinonimo": "germinate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prop",
+          "palavra_original": "World_of_warcraft",
+          "palavra_canonica": "World_of_warcraft",
+          "tags": [
+            "<brand>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "quem",
+        "confianca": 0.78,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "desenvolveu",
+          "palavra_canonica": "desenvolver",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "evolve",
+                "sinonimo": "evoluir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "criar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "fazer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "progredir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "build_up",
+                "sinonimo": "desenvolver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "evolve",
+                "sinonimo": "elaborar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "evolve",
+                "sinonimo": "develop",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "evolve",
+                "sinonimo": "evolve",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "build_up",
+                "sinonimo": "work_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "acquire",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "build_up",
+                "sinonimo": "build_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "build_up",
+                "sinonimo": "progress",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "build_up",
+                "sinonimo": "build",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "evolve",
+                "sinonimo": "germinate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prop",
+          "palavra_original": "World_of_warcraft",
+          "palavra_canonica": "World_of_warcraft",
+          "tags": [
+            "<brand>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*desenvolvedora",
+              "blizzard_entertainment"
+            ]
+          ],
+          "score": 12.668476,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft",
+              "desenvolvedor"
+            ],
+            "score_detail": {
+              "m1": 11.001809,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft:_cataclysm",
+                  "score": 9.0170765
+                },
+                "desenvolvedor": {
+                  "keyword": {
+                    "termo": "desenvolvedor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "desenvolvedora",
+                  "score": 1.9847327
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "world_of_warcraft": "-13",
+              "desenvolvedor": "-34"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft:_cataclysm",
+              "*developer",
+              "blizzard_entertainment"
+            ]
+          ],
+          "score": 11.654617,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft",
+              "desenvolver"
+            ],
+            "score_detail": {
+              "m1": 9.98795,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft:_cataclysm",
+                  "score": 9.0170765
+                },
+                "desenvolver": {
+                  "keyword": {
+                    "termo": "develop",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "developer",
+                  "score": 0.9708738
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft",
+              "owl#sameas",
+              "q131007"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft",
+              "owl#sameas",
+              "*world_of_warcraft"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft",
+              "owl#sameas",
+              "__"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft",
+              "owl#sameas",
+              6
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft",
+              "imagem",
+              "wow box art1.jpg"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft",
+              "imagemtamanho",
+              "250"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft",
+              "njogadores",
+              "5600"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft",
+              "controles",
+              "teclado_(computador)"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft",
+              "controles",
+              "mouse_(informatica)"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft",
+              "owl#sameas",
+              "m.021dvx"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft",
+              "owl#sameas",
+              "m.021dvx"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft",
+              "owl#sameas",
+              "m.021dvx"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft",
+              "depiction",
+              "wow_box_art1.jpg"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft",
+              "thumbnail",
+              "wow_box_art1.jpg?width=300"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft",
+              "wikipageusestemplate",
+              "jogo_eletronico"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft",
+              "wikipageusestemplate",
+              "predefinicao:link"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft",
+              "wikipageusestemplate",
+              "predefinicao:warcraft"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft",
+              "wikipageusestemplate",
+              "predefinicao:esrb___t"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft",
+              "wikipageusestemplate",
+              "predefinicao:pegi___12"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft",
+              "wikipageusestemplate",
+              "predefinicao:djctq___12"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft",
+              "wikipageusestemplate",
+              "predefinicao:vgrelease"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft",
+              "subject",
+              "categoria:ganhadores_do_interactive_achievement_awards"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft",
+              "subject",
+              "categoria:jogo_do_ano"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft",
+              "subject",
+              "categoria:jogos_eletronicos_de_2004"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft",
+              "subject",
+              "categoria:jogos_eletronicos_premiados"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*world_of_warcraft",
+              "subject",
+              "categoria:jogos_para_os_x"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "world_of_warcraft"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "world_of_warcraft": {
+                  "keyword": {
+                    "termo": "world_of_warcraft",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "world_of_warcraft",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 772.9499340057373,
+      "l_sizes": [
+        2963
+      ],
+      "total_time": 7529.4740200042725
+    }
+  }
+]

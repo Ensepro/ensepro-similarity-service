@@ -1,0 +1,1693 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:prp",
+          "palavra_original": "Em",
+          "palavra_canonica": "em",
+          "tags": [
+            "<clb>",
+            "<*>"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<interr>",
+            "DET",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "cidade",
+          "palavra_canonica": "cidade",
+          "tags": [
+            "<Lciv>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "Sylvester_Stallone",
+          "palavra_canonica": "Sylvester_Stallone",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "<np-close>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "mora",
+          "palavra_canonica": "morar",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 3,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "As:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "H:prp",
+          "palavra_original": "Em",
+          "palavra_canonica": "em",
+          "tags": [
+            "<*>"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DP:spec",
+          "palavra_original": "que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<rel>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Sylvester_stallone",
+          "palavra_canonica": "Sylvester_stallone",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "mora",
+          "palavra_canonica": "morar",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "populate",
+                "sinonimo": "povoar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "lodge",
+                "sinonimo": "alojar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "occupy",
+                "sinonimo": "residir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "populate",
+                "sinonimo": "viver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "reside",
+                "sinonimo": "habitar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "reside",
+                "sinonimo": "domiciliar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "occupy",
+                "sinonimo": "morar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "populate",
+                "sinonimo": "populate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "reside",
+                "sinonimo": "domiciliate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "occupy",
+                "sinonimo": "lodge_in",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "occupy",
+                "sinonimo": "reside",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "populate",
+                "sinonimo": "live",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "lodge",
+                "sinonimo": "lodge",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "reside",
+                "sinonimo": "shack",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "occupy",
+                "sinonimo": "occupy",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "populate",
+                "sinonimo": "dwell",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "populate",
+                "sinonimo": "inhabit",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "reside",
+                "sinonimo": "domicile",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "em_que",
+        "confianca": 0.58,
+        "ids": [
+          3,
+          4
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 5,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Sylvester_stallone",
+          "palavra_canonica": "Sylvester_stallone",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "mora",
+          "palavra_canonica": "morar",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "populate",
+                "sinonimo": "povoar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "lodge",
+                "sinonimo": "alojar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "occupy",
+                "sinonimo": "residir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "populate",
+                "sinonimo": "viver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "reside",
+                "sinonimo": "habitar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "reside",
+                "sinonimo": "domiciliar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "occupy",
+                "sinonimo": "morar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "populate",
+                "sinonimo": "populate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "reside",
+                "sinonimo": "domiciliate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "occupy",
+                "sinonimo": "lodge_in",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "occupy",
+                "sinonimo": "reside",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "populate",
+                "sinonimo": "live",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "lodge",
+                "sinonimo": "lodge",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "reside",
+                "sinonimo": "shack",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "occupy",
+                "sinonimo": "occupy",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "populate",
+                "sinonimo": "dwell",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "populate",
+                "sinonimo": "inhabit",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "reside",
+                "sinonimo": "domicile",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "owl#sameas",
+              "q40026"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "sylvester_stallone": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "owl#sameas",
+              "*sylvester_stallone"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "sylvester_stallone": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "owl#sameas",
+              "silvestr_stallone"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "sylvester_stallone": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "owl#sameas",
+              6
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4,
+          "bind_control": {
+            "binds": {
+              "sylvester_stallone": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "owl#sameas",
+              "silvestrs_stallone"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "sylvester_stallone": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "owl#sameas",
+              ",_"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6,
+          "bind_control": {
+            "binds": {
+              "sylvester_stallone": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "imagem",
+              "*sylvester_stallone_2012.jpg"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "outrosnomes",
+              "stallone sly"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8,
+          "bind_control": {
+            "binds": {
+              "sylvester_stallone": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "nationalboardofreview",
+              "melhor ator coadjuvante"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9,
+          "bind_control": {
+            "binds": {
+              "sylvester_stallone": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "nationalboardofreview",
+              "2016"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10,
+          "bind_control": {
+            "binds": {
+              "sylvester_stallone": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "assinatura",
+              "200"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11,
+          "bind_control": {
+            "binds": {
+              "sylvester_stallone": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "id",
+              "230"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12,
+          "bind_control": {
+            "binds": {
+              "sylvester_stallone": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "nome",
+              "sylvester stallone"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13,
+          "bind_control": {
+            "binds": {
+              "sylvester_stallone": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "depiction",
+              "*sylvester_stallone_2012.jpg"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "thumbnail",
+              "*sylvester_stallone_2012.jpg?width=300"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "wikipageusestemplate",
+              "ator"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16,
+          "bind_control": {
+            "binds": {
+              "sylvester_stallone": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "wikipageusestemplate",
+              "predefinicao:ap"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17,
+          "bind_control": {
+            "binds": {
+              "sylvester_stallone": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18,
+          "bind_control": {
+            "binds": {
+              "sylvester_stallone": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19,
+          "bind_control": {
+            "binds": {
+              "sylvester_stallone": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "wikipageusestemplate",
+              "predefinicao:imdb_nome"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20,
+          "bind_control": {
+            "binds": {
+              "sylvester_stallone": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "wikipageusestemplate",
+              "predefinicao:link"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21,
+          "bind_control": {
+            "binds": {
+              "sylvester_stallone": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "wikipageusestemplate",
+              "predefinicao:bloco_de_navegacao"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22,
+          "bind_control": {
+            "binds": {
+              "sylvester_stallone": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "wikipageusestemplate",
+              "*predefinicao:sylvester_stallone"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "wikipageusestemplate",
+              "predefinicao:portal3"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24,
+          "bind_control": {
+            "binds": {
+              "sylvester_stallone": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "subject",
+              "*categoria:sylvester_stallone"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "subject",
+              "categoria:atores_dos_estados_unidos"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26,
+          "bind_control": {
+            "binds": {
+              "sylvester_stallone": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "subject",
+              "categoria:catolicos_dos_estados_unidos"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27,
+          "bind_control": {
+            "binds": {
+              "sylvester_stallone": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "subject",
+              "categoria:cineastas_dos_estados_unidos"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28,
+          "bind_control": {
+            "binds": {
+              "sylvester_stallone": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*sylvester_stallone",
+              "subject",
+              "categoria:norte_americanos_de_ascendencia_italiana"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "sylvester_stallone"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "sylvester_stallone": {
+                  "keyword": {
+                    "termo": "sylvester_stallone",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "sylvester_stallone",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29,
+          "bind_control": {
+            "binds": {
+              "sylvester_stallone": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "ranking_time": 730.0584316253662,
+      "l_sizes": [
+        914
+      ],
+      "total_time": 11026.273965835571
+    }
+  }
+]

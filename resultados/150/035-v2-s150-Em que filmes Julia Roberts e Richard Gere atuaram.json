@@ -1,0 +1,2475 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "Op:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "H:prp",
+          "palavra_original": "Em",
+          "palavra_canonica": "em",
+          "tags": [
+            "<clb>",
+            "<*>"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<interr>",
+            "DET",
+            "M",
+            "P"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "filmes",
+          "palavra_canonica": "filme",
+          "tags": [
+            "<sem-w>",
+            "<cc>",
+            "M",
+            "P"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:par",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "CJT:prop",
+          "palavra_original": "Julia_Roberts",
+          "palavra_canonica": "Julia_Roberts",
+          "tags": [
+            "<cjt-head>",
+            "<cjt-head-DN>",
+            "<tit>",
+            "<*>",
+            "<np-close>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "CO:conj-c",
+          "palavra_original": "e",
+          "palavra_canonica": "e",
+          "tags": [
+            "<co-postnom>"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "CJT:prop",
+          "palavra_original": "Richard_Gere",
+          "palavra_canonica": "Richard_Gere",
+          "tags": [
+            "<cjt-DN>",
+            "<tit>",
+            "<*>",
+            "<np-close>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "atuaram",
+          "palavra_canonica": "atuar",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS/MQP",
+            "3P",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 3,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "Op:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "H:prp",
+          "palavra_original": "Em",
+          "palavra_canonica": "em",
+          "tags": [
+            "<clb>",
+            "<*>"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<interr>",
+            "DET",
+            "M",
+            "P"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "filmes",
+          "palavra_canonica": "filme",
+          "tags": [
+            "<sem-w>",
+            "<cc>",
+            "M",
+            "P"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "movie",
+                "sinonimo": "filme",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "filme_fotográfico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "filmes",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "Filme_Fotográfico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "produção",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "película",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "Filme_fotografico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "cinema",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "movie",
+                "sinonimo": "motion-picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "photographic_film",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "motion_picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "film",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "movie",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "moving-picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "pic",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "flick",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "moving_picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:par",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "CJT:prop",
+          "palavra_original": "Julia_roberts",
+          "palavra_canonica": "Julia_roberts",
+          "tags": [
+            "<cjt-head>",
+            "<cjt-head-DN>",
+            "<tit>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "<np-close>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 9,
+          "tag_inicial": "CO:conj-c",
+          "palavra_original": "e",
+          "palavra_canonica": "e",
+          "tags": [
+            "<co-postnom>"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "CJT:prop",
+          "palavra_original": "Richard_gere",
+          "palavra_canonica": "Richard_gere",
+          "tags": [
+            "<cjt-DN>",
+            "<tit>",
+            "<*>",
+            "<heur>",
+            "<np-close>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 11,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "atuaram",
+          "palavra_canonica": "atuar",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS/MQP",
+            "3P",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "act",
+                "sinonimo": "comportar-se",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "parecer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "atuar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "agir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "fazer_papel",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "fazer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "representar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "act",
+                "sinonimo": "behave",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "roleplay",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "act",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "do",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "play",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "playact",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              }
+            ]
+          }
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "em_que",
+        "confianca": 0.85,
+        "ids": [
+          3,
+          5
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "filmes",
+          "palavra_canonica": "filme",
+          "tags": [
+            "<sem-w>",
+            "<cc>",
+            "M",
+            "P"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "movie",
+                "sinonimo": "filme",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "filme_fotográfico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "filmes",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "Filme_Fotográfico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "produção",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "película",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "Filme_fotografico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "cinema",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "movie",
+                "sinonimo": "motion-picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "photographic_film",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "motion_picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "film",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "movie",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "moving-picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "pic",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "flick",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "moving_picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 8,
+          "tag_inicial": "CJT:prop",
+          "palavra_original": "Julia_roberts",
+          "palavra_canonica": "Julia_roberts",
+          "tags": [
+            "<cjt-head>",
+            "<cjt-head-DN>",
+            "<tit>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "<np-close>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 10,
+          "tag_inicial": "CJT:prop",
+          "palavra_original": "Richard_gere",
+          "palavra_canonica": "Richard_gere",
+          "tags": [
+            "<cjt-DN>",
+            "<tit>",
+            "<*>",
+            "<heur>",
+            "<np-close>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 11,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "atuaram",
+          "palavra_canonica": "atuar",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS/MQP",
+            "3P",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "act",
+                "sinonimo": "comportar-se",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "parecer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "atuar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "agir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "fazer_papel",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "fazer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "representar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "act",
+                "sinonimo": "behave",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "roleplay",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "act",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "do",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "play",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "playact",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*richard_gere",
+              "owl#sameas",
+              "_"
+            ],
+            [
+              "*julia_roberts",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "richard_gere",
+              "julia_roberts"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "richard_gere": "-1",
+              "julia_roberts": "-11"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*richard_gere",
+              "owl#sameas",
+              "'_"
+            ],
+            [
+              "*julia_roberts",
+              "owl#sameas",
+              "'_"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "richard_gere",
+              "julia_roberts"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "richard_gere": "-1",
+              "julia_roberts": "-11"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*richard_gere",
+              "owl#sameas",
+              7
+            ],
+            [
+              "*julia_roberts",
+              "owl#sameas",
+              7
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "richard_gere",
+              "julia_roberts"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "richard_gere": "-1",
+              "julia_roberts": "-11"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*richard_gere",
+              "owl#sameas",
+              ",_"
+            ],
+            [
+              "*julia_roberts",
+              "owl#sameas",
+              ",_"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "richard_gere",
+              "julia_roberts"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "richard_gere": "-1",
+              "julia_roberts": "-11"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*julia_roberts",
+              "owl#sameas",
+              "_"
+            ],
+            [
+              "*richard_gere",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "richard_gere"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*julia_roberts",
+              "owl#sameas",
+              "'_"
+            ],
+            [
+              "*richard_gere",
+              "owl#sameas",
+              "'_"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "richard_gere"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*julia_roberts",
+              "owl#sameas",
+              7
+            ],
+            [
+              "*richard_gere",
+              "owl#sameas",
+              7
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "richard_gere"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*julia_roberts",
+              "owl#sameas",
+              ",_"
+            ],
+            [
+              "*richard_gere",
+              "owl#sameas",
+              ",_"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "richard_gere"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*richard_gere",
+              "wikipageusestemplate",
+              "*ator"
+            ],
+            [
+              "*julia_roberts",
+              "wikipageusestemplate",
+              "*ator"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "richard_gere",
+              "julia_roberts"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 8,
+          "bind_control": {
+            "binds": {
+              "richard_gere": "-1",
+              "ator": "-42",
+              "julia_roberts": "-11"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*richard_gere",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ],
+            [
+              "*julia_roberts",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "richard_gere",
+              "julia_roberts"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 9,
+          "bind_control": {
+            "binds": {
+              "richard_gere": "-1",
+              "julia_roberts": "-11"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*richard_gere",
+              "wikipageusestemplate",
+              "predefinicao:imdb_nome"
+            ],
+            [
+              "*julia_roberts",
+              "wikipageusestemplate",
+              "predefinicao:imdb_nome"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "richard_gere",
+              "julia_roberts"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 10,
+          "bind_control": {
+            "binds": {
+              "richard_gere": "-1",
+              "julia_roberts": "-11"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*richard_gere",
+              "wikipageusestemplate",
+              "predefinicao:portal3"
+            ],
+            [
+              "*julia_roberts",
+              "wikipageusestemplate",
+              "predefinicao:portal3"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "richard_gere",
+              "julia_roberts"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 11,
+          "bind_control": {
+            "binds": {
+              "richard_gere": "-1",
+              "julia_roberts": "-11"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*julia_roberts",
+              "wikipageusestemplate",
+              "*ator"
+            ],
+            [
+              "*richard_gere",
+              "wikipageusestemplate",
+              "*ator"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "richard_gere"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*julia_roberts",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ],
+            [
+              "*richard_gere",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "richard_gere"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*julia_roberts",
+              "wikipageusestemplate",
+              "predefinicao:imdb_nome"
+            ],
+            [
+              "*richard_gere",
+              "wikipageusestemplate",
+              "predefinicao:imdb_nome"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "richard_gere"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*julia_roberts",
+              "wikipageusestemplate",
+              "predefinicao:portal3"
+            ],
+            [
+              "*richard_gere",
+              "wikipageusestemplate",
+              "predefinicao:portal3"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "richard_gere"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*richard_gere",
+              "subject",
+              "*categoria:atores_dos_estados_unidos"
+            ],
+            [
+              "*julia_roberts",
+              "subject",
+              "*categoria:atores_dos_estados_unidos"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "richard_gere",
+              "julia_roberts"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 16,
+          "bind_control": {
+            "binds": {
+              "richard_gere": "-1",
+              "ator": "-64",
+              "julia_roberts": "-11"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*julia_roberts",
+              "subject",
+              "*categoria:atores_dos_estados_unidos"
+            ],
+            [
+              "*richard_gere",
+              "subject",
+              "*categoria:atores_dos_estados_unidos"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "richard_gere"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*richard_gere",
+              "wikipageusestemplate",
+              "predefinicao:dni"
+            ],
+            [
+              "*julia_roberts",
+              "wikipageusestemplate",
+              "predefinicao:dni"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "richard_gere",
+              "julia_roberts"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 18,
+          "bind_control": {
+            "binds": {
+              "richard_gere": "-1",
+              "julia_roberts": "-11"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*julia_roberts",
+              "wikipageusestemplate",
+              "predefinicao:dni"
+            ],
+            [
+              "*richard_gere",
+              "wikipageusestemplate",
+              "predefinicao:dni"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "richard_gere"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*hook_(filme)",
+              "starring",
+              "*julia_roberts"
+            ],
+            [
+              "*julia_roberts",
+              "*abstract",
+              "*julia fiona roberts (smyrna, 28 de outubro de 1967) e uma atriz e produtora norte-americana. vencedora do oscar de melhor atriz pelo filme erin brockovich, tambem atuou em pretty woman (br: uma linda mulher - pt: um sonho de mulher). ela se tornou uma estrela de hollywood depois de ser a atracao principal da comedia romantica pretty woman (1990), que arrecadou $464 milhoes de dolares em todo o mundo. depois de receber premios globo de ouro e indicacoes ao oscar por steel magnolias (1989) e pretty woman, ela ganhou o oscar de melhor atriz por sua atuacao em erin brockovich (2000). seus filmes mystic pizza (1988), the pelican brief (1993), my best friend's wedding (1997), notting hill (1999), runaway bride (1999), ocean's eleven (2001), ocean's twelve (2004), charlie wilson's war (2007), valentine's day (2010), eat pray love (2010) e mirror mirror (2012) trouxeram coletivamente bilheteria de mais de $2.6 bilhoes, fazendo dela uma das atrizes mais bem sucedidas em termos de bilheteria. roberts tornou-se uma das atrizes mais bem pagas do mundo, superando anual \\\"lista de poder\\\" do the hollywood reporter das melhores estrelas femininas que mais rendem 2005-2006. seu pagamento por pretty women em 1990 foi de $300,000; em 2003, foi pago um inedito $25 milhoes para seu papel em mona lisa smile (2003). a partir de 2010, o patrimonio liquido de roberts foi estimado em $140 milhoes. roberts foi nomeada pela revista people uma das \\\"50 pessoas mais bonitas do mundo\\\" onze vezes, empatado com halle berry. em 2011, ela foi nomeada uma das \\\"100 mulheres mais quentes de todos os tempos\\\", na men's health. em 2001, ladies home journal classificou-a na posicao 11 como a mulher mais poderosa nos estados unidos."
+            ]
+          ],
+          "score": 13.511942,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "filme",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 12.511942,
+              "m2": 0.5,
+              "m3": 0.5,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "hook_(filme)",
+                  "score": 1.6810346
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*hook_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ],
+            [
+              "*julia_roberts",
+              "*abstract",
+              "*julia fiona roberts (smyrna, 28 de outubro de 1967) e uma atriz e produtora norte-americana. vencedora do oscar de melhor atriz pelo filme erin brockovich, tambem atuou em pretty woman (br: uma linda mulher - pt: um sonho de mulher). ela se tornou uma estrela de hollywood depois de ser a atracao principal da comedia romantica pretty woman (1990), que arrecadou $464 milhoes de dolares em todo o mundo. depois de receber premios globo de ouro e indicacoes ao oscar por steel magnolias (1989) e pretty woman, ela ganhou o oscar de melhor atriz por sua atuacao em erin brockovich (2000). seus filmes mystic pizza (1988), the pelican brief (1993), my best friend's wedding (1997), notting hill (1999), runaway bride (1999), ocean's eleven (2001), ocean's twelve (2004), charlie wilson's war (2007), valentine's day (2010), eat pray love (2010) e mirror mirror (2012) trouxeram coletivamente bilheteria de mais de $2.6 bilhoes, fazendo dela uma das atrizes mais bem sucedidas em termos de bilheteria. roberts tornou-se uma das atrizes mais bem pagas do mundo, superando anual \\\"lista de poder\\\" do the hollywood reporter das melhores estrelas femininas que mais rendem 2005-2006. seu pagamento por pretty women em 1990 foi de $300,000; em 2003, foi pago um inedito $25 milhoes para seu papel em mona lisa smile (2003). a partir de 2010, o patrimonio liquido de roberts foi estimado em $140 milhoes. roberts foi nomeada pela revista people uma das \\\"50 pessoas mais bonitas do mundo\\\" onze vezes, empatado com halle berry. em 2011, ela foi nomeada uma das \\\"100 mulheres mais quentes de todos os tempos\\\", na men's health. em 2001, ladies home journal classificou-a na posicao 11 como a mulher mais poderosa nos estados unidos."
+            ]
+          ],
+          "score": 13.511942,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "filme",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 12.511942,
+              "m2": 0.5,
+              "m3": 0.5,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "hook_(filme)",
+                  "score": 1.6810346
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*julia_roberts",
+              "*abstract",
+              "*julia fiona roberts (smyrna, 28 de outubro de 1967) e uma atriz e produtora norte-americana. vencedora do oscar de melhor atriz pelo filme erin brockovich, tambem atuou em pretty woman (br: uma linda mulher - pt: um sonho de mulher). ela se tornou uma estrela de hollywood depois de ser a atracao principal da comedia romantica pretty woman (1990), que arrecadou $464 milhoes de dolares em todo o mundo. depois de receber premios globo de ouro e indicacoes ao oscar por steel magnolias (1989) e pretty woman, ela ganhou o oscar de melhor atriz por sua atuacao em erin brockovich (2000). seus filmes mystic pizza (1988), the pelican brief (1993), my best friend's wedding (1997), notting hill (1999), runaway bride (1999), ocean's eleven (2001), ocean's twelve (2004), charlie wilson's war (2007), valentine's day (2010), eat pray love (2010) e mirror mirror (2012) trouxeram coletivamente bilheteria de mais de $2.6 bilhoes, fazendo dela uma das atrizes mais bem sucedidas em termos de bilheteria. roberts tornou-se uma das atrizes mais bem pagas do mundo, superando anual \\\"lista de poder\\\" do the hollywood reporter das melhores estrelas femininas que mais rendem 2005-2006. seu pagamento por pretty women em 1990 foi de $300,000; em 2003, foi pago um inedito $25 milhoes para seu papel em mona lisa smile (2003). a partir de 2010, o patrimonio liquido de roberts foi estimado em $140 milhoes. roberts foi nomeada pela revista people uma das \\\"50 pessoas mais bonitas do mundo\\\" onze vezes, empatado com halle berry. em 2011, ela foi nomeada uma das \\\"100 mulheres mais quentes de todos os tempos\\\", na men's health. em 2001, ladies home journal classificou-a na posicao 11 como a mulher mais poderosa nos estados unidos."
+            ],
+            [
+              "*hook_(filme)",
+              "starring",
+              "*julia_roberts"
+            ]
+          ],
+          "score": 13.511942,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "filme",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 12.511942,
+              "m2": 0.5,
+              "m3": 0.5,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "hook_(filme)",
+                  "score": 1.6810346
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*julia_roberts",
+              "*abstract",
+              "*julia fiona roberts (smyrna, 28 de outubro de 1967) e uma atriz e produtora norte-americana. vencedora do oscar de melhor atriz pelo filme erin brockovich, tambem atuou em pretty woman (br: uma linda mulher - pt: um sonho de mulher). ela se tornou uma estrela de hollywood depois de ser a atracao principal da comedia romantica pretty woman (1990), que arrecadou $464 milhoes de dolares em todo o mundo. depois de receber premios globo de ouro e indicacoes ao oscar por steel magnolias (1989) e pretty woman, ela ganhou o oscar de melhor atriz por sua atuacao em erin brockovich (2000). seus filmes mystic pizza (1988), the pelican brief (1993), my best friend's wedding (1997), notting hill (1999), runaway bride (1999), ocean's eleven (2001), ocean's twelve (2004), charlie wilson's war (2007), valentine's day (2010), eat pray love (2010) e mirror mirror (2012) trouxeram coletivamente bilheteria de mais de $2.6 bilhoes, fazendo dela uma das atrizes mais bem sucedidas em termos de bilheteria. roberts tornou-se uma das atrizes mais bem pagas do mundo, superando anual \\\"lista de poder\\\" do the hollywood reporter das melhores estrelas femininas que mais rendem 2005-2006. seu pagamento por pretty women em 1990 foi de $300,000; em 2003, foi pago um inedito $25 milhoes para seu papel em mona lisa smile (2003). a partir de 2010, o patrimonio liquido de roberts foi estimado em $140 milhoes. roberts foi nomeada pela revista people uma das \\\"50 pessoas mais bonitas do mundo\\\" onze vezes, empatado com halle berry. em 2011, ela foi nomeada uma das \\\"100 mulheres mais quentes de todos os tempos\\\", na men's health. em 2001, ladies home journal classificou-a na posicao 11 como a mulher mais poderosa nos estados unidos."
+            ],
+            [
+              "*hook_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ]
+          ],
+          "score": 13.511942,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "filme",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 12.511942,
+              "m2": 0.5,
+              "m3": 0.5,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "hook_(filme)",
+                  "score": 1.6810346
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*closer_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ],
+            [
+              "*julia_roberts",
+              "*abstract",
+              "*julia fiona roberts (smyrna, 28 de outubro de 1967) e uma atriz e produtora norte-americana. vencedora do oscar de melhor atriz pelo filme erin brockovich, tambem atuou em pretty woman (br: uma linda mulher - pt: um sonho de mulher). ela se tornou uma estrela de hollywood depois de ser a atracao principal da comedia romantica pretty woman (1990), que arrecadou $464 milhoes de dolares em todo o mundo. depois de receber premios globo de ouro e indicacoes ao oscar por steel magnolias (1989) e pretty woman, ela ganhou o oscar de melhor atriz por sua atuacao em erin brockovich (2000). seus filmes mystic pizza (1988), the pelican brief (1993), my best friend's wedding (1997), notting hill (1999), runaway bride (1999), ocean's eleven (2001), ocean's twelve (2004), charlie wilson's war (2007), valentine's day (2010), eat pray love (2010) e mirror mirror (2012) trouxeram coletivamente bilheteria de mais de $2.6 bilhoes, fazendo dela uma das atrizes mais bem sucedidas em termos de bilheteria. roberts tornou-se uma das atrizes mais bem pagas do mundo, superando anual \\\"lista de poder\\\" do the hollywood reporter das melhores estrelas femininas que mais rendem 2005-2006. seu pagamento por pretty women em 1990 foi de $300,000; em 2003, foi pago um inedito $25 milhoes para seu papel em mona lisa smile (2003). a partir de 2010, o patrimonio liquido de roberts foi estimado em $140 milhoes. roberts foi nomeada pela revista people uma das \\\"50 pessoas mais bonitas do mundo\\\" onze vezes, empatado com halle berry. em 2011, ela foi nomeada uma das \\\"100 mulheres mais quentes de todos os tempos\\\", na men's health. em 2001, ladies home journal classificou-a na posicao 11 como a mulher mais poderosa nos estados unidos."
+            ]
+          ],
+          "score": 13.403742,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "filme",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 12.403742,
+              "m2": 0.5,
+              "m3": 0.5,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "closer_(filme)",
+                  "score": 1.5728344
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*closer_(filme)",
+              "starring",
+              "*julia_roberts"
+            ],
+            [
+              "*julia_roberts",
+              "*abstract",
+              "*julia fiona roberts (smyrna, 28 de outubro de 1967) e uma atriz e produtora norte-americana. vencedora do oscar de melhor atriz pelo filme erin brockovich, tambem atuou em pretty woman (br: uma linda mulher - pt: um sonho de mulher). ela se tornou uma estrela de hollywood depois de ser a atracao principal da comedia romantica pretty woman (1990), que arrecadou $464 milhoes de dolares em todo o mundo. depois de receber premios globo de ouro e indicacoes ao oscar por steel magnolias (1989) e pretty woman, ela ganhou o oscar de melhor atriz por sua atuacao em erin brockovich (2000). seus filmes mystic pizza (1988), the pelican brief (1993), my best friend's wedding (1997), notting hill (1999), runaway bride (1999), ocean's eleven (2001), ocean's twelve (2004), charlie wilson's war (2007), valentine's day (2010), eat pray love (2010) e mirror mirror (2012) trouxeram coletivamente bilheteria de mais de $2.6 bilhoes, fazendo dela uma das atrizes mais bem sucedidas em termos de bilheteria. roberts tornou-se uma das atrizes mais bem pagas do mundo, superando anual \\\"lista de poder\\\" do the hollywood reporter das melhores estrelas femininas que mais rendem 2005-2006. seu pagamento por pretty women em 1990 foi de $300,000; em 2003, foi pago um inedito $25 milhoes para seu papel em mona lisa smile (2003). a partir de 2010, o patrimonio liquido de roberts foi estimado em $140 milhoes. roberts foi nomeada pela revista people uma das \\\"50 pessoas mais bonitas do mundo\\\" onze vezes, empatado com halle berry. em 2011, ela foi nomeada uma das \\\"100 mulheres mais quentes de todos os tempos\\\", na men's health. em 2001, ladies home journal classificou-a na posicao 11 como a mulher mais poderosa nos estados unidos."
+            ]
+          ],
+          "score": 13.403742,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "filme",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 12.403742,
+              "m2": 0.5,
+              "m3": 0.5,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "closer_(filme)",
+                  "score": 1.5728344
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*julia_roberts",
+              "*abstract",
+              "*julia fiona roberts (smyrna, 28 de outubro de 1967) e uma atriz e produtora norte-americana. vencedora do oscar de melhor atriz pelo filme erin brockovich, tambem atuou em pretty woman (br: uma linda mulher - pt: um sonho de mulher). ela se tornou uma estrela de hollywood depois de ser a atracao principal da comedia romantica pretty woman (1990), que arrecadou $464 milhoes de dolares em todo o mundo. depois de receber premios globo de ouro e indicacoes ao oscar por steel magnolias (1989) e pretty woman, ela ganhou o oscar de melhor atriz por sua atuacao em erin brockovich (2000). seus filmes mystic pizza (1988), the pelican brief (1993), my best friend's wedding (1997), notting hill (1999), runaway bride (1999), ocean's eleven (2001), ocean's twelve (2004), charlie wilson's war (2007), valentine's day (2010), eat pray love (2010) e mirror mirror (2012) trouxeram coletivamente bilheteria de mais de $2.6 bilhoes, fazendo dela uma das atrizes mais bem sucedidas em termos de bilheteria. roberts tornou-se uma das atrizes mais bem pagas do mundo, superando anual \\\"lista de poder\\\" do the hollywood reporter das melhores estrelas femininas que mais rendem 2005-2006. seu pagamento por pretty women em 1990 foi de $300,000; em 2003, foi pago um inedito $25 milhoes para seu papel em mona lisa smile (2003). a partir de 2010, o patrimonio liquido de roberts foi estimado em $140 milhoes. roberts foi nomeada pela revista people uma das \\\"50 pessoas mais bonitas do mundo\\\" onze vezes, empatado com halle berry. em 2011, ela foi nomeada uma das \\\"100 mulheres mais quentes de todos os tempos\\\", na men's health. em 2001, ladies home journal classificou-a na posicao 11 como a mulher mais poderosa nos estados unidos."
+            ],
+            [
+              "*closer_(filme)",
+              "elenco",
+              "*julia_roberts"
+            ]
+          ],
+          "score": 13.403742,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "filme",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 12.403742,
+              "m2": 0.5,
+              "m3": 0.5,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "closer_(filme)",
+                  "score": 1.5728344
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*julia_roberts",
+              "*abstract",
+              "*julia fiona roberts (smyrna, 28 de outubro de 1967) e uma atriz e produtora norte-americana. vencedora do oscar de melhor atriz pelo filme erin brockovich, tambem atuou em pretty woman (br: uma linda mulher - pt: um sonho de mulher). ela se tornou uma estrela de hollywood depois de ser a atracao principal da comedia romantica pretty woman (1990), que arrecadou $464 milhoes de dolares em todo o mundo. depois de receber premios globo de ouro e indicacoes ao oscar por steel magnolias (1989) e pretty woman, ela ganhou o oscar de melhor atriz por sua atuacao em erin brockovich (2000). seus filmes mystic pizza (1988), the pelican brief (1993), my best friend's wedding (1997), notting hill (1999), runaway bride (1999), ocean's eleven (2001), ocean's twelve (2004), charlie wilson's war (2007), valentine's day (2010), eat pray love (2010) e mirror mirror (2012) trouxeram coletivamente bilheteria de mais de $2.6 bilhoes, fazendo dela uma das atrizes mais bem sucedidas em termos de bilheteria. roberts tornou-se uma das atrizes mais bem pagas do mundo, superando anual \\\"lista de poder\\\" do the hollywood reporter das melhores estrelas femininas que mais rendem 2005-2006. seu pagamento por pretty women em 1990 foi de $300,000; em 2003, foi pago um inedito $25 milhoes para seu papel em mona lisa smile (2003). a partir de 2010, o patrimonio liquido de roberts foi estimado em $140 milhoes. roberts foi nomeada pela revista people uma das \\\"50 pessoas mais bonitas do mundo\\\" onze vezes, empatado com halle berry. em 2011, ela foi nomeada uma das \\\"100 mulheres mais quentes de todos os tempos\\\", na men's health. em 2001, ladies home journal classificou-a na posicao 11 como a mulher mais poderosa nos estados unidos."
+            ],
+            [
+              "*closer_(filme)",
+              "starring",
+              "*julia_roberts"
+            ]
+          ],
+          "score": 13.403742,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "filme",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 12.403742,
+              "m2": 0.5,
+              "m3": 0.5,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "closer_(filme)",
+                  "score": 1.5728344
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*primal_fear_(filme)",
+              "elenco",
+              "*richard_gere"
+            ],
+            [
+              "*richard_gere",
+              "*abstract",
+              "*richard tiffany gere (filadelfia, 31 de agosto de 1949) e um premiado ator americano."
+            ]
+          ],
+          "score": 13.11337,
+          "detail": {
+            "keywords": [
+              "richard_gere",
+              "filme",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 12.11337,
+              "m2": 0.5,
+              "m3": 0.5,
+              "matches": {
+                "richard_gere": {
+                  "keyword": {
+                    "termo": "richard_gere",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "richard_gere",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "primal_fear_(filme)",
+                  "score": 1.2824624
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*lado_a_lado_(filme)",
+              "starring",
+              "*julia_roberts"
+            ],
+            [
+              "*julia_roberts",
+              "*abstract",
+              "*julia fiona roberts (smyrna, 28 de outubro de 1967) e uma atriz e produtora norte-americana. vencedora do oscar de melhor atriz pelo filme erin brockovich, tambem atuou em pretty woman (br: uma linda mulher - pt: um sonho de mulher). ela se tornou uma estrela de hollywood depois de ser a atracao principal da comedia romantica pretty woman (1990), que arrecadou $464 milhoes de dolares em todo o mundo. depois de receber premios globo de ouro e indicacoes ao oscar por steel magnolias (1989) e pretty woman, ela ganhou o oscar de melhor atriz por sua atuacao em erin brockovich (2000). seus filmes mystic pizza (1988), the pelican brief (1993), my best friend's wedding (1997), notting hill (1999), runaway bride (1999), ocean's eleven (2001), ocean's twelve (2004), charlie wilson's war (2007), valentine's day (2010), eat pray love (2010) e mirror mirror (2012) trouxeram coletivamente bilheteria de mais de $2.6 bilhoes, fazendo dela uma das atrizes mais bem sucedidas em termos de bilheteria. roberts tornou-se uma das atrizes mais bem pagas do mundo, superando anual \\\"lista de poder\\\" do the hollywood reporter das melhores estrelas femininas que mais rendem 2005-2006. seu pagamento por pretty women em 1990 foi de $300,000; em 2003, foi pago um inedito $25 milhoes para seu papel em mona lisa smile (2003). a partir de 2010, o patrimonio liquido de roberts foi estimado em $140 milhoes. roberts foi nomeada pela revista people uma das \\\"50 pessoas mais bonitas do mundo\\\" onze vezes, empatado com halle berry. em 2011, ela foi nomeada uma das \\\"100 mulheres mais quentes de todos os tempos\\\", na men's health. em 2001, ladies home journal classificou-a na posicao 11 como a mulher mais poderosa nos estados unidos."
+            ]
+          ],
+          "score": 13.11337,
+          "detail": {
+            "keywords": [
+              "julia_roberts",
+              "filme",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 12.11337,
+              "m2": 0.5,
+              "m3": 0.5,
+              "matches": {
+                "julia_roberts": {
+                  "keyword": {
+                    "termo": "julia_roberts",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "julia_roberts",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lado_a_lado_(filme)",
+                  "score": 1.2824624
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 1023.2141017913818,
+      "l_sizes": [
+        14590,
+        10924
+      ],
+      "total_time": 11109.756708145142
+    }
+  }
+]

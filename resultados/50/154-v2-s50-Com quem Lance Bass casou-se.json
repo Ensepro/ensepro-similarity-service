@@ -1,0 +1,1761 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "Op:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "H:prp",
+          "palavra_original": "Com",
+          "palavra_canonica": "com",
+          "tags": [
+            "<clb>",
+            "<*>"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DP:spec",
+          "palavra_original": "quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<interr>",
+            "M/F",
+            "S/P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Lance_Bass",
+          "palavra_canonica": "Lance_Bass",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "casou-",
+          "palavra_canonica": "casar",
+          "tags": [
+            "<fmc>",
+            "<hyfen>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "Od:pron-pers",
+          "palavra_original": "se",
+          "palavra_canonica": "se",
+          "tags": [
+            "<pass>",
+            "M/F",
+            "3S",
+            "ACC"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "Op:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "H:prp",
+          "palavra_original": "Com",
+          "palavra_canonica": "com",
+          "tags": [
+            "<clb>",
+            "<*>"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DP:spec",
+          "palavra_original": "quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<interr>",
+            "M/F",
+            "S/P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Lance_Bass",
+          "palavra_canonica": "Lance_Bass",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "casou-",
+          "palavra_canonica": "casar",
+          "tags": [
+            "<fmc>",
+            "<hyfen>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "match",
+                "sinonimo": "acoplar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "casarem-se",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "casar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "casar-se",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "juntar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "marry",
+                "sinonimo": "marry",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "couple",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "match",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "pair",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "mate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "get_married",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "espouse",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "splice",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "wed",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "conjoin",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "hook_up_with",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "get_hitched_with",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "tie",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "twin",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "Od:pron-pers",
+          "palavra_original": "se",
+          "palavra_canonica": "se",
+          "tags": [
+            "<pass>",
+            "M/F",
+            "3S",
+            "ACC"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "quem",
+        "confianca": 0.83,
+        "ids": [
+          4
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 5,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Lance_Bass",
+          "palavra_canonica": "Lance_Bass",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "casou-",
+          "palavra_canonica": "casar",
+          "tags": [
+            "<fmc>",
+            "<hyfen>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "match",
+                "sinonimo": "acoplar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "casarem-se",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "casar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "casar-se",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "juntar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "marry",
+                "sinonimo": "marry",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "couple",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "match",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "pair",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "mate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "get_married",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "espouse",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "splice",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "wed",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "conjoin",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "hook_up_with",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "get_hitched_with",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "tie",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "twin",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "owl#sameas",
+              "q443120"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "owl#sameas",
+              "*lance_bass"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "owl#sameas",
+              4
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "owl#sameas",
+              ",_"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:expandir"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "artista"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:ligacoes_externas"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:commons"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:link"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:portal3"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:esboco_cantor"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:esboco_ator"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "depiction",
+              "lancebassatparc.jpg"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "thumbnail",
+              "lancebassatparc.jpg?width=300"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "owl#sameas",
+              "m.015bw2"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:eua"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageusestemplate",
+              "predefinicao:dni"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "subject",
+              "categoria:cantores_dos_estados_unidos"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "subject",
+              "categoria:cantores_de_musica_pop"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "subject",
+              "categoria:membros_de_'n_sync"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "subject",
+              "categoria:atores_dos_estados_unidos"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "subject",
+              "categoria:dubladores_dos_estados_unidos"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "subject",
+              "categoria:produtores_de_cinema_dos_estados_unidos"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "subject",
+              "categoria:musicos_lgbt_dos_estados_unidos"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageexternallink",
+              "www.lancebass.com"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageexternallink",
+              4
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageexternallink",
+              "basslance"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28,
+          "bind_control": {
+            "binds": {
+              "lance_bass": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lance_bass",
+              "wikipageexternallink",
+              "*lance_bass"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "lance_bass"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "lance_bass": {
+                  "keyword": {
+                    "termo": "lance_bass",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lance_bass",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 714.385986328125,
+      "l_sizes": [
+        1154
+      ],
+      "total_time": 7420.759916305542
+    }
+  }
+]

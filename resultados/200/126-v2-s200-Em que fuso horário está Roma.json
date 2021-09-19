@@ -1,0 +1,1623 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "Op:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "H:prp",
+          "palavra_original": "Em",
+          "palavra_canonica": "em",
+          "tags": [
+            "<clb>",
+            "<*>"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<interr>",
+            "DET",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "fuso",
+          "palavra_canonica": "fuso",
+          "tags": [
+            "<tool>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:adj",
+          "palavra_original": "horário",
+          "palavra_canonica": "horário",
+          "tags": [
+            "<np-close>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "está",
+          "palavra_canonica": "estar",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Roma",
+          "palavra_canonica": "Roma",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "Op:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "H:prp",
+          "palavra_original": "Em",
+          "palavra_canonica": "em",
+          "tags": [
+            "<clb>",
+            "<*>"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<interr>",
+            "DET",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "fuso",
+          "palavra_canonica": "fuso",
+          "tags": [
+            "<tool>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "spindle",
+                "sinonimo": "fuso",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "spindle",
+                "sinonimo": "spindle",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:adj",
+          "palavra_original": "horário",
+          "palavra_canonica": "horário",
+          "tags": [
+            "<np-close>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "está",
+          "palavra_canonica": "estar",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Roma",
+          "palavra_canonica": "Roma",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 10,
+          "tag_inicial": "?",
+          "palavra_original": " ",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "[ [ QUE:fcl|1| [ Op:pp|2| [H:prp|3| Em] [ DP:np|4| [DN:pron-int|5| que] [H:n|6| fuso] [DN:adj|7| horário] ] ] [P:v-fin|8| está] [S:prop|9| Roma] [?|10|  ] ] ]",
+      "tipo": {
+        "tipo": "em_que",
+        "confianca": 0.85,
+        "ids": [
+          3,
+          5
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "fuso",
+          "palavra_canonica": "fuso",
+          "tags": [
+            "<tool>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "spindle",
+                "sinonimo": "fuso",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "spindle",
+                "sinonimo": "spindle",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              }
+            ]
+          }
+        },
+        {
+          "id": 9,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Roma",
+          "palavra_canonica": "Roma",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 6,
+            "tag_inicial": "H:n",
+            "palavra_original": "fuso",
+            "palavra_canonica": "fuso",
+            "tags": [
+              "<tool>",
+              "M",
+              "S"
+            ],
+            "nivel": 3,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "spindle",
+                  "sinonimo": "fuso",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "spindle",
+                  "sinonimo": "spindle",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 7,
+            "tag_inicial": "DN:adj",
+            "palavra_original": "horário",
+            "palavra_canonica": "horário",
+            "tags": [
+              "<np-close>",
+              "M",
+              "S"
+            ],
+            "nivel": 3,
+            "sinonimos": null
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*roma",
+              "owl#sameas",
+              "q220"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "roma"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "roma": {
+                  "keyword": {
+                    "termo": "roma",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "roma",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "roma": "-261"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*roma",
+              "owl#sameas",
+              "rome"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "roma"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "roma": {
+                  "keyword": {
+                    "termo": "roma",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "roma",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "roma": "-261"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*roma",
+              "owl#sameas",
+              "rom"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "roma"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "roma": {
+                  "keyword": {
+                    "termo": "roma",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "roma",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "roma": "-261"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*roma",
+              "owl#sameas",
+              4
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "roma"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "roma": {
+                  "keyword": {
+                    "termo": "roma",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "roma",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "roma": "-261"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*roma",
+              "owl#sameas",
+              "*roma"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "roma"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "roma": {
+                  "keyword": {
+                    "termo": "roma",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "roma",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*roma",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "roma"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "roma": {
+                  "keyword": {
+                    "termo": "roma",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "roma",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "roma": "-261"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*roma",
+              "owl#sameas",
+              "rim"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "roma"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "roma": {
+                  "keyword": {
+                    "termo": "roma",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "roma",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6,
+          "bind_control": {
+            "binds": {
+              "roma": "-261"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*roma",
+              "owl#sameas",
+              "rhufain"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "roma"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "roma": {
+                  "keyword": {
+                    "termo": "roma",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "roma",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7,
+          "bind_control": {
+            "binds": {
+              "roma": "-261"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*roma",
+              "owl#sameas",
+              "romo"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "roma"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "roma": {
+                  "keyword": {
+                    "termo": "roma",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "roma",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8,
+          "bind_control": {
+            "binds": {
+              "roma": "-261"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*roma",
+              "owl#sameas",
+              "rooma"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "roma"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "roma": {
+                  "keyword": {
+                    "termo": "roma",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "roma",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9,
+          "bind_control": {
+            "binds": {
+              "roma": "-261"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*roma",
+              "owl#sameas",
+              "*erroma"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "roma"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "roma": {
+                  "keyword": {
+                    "termo": "roma",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "roma",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*roma",
+              "owl#sameas",
+              "rome_(sted)"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "roma"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "roma": {
+                  "keyword": {
+                    "termo": "roma",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "roma",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11,
+          "bind_control": {
+            "binds": {
+              "roma": "-261"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*roma",
+              "owl#sameas",
+              "an_roimh"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "roma"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "roma": {
+                  "keyword": {
+                    "termo": "roma",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "roma",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12,
+          "bind_control": {
+            "binds": {
+              "roma": "-261"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*roma",
+              "owl#sameas",
+              "roum"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "roma"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "roma": {
+                  "keyword": {
+                    "termo": "roma",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "roma",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13,
+          "bind_control": {
+            "binds": {
+              "roma": "-261"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*roma",
+              "owl#sameas",
+              "roeme"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "roma"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "roma": {
+                  "keyword": {
+                    "termo": "roma",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "roma",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14,
+          "bind_control": {
+            "binds": {
+              "roma": "-261"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*roma",
+              "owl#sameas",
+              "romma"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "roma"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "roma": {
+                  "keyword": {
+                    "termo": "roma",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "roma",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15,
+          "bind_control": {
+            "binds": {
+              "roma": "-261"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*roma",
+              "owl#sameas",
+              "rome_(stad)"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "roma"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "roma": {
+                  "keyword": {
+                    "termo": "roma",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "roma",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16,
+          "bind_control": {
+            "binds": {
+              "roma": "-261"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*roma",
+              "owl#sameas",
+              "rzym"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "roma"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "roma": {
+                  "keyword": {
+                    "termo": "roma",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "roma",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17,
+          "bind_control": {
+            "binds": {
+              "roma": "-261"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*roma",
+              "owl#sameas",
+              "_()"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "roma"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "roma": {
+                  "keyword": {
+                    "termo": "roma",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "roma",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18,
+          "bind_control": {
+            "binds": {
+              "roma": "-261"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*roma",
+              "owl#sameas",
+              "romu"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "roma"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "roma": {
+                  "keyword": {
+                    "termo": "roma",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "roma",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19,
+          "bind_control": {
+            "binds": {
+              "roma": "-261"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*roma",
+              "regiao",
+              "lacio"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "roma"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "roma": {
+                  "keyword": {
+                    "termo": "roma",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "roma",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20,
+          "bind_control": {
+            "binds": {
+              "roma": "-261"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*roma",
+              "nome",
+              "*roma"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "roma"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "roma": {
+                  "keyword": {
+                    "termo": "roma",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "roma",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*roma",
+              "area",
+              "1285"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "roma"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "roma": {
+                  "keyword": {
+                    "termo": "roma",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "roma",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22,
+          "bind_control": {
+            "binds": {
+              "roma": "-261"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*roma",
+              "populacao",
+              "2546804"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "roma"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "roma": {
+                  "keyword": {
+                    "termo": "roma",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "roma",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23,
+          "bind_control": {
+            "binds": {
+              "roma": "-261"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*roma",
+              "cap",
+              "100"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "roma"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "roma": {
+                  "keyword": {
+                    "termo": "roma",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "roma",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24,
+          "bind_control": {
+            "binds": {
+              "roma": "-261"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*roma",
+              "preftel",
+              "6"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "roma"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "roma": {
+                  "keyword": {
+                    "termo": "roma",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "roma",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25,
+          "bind_control": {
+            "binds": {
+              "roma": "-261"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*roma",
+              "istat",
+              "58091"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "roma"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "roma": {
+                  "keyword": {
+                    "termo": "roma",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "roma",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26,
+          "bind_control": {
+            "binds": {
+              "roma": "-261"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*roma",
+              "nomepatrono",
+              "sao pedro e sao paulo"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "roma"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "roma": {
+                  "keyword": {
+                    "termo": "roma",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "roma",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27,
+          "bind_control": {
+            "binds": {
+              "roma": "-261"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*roma",
+              "site",
+              4
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "roma"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "roma": {
+                  "keyword": {
+                    "termo": "roma",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "roma",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28,
+          "bind_control": {
+            "binds": {
+              "roma": "-261"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*roma",
+              "nome",
+              "*centro historico de roma, propriedades da santa se e basilica de sao paulo extramuros"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "roma"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "roma": {
+                  "keyword": {
+                    "termo": "roma",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "roma",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 2591.569423675537,
+      "l_sizes": [
+        12823
+      ],
+      "total_time": 25794.27695274353
+    }
+  }
+]

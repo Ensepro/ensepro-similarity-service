@@ -1,0 +1,1412 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "Quantas",
+          "palavra_canonica": "quanto",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "<quant>",
+            "DET",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "lojas",
+          "palavra_canonica": "loja",
+          "tags": [
+            "<inst>",
+            "<Lh>",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "Aldi",
+          "palavra_canonica": "Aldi",
+          "tags": [
+            "<inst>",
+            "<*>",
+            "<np-close>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "existem",
+          "palavra_canonica": "existir",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3P",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 3,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "Quantas",
+          "palavra_canonica": "quanto",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "<quant>",
+            "DET",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Aldi",
+          "palavra_canonica": "Aldi",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "existem",
+          "palavra_canonica": "existir",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3P",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "quanto",
+        "confianca": 0.95,
+        "ids": [
+          3
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 4,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Aldi",
+          "palavra_canonica": "Aldi",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*aldi",
+              "owl#sameas",
+              "q125054"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "aldi"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "aldi": {
+                  "keyword": {
+                    "termo": "aldi",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "aldi",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "aldi": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*aldi",
+              "owl#sameas",
+              "*aldi"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "aldi"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "aldi": {
+                  "keyword": {
+                    "termo": "aldi",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "aldi",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*aldi",
+              "owl#sameas",
+              "*aldi"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "aldi"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "aldi": {
+                  "keyword": {
+                    "termo": "aldi",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "aldi",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*aldi",
+              "owl#sameas",
+              4
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "aldi"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "aldi": {
+                  "keyword": {
+                    "termo": "aldi",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "aldi",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "aldi": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*aldi",
+              "wikipageusestemplate",
+              "empresa"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "aldi"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "aldi": {
+                  "keyword": {
+                    "termo": "aldi",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "aldi",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4,
+          "bind_control": {
+            "binds": {
+              "aldi": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*aldi",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "aldi"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "aldi": {
+                  "keyword": {
+                    "termo": "aldi",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "aldi",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "aldi": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*aldi",
+              "wikipageusestemplate",
+              "predefinicao:link"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "aldi"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "aldi": {
+                  "keyword": {
+                    "termo": "aldi",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "aldi",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6,
+          "bind_control": {
+            "binds": {
+              "aldi": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*aldi",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "aldi"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "aldi": {
+                  "keyword": {
+                    "termo": "aldi",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "aldi",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7,
+          "bind_control": {
+            "binds": {
+              "aldi": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*aldi",
+              "wikipageusestemplate",
+              "predefinicao:esboco_empresa"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "aldi"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "aldi": {
+                  "keyword": {
+                    "termo": "aldi",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "aldi",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8,
+          "bind_control": {
+            "binds": {
+              "aldi": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*aldi",
+              "depiction",
+              "*aldi_zurmaiener_strae.jpg"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "aldi"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "aldi": {
+                  "keyword": {
+                    "termo": "aldi",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "aldi",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*aldi",
+              "thumbnail",
+              "*aldi_zurmaiener_strae.jpg?width=300"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "aldi"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "aldi": {
+                  "keyword": {
+                    "termo": "aldi",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "aldi",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*aldi",
+              "wikipageusestemplate",
+              "predefinicao:dtlink"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "aldi"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "aldi": {
+                  "keyword": {
+                    "termo": "aldi",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "aldi",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11,
+          "bind_control": {
+            "binds": {
+              "aldi": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*aldi",
+              "wikipageusestemplate",
+              "predefinicao:increase"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "aldi"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "aldi": {
+                  "keyword": {
+                    "termo": "aldi",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "aldi",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12,
+          "bind_control": {
+            "binds": {
+              "aldi": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*aldi",
+              "subject",
+              "categoria:multinacionais_da_alemanha"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "aldi"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "aldi": {
+                  "keyword": {
+                    "termo": "aldi",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "aldi",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13,
+          "bind_control": {
+            "binds": {
+              "aldi": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*aldi",
+              "subject",
+              "categoria:essen"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "aldi"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "aldi": {
+                  "keyword": {
+                    "termo": "aldi",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "aldi",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14,
+          "bind_control": {
+            "binds": {
+              "aldi": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*aldi",
+              "subject",
+              "categoria:marcas_da_alemanha"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "aldi"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "aldi": {
+                  "keyword": {
+                    "termo": "aldi",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "aldi",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15,
+          "bind_control": {
+            "binds": {
+              "aldi": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*aldi",
+              "wikipageexternallink",
+              4
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "aldi"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "aldi": {
+                  "keyword": {
+                    "termo": "aldi",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "aldi",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16,
+          "bind_control": {
+            "binds": {
+              "aldi": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*aldi",
+              "homepage",
+              4
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "aldi"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "aldi": {
+                  "keyword": {
+                    "termo": "aldi",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "aldi",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17,
+          "bind_control": {
+            "binds": {
+              "aldi": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*aldi",
+              "owl#sameas",
+              "m.0246n2"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "aldi"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "aldi": {
+                  "keyword": {
+                    "termo": "aldi",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "aldi",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18,
+          "bind_control": {
+            "binds": {
+              "aldi": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*aldi",
+              "abstract",
+              "*a aldi (abreviatura de albrecht-discount) e uma multinacional alema, uma das maiores cadeias de supermercados do mundo, com sede em essen (aldi-nord, norte) e mulheim (aldi-sud, sul), alemanha. foi fundada em 1913 em essen, pela familia albrecht, como uma pequena loja de venda de alimentos. apos a segunda guerra mundial a sua existencia foi assegurada pelos irmaos karl e theo albrecht, que ate hoje sao os seus proprietarios. em todo o mundo, aldi nord e aldi sud juntos tem mais de 10.000 lojas e aproximadamente  66,8 bilhoes em vendas anuais. a aldi tem um total de 48 supermercados em portugal (junho de 2016)."
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "aldi"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "aldi": {
+                  "keyword": {
+                    "termo": "aldi",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "aldi",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*aldi",
+              "type",
+              "empresa_privada"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "aldi"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "aldi": {
+                  "keyword": {
+                    "termo": "aldi",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "aldi",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20,
+          "bind_control": {
+            "binds": {
+              "aldi": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*aldi",
+              "location",
+              "essen"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "aldi"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "aldi": {
+                  "keyword": {
+                    "termo": "aldi",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "aldi",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21,
+          "bind_control": {
+            "binds": {
+              "aldi": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*aldi",
+              "location",
+              "mulheim"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "aldi"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "aldi": {
+                  "keyword": {
+                    "termo": "aldi",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "aldi",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22,
+          "bind_control": {
+            "binds": {
+              "aldi": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*aldi",
+              "regionserved",
+              "multinacional"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "aldi"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "aldi": {
+                  "keyword": {
+                    "termo": "aldi",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "aldi",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23,
+          "bind_control": {
+            "binds": {
+              "aldi": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*aldi",
+              "industry",
+              "varejo"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "aldi"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "aldi": {
+                  "keyword": {
+                    "termo": "aldi",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "aldi",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24,
+          "bind_control": {
+            "binds": {
+              "aldi": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*aldi",
+              "product",
+              "lojas_de_departamentos"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "aldi"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "aldi": {
+                  "keyword": {
+                    "termo": "aldi",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "aldi",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25,
+          "bind_control": {
+            "binds": {
+              "aldi": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*aldi",
+              "rdf_schema#label",
+              "*aldi"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "aldi"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "aldi": {
+                  "keyword": {
+                    "termo": "aldi",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "aldi",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*aldi",
+              "imagem",
+              "*aldi zurmaiener strae.jpg"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "aldi"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "aldi": {
+                  "keyword": {
+                    "termo": "aldi",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "aldi",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*aldi",
+              "imagemtamanho",
+              "250"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "aldi"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "aldi": {
+                  "keyword": {
+                    "termo": "aldi",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "aldi",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28,
+          "bind_control": {
+            "binds": {
+              "aldi": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*aldi",
+              "imagemlegenda",
+              "*aldi em trier."
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "aldi"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "aldi": {
+                  "keyword": {
+                    "termo": "aldi",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "aldi",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 686149800,
+      "total_time": 7337263200
+    }
+  }
+]

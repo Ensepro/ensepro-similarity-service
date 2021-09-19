@@ -1,0 +1,2691 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "Cs:pron-int",
+          "palavra_original": "Qual",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "é",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "código",
+          "palavra_canonica": "código",
+          "tags": [
+            "<sem-r>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "H:n",
+          "palavra_original": "área",
+          "palavra_canonica": "área",
+          "tags": [
+            "<L>",
+            "<Lh>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<np-close>"
+          ],
+          "nivel": 5,
+          "sinonimos": null
+        },
+        {
+          "id": 13,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Berlin",
+          "palavra_canonica": "Berlin",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 5,
+          "sinonimos": null
+        },
+        {
+          "id": 14,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "Cs:pron-int",
+          "palavra_original": "Qual",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "é",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "código",
+          "palavra_canonica": "código",
+          "tags": [
+            "<sem-r>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "code",
+                "sinonimo": "Codificação",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "code",
+                "sinonimo": "Codificação_jurídica",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "code",
+                "sinonimo": "código",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "code",
+                "sinonimo": "código_secreto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "code",
+                "sinonimo": "Codificacao",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "code",
+                "sinonimo": "escrita_secreta",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "code",
+                "sinonimo": "códigos",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "code",
+                "sinonimo": "computer_code",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "coding_system",
+                "sinonimo": "coding_system",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "code",
+                "sinonimo": "code",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "code",
+                "sinonimo": "codification",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "H:n",
+          "palavra_original": "área",
+          "palavra_canonica": "área",
+          "tags": [
+            "<L>",
+            "<Lh>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "topographic_point",
+                "sinonimo": "região",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "zone",
+                "sinonimo": "zona",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "topographic_point",
+                "sinonimo": "área",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "territory",
+                "sinonimo": "territory",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "topographic_point",
+                "sinonimo": "topographic_point",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "topographic_point",
+                "sinonimo": "spot",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "zone",
+                "sinonimo": "zone",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "topographic_point",
+                "sinonimo": "place",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 11,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<np-close>"
+          ],
+          "nivel": 5,
+          "sinonimos": null
+        },
+        {
+          "id": 13,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Berlim",
+          "palavra_canonica": "Berlim",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 5,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 14,
+          "tag_inicial": "?",
+          "palavra_original": " ",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "[ [ QUE:fcl|1| [Cs:pron-int|2| Qual] [P:v-fin|3| é] [ S:np|4| [DN:art|5| o] [H:n|6| código] [ DN:pp|7| [H:prp|8| de] [ DP:np|9| [H:n|10| área] [ DN:pp|11| [H:prp|12| de] [DP:prop|13| Berlim] ] ] ] ] [?|14|  ] ] ]",
+      "tipo": {
+        "tipo": "qual",
+        "confianca": 0.9,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "código",
+          "palavra_canonica": "código",
+          "tags": [
+            "<sem-r>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "code",
+                "sinonimo": "Codificação",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "code",
+                "sinonimo": "Codificação_jurídica",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "code",
+                "sinonimo": "código",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "code",
+                "sinonimo": "código_secreto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "code",
+                "sinonimo": "Codificacao",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "code",
+                "sinonimo": "escrita_secreta",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "code",
+                "sinonimo": "códigos",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "code",
+                "sinonimo": "computer_code",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "coding_system",
+                "sinonimo": "coding_system",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "code",
+                "sinonimo": "code",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "code",
+                "sinonimo": "codification",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 10,
+          "tag_inicial": "H:n",
+          "palavra_original": "área",
+          "palavra_canonica": "área",
+          "tags": [
+            "<L>",
+            "<Lh>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "topographic_point",
+                "sinonimo": "região",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "zone",
+                "sinonimo": "zona",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "topographic_point",
+                "sinonimo": "área",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "territory",
+                "sinonimo": "territory",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "topographic_point",
+                "sinonimo": "topographic_point",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "topographic_point",
+                "sinonimo": "spot",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "zone",
+                "sinonimo": "zone",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "topographic_point",
+                "sinonimo": "place",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 13,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Berlim",
+          "palavra_canonica": "Berlim",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 5,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 6,
+            "tag_inicial": "H:n",
+            "palavra_original": "código",
+            "palavra_canonica": "código",
+            "tags": [
+              "<sem-r>",
+              "M",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "code",
+                  "sinonimo": "Codificação",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "code",
+                  "sinonimo": "Codificação_jurídica",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "code",
+                  "sinonimo": "código",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "code",
+                  "sinonimo": "código_secreto",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "code",
+                  "sinonimo": "Codificacao",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "code",
+                  "sinonimo": "escrita_secreta",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "code",
+                  "sinonimo": "códigos",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "code",
+                  "sinonimo": "computer_code",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "coding_system",
+                  "sinonimo": "coding_system",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "code",
+                  "sinonimo": "code",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "code",
+                  "sinonimo": "codification",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 10,
+            "tag_inicial": "H:n",
+            "palavra_original": "área",
+            "palavra_canonica": "área",
+            "tags": [
+              "<L>",
+              "<Lh>",
+              "F",
+              "S"
+            ],
+            "nivel": 4,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "topographic_point",
+                  "sinonimo": "região",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "zone",
+                  "sinonimo": "zona",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "topographic_point",
+                  "sinonimo": "área",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "territory",
+                  "sinonimo": "territory",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "topographic_point",
+                  "sinonimo": "topographic_point",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "topographic_point",
+                  "sinonimo": "spot",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "zone",
+                  "sinonimo": "zone",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "topographic_point",
+                  "sinonimo": "place",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "nome": {
+            "id": 10,
+            "tag_inicial": "H:n",
+            "palavra_original": "área",
+            "palavra_canonica": "área",
+            "tags": [
+              "<L>",
+              "<Lh>",
+              "F",
+              "S"
+            ],
+            "nivel": 4,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "topographic_point",
+                  "sinonimo": "região",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "zone",
+                  "sinonimo": "zona",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "topographic_point",
+                  "sinonimo": "área",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "territory",
+                  "sinonimo": "territory",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "topographic_point",
+                  "sinonimo": "topographic_point",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "topographic_point",
+                  "sinonimo": "spot",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "zone",
+                  "sinonimo": "zone",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "topographic_point",
+                  "sinonimo": "place",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 13,
+            "tag_inicial": "DP:prop",
+            "palavra_original": "Berlim",
+            "palavra_canonica": "Berlim",
+            "tags": [
+              "<civ>",
+              "<*>",
+              "M",
+              "S"
+            ],
+            "nivel": 5,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*berlim",
+              "*area",
+              "891.82"
+            ],
+            [
+              "*berlim",
+              "*codigopostal",
+              "10001"
+            ]
+          ],
+          "score": 15.272118,
+          "detail": {
+            "keywords": [
+              "area",
+              "berlim",
+              "codigo"
+            ],
+            "score_detail": {
+              "m1": 13.772118,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "area": {
+                  "keyword": {
+                    "termo": "area",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "area",
+                  "score": 2.0
+                },
+                "codigo": {
+                  "keyword": {
+                    "termo": "codigo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "codigopostal",
+                  "score": 1.7721173
+                },
+                "berlim": {
+                  "keyword": {
+                    "termo": "berlim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "berlim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "berlim": "-93",
+              "area": "-219",
+              "codigo": "-196"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*berlim",
+              "*codigopostal",
+              "10001"
+            ],
+            [
+              "*berlim",
+              "*area",
+              "891.82"
+            ]
+          ],
+          "score": 15.272118,
+          "detail": {
+            "keywords": [
+              "codigo",
+              "berlim",
+              "area"
+            ],
+            "score_detail": {
+              "m1": 13.772118,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "area": {
+                  "keyword": {
+                    "termo": "area",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "area",
+                  "score": 2.0
+                },
+                "codigo": {
+                  "keyword": {
+                    "termo": "codigo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "codigopostal",
+                  "score": 1.7721173
+                },
+                "berlim": {
+                  "keyword": {
+                    "termo": "berlim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "berlim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*berlim",
+              "*area",
+              "891.82"
+            ],
+            [
+              "*berlim",
+              "*codigotelefone",
+              "30"
+            ]
+          ],
+          "score": 15.179828,
+          "detail": {
+            "keywords": [
+              "area",
+              "berlim",
+              "codigo"
+            ],
+            "score_detail": {
+              "m1": 13.679828,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "area": {
+                  "keyword": {
+                    "termo": "area",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "area",
+                  "score": 2.0
+                },
+                "codigo": {
+                  "keyword": {
+                    "termo": "codigo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "codigotelefone",
+                  "score": 1.6798279
+                },
+                "berlim": {
+                  "keyword": {
+                    "termo": "berlim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "berlim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "berlim": "-93",
+              "area": "-219",
+              "codigo": "-198"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*berlim",
+              "*codigotelefone",
+              "30"
+            ],
+            [
+              "*berlim",
+              "*area",
+              "891.82"
+            ]
+          ],
+          "score": 15.179828,
+          "detail": {
+            "keywords": [
+              "codigo",
+              "berlim",
+              "area"
+            ],
+            "score_detail": {
+              "m1": 13.679828,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "area": {
+                  "keyword": {
+                    "termo": "area",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "area",
+                  "score": 2.0
+                },
+                "codigo": {
+                  "keyword": {
+                    "termo": "codigo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "codigotelefone",
+                  "score": 1.6798279
+                },
+                "berlim": {
+                  "keyword": {
+                    "termo": "berlim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "berlim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*berlim",
+              "*area",
+              "891.82"
+            ],
+            [
+              "*codigo_gregoriano",
+              "local",
+              "*berlim"
+            ]
+          ],
+          "score": 15.028055,
+          "detail": {
+            "keywords": [
+              "area",
+              "berlim",
+              "codigo"
+            ],
+            "score_detail": {
+              "m1": 13.528055,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "area": {
+                  "keyword": {
+                    "termo": "area",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "area",
+                  "score": 2.0
+                },
+                "codigo": {
+                  "keyword": {
+                    "termo": "codigo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "codigo_gregoriano",
+                  "score": 1.5280555
+                },
+                "berlim": {
+                  "keyword": {
+                    "termo": "berlim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "berlim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*codigo_gregoriano",
+              "local",
+              "*berlim"
+            ],
+            [
+              "*berlim",
+              "*area",
+              "891.82"
+            ]
+          ],
+          "score": 15.028055,
+          "detail": {
+            "keywords": [
+              "codigo",
+              "berlim",
+              "area"
+            ],
+            "score_detail": {
+              "m1": 13.528055,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "area": {
+                  "keyword": {
+                    "termo": "area",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "area",
+                  "score": 2.0
+                },
+                "codigo": {
+                  "keyword": {
+                    "termo": "codigo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "codigo_gregoriano",
+                  "score": 1.5280555
+                },
+                "berlim": {
+                  "keyword": {
+                    "termo": "berlim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "berlim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*berlim",
+              "*area",
+              "891.82"
+            ],
+            [
+              "*codigo_hermogeniano",
+              "local",
+              "*berlim"
+            ]
+          ],
+          "score": 14.919737,
+          "detail": {
+            "keywords": [
+              "area",
+              "berlim",
+              "codigo"
+            ],
+            "score_detail": {
+              "m1": 13.419737,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "area": {
+                  "keyword": {
+                    "termo": "area",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "area",
+                  "score": 2.0
+                },
+                "codigo": {
+                  "keyword": {
+                    "termo": "codigo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "codigo_hermogeniano",
+                  "score": 1.4197365
+                },
+                "berlim": {
+                  "keyword": {
+                    "termo": "berlim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "berlim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*codigo_hermogeniano",
+              "local",
+              "*berlim"
+            ],
+            [
+              "*berlim",
+              "*area",
+              "891.82"
+            ]
+          ],
+          "score": 14.919737,
+          "detail": {
+            "keywords": [
+              "codigo",
+              "berlim",
+              "area"
+            ],
+            "score_detail": {
+              "m1": 13.419737,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "area": {
+                  "keyword": {
+                    "termo": "area",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "area",
+                  "score": 2.0
+                },
+                "codigo": {
+                  "keyword": {
+                    "termo": "codigo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "codigo_hermogeniano",
+                  "score": 1.4197365
+                },
+                "berlim": {
+                  "keyword": {
+                    "termo": "berlim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "berlim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*berlim",
+              "*area",
+              "891.82"
+            ],
+            [
+              "*berlim",
+              "*areacode",
+              "030"
+            ]
+          ],
+          "score": 14.396037,
+          "detail": {
+            "keywords": [
+              "area",
+              "berlim",
+              "codigo"
+            ],
+            "score_detail": {
+              "m1": 12.896037,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "area": {
+                  "keyword": {
+                    "termo": "area",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "area",
+                  "score": 2.0
+                },
+                "codigo": {
+                  "keyword": {
+                    "termo": "code",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "areacode",
+                  "score": 0.8960372
+                },
+                "berlim": {
+                  "keyword": {
+                    "termo": "berlim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "berlim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*berlim",
+              "*areacode",
+              "030"
+            ],
+            [
+              "*berlim",
+              "*area",
+              "891.82"
+            ]
+          ],
+          "score": 14.396037,
+          "detail": {
+            "keywords": [
+              "codigo",
+              "berlim",
+              "area"
+            ],
+            "score_detail": {
+              "m1": 12.896037,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "area": {
+                  "keyword": {
+                    "termo": "area",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "area",
+                  "score": 2.0
+                },
+                "codigo": {
+                  "keyword": {
+                    "termo": "code",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "areacode",
+                  "score": 0.8960372
+                },
+                "berlim": {
+                  "keyword": {
+                    "termo": "berlim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "berlim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*berlim",
+              "*codigopostal",
+              "10001"
+            ],
+            [
+              "*berlim",
+              "22_rdf_syntax_ns#type",
+              "*place"
+            ]
+          ],
+          "score": 14.272118,
+          "detail": {
+            "keywords": [
+              "codigo",
+              "berlim",
+              "area"
+            ],
+            "score_detail": {
+              "m1": 12.772118,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "area": {
+                  "keyword": {
+                    "termo": "place",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "place",
+                  "score": 1.0
+                },
+                "codigo": {
+                  "keyword": {
+                    "termo": "codigo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "codigopostal",
+                  "score": 1.7721173
+                },
+                "berlim": {
+                  "keyword": {
+                    "termo": "berlim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "berlim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*berlim",
+              "*codigopostal",
+              "10001"
+            ],
+            [
+              "*batalha_de_berlim",
+              "*place",
+              "*berlim"
+            ]
+          ],
+          "score": 14.272118,
+          "detail": {
+            "keywords": [
+              "codigo",
+              "berlim",
+              "area"
+            ],
+            "score_detail": {
+              "m1": 12.772118,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "area": {
+                  "keyword": {
+                    "termo": "place",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "place",
+                  "score": 1.0
+                },
+                "codigo": {
+                  "keyword": {
+                    "termo": "codigo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "codigopostal",
+                  "score": 1.7721173
+                },
+                "berlim": {
+                  "keyword": {
+                    "termo": "berlim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "berlim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*berlim",
+              "*codigopostal",
+              "10001"
+            ],
+            [
+              "batalha_de_wittstock",
+              "*place",
+              "*berlim"
+            ]
+          ],
+          "score": 14.272118,
+          "detail": {
+            "keywords": [
+              "codigo",
+              "berlim",
+              "area"
+            ],
+            "score_detail": {
+              "m1": 12.772118,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "area": {
+                  "keyword": {
+                    "termo": "place",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "place",
+                  "score": 1.0
+                },
+                "codigo": {
+                  "keyword": {
+                    "termo": "codigo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "codigopostal",
+                  "score": 1.7721173
+                },
+                "berlim": {
+                  "keyword": {
+                    "termo": "berlim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "berlim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*berlim",
+              "*codigopostal",
+              "10001"
+            ],
+            [
+              "eurobasket_de_2015",
+              "*place",
+              "*berlim"
+            ]
+          ],
+          "score": 14.272118,
+          "detail": {
+            "keywords": [
+              "codigo",
+              "berlim",
+              "area"
+            ],
+            "score_detail": {
+              "m1": 12.772118,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "area": {
+                  "keyword": {
+                    "termo": "place",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "place",
+                  "score": 1.0
+                },
+                "codigo": {
+                  "keyword": {
+                    "termo": "codigo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "codigopostal",
+                  "score": 1.7721173
+                },
+                "berlim": {
+                  "keyword": {
+                    "termo": "berlim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "berlim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*berlim",
+              "*codigopostal",
+              "10001"
+            ],
+            [
+              "final_four_2016_da_euroliga",
+              "*place",
+              "*berlim"
+            ]
+          ],
+          "score": 14.272118,
+          "detail": {
+            "keywords": [
+              "codigo",
+              "berlim",
+              "area"
+            ],
+            "score_detail": {
+              "m1": 12.772118,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "area": {
+                  "keyword": {
+                    "termo": "place",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "place",
+                  "score": 1.0
+                },
+                "codigo": {
+                  "keyword": {
+                    "termo": "codigo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "codigopostal",
+                  "score": 1.7721173
+                },
+                "berlim": {
+                  "keyword": {
+                    "termo": "berlim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "berlim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*berlim",
+              "*codigopostal",
+              "10001"
+            ],
+            [
+              "euroliga_de_201415__grupo_e",
+              "*place",
+              "*berlim"
+            ]
+          ],
+          "score": 14.272118,
+          "detail": {
+            "keywords": [
+              "codigo",
+              "berlim",
+              "area"
+            ],
+            "score_detail": {
+              "m1": 12.772118,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "area": {
+                  "keyword": {
+                    "termo": "place",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "place",
+                  "score": 1.0
+                },
+                "codigo": {
+                  "keyword": {
+                    "termo": "codigo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "codigopostal",
+                  "score": 1.7721173
+                },
+                "berlim": {
+                  "keyword": {
+                    "termo": "berlim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "berlim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*berlim",
+              "*codigopostal",
+              "10001"
+            ],
+            [
+              "final_four",
+              "*place",
+              "*berlim"
+            ]
+          ],
+          "score": 14.272118,
+          "detail": {
+            "keywords": [
+              "codigo",
+              "berlim",
+              "area"
+            ],
+            "score_detail": {
+              "m1": 12.772118,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "area": {
+                  "keyword": {
+                    "termo": "place",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "place",
+                  "score": 1.0
+                },
+                "codigo": {
+                  "keyword": {
+                    "termo": "codigo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "codigopostal",
+                  "score": 1.7721173
+                },
+                "berlim": {
+                  "keyword": {
+                    "termo": "berlim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "berlim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*berlim",
+              "22_rdf_syntax_ns#type",
+              "*place"
+            ],
+            [
+              "*berlim",
+              "*codigopostal",
+              "10001"
+            ]
+          ],
+          "score": 14.272118,
+          "detail": {
+            "keywords": [
+              "area",
+              "berlim",
+              "codigo"
+            ],
+            "score_detail": {
+              "m1": 12.772118,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "area": {
+                  "keyword": {
+                    "termo": "place",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "place",
+                  "score": 1.0
+                },
+                "codigo": {
+                  "keyword": {
+                    "termo": "codigo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "codigopostal",
+                  "score": 1.7721173
+                },
+                "berlim": {
+                  "keyword": {
+                    "termo": "berlim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "berlim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*batalha_de_berlim",
+              "*place",
+              "*berlim"
+            ],
+            [
+              "*berlim",
+              "*codigopostal",
+              "10001"
+            ]
+          ],
+          "score": 14.272118,
+          "detail": {
+            "keywords": [
+              "area",
+              "berlim",
+              "codigo"
+            ],
+            "score_detail": {
+              "m1": 12.772118,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "area": {
+                  "keyword": {
+                    "termo": "place",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "place",
+                  "score": 1.0
+                },
+                "codigo": {
+                  "keyword": {
+                    "termo": "codigo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "codigopostal",
+                  "score": 1.7721173
+                },
+                "berlim": {
+                  "keyword": {
+                    "termo": "berlim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "berlim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "batalha_de_wittstock",
+              "*place",
+              "*berlim"
+            ],
+            [
+              "*berlim",
+              "*codigopostal",
+              "10001"
+            ]
+          ],
+          "score": 14.272118,
+          "detail": {
+            "keywords": [
+              "area",
+              "berlim",
+              "codigo"
+            ],
+            "score_detail": {
+              "m1": 12.772118,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "area": {
+                  "keyword": {
+                    "termo": "place",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "place",
+                  "score": 1.0
+                },
+                "codigo": {
+                  "keyword": {
+                    "termo": "codigo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "codigopostal",
+                  "score": 1.7721173
+                },
+                "berlim": {
+                  "keyword": {
+                    "termo": "berlim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "berlim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "eurobasket_de_2015",
+              "*place",
+              "*berlim"
+            ],
+            [
+              "*berlim",
+              "*codigopostal",
+              "10001"
+            ]
+          ],
+          "score": 14.272118,
+          "detail": {
+            "keywords": [
+              "area",
+              "berlim",
+              "codigo"
+            ],
+            "score_detail": {
+              "m1": 12.772118,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "area": {
+                  "keyword": {
+                    "termo": "place",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "place",
+                  "score": 1.0
+                },
+                "codigo": {
+                  "keyword": {
+                    "termo": "codigo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "codigopostal",
+                  "score": 1.7721173
+                },
+                "berlim": {
+                  "keyword": {
+                    "termo": "berlim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "berlim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "final_four_2016_da_euroliga",
+              "*place",
+              "*berlim"
+            ],
+            [
+              "*berlim",
+              "*codigopostal",
+              "10001"
+            ]
+          ],
+          "score": 14.272118,
+          "detail": {
+            "keywords": [
+              "area",
+              "berlim",
+              "codigo"
+            ],
+            "score_detail": {
+              "m1": 12.772118,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "area": {
+                  "keyword": {
+                    "termo": "place",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "place",
+                  "score": 1.0
+                },
+                "codigo": {
+                  "keyword": {
+                    "termo": "codigo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "codigopostal",
+                  "score": 1.7721173
+                },
+                "berlim": {
+                  "keyword": {
+                    "termo": "berlim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "berlim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "euroliga_de_201415__grupo_e",
+              "*place",
+              "*berlim"
+            ],
+            [
+              "*berlim",
+              "*codigopostal",
+              "10001"
+            ]
+          ],
+          "score": 14.272118,
+          "detail": {
+            "keywords": [
+              "area",
+              "berlim",
+              "codigo"
+            ],
+            "score_detail": {
+              "m1": 12.772118,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "area": {
+                  "keyword": {
+                    "termo": "place",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "place",
+                  "score": 1.0
+                },
+                "codigo": {
+                  "keyword": {
+                    "termo": "codigo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "codigopostal",
+                  "score": 1.7721173
+                },
+                "berlim": {
+                  "keyword": {
+                    "termo": "berlim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "berlim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "final_four",
+              "*place",
+              "*berlim"
+            ],
+            [
+              "*berlim",
+              "*codigopostal",
+              "10001"
+            ]
+          ],
+          "score": 14.272118,
+          "detail": {
+            "keywords": [
+              "area",
+              "berlim",
+              "codigo"
+            ],
+            "score_detail": {
+              "m1": 12.772118,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "area": {
+                  "keyword": {
+                    "termo": "place",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "place",
+                  "score": 1.0
+                },
+                "codigo": {
+                  "keyword": {
+                    "termo": "codigo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "codigopostal",
+                  "score": 1.7721173
+                },
+                "berlim": {
+                  "keyword": {
+                    "termo": "berlim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "berlim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*berlim",
+              "*codigotelefone",
+              "30"
+            ],
+            [
+              "*berlim",
+              "22_rdf_syntax_ns#type",
+              "*place"
+            ]
+          ],
+          "score": 14.179828,
+          "detail": {
+            "keywords": [
+              "codigo",
+              "berlim",
+              "area"
+            ],
+            "score_detail": {
+              "m1": 12.679828,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "area": {
+                  "keyword": {
+                    "termo": "place",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "place",
+                  "score": 1.0
+                },
+                "codigo": {
+                  "keyword": {
+                    "termo": "codigo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "codigotelefone",
+                  "score": 1.6798279
+                },
+                "berlim": {
+                  "keyword": {
+                    "termo": "berlim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "berlim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*berlim",
+              "*codigotelefone",
+              "30"
+            ],
+            [
+              "*batalha_de_berlim",
+              "*place",
+              "*berlim"
+            ]
+          ],
+          "score": 14.179828,
+          "detail": {
+            "keywords": [
+              "codigo",
+              "berlim",
+              "area"
+            ],
+            "score_detail": {
+              "m1": 12.679828,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "area": {
+                  "keyword": {
+                    "termo": "place",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "place",
+                  "score": 1.0
+                },
+                "codigo": {
+                  "keyword": {
+                    "termo": "codigo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "codigotelefone",
+                  "score": 1.6798279
+                },
+                "berlim": {
+                  "keyword": {
+                    "termo": "berlim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "berlim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*berlim",
+              "*codigotelefone",
+              "30"
+            ],
+            [
+              "batalha_de_wittstock",
+              "*place",
+              "*berlim"
+            ]
+          ],
+          "score": 14.179828,
+          "detail": {
+            "keywords": [
+              "codigo",
+              "berlim",
+              "area"
+            ],
+            "score_detail": {
+              "m1": 12.679828,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "area": {
+                  "keyword": {
+                    "termo": "place",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "place",
+                  "score": 1.0
+                },
+                "codigo": {
+                  "keyword": {
+                    "termo": "codigo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "codigotelefone",
+                  "score": 1.6798279
+                },
+                "berlim": {
+                  "keyword": {
+                    "termo": "berlim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "berlim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*berlim",
+              "*codigotelefone",
+              "30"
+            ],
+            [
+              "eurobasket_de_2015",
+              "*place",
+              "*berlim"
+            ]
+          ],
+          "score": 14.179828,
+          "detail": {
+            "keywords": [
+              "codigo",
+              "berlim",
+              "area"
+            ],
+            "score_detail": {
+              "m1": 12.679828,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "area": {
+                  "keyword": {
+                    "termo": "place",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "place",
+                  "score": 1.0
+                },
+                "codigo": {
+                  "keyword": {
+                    "termo": "codigo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "codigotelefone",
+                  "score": 1.6798279
+                },
+                "berlim": {
+                  "keyword": {
+                    "termo": "berlim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "berlim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*berlim",
+              "*codigotelefone",
+              "30"
+            ],
+            [
+              "final_four_2016_da_euroliga",
+              "*place",
+              "*berlim"
+            ]
+          ],
+          "score": 14.179828,
+          "detail": {
+            "keywords": [
+              "codigo",
+              "berlim",
+              "area"
+            ],
+            "score_detail": {
+              "m1": 12.679828,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "area": {
+                  "keyword": {
+                    "termo": "place",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "place",
+                  "score": 1.0
+                },
+                "codigo": {
+                  "keyword": {
+                    "termo": "codigo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "codigotelefone",
+                  "score": 1.6798279
+                },
+                "berlim": {
+                  "keyword": {
+                    "termo": "berlim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "berlim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*berlim",
+              "*codigotelefone",
+              "30"
+            ],
+            [
+              "euroliga_de_201415__grupo_e",
+              "*place",
+              "*berlim"
+            ]
+          ],
+          "score": 14.179828,
+          "detail": {
+            "keywords": [
+              "codigo",
+              "berlim",
+              "area"
+            ],
+            "score_detail": {
+              "m1": 12.679828,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "area": {
+                  "keyword": {
+                    "termo": "place",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "place",
+                  "score": 1.0
+                },
+                "codigo": {
+                  "keyword": {
+                    "termo": "codigo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "codigotelefone",
+                  "score": 1.6798279
+                },
+                "berlim": {
+                  "keyword": {
+                    "termo": "berlim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "berlim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 13206309200,
+      "total_time": 25377792900
+    }
+  }
+]

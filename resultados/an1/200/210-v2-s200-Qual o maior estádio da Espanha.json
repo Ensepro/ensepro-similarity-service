@@ -1,0 +1,2161 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "X:par",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "CJT:pron-int",
+          "palavra_original": "Qual",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<cjt-head>",
+            "<cjt-head-X>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "CJT:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:adj",
+          "palavra_original": "maior",
+          "palavra_canonica": "grande",
+          "tags": [
+            "<KOMP>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "estádio",
+          "palavra_canonica": "estádio",
+          "tags": [
+            "<cjt-X>",
+            "<Lh>",
+            "<Labs>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<sam->",
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<-sam>",
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Espanha",
+          "palavra_canonica": "Espanha",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "X:par",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "CJT:pron-int",
+          "palavra_original": "Qual",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<cjt-head>",
+            "<cjt-head-X>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "CJT:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:adj",
+          "palavra_original": "maior",
+          "palavra_canonica": "grande",
+          "tags": [
+            "<KOMP>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "estádio",
+          "palavra_canonica": "estádio",
+          "tags": [
+            "<cjt-X>",
+            "<Lh>",
+            "<Labs>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "stadium",
+                "sinonimo": "Estádios",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "stadium",
+                "sinonimo": "estádio",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "stadium",
+                "sinonimo": "bowl",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "stadium",
+                "sinonimo": "arena",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "stadium",
+                "sinonimo": "sports_stadium",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "stadium",
+                "sinonimo": "stadium",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<sam->",
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<-sam>",
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Espanha",
+          "palavra_canonica": "Espanha",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 12,
+          "tag_inicial": "?",
+          "palavra_original": " ",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "[ [ X:par|1| [CJT:pron-int|2| Qual] [ CJT:np|3| [DN:art|4| o] [DN:adj|5| maior] [H:n|6| estádio] [ DN:pp|7| [H:prp|8| de] [ DP:np|9| [DN:art|10| a] [H:prop|11| Espanha] ] ] ] [?|12|  ] ] ]",
+      "tipo": {
+        "tipo": "qual",
+        "confianca": 0.64,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "estádio",
+          "palavra_canonica": "estádio",
+          "tags": [
+            "<cjt-X>",
+            "<Lh>",
+            "<Labs>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "stadium",
+                "sinonimo": "Estádios",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "stadium",
+                "sinonimo": "estádio",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "stadium",
+                "sinonimo": "bowl",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "stadium",
+                "sinonimo": "arena",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "stadium",
+                "sinonimo": "sports_stadium",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "stadium",
+                "sinonimo": "stadium",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 11,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Espanha",
+          "palavra_canonica": "Espanha",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 6,
+            "tag_inicial": "H:n",
+            "palavra_original": "estádio",
+            "palavra_canonica": "estádio",
+            "tags": [
+              "<cjt-X>",
+              "<Lh>",
+              "<Labs>",
+              "M",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "stadium",
+                  "sinonimo": "Estádios",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "stadium",
+                  "sinonimo": "estádio",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "stadium",
+                  "sinonimo": "bowl",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "stadium",
+                  "sinonimo": "arena",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "stadium",
+                  "sinonimo": "sports_stadium",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "stadium",
+                  "sinonimo": "stadium",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 5,
+            "tag_inicial": "DN:adj",
+            "palavra_original": "maior",
+            "palavra_canonica": "grande",
+            "tags": [
+              "<KOMP>",
+              "M",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": null
+          }
+        },
+        {
+          "nome": {
+            "id": 6,
+            "tag_inicial": "H:n",
+            "palavra_original": "estádio",
+            "palavra_canonica": "estádio",
+            "tags": [
+              "<cjt-X>",
+              "<Lh>",
+              "<Labs>",
+              "M",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "stadium",
+                  "sinonimo": "Estádios",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "stadium",
+                  "sinonimo": "estádio",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "stadium",
+                  "sinonimo": "bowl",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "stadium",
+                  "sinonimo": "arena",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "stadium",
+                  "sinonimo": "sports_stadium",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "stadium",
+                  "sinonimo": "stadium",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 11,
+            "tag_inicial": "H:prop",
+            "palavra_original": "Espanha",
+            "palavra_canonica": "Espanha",
+            "tags": [
+              "<civ>",
+              "<*>",
+              "F",
+              "S"
+            ],
+            "nivel": 4,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "copa_intercontinental_de_1964",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "estadio": "-3119",
+              "espanha": "-987"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "liga_dos_campeoes_da_uefa_de_200910__play_off_de_qualificacao",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "estadio": "-3119",
+              "espanha": "-987"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "copa_do_mundo_de_futsal_de_1996",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "estadio": "-3119",
+              "espanha": "-987"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "copa_intercontinental_de_1966",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "estadio": "-3119",
+              "espanha": "-987"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "copa_intercontinental_de_1964",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "estadio": "-3119",
+              "espanha": "-987"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "liga_dos_campeoes_da_uefa_de_200910__play_off_de_qualificacao",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "estadio": "-3119",
+              "espanha": "-987"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "copa_do_mundo_de_futsal_de_1996",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "estadio": "-3119",
+              "espanha": "-987"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "copa_intercontinental_de_1966",
+              "*estadio",
+              "*espanha"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "estadio": "-3119",
+              "espanha": "-987"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*estadio_anoeta",
+              "local",
+              "*espanha"
+            ]
+          ],
+          "score": 13.427958,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 11.761291,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio_anoeta",
+                  "score": 1.7612904
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*estadio_de_atocha",
+              "local",
+              "*espanha"
+            ]
+          ],
+          "score": 13.295759,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 11.629092,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio_de_atocha",
+                  "score": 1.6290922
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*estadio_reino_de_leon",
+              "local",
+              "*espanha"
+            ]
+          ],
+          "score": 13.095603,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 11.428936,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio_reino_de_leon",
+                  "score": 1.428936
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*estacao_estadio_olimpico",
+              "pais",
+              "*espanha"
+            ]
+          ],
+          "score": 12.933123,
+          "detail": {
+            "keywords": [
+              "estadio",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 11.266456,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estacao_estadio_olimpico",
+                  "score": 1.2664558
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*espanha",
+              "*maiorcidade",
+              "madrid"
+            ]
+          ],
+          "score": 12.666667,
+          "detail": {
+            "keywords": [
+              "maior",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "maior": {
+                  "keyword": {
+                    "termo": "maior",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "maiorcidade",
+                  "score": 1.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*grande_premio_da_espanha_de_2006",
+              "local",
+              "*espanha"
+            ]
+          ],
+          "score": 12.666667,
+          "detail": {
+            "keywords": [
+              "espanha",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "grande_premio_da_espanha_de_2006",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*grande_premio_da_espanha_de_2006",
+              "poleorigem",
+              "*espanha"
+            ]
+          ],
+          "score": 12.666667,
+          "detail": {
+            "keywords": [
+              "espanha",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "grande_premio_da_espanha_de_2006",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*grande_premio_da_espanha_de_2006",
+              "primeiropilotoorigem",
+              "*espanha"
+            ]
+          ],
+          "score": 12.666667,
+          "detail": {
+            "keywords": [
+              "espanha",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "grande_premio_da_espanha_de_2006",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*grande_premio_da_europa_de_2010",
+              "local",
+              "*espanha"
+            ]
+          ],
+          "score": 12.666667,
+          "detail": {
+            "keywords": [
+              "espanha",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "grande_premio_da_europa_de_2010",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*grande_premio_da_europa_de_2009",
+              "local",
+              "*espanha"
+            ]
+          ],
+          "score": 12.666667,
+          "detail": {
+            "keywords": [
+              "espanha",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "grande_premio_da_europa_de_2009",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*grande_premio_da_espanha_de_2009",
+              "local",
+              "*espanha"
+            ]
+          ],
+          "score": 12.666667,
+          "detail": {
+            "keywords": [
+              "espanha",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "grande_premio_da_espanha_de_2009",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*grande_premio_da_europa_de_1997",
+              "local",
+              "*espanha"
+            ]
+          ],
+          "score": 12.666667,
+          "detail": {
+            "keywords": [
+              "espanha",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "grande_premio_da_europa_de_1997",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*batalha_de_maiorca",
+              "local",
+              "*espanha"
+            ]
+          ],
+          "score": 12.666667,
+          "detail": {
+            "keywords": [
+              "maior",
+              "espanha"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "maior": {
+                  "keyword": {
+                    "termo": "maior",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "batalha_de_maiorca",
+                  "score": 1.0
+                },
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*grande_premio_da_espanha_de_2014",
+              "local",
+              "*espanha"
+            ]
+          ],
+          "score": 12.666667,
+          "detail": {
+            "keywords": [
+              "espanha",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "grande_premio_da_espanha_de_2014",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*grande_premio_da_espanha_de_2015",
+              "local",
+              "*espanha"
+            ]
+          ],
+          "score": 12.666667,
+          "detail": {
+            "keywords": [
+              "espanha",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "grande_premio_da_espanha_de_2015",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*grande_premio_da_espanha_de_2016",
+              "local",
+              "*espanha"
+            ]
+          ],
+          "score": 12.666667,
+          "detail": {
+            "keywords": [
+              "espanha",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "grande_premio_da_espanha_de_2016",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*grande_premio_da_malasia_de_2005",
+              "poleorigem",
+              "*espanha"
+            ]
+          ],
+          "score": 12.666667,
+          "detail": {
+            "keywords": [
+              "espanha",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "grande_premio_da_malasia_de_2005",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*grande_premio_da_malasia_de_2005",
+              "primeiropilotoorigem",
+              "*espanha"
+            ]
+          ],
+          "score": 12.666667,
+          "detail": {
+            "keywords": [
+              "espanha",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "grande_premio_da_malasia_de_2005",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*grande_premio_de_san_marino_de_2005",
+              "primeiropilotoorigem",
+              "*espanha"
+            ]
+          ],
+          "score": 12.666667,
+          "detail": {
+            "keywords": [
+              "espanha",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "grande_premio_de_san_marino_de_2005",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*grande_premio_da_australia_de_2005",
+              "melhorvoltaorigem",
+              "*espanha"
+            ]
+          ],
+          "score": 12.666667,
+          "detail": {
+            "keywords": [
+              "espanha",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "grande_premio_da_australia_de_2005",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*grande_premio_da_australia_de_2005",
+              "terceiropilotoorigem",
+              "*espanha"
+            ]
+          ],
+          "score": 12.666667,
+          "detail": {
+            "keywords": [
+              "espanha",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "grande_premio_da_australia_de_2005",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*grande_premio_do_japao_de_2005",
+              "terceiropilotoorigem",
+              "*espanha"
+            ]
+          ],
+          "score": 12.666667,
+          "detail": {
+            "keywords": [
+              "espanha",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "grande_premio_do_japao_de_2005",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*grande_premio_da_europa_de_2005",
+              "melhorvoltaorigem",
+              "*espanha"
+            ]
+          ],
+          "score": 12.666667,
+          "detail": {
+            "keywords": [
+              "espanha",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "grande_premio_da_europa_de_2005",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*grande_premio_da_europa_de_2005",
+              "primeiropilotoorigem",
+              "*espanha"
+            ]
+          ],
+          "score": 12.666667,
+          "detail": {
+            "keywords": [
+              "espanha",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "grande_premio_da_europa_de_2005",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*grande_premio_da_franca_de_2005",
+              "poleorigem",
+              "*espanha"
+            ]
+          ],
+          "score": 12.666667,
+          "detail": {
+            "keywords": [
+              "espanha",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "grande_premio_da_franca_de_2005",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*grande_premio_da_franca_de_2005",
+              "primeiropilotoorigem",
+              "*espanha"
+            ]
+          ],
+          "score": 12.666667,
+          "detail": {
+            "keywords": [
+              "espanha",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "espanha": {
+                  "keyword": {
+                    "termo": "espanha",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "espanha",
+                  "score": 10.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "grande_premio_da_franca_de_2005",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 1558480000,
+      "total_time": 11000166100
+    }
+  }
+]

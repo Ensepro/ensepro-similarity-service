@@ -1,0 +1,411 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "Liste",
+          "palavra_canonica": "listar",
+          "tags": [
+            "<fmc>",
+            "<*>",
+            "<vH>",
+            "<mv>",
+            "PR",
+            "1/3S",
+            "SUBJ",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:pron-indef",
+          "palavra_original": "todos_os",
+          "palavra_canonica": "todo_o",
+          "tags": [
+            "<quant>",
+            "DET",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "oceanógrafos",
+          "palavra_canonica": "oceanógrafo",
+          "tags": [
+            "<Hprof>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "oceanographer",
+                "sinonimo": "oceanógrafo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "oceanographer",
+                "sinonimo": "oceanographer",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:adj",
+          "palavra_original": "suecos",
+          "palavra_canonica": "sueco",
+          "tags": [
+            "<nat>",
+            "<jh>",
+            "<np-close>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": ".",
+          "palavra_original": " ",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "[ [ STA:fcl|1| [P:v-fin|2| Liste] [ Od:np|3| [DN:pron-indef|4| todos_os] [H:n|5| oceanógrafos] [DN:adj|6| suecos] ] [.|7|  ] ] ]",
+      "tipo": {
+        "tipo": "consulta",
+        "confianca": 0.68,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "oceanógrafos",
+          "palavra_canonica": "oceanógrafo",
+          "tags": [
+            "<Hprof>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "oceanographer",
+                "sinonimo": "oceanógrafo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "oceanographer",
+                "sinonimo": "oceanographer",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 5,
+            "tag_inicial": "H:n",
+            "palavra_original": "oceanógrafos",
+            "palavra_canonica": "oceanógrafo",
+            "tags": [
+              "<Hprof>",
+              "M",
+              "P"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "oceanographer",
+                  "sinonimo": "oceanógrafo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "oceanographer",
+                  "sinonimo": "oceanographer",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 6,
+            "tag_inicial": "DN:adj",
+            "palavra_original": "suecos",
+            "palavra_canonica": "sueco",
+            "tags": [
+              "<nat>",
+              "<jh>",
+              "<np-close>",
+              "M",
+              "P"
+            ],
+            "nivel": 2,
+            "sinonimos": null
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "Liste",
+          "palavra_canonica": "listar",
+          "tags": [
+            "<fmc>",
+            "<*>",
+            "<vH>",
+            "<mv>",
+            "PR",
+            "1/3S",
+            "SUBJ",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:pron-indef",
+          "palavra_original": "todos_os",
+          "palavra_canonica": "todo_o",
+          "tags": [
+            "<quant>",
+            "DET",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "oceanógrafos",
+          "palavra_canonica": "oceanógrafo",
+          "tags": [
+            "<Hprof>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "oceanographer",
+                "sinonimo": "oceanógrafo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "oceanographer",
+                "sinonimo": "oceanographer",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:adj",
+          "palavra_original": "suecos",
+          "palavra_canonica": "sueco",
+          "tags": [
+            "<nat>",
+            "<jh>",
+            "<np-close>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": ".",
+          "palavra_original": " ",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "[ [ STA:fcl|1| [P:v-fin|2| Liste] [ Od:np|3| [DN:pron-indef|4| todos_os] [H:n|5| oceanógrafos] [DN:adj|6| suecos] ] [.|7|  ] ] ]",
+      "tipo": {
+        "tipo": "consulta",
+        "confianca": 0.68,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "oceanógrafos",
+          "palavra_canonica": "oceanógrafo",
+          "tags": [
+            "<Hprof>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "oceanographer",
+                "sinonimo": "oceanógrafo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "oceanographer",
+                "sinonimo": "oceanographer",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 5,
+            "tag_inicial": "H:n",
+            "palavra_original": "oceanógrafos",
+            "palavra_canonica": "oceanógrafo",
+            "tags": [
+              "<Hprof>",
+              "M",
+              "P"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "oceanographer",
+                  "sinonimo": "oceanógrafo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "oceanographer",
+                  "sinonimo": "oceanographer",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 6,
+            "tag_inicial": "DN:adj",
+            "palavra_original": "suecos",
+            "palavra_canonica": "sueco",
+            "tags": [
+              "<nat>",
+              "<jh>",
+              "<np-close>",
+              "M",
+              "P"
+            ],
+            "nivel": 2,
+            "sinonimos": null
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [],
+      "total_time": 4685330400
+    }
+  }
+]

@@ -1,0 +1,1544 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:adv",
+          "palavra_original": "Onde",
+          "palavra_canonica": "onde",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "nasceu",
+          "palavra_canonica": "nascer",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Bach",
+          "palavra_canonica": "Bach",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:adv",
+          "palavra_original": "Onde",
+          "palavra_canonica": "onde",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "nasceu",
+          "palavra_canonica": "nascer",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "be_born",
+                "sinonimo": "vir_ao_mundo",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "be_born",
+                "sinonimo": "nascer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "be_born",
+                "sinonimo": "be_born",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Johann_sebastian_bach",
+          "palavra_canonica": "Johann_sebastian_bach",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "onde",
+        "confianca": 0.9,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "nasceu",
+          "palavra_canonica": "nascer",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "be_born",
+                "sinonimo": "vir_ao_mundo",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "be_born",
+                "sinonimo": "nascer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "be_born",
+                "sinonimo": "be_born",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Johann_sebastian_bach",
+          "palavra_canonica": "Johann_sebastian_bach",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "sobrenome",
+              "carpeaux"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 72,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1",
+              "nascer": 81
+            },
+            "best_bind": {
+              "score": 0.4203069,
+              "resource_id": 81,
+              "tr": "nascer"
+            }
+          }
+        }
+      ],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "owl#sameas",
+              "q1339"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "owl#sameas",
+              "*johann_sebastian_bach"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "owl#sameas",
+              "__"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "owl#sameas",
+              5
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "owl#sameas",
+              "iohan_sebastyan_bax"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "owl#sameas",
+              ",__"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "owl#sameas",
+              "ioannes_sebastianus_bachius"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "owl#sameas",
+              "johans_sebastians_bahs"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "owl#sameas",
+              "_h_"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "imagem",
+              "*johann_sebastian_bach.jpg"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "imagemtamanho",
+              "250"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1"
+            },
+            "best_bind": {
+              "score": 0.23339568,
+              "resource_id": 14,
+              "tr": "nascer"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "falecimento",
+              ", em leipzig"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nomearquivo",
+              "bach sinfonien01.ogg"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "titulo",
+              "sinfonia no 1 das sinfonias e invencoes"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "descricao",
+              "(interpretado por randolph hokanson )"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "format",
+              "ogg"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1"
+            },
+            "best_bind": {
+              "score": 0.11179808,
+              "resource_id": 24,
+              "tr": "nascer"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nomearquivo",
+              "jsbach wtk2 prelude and fugue emaj.ogg"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "titulo",
+              "preludio e fuga em mi maior do ii volume do cravo bem temperado"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nomearquivo",
+              "jsbach - bwv971 -1.ogg"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "titulo",
+              "primeiro movimento do concerto no estilo italiano bwv 971"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "descricao",
+              "(interpretado por martha goldstein)"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nomearquivo",
+              "johann sebastian bach - bwv 998 - iii allegro.ogg"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "titulo",
+              "allegro para lautenwerk bwv 998"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nomearquivo",
+              "prelude and fugue in e-flat major bwv 552 .ogg"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "titulo",
+              "clavier-ubung iii: preludio do preludio e fuga em mi bemol maior bwv 552"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "descricao",
+              "(interpretado por leo fuhr)"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "titulo",
+              "clavier-ubung iii: fuga do preludio e fuga em mi bemol maior bwv 552"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "nomearquivo",
+              "toccata et fugue bwv565.ogg"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*johann_sebastian_bach",
+              "titulo",
+              "tocata e fuga em re menor bwv 565"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "johann_sebastian_bach"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "johann_sebastian_bach": {
+                  "keyword": {
+                    "termo": "johann_sebastian_bach",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "johann_sebastian_bach",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29,
+          "bind_control": {
+            "binds": {
+              "johann_sebastian_bach": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "ranking_time": 796333000,
+      "total_time": 9021151400
+    }
+  }
+]

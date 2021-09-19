@@ -1,0 +1,2273 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "Quantas",
+          "palavra_canonica": "quanto",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "<quant>",
+            "DET",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "cadeiras",
+          "palavra_canonica": "cadeira",
+          "tags": [
+            "<furn>",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "tem",
+          "palavra_canonica": "ter",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:n",
+          "palavra_original": "estádio",
+          "palavra_canonica": "estádio",
+          "tags": [
+            "<Lh>",
+            "<Labs>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<sam->",
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<-sam>",
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 13,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Futebol_Clube_do_Porto",
+          "palavra_canonica": "Futebol_Clube_do_Porto",
+          "tags": [
+            "<inst>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "Quantas",
+          "palavra_canonica": "quanto",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "<quant>",
+            "DET",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "cadeiras",
+          "palavra_canonica": "cadeira",
+          "tags": [
+            "<furn>",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "stool",
+                "sinonimo": "banco",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "stool",
+                "sinonimo": "banqueta",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "chair",
+                "sinonimo": "Cadeiras",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "seat",
+                "sinonimo": "cadeira",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "seat",
+                "sinonimo": "lugar",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "seat",
+                "sinonimo": "assento",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "stool",
+                "sinonimo": "tamborete",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "stool",
+                "sinonimo": "banquinho",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "seat",
+                "sinonimo": "place",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "seat",
+                "sinonimo": "seat",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "chair",
+                "sinonimo": "chair",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "stool",
+                "sinonimo": "stool",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "tem",
+          "palavra_canonica": "ter",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:n",
+          "palavra_original": "estádio",
+          "palavra_canonica": "estádio",
+          "tags": [
+            "<Lh>",
+            "<Labs>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "stadium",
+                "sinonimo": "Estádios",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "stadium",
+                "sinonimo": "estádio",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "stadium",
+                "sinonimo": "arena",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "stadium",
+                "sinonimo": "sports_stadium",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "stadium",
+                "sinonimo": "stadium",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "stadium",
+                "sinonimo": "bowl",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<sam->",
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<-sam>",
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 13,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Futebol_Clube_do_Porto",
+          "palavra_canonica": "Futebol_Clube_do_Porto",
+          "tags": [
+            "<inst>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "arvore": "[ [ STA:fcl|1| [ S:np|2| [DN:pron-int|3| Quantas] [H:n|4| cadeiras] ] [P:v-fin|5| tem] [ Od:np|6| [DN:art|7| o] [H:n|8| estádio] [ DN:pp|9| [H:prp|10| de] [ DP:np|11| [DN:art|12| o] [H:prop|13| Futebol_Clube_do_Porto] ] ] ] ] ]",
+      "tipo": {
+        "tipo": "quanto",
+        "confianca": 0.95,
+        "ids": [
+          3
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "cadeiras",
+          "palavra_canonica": "cadeira",
+          "tags": [
+            "<furn>",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "stool",
+                "sinonimo": "banco",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "stool",
+                "sinonimo": "banqueta",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "chair",
+                "sinonimo": "Cadeiras",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "seat",
+                "sinonimo": "cadeira",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "seat",
+                "sinonimo": "lugar",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "seat",
+                "sinonimo": "assento",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "stool",
+                "sinonimo": "tamborete",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "stool",
+                "sinonimo": "banquinho",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "seat",
+                "sinonimo": "place",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "seat",
+                "sinonimo": "seat",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "chair",
+                "sinonimo": "chair",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "stool",
+                "sinonimo": "stool",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:n",
+          "palavra_original": "estádio",
+          "palavra_canonica": "estádio",
+          "tags": [
+            "<Lh>",
+            "<Labs>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "stadium",
+                "sinonimo": "Estádios",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "stadium",
+                "sinonimo": "estádio",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "stadium",
+                "sinonimo": "arena",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "stadium",
+                "sinonimo": "sports_stadium",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "stadium",
+                "sinonimo": "stadium",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "stadium",
+                "sinonimo": "bowl",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 13,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Futebol_Clube_do_Porto",
+          "palavra_canonica": "Futebol_Clube_do_Porto",
+          "tags": [
+            "<inst>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 8,
+            "tag_inicial": "H:n",
+            "palavra_original": "estádio",
+            "palavra_canonica": "estádio",
+            "tags": [
+              "<Lh>",
+              "<Labs>",
+              "M",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "stadium",
+                  "sinonimo": "Estádios",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "stadium",
+                  "sinonimo": "estádio",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "stadium",
+                  "sinonimo": "arena",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "stadium",
+                  "sinonimo": "sports_stadium",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "stadium",
+                  "sinonimo": "stadium",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "stadium",
+                  "sinonimo": "bowl",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 13,
+            "tag_inicial": "H:prop",
+            "palavra_original": "Futebol_Clube_do_Porto",
+            "palavra_canonica": "Futebol_Clube_do_Porto",
+            "tags": [
+              "<inst>",
+              "<*>",
+              "M",
+              "S"
+            ],
+            "nivel": 4,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "*futebol_clube_do_porto",
+              "*estadio",
+              "porto"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "futebol_clube_do_porto",
+              "estadio"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "futebol_clube_do_porto": {
+                  "keyword": {
+                    "termo": "futebol_clube_do_porto",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "futebol_clube_do_porto",
+                  "score": 10.0
+                },
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "futebol_clube_do_porto": "-1",
+              "estadio": "-39"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*futebol_clube_do_porto",
+              "*estadio",
+              "*estadio_do_dragao"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "futebol_clube_do_porto",
+              "estadio"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "futebol_clube_do_porto": {
+                  "keyword": {
+                    "termo": "futebol_clube_do_porto",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "futebol_clube_do_porto",
+                  "score": 10.0
+                },
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0
+        },
+        {
+          "triples": [
+            [
+              "*futebol_clube_do_porto",
+              "*estadio",
+              "porto"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "futebol_clube_do_porto",
+              "estadio"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "futebol_clube_do_porto": {
+                  "keyword": {
+                    "termo": "futebol_clube_do_porto",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "futebol_clube_do_porto",
+                  "score": 10.0
+                },
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "futebol_clube_do_porto": "-1",
+              "estadio": "-39"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*futebol_clube_do_porto",
+              "*estadio",
+              "*estadio_do_dragao"
+            ],
+            [
+              "*futebol_clube_do_porto",
+              "abstract",
+              "*futebol clube do porto mhih  mhm (pronuncia em portugues: [fute klu() u potu]) (euronext: fcp), mais conhecido como fc porto ou simplesmente porto, e um clube multidesportivo portugues sedeado na cidade do porto. e mais conhecido pela sua equipa de futebol profissional, que joga atualmente na primeira liga, a competicao mais importante do futebol portugues. fundado a 28 de setembro de 1893, e um dos \\\"tres grandes\\\" clubes de portugal, juntamente com o sporting e o benfica, os seus grandes rivais. o clube nunca foi despromovido do campeonato desde que este foi estabelecido em 1934. as alcunhas da equipa sao \\\"dragoes\\\", nome da criatura mitologica que se pode ver no topo do brasao do clube, ou \\\"azuis e brancos\\\", que esta baseada na associacao as cores do equipamento principal. os seus apoiantes sao chamados de \\\"portistas\\\". os seus jogos de futebol em casa sao realizados no estadio do dragao, inaugurado em 2003 e que tem uma capacidade de 50 035 lugares, e que substituiu o antigo estadio das antas. ja para as modalidades, e no dragao caixa, com uma capacidade de 2 179 lugares, que se joga o hoquei em patins, o basquetebol e o andebol. o fc porto e um dos mais bem sucedidos clubes portugueses no que toca ao total de titulos ganhos pela equipa de futebol profissional, com um total de 74 oficiais. internamente, ganhou 27 titulos da primeira liga, 16 titulos da taca de portugal, 4 titulos do extinto campeonato de portugal (um recorde juntamente com o sporting) e 20 titulos da supertaca candido de oliveira (um outro recorde). o fc porto tornou-se, depois do benfica, a ser a segunda equipa da historia da liga portuguesa a completar duas epocas sem derrotas, nomeadamente nas epocas de 201011 e 201213. tambem em 201011, o fc porto conseguiu a maior diferenca de pontos entre o campeao e o segundo classificado (21), num sistema de tres pontos por vitoria, conseguindo na altura a sua segunda quadrupla (quatro titulos numa epoca). internacionalmente, o fc porto ja ganhou sete titulos, europeus e mundiais, um recorde no futebol portugues: a taca dos campeoes europeus e a liga dos campeoes da uefa em 198687 e 200304, respetivamente; a taca uefa e a liga europa da uefa em 200203 e 201011, respetivamente; a supertaca europeia em 1987 e a taca intercontinental em 1987 e 2004. e o unico clube portugues que ganhou as ultimas tres competicoes referidas, e a conseguir uma tripla continental: liga domestica, taca e titulo europeu (200203 e 201011). em adicao, foi finalista na taca dos clubes vencedores de tacas de 198384 e nas edicoes de 2003, 2004 e 2011 da supertaca da uefa. o fc porto esta atualmente na 11a posicao no ranking de clubes da uefa e na 15a no ranking mundial da iffhs."
+            ]
+          ],
+          "score": 13.5,
+          "detail": {
+            "keywords": [
+              "futebol_clube_do_porto",
+              "estadio",
+              "cadeira"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "futebol_clube_do_porto": {
+                  "keyword": {
+                    "termo": "futebol_clube_do_porto",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "futebol_clube_do_porto",
+                  "score": 10.0
+                },
+                "cadeira": {
+                  "keyword": {
+                    "termo": "lugar",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "futebol clube do porto mhih  mhm (pronuncia em portugues: [fute klu() u potu]) (euronext: fcp), mais conhecido como fc porto ou simplesmente porto, e um clube multidesportivo portugues sedeado na cidade do porto. e mais conhecido pela sua equipa de futebol profissional, que joga atualmente na primeira liga, a competicao mais importante do futebol portugues. fundado a 28 de setembro de 1893, e um dos \\\"tres grandes\\\" clubes de portugal, juntamente com o sporting e o benfica, os seus grandes rivais. o clube nunca foi despromovido do campeonato desde que este foi estabelecido em 1934. as alcunhas da equipa sao \\\"dragoes\\\", nome da criatura mitologica que se pode ver no topo do brasao do clube, ou \\\"azuis e brancos\\\", que esta baseada na associacao as cores do equipamento principal. os seus apoiantes sao chamados de \\\"portistas\\\". os seus jogos de futebol em casa sao realizados no estadio do dragao, inaugurado em 2003 e que tem uma capacidade de 50 035 lugares, e que substituiu o antigo estadio das antas. ja para as modalidades, e no dragao caixa, com uma capacidade de 2 179 lugares, que se joga o hoquei em patins, o basquetebol e o andebol. o fc porto e um dos mais bem sucedidos clubes portugueses no que toca ao total de titulos ganhos pela equipa de futebol profissional, com um total de 74 oficiais. internamente, ganhou 27 titulos da primeira liga, 16 titulos da taca de portugal, 4 titulos do extinto campeonato de portugal (um recorde juntamente com o sporting) e 20 titulos da supertaca candido de oliveira (um outro recorde). o fc porto tornou-se, depois do benfica, a ser a segunda equipa da historia da liga portuguesa a completar duas epocas sem derrotas, nomeadamente nas epocas de 201011 e 201213. tambem em 201011, o fc porto conseguiu a maior diferenca de pontos entre o campeao e o segundo classificado (21), num sistema de tres pontos por vitoria, conseguindo na altura a sua segunda quadrupla (quatro titulos numa epoca). internacionalmente, o fc porto ja ganhou sete titulos, europeus e mundiais, um recorde no futebol portugues: a taca dos campeoes europeus e a liga dos campeoes da uefa em 198687 e 200304, respetivamente; a taca uefa e a liga europa da uefa em 200203 e 201011, respetivamente; a supertaca europeia em 1987 e a taca intercontinental em 1987 e 2004. e o unico clube portugues que ganhou as ultimas tres competicoes referidas, e a conseguir uma tripla continental: liga domestica, taca e titulo europeu (200203 e 201011). em adicao, foi finalista na taca dos clubes vencedores de tacas de 198384 e nas edicoes de 2003, 2004 e 2011 da supertaca da uefa. o fc porto esta atualmente na 11a posicao no ranking de clubes da uefa e na 15a no ranking mundial da iffhs.",
+                  "score": 0.0
+                },
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*futebol_clube_do_porto",
+              "*estadio",
+              "porto"
+            ],
+            [
+              "*futebol_clube_do_porto",
+              "abstract",
+              "*futebol clube do porto mhih  mhm (pronuncia em portugues: [fute klu() u potu]) (euronext: fcp), mais conhecido como fc porto ou simplesmente porto, e um clube multidesportivo portugues sedeado na cidade do porto. e mais conhecido pela sua equipa de futebol profissional, que joga atualmente na primeira liga, a competicao mais importante do futebol portugues. fundado a 28 de setembro de 1893, e um dos \\\"tres grandes\\\" clubes de portugal, juntamente com o sporting e o benfica, os seus grandes rivais. o clube nunca foi despromovido do campeonato desde que este foi estabelecido em 1934. as alcunhas da equipa sao \\\"dragoes\\\", nome da criatura mitologica que se pode ver no topo do brasao do clube, ou \\\"azuis e brancos\\\", que esta baseada na associacao as cores do equipamento principal. os seus apoiantes sao chamados de \\\"portistas\\\". os seus jogos de futebol em casa sao realizados no estadio do dragao, inaugurado em 2003 e que tem uma capacidade de 50 035 lugares, e que substituiu o antigo estadio das antas. ja para as modalidades, e no dragao caixa, com uma capacidade de 2 179 lugares, que se joga o hoquei em patins, o basquetebol e o andebol. o fc porto e um dos mais bem sucedidos clubes portugueses no que toca ao total de titulos ganhos pela equipa de futebol profissional, com um total de 74 oficiais. internamente, ganhou 27 titulos da primeira liga, 16 titulos da taca de portugal, 4 titulos do extinto campeonato de portugal (um recorde juntamente com o sporting) e 20 titulos da supertaca candido de oliveira (um outro recorde). o fc porto tornou-se, depois do benfica, a ser a segunda equipa da historia da liga portuguesa a completar duas epocas sem derrotas, nomeadamente nas epocas de 201011 e 201213. tambem em 201011, o fc porto conseguiu a maior diferenca de pontos entre o campeao e o segundo classificado (21), num sistema de tres pontos por vitoria, conseguindo na altura a sua segunda quadrupla (quatro titulos numa epoca). internacionalmente, o fc porto ja ganhou sete titulos, europeus e mundiais, um recorde no futebol portugues: a taca dos campeoes europeus e a liga dos campeoes da uefa em 198687 e 200304, respetivamente; a taca uefa e a liga europa da uefa em 200203 e 201011, respetivamente; a supertaca europeia em 1987 e a taca intercontinental em 1987 e 2004. e o unico clube portugues que ganhou as ultimas tres competicoes referidas, e a conseguir uma tripla continental: liga domestica, taca e titulo europeu (200203 e 201011). em adicao, foi finalista na taca dos clubes vencedores de tacas de 198384 e nas edicoes de 2003, 2004 e 2011 da supertaca da uefa. o fc porto esta atualmente na 11a posicao no ranking de clubes da uefa e na 15a no ranking mundial da iffhs."
+            ]
+          ],
+          "score": 13.5,
+          "detail": {
+            "keywords": [
+              "futebol_clube_do_porto",
+              "estadio",
+              "cadeira"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "futebol_clube_do_porto": {
+                  "keyword": {
+                    "termo": "futebol_clube_do_porto",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "futebol_clube_do_porto",
+                  "score": 10.0
+                },
+                "cadeira": {
+                  "keyword": {
+                    "termo": "lugar",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "futebol clube do porto mhih  mhm (pronuncia em portugues: [fute klu() u potu]) (euronext: fcp), mais conhecido como fc porto ou simplesmente porto, e um clube multidesportivo portugues sedeado na cidade do porto. e mais conhecido pela sua equipa de futebol profissional, que joga atualmente na primeira liga, a competicao mais importante do futebol portugues. fundado a 28 de setembro de 1893, e um dos \\\"tres grandes\\\" clubes de portugal, juntamente com o sporting e o benfica, os seus grandes rivais. o clube nunca foi despromovido do campeonato desde que este foi estabelecido em 1934. as alcunhas da equipa sao \\\"dragoes\\\", nome da criatura mitologica que se pode ver no topo do brasao do clube, ou \\\"azuis e brancos\\\", que esta baseada na associacao as cores do equipamento principal. os seus apoiantes sao chamados de \\\"portistas\\\". os seus jogos de futebol em casa sao realizados no estadio do dragao, inaugurado em 2003 e que tem uma capacidade de 50 035 lugares, e que substituiu o antigo estadio das antas. ja para as modalidades, e no dragao caixa, com uma capacidade de 2 179 lugares, que se joga o hoquei em patins, o basquetebol e o andebol. o fc porto e um dos mais bem sucedidos clubes portugueses no que toca ao total de titulos ganhos pela equipa de futebol profissional, com um total de 74 oficiais. internamente, ganhou 27 titulos da primeira liga, 16 titulos da taca de portugal, 4 titulos do extinto campeonato de portugal (um recorde juntamente com o sporting) e 20 titulos da supertaca candido de oliveira (um outro recorde). o fc porto tornou-se, depois do benfica, a ser a segunda equipa da historia da liga portuguesa a completar duas epocas sem derrotas, nomeadamente nas epocas de 201011 e 201213. tambem em 201011, o fc porto conseguiu a maior diferenca de pontos entre o campeao e o segundo classificado (21), num sistema de tres pontos por vitoria, conseguindo na altura a sua segunda quadrupla (quatro titulos numa epoca). internacionalmente, o fc porto ja ganhou sete titulos, europeus e mundiais, um recorde no futebol portugues: a taca dos campeoes europeus e a liga dos campeoes da uefa em 198687 e 200304, respetivamente; a taca uefa e a liga europa da uefa em 200203 e 201011, respetivamente; a supertaca europeia em 1987 e a taca intercontinental em 1987 e 2004. e o unico clube portugues que ganhou as ultimas tres competicoes referidas, e a conseguir uma tripla continental: liga domestica, taca e titulo europeu (200203 e 201011). em adicao, foi finalista na taca dos clubes vencedores de tacas de 198384 e nas edicoes de 2003, 2004 e 2011 da supertaca da uefa. o fc porto esta atualmente na 11a posicao no ranking de clubes da uefa e na 15a no ranking mundial da iffhs.",
+                  "score": 0.0
+                },
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*futebol_clube_do_porto",
+              "abstract",
+              "*futebol clube do porto mhih  mhm (pronuncia em portugues: [fute klu() u potu]) (euronext: fcp), mais conhecido como fc porto ou simplesmente porto, e um clube multidesportivo portugues sedeado na cidade do porto. e mais conhecido pela sua equipa de futebol profissional, que joga atualmente na primeira liga, a competicao mais importante do futebol portugues. fundado a 28 de setembro de 1893, e um dos \\\"tres grandes\\\" clubes de portugal, juntamente com o sporting e o benfica, os seus grandes rivais. o clube nunca foi despromovido do campeonato desde que este foi estabelecido em 1934. as alcunhas da equipa sao \\\"dragoes\\\", nome da criatura mitologica que se pode ver no topo do brasao do clube, ou \\\"azuis e brancos\\\", que esta baseada na associacao as cores do equipamento principal. os seus apoiantes sao chamados de \\\"portistas\\\". os seus jogos de futebol em casa sao realizados no estadio do dragao, inaugurado em 2003 e que tem uma capacidade de 50 035 lugares, e que substituiu o antigo estadio das antas. ja para as modalidades, e no dragao caixa, com uma capacidade de 2 179 lugares, que se joga o hoquei em patins, o basquetebol e o andebol. o fc porto e um dos mais bem sucedidos clubes portugueses no que toca ao total de titulos ganhos pela equipa de futebol profissional, com um total de 74 oficiais. internamente, ganhou 27 titulos da primeira liga, 16 titulos da taca de portugal, 4 titulos do extinto campeonato de portugal (um recorde juntamente com o sporting) e 20 titulos da supertaca candido de oliveira (um outro recorde). o fc porto tornou-se, depois do benfica, a ser a segunda equipa da historia da liga portuguesa a completar duas epocas sem derrotas, nomeadamente nas epocas de 201011 e 201213. tambem em 201011, o fc porto conseguiu a maior diferenca de pontos entre o campeao e o segundo classificado (21), num sistema de tres pontos por vitoria, conseguindo na altura a sua segunda quadrupla (quatro titulos numa epoca). internacionalmente, o fc porto ja ganhou sete titulos, europeus e mundiais, um recorde no futebol portugues: a taca dos campeoes europeus e a liga dos campeoes da uefa em 198687 e 200304, respetivamente; a taca uefa e a liga europa da uefa em 200203 e 201011, respetivamente; a supertaca europeia em 1987 e a taca intercontinental em 1987 e 2004. e o unico clube portugues que ganhou as ultimas tres competicoes referidas, e a conseguir uma tripla continental: liga domestica, taca e titulo europeu (200203 e 201011). em adicao, foi finalista na taca dos clubes vencedores de tacas de 198384 e nas edicoes de 2003, 2004 e 2011 da supertaca da uefa. o fc porto esta atualmente na 11a posicao no ranking de clubes da uefa e na 15a no ranking mundial da iffhs."
+            ],
+            [
+              "*futebol_clube_do_porto",
+              "*estadio",
+              "*estadio_do_dragao"
+            ]
+          ],
+          "score": 13.5,
+          "detail": {
+            "keywords": [
+              "futebol_clube_do_porto",
+              "cadeira",
+              "estadio"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "futebol_clube_do_porto": {
+                  "keyword": {
+                    "termo": "futebol_clube_do_porto",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "futebol_clube_do_porto",
+                  "score": 10.0
+                },
+                "cadeira": {
+                  "keyword": {
+                    "termo": "lugar",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "futebol clube do porto mhih  mhm (pronuncia em portugues: [fute klu() u potu]) (euronext: fcp), mais conhecido como fc porto ou simplesmente porto, e um clube multidesportivo portugues sedeado na cidade do porto. e mais conhecido pela sua equipa de futebol profissional, que joga atualmente na primeira liga, a competicao mais importante do futebol portugues. fundado a 28 de setembro de 1893, e um dos \\\"tres grandes\\\" clubes de portugal, juntamente com o sporting e o benfica, os seus grandes rivais. o clube nunca foi despromovido do campeonato desde que este foi estabelecido em 1934. as alcunhas da equipa sao \\\"dragoes\\\", nome da criatura mitologica que se pode ver no topo do brasao do clube, ou \\\"azuis e brancos\\\", que esta baseada na associacao as cores do equipamento principal. os seus apoiantes sao chamados de \\\"portistas\\\". os seus jogos de futebol em casa sao realizados no estadio do dragao, inaugurado em 2003 e que tem uma capacidade de 50 035 lugares, e que substituiu o antigo estadio das antas. ja para as modalidades, e no dragao caixa, com uma capacidade de 2 179 lugares, que se joga o hoquei em patins, o basquetebol e o andebol. o fc porto e um dos mais bem sucedidos clubes portugueses no que toca ao total de titulos ganhos pela equipa de futebol profissional, com um total de 74 oficiais. internamente, ganhou 27 titulos da primeira liga, 16 titulos da taca de portugal, 4 titulos do extinto campeonato de portugal (um recorde juntamente com o sporting) e 20 titulos da supertaca candido de oliveira (um outro recorde). o fc porto tornou-se, depois do benfica, a ser a segunda equipa da historia da liga portuguesa a completar duas epocas sem derrotas, nomeadamente nas epocas de 201011 e 201213. tambem em 201011, o fc porto conseguiu a maior diferenca de pontos entre o campeao e o segundo classificado (21), num sistema de tres pontos por vitoria, conseguindo na altura a sua segunda quadrupla (quatro titulos numa epoca). internacionalmente, o fc porto ja ganhou sete titulos, europeus e mundiais, um recorde no futebol portugues: a taca dos campeoes europeus e a liga dos campeoes da uefa em 198687 e 200304, respetivamente; a taca uefa e a liga europa da uefa em 200203 e 201011, respetivamente; a supertaca europeia em 1987 e a taca intercontinental em 1987 e 2004. e o unico clube portugues que ganhou as ultimas tres competicoes referidas, e a conseguir uma tripla continental: liga domestica, taca e titulo europeu (200203 e 201011). em adicao, foi finalista na taca dos clubes vencedores de tacas de 198384 e nas edicoes de 2003, 2004 e 2011 da supertaca da uefa. o fc porto esta atualmente na 11a posicao no ranking de clubes da uefa e na 15a no ranking mundial da iffhs.",
+                  "score": 0.0
+                },
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*futebol_clube_do_porto",
+              "abstract",
+              "*futebol clube do porto mhih  mhm (pronuncia em portugues: [fute klu() u potu]) (euronext: fcp), mais conhecido como fc porto ou simplesmente porto, e um clube multidesportivo portugues sedeado na cidade do porto. e mais conhecido pela sua equipa de futebol profissional, que joga atualmente na primeira liga, a competicao mais importante do futebol portugues. fundado a 28 de setembro de 1893, e um dos \\\"tres grandes\\\" clubes de portugal, juntamente com o sporting e o benfica, os seus grandes rivais. o clube nunca foi despromovido do campeonato desde que este foi estabelecido em 1934. as alcunhas da equipa sao \\\"dragoes\\\", nome da criatura mitologica que se pode ver no topo do brasao do clube, ou \\\"azuis e brancos\\\", que esta baseada na associacao as cores do equipamento principal. os seus apoiantes sao chamados de \\\"portistas\\\". os seus jogos de futebol em casa sao realizados no estadio do dragao, inaugurado em 2003 e que tem uma capacidade de 50 035 lugares, e que substituiu o antigo estadio das antas. ja para as modalidades, e no dragao caixa, com uma capacidade de 2 179 lugares, que se joga o hoquei em patins, o basquetebol e o andebol. o fc porto e um dos mais bem sucedidos clubes portugueses no que toca ao total de titulos ganhos pela equipa de futebol profissional, com um total de 74 oficiais. internamente, ganhou 27 titulos da primeira liga, 16 titulos da taca de portugal, 4 titulos do extinto campeonato de portugal (um recorde juntamente com o sporting) e 20 titulos da supertaca candido de oliveira (um outro recorde). o fc porto tornou-se, depois do benfica, a ser a segunda equipa da historia da liga portuguesa a completar duas epocas sem derrotas, nomeadamente nas epocas de 201011 e 201213. tambem em 201011, o fc porto conseguiu a maior diferenca de pontos entre o campeao e o segundo classificado (21), num sistema de tres pontos por vitoria, conseguindo na altura a sua segunda quadrupla (quatro titulos numa epoca). internacionalmente, o fc porto ja ganhou sete titulos, europeus e mundiais, um recorde no futebol portugues: a taca dos campeoes europeus e a liga dos campeoes da uefa em 198687 e 200304, respetivamente; a taca uefa e a liga europa da uefa em 200203 e 201011, respetivamente; a supertaca europeia em 1987 e a taca intercontinental em 1987 e 2004. e o unico clube portugues que ganhou as ultimas tres competicoes referidas, e a conseguir uma tripla continental: liga domestica, taca e titulo europeu (200203 e 201011). em adicao, foi finalista na taca dos clubes vencedores de tacas de 198384 e nas edicoes de 2003, 2004 e 2011 da supertaca da uefa. o fc porto esta atualmente na 11a posicao no ranking de clubes da uefa e na 15a no ranking mundial da iffhs."
+            ],
+            [
+              "*futebol_clube_do_porto",
+              "*estadio",
+              "porto"
+            ]
+          ],
+          "score": 13.5,
+          "detail": {
+            "keywords": [
+              "futebol_clube_do_porto",
+              "cadeira",
+              "estadio"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "futebol_clube_do_porto": {
+                  "keyword": {
+                    "termo": "futebol_clube_do_porto",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "futebol_clube_do_porto",
+                  "score": 10.0
+                },
+                "cadeira": {
+                  "keyword": {
+                    "termo": "lugar",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "futebol clube do porto mhih  mhm (pronuncia em portugues: [fute klu() u potu]) (euronext: fcp), mais conhecido como fc porto ou simplesmente porto, e um clube multidesportivo portugues sedeado na cidade do porto. e mais conhecido pela sua equipa de futebol profissional, que joga atualmente na primeira liga, a competicao mais importante do futebol portugues. fundado a 28 de setembro de 1893, e um dos \\\"tres grandes\\\" clubes de portugal, juntamente com o sporting e o benfica, os seus grandes rivais. o clube nunca foi despromovido do campeonato desde que este foi estabelecido em 1934. as alcunhas da equipa sao \\\"dragoes\\\", nome da criatura mitologica que se pode ver no topo do brasao do clube, ou \\\"azuis e brancos\\\", que esta baseada na associacao as cores do equipamento principal. os seus apoiantes sao chamados de \\\"portistas\\\". os seus jogos de futebol em casa sao realizados no estadio do dragao, inaugurado em 2003 e que tem uma capacidade de 50 035 lugares, e que substituiu o antigo estadio das antas. ja para as modalidades, e no dragao caixa, com uma capacidade de 2 179 lugares, que se joga o hoquei em patins, o basquetebol e o andebol. o fc porto e um dos mais bem sucedidos clubes portugueses no que toca ao total de titulos ganhos pela equipa de futebol profissional, com um total de 74 oficiais. internamente, ganhou 27 titulos da primeira liga, 16 titulos da taca de portugal, 4 titulos do extinto campeonato de portugal (um recorde juntamente com o sporting) e 20 titulos da supertaca candido de oliveira (um outro recorde). o fc porto tornou-se, depois do benfica, a ser a segunda equipa da historia da liga portuguesa a completar duas epocas sem derrotas, nomeadamente nas epocas de 201011 e 201213. tambem em 201011, o fc porto conseguiu a maior diferenca de pontos entre o campeao e o segundo classificado (21), num sistema de tres pontos por vitoria, conseguindo na altura a sua segunda quadrupla (quatro titulos numa epoca). internacionalmente, o fc porto ja ganhou sete titulos, europeus e mundiais, um recorde no futebol portugues: a taca dos campeoes europeus e a liga dos campeoes da uefa em 198687 e 200304, respetivamente; a taca uefa e a liga europa da uefa em 200203 e 201011, respetivamente; a supertaca europeia em 1987 e a taca intercontinental em 1987 e 2004. e o unico clube portugues que ganhou as ultimas tres competicoes referidas, e a conseguir uma tripla continental: liga domestica, taca e titulo europeu (200203 e 201011). em adicao, foi finalista na taca dos clubes vencedores de tacas de 198384 e nas edicoes de 2003, 2004 e 2011 da supertaca da uefa. o fc porto esta atualmente na 11a posicao no ranking de clubes da uefa e na 15a no ranking mundial da iffhs.",
+                  "score": 0.0
+                },
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*estadio_do_lima",
+              "mandante",
+              "*futebol_clube_do_porto"
+            ]
+          ],
+          "score": 13.385811,
+          "detail": {
+            "keywords": [
+              "futebol_clube_do_porto",
+              "estadio"
+            ],
+            "score_detail": {
+              "m1": 11.719144,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "futebol_clube_do_porto": {
+                  "keyword": {
+                    "termo": "futebol_clube_do_porto",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "futebol_clube_do_porto",
+                  "score": 10.0
+                },
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio_do_lima",
+                  "score": 1.7191437
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*estadio_do_lima",
+              "tenant",
+              "*futebol_clube_do_porto"
+            ]
+          ],
+          "score": 13.385811,
+          "detail": {
+            "keywords": [
+              "futebol_clube_do_porto",
+              "estadio"
+            ],
+            "score_detail": {
+              "m1": 11.719144,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "futebol_clube_do_porto": {
+                  "keyword": {
+                    "termo": "futebol_clube_do_porto",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "futebol_clube_do_porto",
+                  "score": 10.0
+                },
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio_do_lima",
+                  "score": 1.7191437
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*futebol_clube_do_porto",
+              "*estadio",
+              "*estadio_do_dragao"
+            ],
+            [
+              "*futebol_clube_do_porto",
+              "*estadio",
+              "porto"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "futebol_clube_do_porto",
+              "estadio"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "futebol_clube_do_porto": {
+                  "keyword": {
+                    "termo": "futebol_clube_do_porto",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "futebol_clube_do_porto",
+                  "score": 10.0
+                },
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*futebol_clube_do_porto",
+              "*estadio",
+              "*estadio_do_dragao"
+            ],
+            [
+              "*estadio_do_lima",
+              "mandante",
+              "*futebol_clube_do_porto"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "futebol_clube_do_porto",
+              "estadio"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "futebol_clube_do_porto": {
+                  "keyword": {
+                    "termo": "futebol_clube_do_porto",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "futebol_clube_do_porto",
+                  "score": 10.0
+                },
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*futebol_clube_do_porto",
+              "*estadio",
+              "*estadio_do_dragao"
+            ],
+            [
+              "*estadio_do_lima",
+              "tenant",
+              "*futebol_clube_do_porto"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "futebol_clube_do_porto",
+              "estadio"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "futebol_clube_do_porto": {
+                  "keyword": {
+                    "termo": "futebol_clube_do_porto",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "futebol_clube_do_porto",
+                  "score": 10.0
+                },
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*futebol_clube_do_porto",
+              "*estadio",
+              "*estadio_do_dragao"
+            ],
+            [
+              "*estadio_do_dragao",
+              "tenant",
+              "*futebol_clube_do_porto"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "futebol_clube_do_porto",
+              "estadio"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "futebol_clube_do_porto": {
+                  "keyword": {
+                    "termo": "futebol_clube_do_porto",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "futebol_clube_do_porto",
+                  "score": 10.0
+                },
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*futebol_clube_do_porto",
+              "*estadio",
+              "*estadio_do_dragao"
+            ],
+            [
+              "*estadio_do_dragao",
+              "owner",
+              "*futebol_clube_do_porto"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "futebol_clube_do_porto",
+              "estadio"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "futebol_clube_do_porto": {
+                  "keyword": {
+                    "termo": "futebol_clube_do_porto",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "futebol_clube_do_porto",
+                  "score": 10.0
+                },
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*futebol_clube_do_porto",
+              "*estadio",
+              "*estadio_do_dragao"
+            ],
+            [
+              "*estadio_do_dragao",
+              "mandante",
+              "*futebol_clube_do_porto"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "futebol_clube_do_porto",
+              "estadio"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "futebol_clube_do_porto": {
+                  "keyword": {
+                    "termo": "futebol_clube_do_porto",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "futebol_clube_do_porto",
+                  "score": 10.0
+                },
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*futebol_clube_do_porto",
+              "*estadio",
+              "*estadio_do_dragao"
+            ],
+            [
+              "*estadio_do_dragao",
+              "proprietario",
+              "*futebol_clube_do_porto"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "futebol_clube_do_porto",
+              "estadio"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "futebol_clube_do_porto": {
+                  "keyword": {
+                    "termo": "futebol_clube_do_porto",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "futebol_clube_do_porto",
+                  "score": 10.0
+                },
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*futebol_clube_do_porto",
+              "*estadio",
+              "*estadio_do_dragao"
+            ],
+            [
+              "*futebol_clube_do_porto",
+              "owl#sameas",
+              "q128446"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "futebol_clube_do_porto",
+              "estadio"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "futebol_clube_do_porto": {
+                  "keyword": {
+                    "termo": "futebol_clube_do_porto",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "futebol_clube_do_porto",
+                  "score": 10.0
+                },
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*futebol_clube_do_porto",
+              "*estadio",
+              "porto"
+            ],
+            [
+              "*futebol_clube_do_porto",
+              "*estadio",
+              "*estadio_do_dragao"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "futebol_clube_do_porto",
+              "estadio"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "futebol_clube_do_porto": {
+                  "keyword": {
+                    "termo": "futebol_clube_do_porto",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "futebol_clube_do_porto",
+                  "score": 10.0
+                },
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*futebol_clube_do_porto",
+              "*estadio",
+              "porto"
+            ],
+            [
+              "*estadio_do_lima",
+              "mandante",
+              "*futebol_clube_do_porto"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "futebol_clube_do_porto",
+              "estadio"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "futebol_clube_do_porto": {
+                  "keyword": {
+                    "termo": "futebol_clube_do_porto",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "futebol_clube_do_porto",
+                  "score": 10.0
+                },
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*futebol_clube_do_porto",
+              "*estadio",
+              "porto"
+            ],
+            [
+              "*estadio_do_lima",
+              "tenant",
+              "*futebol_clube_do_porto"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "futebol_clube_do_porto",
+              "estadio"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "futebol_clube_do_porto": {
+                  "keyword": {
+                    "termo": "futebol_clube_do_porto",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "futebol_clube_do_porto",
+                  "score": 10.0
+                },
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*futebol_clube_do_porto",
+              "*estadio",
+              "porto"
+            ],
+            [
+              "*estadio_do_dragao",
+              "tenant",
+              "*futebol_clube_do_porto"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "futebol_clube_do_porto",
+              "estadio"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "futebol_clube_do_porto": {
+                  "keyword": {
+                    "termo": "futebol_clube_do_porto",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "futebol_clube_do_porto",
+                  "score": 10.0
+                },
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*futebol_clube_do_porto",
+              "*estadio",
+              "porto"
+            ],
+            [
+              "*estadio_do_dragao",
+              "owner",
+              "*futebol_clube_do_porto"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "futebol_clube_do_porto",
+              "estadio"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "futebol_clube_do_porto": {
+                  "keyword": {
+                    "termo": "futebol_clube_do_porto",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "futebol_clube_do_porto",
+                  "score": 10.0
+                },
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*futebol_clube_do_porto",
+              "*estadio",
+              "porto"
+            ],
+            [
+              "*estadio_do_dragao",
+              "mandante",
+              "*futebol_clube_do_porto"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "futebol_clube_do_porto",
+              "estadio"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "futebol_clube_do_porto": {
+                  "keyword": {
+                    "termo": "futebol_clube_do_porto",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "futebol_clube_do_porto",
+                  "score": 10.0
+                },
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*futebol_clube_do_porto",
+              "*estadio",
+              "porto"
+            ],
+            [
+              "*estadio_do_dragao",
+              "proprietario",
+              "*futebol_clube_do_porto"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "futebol_clube_do_porto",
+              "estadio"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "futebol_clube_do_porto": {
+                  "keyword": {
+                    "termo": "futebol_clube_do_porto",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "futebol_clube_do_porto",
+                  "score": 10.0
+                },
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*futebol_clube_do_porto",
+              "*estadio",
+              "porto"
+            ],
+            [
+              "*futebol_clube_do_porto",
+              "owl#sameas",
+              "q128446"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "futebol_clube_do_porto",
+              "estadio"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "futebol_clube_do_porto": {
+                  "keyword": {
+                    "termo": "futebol_clube_do_porto",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "futebol_clube_do_porto",
+                  "score": 10.0
+                },
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*estadio_do_lima",
+              "mandante",
+              "*futebol_clube_do_porto"
+            ],
+            [
+              "*futebol_clube_do_porto",
+              "*estadio",
+              "*estadio_do_dragao"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "futebol_clube_do_porto",
+              "estadio"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "futebol_clube_do_porto": {
+                  "keyword": {
+                    "termo": "futebol_clube_do_porto",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "futebol_clube_do_porto",
+                  "score": 10.0
+                },
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*estadio_do_lima",
+              "mandante",
+              "*futebol_clube_do_porto"
+            ],
+            [
+              "*futebol_clube_do_porto",
+              "*estadio",
+              "porto"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "futebol_clube_do_porto",
+              "estadio"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "futebol_clube_do_porto": {
+                  "keyword": {
+                    "termo": "futebol_clube_do_porto",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "futebol_clube_do_porto",
+                  "score": 10.0
+                },
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*estadio_do_lima",
+              "tenant",
+              "*futebol_clube_do_porto"
+            ],
+            [
+              "*futebol_clube_do_porto",
+              "*estadio",
+              "*estadio_do_dragao"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "futebol_clube_do_porto",
+              "estadio"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "futebol_clube_do_porto": {
+                  "keyword": {
+                    "termo": "futebol_clube_do_porto",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "futebol_clube_do_porto",
+                  "score": 10.0
+                },
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*estadio_do_lima",
+              "tenant",
+              "*futebol_clube_do_porto"
+            ],
+            [
+              "*futebol_clube_do_porto",
+              "*estadio",
+              "porto"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "futebol_clube_do_porto",
+              "estadio"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "futebol_clube_do_porto": {
+                  "keyword": {
+                    "termo": "futebol_clube_do_porto",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "futebol_clube_do_porto",
+                  "score": 10.0
+                },
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*estadio_do_dragao",
+              "tenant",
+              "*futebol_clube_do_porto"
+            ],
+            [
+              "*futebol_clube_do_porto",
+              "*estadio",
+              "*estadio_do_dragao"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "futebol_clube_do_porto",
+              "estadio"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "futebol_clube_do_porto": {
+                  "keyword": {
+                    "termo": "futebol_clube_do_porto",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "futebol_clube_do_porto",
+                  "score": 10.0
+                },
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*estadio_do_dragao",
+              "tenant",
+              "*futebol_clube_do_porto"
+            ],
+            [
+              "*futebol_clube_do_porto",
+              "*estadio",
+              "porto"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "futebol_clube_do_porto",
+              "estadio"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "futebol_clube_do_porto": {
+                  "keyword": {
+                    "termo": "futebol_clube_do_porto",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "futebol_clube_do_porto",
+                  "score": 10.0
+                },
+                "estadio": {
+                  "keyword": {
+                    "termo": "estadio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "estadio",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 935.9631538391113,
+      "l_sizes": [
+        15995,
+        64
+      ],
+      "total_time": 8328.737020492554
+    }
+  }
+]

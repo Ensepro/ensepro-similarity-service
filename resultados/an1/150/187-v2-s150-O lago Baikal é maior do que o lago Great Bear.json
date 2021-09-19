@@ -1,0 +1,1436 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:art",
+          "palavra_original": "O",
+          "palavra_canonica": "o",
+          "tags": [
+            "<*>",
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "lago",
+          "palavra_canonica": "lago",
+          "tags": [
+            "<Lwater>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "Baikal",
+          "palavra_canonica": "Baikal",
+          "tags": [
+            "<top>",
+            "<*>",
+            "<heur>",
+            "<np-close>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "é",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<vK>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "Cs:adjp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:adj",
+          "palavra_original": "maior",
+          "palavra_canonica": "grande",
+          "tags": [
+            "<KOMP>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DAcom:acl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "H:conj-s",
+          "palavra_original": "do_que",
+          "palavra_canonica": "do_que",
+          "tags": [
+            "<com>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "X:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 13,
+          "tag_inicial": "H:n",
+          "palavra_original": "lago",
+          "palavra_canonica": "lago",
+          "tags": [
+            "<Lwater>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 14,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "Great_Bear",
+          "palavra_canonica": "Great_Bear",
+          "tags": [
+            "<top>",
+            "<*>",
+            "<heur>",
+            "<np-close>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 15,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 3,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:art",
+          "palavra_original": "O",
+          "palavra_canonica": "o",
+          "tags": [
+            "<*>",
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Lago_baikal",
+          "palavra_canonica": "Lago_baikal",
+          "tags": [
+            "<inst>",
+            "<*>",
+            "<heur>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "é",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<vK>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "Cs:adjp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "H:adj",
+          "palavra_original": "maior",
+          "palavra_canonica": "grande",
+          "tags": [
+            "<KOMP>",
+            "<jh>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "DAcom:acl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "H:conj-s",
+          "palavra_original": "do_que",
+          "palavra_canonica": "do_que",
+          "tags": [
+            "<com>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "X:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Great_bear",
+          "palavra_canonica": "Great_bear",
+          "tags": [
+            "<inst>",
+            "<*>",
+            "<heur>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "desconhecido",
+        "confianca": 1,
+        "ids": []
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 4,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Lago_baikal",
+          "palavra_canonica": "Lago_baikal",
+          "tags": [
+            "<inst>",
+            "<*>",
+            "<heur>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 12,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Great_bear",
+          "palavra_canonica": "Great_bear",
+          "tags": [
+            "<inst>",
+            "<*>",
+            "<heur>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*lago_baikal",
+              "abstract",
+              "*o lago baikal ou lago baical (russo:   (ozera baykal)) e um lago no sul da siberia, russia, entre oblast de irkutsk no noroeste e buryatia no sudeste, perto de irkutsk. com 636 km de comprimento e 80 km de largura, e o maior lago de agua doce da asia, o maior em volume de agua do mundo, o mais antigo (25 milhoes de anos) e o mais profundo da terra, com 1680 metros de profundidade. a superficie do lago baikal e de 31 500 km2. e tao volumoso que se todos os rios na terra depositassem as suas aguas no seu interior, levaria pelo menos um ano para encher. alguns sitios ultrapassam os 1600 m de profundidade (dados mais recentes indicam 1680 m), sendo responsavel por 20% da agua doce de degelo do planeta. desaguam nele cerca de 300 rios. e um habitat rico em biodiversidade, com cerca de 1085 especies de plantas e 1550 especies e variedades de animais, sendo conhecido como as \\\"galapagos\\\" da russia. mais de 60% dos animais sao endemicos: por exemplo, das 52 especies de peixes, 27 sao endemicas. o lago baikal foi inscrito no patrimonio mundial pela unesco."
+            ]
+          ],
+          "score": 12.166667,
+          "detail": {
+            "keywords": [
+              "lago_baikal",
+              "maior"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 0.5,
+              "matches": {
+                "lago_baikal": {
+                  "keyword": {
+                    "termo": "lago_baikal",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lago_baikal",
+                  "score": 10.0
+                },
+                "maior": {
+                  "keyword": {
+                    "termo": "maior",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "o lago baikal ou lago baical (russo:   (ozera baykal)) e um lago no sul da siberia, russia, entre oblast de irkutsk no noroeste e buryatia no sudeste, perto de irkutsk. com 636 km de comprimento e 80 km de largura, e o maior lago de agua doce da asia, o maior em volume de agua do mundo, o mais antigo (25 milhoes de anos) e o mais profundo da terra, com 1680 metros de profundidade. a superficie do lago baikal e de 31 500 km2. e tao volumoso que se todos os rios na terra depositassem as suas aguas no seu interior, levaria pelo menos um ano para encher. alguns sitios ultrapassam os 1600 m de profundidade (dados mais recentes indicam 1680 m), sendo responsavel por 20% da agua doce de degelo do planeta. desaguam nele cerca de 300 rios. e um habitat rico em biodiversidade, com cerca de 1085 especies de plantas e 1550 especies e variedades de animais, sendo conhecido como as \\\"galapagos\\\" da russia. mais de 60% dos animais sao endemicos: por exemplo, das 52 especies de peixes, 27 sao endemicas. o lago baikal foi inscrito no patrimonio mundial pela unesco.",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0
+        },
+        {
+          "triples": [
+            [
+              "*lago_baikal",
+              "owl#sameas",
+              "q5513"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "lago_baikal"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "lago_baikal": {
+                  "keyword": {
+                    "termo": "lago_baikal",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lago_baikal",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*lago_baikal",
+              "owl#sameas",
+              "baikalmeer"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "lago_baikal"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "lago_baikal": {
+                  "keyword": {
+                    "termo": "lago_baikal",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lago_baikal",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*lago_baikal",
+              "owl#sameas",
+              "baikalsee"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "lago_baikal"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "lago_baikal": {
+                  "keyword": {
+                    "termo": "lago_baikal",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lago_baikal",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*lago_baikal",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "lago_baikal"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "lago_baikal": {
+                  "keyword": {
+                    "termo": "lago_baikal",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lago_baikal",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*lago_baikal",
+              "owl#sameas",
+              "laco_baikal"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "lago_baikal"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "lago_baikal": {
+                  "keyword": {
+                    "termo": "lago_baikal",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lago_baikal",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*lago_baikal",
+              "owl#sameas",
+              "llagu_baikal"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "lago_baikal"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "lago_baikal": {
+                  "keyword": {
+                    "termo": "lago_baikal",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lago_baikal",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*lago_baikal",
+              "owl#sameas",
+              "baykal"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "lago_baikal"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "lago_baikal": {
+                  "keyword": {
+                    "termo": "lago_baikal",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lago_baikal",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*lago_baikal",
+              "owl#sameas",
+              10
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "lago_baikal"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "lago_baikal": {
+                  "keyword": {
+                    "termo": "lago_baikal",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lago_baikal",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*lago_baikal",
+              "owl#sameas",
+              "lenn_baikal"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "lago_baikal"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "lago_baikal": {
+                  "keyword": {
+                    "termo": "lago_baikal",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lago_baikal",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*lago_baikal",
+              "owl#sameas",
+              "bajkalsko_jezero"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "lago_baikal"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "lago_baikal": {
+                  "keyword": {
+                    "termo": "lago_baikal",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lago_baikal",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*lago_baikal",
+              "owl#sameas",
+              "baikal"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "lago_baikal"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "lago_baikal": {
+                  "keyword": {
+                    "termo": "lago_baikal",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lago_baikal",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*lago_baikal",
+              "owl#sameas",
+              "bajkal"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "lago_baikal"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "lago_baikal": {
+                  "keyword": {
+                    "termo": "lago_baikal",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lago_baikal",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*lago_baikal",
+              "owl#sameas",
+              "llyn_baikal"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "lago_baikal"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "lago_baikal": {
+                  "keyword": {
+                    "termo": "lago_baikal",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lago_baikal",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*lago_baikal",
+              "owl#sameas",
+              "bajkalsen"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "lago_baikal"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "lago_baikal": {
+                  "keyword": {
+                    "termo": "lago_baikal",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lago_baikal",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*lago_baikal",
+              "owl#sameas",
+              "lake_baikal"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "lago_baikal"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "lago_baikal": {
+                  "keyword": {
+                    "termo": "lago_baikal",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lago_baikal",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*lago_baikal",
+              "owl#sameas",
+              "bajkalo"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "lago_baikal"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "lago_baikal": {
+                  "keyword": {
+                    "termo": "lago_baikal",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lago_baikal",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*lago_baikal",
+              "owl#sameas",
+              "*lago_baikal"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "lago_baikal"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "lago_baikal": {
+                  "keyword": {
+                    "termo": "lago_baikal",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lago_baikal",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*lago_baikal",
+              "owl#sameas",
+              "baikali_jarv"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "lago_baikal"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "lago_baikal": {
+                  "keyword": {
+                    "termo": "lago_baikal",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lago_baikal",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*lago_baikal",
+              "owl#sameas",
+              "baikaljarvi"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "lago_baikal"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "lago_baikal": {
+                  "keyword": {
+                    "termo": "lago_baikal",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lago_baikal",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*lago_baikal",
+              "owl#sameas",
+              "bajkalvatn"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "lago_baikal"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "lago_baikal": {
+                  "keyword": {
+                    "termo": "lago_baikal",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lago_baikal",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*lago_baikal",
+              "owl#sameas",
+              "lac_baikal"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "lago_baikal"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "lago_baikal": {
+                  "keyword": {
+                    "termo": "lago_baikal",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lago_baikal",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*lago_baikal",
+              "owl#sameas",
+              "baikalmar"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "lago_baikal"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "lago_baikal": {
+                  "keyword": {
+                    "termo": "lago_baikal",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lago_baikal",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*lago_baikal",
+              "owl#sameas",
+              "loch_baikal"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "lago_baikal"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "lago_baikal": {
+                  "keyword": {
+                    "termo": "lago_baikal",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lago_baikal",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*lago_baikal",
+              "owl#sameas",
+              "bajkal_to"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "lago_baikal"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "lago_baikal": {
+                  "keyword": {
+                    "termo": "lago_baikal",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lago_baikal",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*lago_baikal",
+              "owl#sameas",
+              "danau_baikal"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "lago_baikal"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "lago_baikal": {
+                  "keyword": {
+                    "termo": "lago_baikal",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lago_baikal",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*lago_baikal",
+              "owl#sameas",
+              "lago_bajkal"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "lago_baikal"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "lago_baikal": {
+                  "keyword": {
+                    "termo": "lago_baikal",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lago_baikal",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*lago_baikal",
+              "owl#sameas",
+              "tlaga_baikal"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "lago_baikal"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "lago_baikal": {
+                  "keyword": {
+                    "termo": "lago_baikal",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lago_baikal",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*lago_baikal",
+              "owl#sameas",
+              "lacus_baical"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "lago_baikal"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "lago_baikal": {
+                  "keyword": {
+                    "termo": "lago_baikal",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lago_baikal",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*lago_baikal",
+              "owl#sameas",
+              "baikalo_ezeras"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "lago_baikal"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "lago_baikal": {
+                  "keyword": {
+                    "termo": "lago_baikal",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "lago_baikal",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 734416700,
+      "total_time": 7153292400
+    }
+  }
+]

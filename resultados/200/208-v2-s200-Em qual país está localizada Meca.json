@@ -1,0 +1,2686 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "H:prp",
+          "palavra_original": "Em",
+          "palavra_canonica": "em",
+          "tags": [
+            "<clb>",
+            "<*>"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "qual",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<interr>",
+            "DET",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "país",
+          "palavra_canonica": "país",
+          "tags": [
+            "<Lciv>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "está",
+          "palavra_canonica": "estar",
+          "tags": [
+            "<fmc>",
+            "<vK>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "Cs:v-pcp",
+          "palavra_original": "localizada",
+          "palavra_canonica": "localizar",
+          "tags": [
+            "<n>",
+            "<vH>",
+            "F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "Meca",
+          "palavra_canonica": "Meca",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "<np-close>",
+            "F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 3,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "H:prp",
+          "palavra_original": "Em",
+          "palavra_canonica": "em",
+          "tags": [
+            "<clb>",
+            "<*>"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "qual",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<interr>",
+            "DET",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "país",
+          "palavra_canonica": "país",
+          "tags": [
+            "<Lciv>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "country",
+                "sinonimo": "nação",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "união",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "circunscrição_administriva",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "república",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "country",
+                "sinonimo": "país",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "países",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "domínio",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "terra",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "território",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "distrito",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "província",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "condado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "região",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "districto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "pais",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "circunscrição",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "comarca",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "colónia",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "bairro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "state",
+                "sinonimo": "nation",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "land",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "dominion",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "body_politic",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "commonwealth",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "territory",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "district",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "res_publica",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "country",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "country",
+                "sinonimo": "state",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "territorial_dominion",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "está",
+          "palavra_canonica": "estar",
+          "tags": [
+            "<fmc>",
+            "<vK>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "Cs:v-pcp",
+          "palavra_original": "localizada",
+          "palavra_canonica": "localizar",
+          "tags": [
+            "<n>",
+            "<vH>",
+            "F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "locate",
+                "sinonimo": "descobrir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "locate",
+                "sinonimo": "achar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "locate",
+                "sinonimo": "localizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "locate",
+                "sinonimo": "turn_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "locate",
+                "sinonimo": "locate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "Meca",
+          "palavra_canonica": "Meca",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "<np-close>",
+            "F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "arvore": "[ [ STA:np|1| [ fA:pp|2| [H:prp|3| Em] [ DP:np|4| [DN:pron-int|5| qual] [H:n|6| país] ] ] [P:v-fin|7| está] [Cs:v-pcp|8| localizada] [DN:prop|9| Meca] ] ]",
+      "tipo": {
+        "tipo": "qual",
+        "confianca": 0.79,
+        "ids": [
+          5
+        ]
+      },
+      "locucao_verbal": [
+        [
+          {
+            "id": 7,
+            "tag_inicial": "P:v-fin",
+            "palavra_original": "está",
+            "palavra_canonica": "estar",
+            "tags": [
+              "<fmc>",
+              "<vK>",
+              "<mv>",
+              "PR",
+              "3S",
+              "IND",
+              "VFIN"
+            ],
+            "nivel": 1,
+            "sinonimos": null
+          },
+          {
+            "id": 8,
+            "tag_inicial": "Cs:v-pcp",
+            "palavra_original": "localizada",
+            "palavra_canonica": "localizar",
+            "tags": [
+              "<n>",
+              "<vH>",
+              "F",
+              "S"
+            ],
+            "nivel": 1,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "locate",
+                  "sinonimo": "descobrir",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "locate",
+                  "sinonimo": "achar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "locate",
+                  "sinonimo": "localizar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "locate",
+                  "sinonimo": "turn_up",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "locate",
+                  "sinonimo": "locate",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          }
+        ]
+      ],
+      "termos_relevantes": [
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "país",
+          "palavra_canonica": "país",
+          "tags": [
+            "<Lciv>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "country",
+                "sinonimo": "nação",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "união",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "circunscrição_administriva",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "república",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "country",
+                "sinonimo": "país",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "países",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "domínio",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "terra",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "território",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "distrito",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "província",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "condado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "região",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "districto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "pais",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "circunscrição",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "comarca",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "colónia",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "bairro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "state",
+                "sinonimo": "nation",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "land",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "dominion",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "body_politic",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "commonwealth",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "territory",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "district",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "res_publica",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "country",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "country",
+                "sinonimo": "state",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "territorial_dominion",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 8,
+          "tag_inicial": "Cs:v-pcp",
+          "palavra_original": "localizada",
+          "palavra_canonica": "localizar",
+          "tags": [
+            "<n>",
+            "<vH>",
+            "F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "locate",
+                "sinonimo": "descobrir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "locate",
+                "sinonimo": "achar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "locate",
+                "sinonimo": "localizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "locate",
+                "sinonimo": "turn_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "locate",
+                "sinonimo": "locate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "Meca",
+          "palavra_canonica": "Meca",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "<np-close>",
+            "F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*meca",
+              "*localidade",
+              "*meca"
+            ],
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ]
+          ],
+          "score": 14.282369,
+          "detail": {
+            "keywords": [
+              "meca",
+              "local",
+              "pais"
+            ],
+            "score_detail": {
+              "m1": 12.782369,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localidade",
+                  "score": 1.782369
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0
+        },
+        {
+          "triples": [
+            [
+              "abdula_ibne_al_zubair",
+              "*localmorte",
+              "*meca"
+            ],
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ]
+          ],
+          "score": 14.282369,
+          "detail": {
+            "keywords": [
+              "meca",
+              "local",
+              "pais"
+            ],
+            "score_detail": {
+              "m1": 12.782369,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localmorte",
+                  "score": 1.782369
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "local": "-797",
+              "meca": "-1",
+              "country": "-328"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "*meca",
+              "*localidade",
+              "*meca"
+            ]
+          ],
+          "score": 14.282369,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.782369,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localidade",
+                  "score": 1.782369
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "abdula_ibne_al_zubair",
+              "*localmorte",
+              "*meca"
+            ]
+          ],
+          "score": 14.282369,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.782369,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localmorte",
+                  "score": 1.782369
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "amir_ibne_alas",
+              "*nascimentolocal",
+              "*meca"
+            ],
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ]
+          ],
+          "score": 14.016589,
+          "detail": {
+            "keywords": [
+              "meca",
+              "local",
+              "pais"
+            ],
+            "score_detail": {
+              "m1": 12.516589,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimentolocal",
+                  "score": 1.5165893
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4,
+          "bind_control": {
+            "binds": {
+              "local": "-403",
+              "meca": "-1",
+              "country": "-328"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "iazide_ibne_abi_sufiane",
+              "*nascimentolocal",
+              "*meca"
+            ],
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ]
+          ],
+          "score": 14.016589,
+          "detail": {
+            "keywords": [
+              "meca",
+              "local",
+              "pais"
+            ],
+            "score_detail": {
+              "m1": 12.516589,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimentolocal",
+                  "score": 1.5165893
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "local": "-403",
+              "meca": "-1",
+              "country": "-328"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "eisa_majrashi",
+              "*localnascimento",
+              "*meca"
+            ],
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ]
+          ],
+          "score": 14.016589,
+          "detail": {
+            "keywords": [
+              "meca",
+              "local",
+              "pais"
+            ],
+            "score_detail": {
+              "m1": 12.516589,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localnascimento",
+                  "score": 1.5165893
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6,
+          "bind_control": {
+            "binds": {
+              "local": "-417",
+              "meca": "-1",
+              "country": "-328"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "hind_bint_utbah",
+              "*nascimentolocal",
+              "*meca"
+            ],
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ]
+          ],
+          "score": 14.016589,
+          "detail": {
+            "keywords": [
+              "meca",
+              "local",
+              "pais"
+            ],
+            "score_detail": {
+              "m1": 12.516589,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimentolocal",
+                  "score": 1.5165893
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7,
+          "bind_control": {
+            "binds": {
+              "local": "-403",
+              "meca": "-1",
+              "country": "-328"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "abu_sufiane_ibne_harbe",
+              "*nascimentolocal",
+              "*meca"
+            ],
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ]
+          ],
+          "score": 14.016589,
+          "detail": {
+            "keywords": [
+              "meca",
+              "local",
+              "pais"
+            ],
+            "score_detail": {
+              "m1": 12.516589,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimentolocal",
+                  "score": 1.5165893
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8,
+          "bind_control": {
+            "binds": {
+              "local": "-403",
+              "meca": "-1",
+              "country": "-328"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "sa%60d_ibn_abi_waqqas",
+              "*nascimentolocal",
+              "*meca"
+            ],
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ]
+          ],
+          "score": 14.016589,
+          "detail": {
+            "keywords": [
+              "meca",
+              "local",
+              "pais"
+            ],
+            "score_detail": {
+              "m1": 12.516589,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimentolocal",
+                  "score": 1.5165893
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9,
+          "bind_control": {
+            "binds": {
+              "local": "-403",
+              "meca": "-1",
+              "country": "-328"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "abu_bakr",
+              "*localnascimento",
+              "*meca"
+            ],
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ]
+          ],
+          "score": 14.016589,
+          "detail": {
+            "keywords": [
+              "meca",
+              "local",
+              "pais"
+            ],
+            "score_detail": {
+              "m1": 12.516589,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localnascimento",
+                  "score": 1.5165893
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10,
+          "bind_control": {
+            "binds": {
+              "local": "-417",
+              "meca": "-1",
+              "country": "-328"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "amir_ibne_alas",
+              "*nascimentolocal",
+              "*meca"
+            ]
+          ],
+          "score": 14.016589,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.516589,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimentolocal",
+                  "score": 1.5165893
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "iazide_ibne_abi_sufiane",
+              "*nascimentolocal",
+              "*meca"
+            ]
+          ],
+          "score": 14.016589,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.516589,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimentolocal",
+                  "score": 1.5165893
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "eisa_majrashi",
+              "*localnascimento",
+              "*meca"
+            ]
+          ],
+          "score": 14.016589,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.516589,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localnascimento",
+                  "score": 1.5165893
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "hind_bint_utbah",
+              "*nascimentolocal",
+              "*meca"
+            ]
+          ],
+          "score": 14.016589,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.516589,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimentolocal",
+                  "score": 1.5165893
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "abu_sufiane_ibne_harbe",
+              "*nascimentolocal",
+              "*meca"
+            ]
+          ],
+          "score": 14.016589,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.516589,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimentolocal",
+                  "score": 1.5165893
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "sa%60d_ibn_abi_waqqas",
+              "*nascimentolocal",
+              "*meca"
+            ]
+          ],
+          "score": 14.016589,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.516589,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimentolocal",
+                  "score": 1.5165893
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "abu_bakr",
+              "*localnascimento",
+              "*meca"
+            ]
+          ],
+          "score": 14.016589,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.516589,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localnascimento",
+                  "score": 1.5165893
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*localidade",
+              "*meca"
+            ],
+            [
+              "*meca",
+              "tiposubdivisao",
+              "*provincias_da_arabia_saudita"
+            ]
+          ],
+          "score": 13.919948,
+          "detail": {
+            "keywords": [
+              "meca",
+              "local",
+              "pais"
+            ],
+            "score_detail": {
+              "m1": 12.419948,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "provincia",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "provincias_da_arabia_saudita",
+                  "score": 0.63757837
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localidade",
+                  "score": 1.782369
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "abdula_ibne_al_zubair",
+              "*localmorte",
+              "*meca"
+            ],
+            [
+              "*meca",
+              "tiposubdivisao",
+              "*provincias_da_arabia_saudita"
+            ]
+          ],
+          "score": 13.919948,
+          "detail": {
+            "keywords": [
+              "meca",
+              "local",
+              "pais"
+            ],
+            "score_detail": {
+              "m1": 12.419948,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "provincia",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "provincias_da_arabia_saudita",
+                  "score": 0.63757837
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localmorte",
+                  "score": 1.782369
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "tiposubdivisao",
+              "*provincias_da_arabia_saudita"
+            ],
+            [
+              "*meca",
+              "*localidade",
+              "*meca"
+            ]
+          ],
+          "score": 13.919948,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.419948,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "provincia",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "provincias_da_arabia_saudita",
+                  "score": 0.63757837
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localidade",
+                  "score": 1.782369
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "tiposubdivisao",
+              "*provincias_da_arabia_saudita"
+            ],
+            [
+              "abdula_ibne_al_zubair",
+              "*localmorte",
+              "*meca"
+            ]
+          ],
+          "score": 13.919948,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.419948,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "provincia",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "provincias_da_arabia_saudita",
+                  "score": 0.63757837
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localmorte",
+                  "score": 1.782369
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "talal_da_jordania",
+              "*localdenascimento",
+              "*meca"
+            ],
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ]
+          ],
+          "score": 13.900868,
+          "detail": {
+            "keywords": [
+              "meca",
+              "local",
+              "pais"
+            ],
+            "score_detail": {
+              "m1": 12.400868,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localdenascimento",
+                  "score": 1.4008684
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "abdullah_i_da_jordania",
+              "*localdenascimento",
+              "*meca"
+            ],
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ]
+          ],
+          "score": 13.900868,
+          "detail": {
+            "keywords": [
+              "meca",
+              "local",
+              "pais"
+            ],
+            "score_detail": {
+              "m1": 12.400868,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localdenascimento",
+                  "score": 1.4008684
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "talal_da_jordania",
+              "*localdenascimento",
+              "*meca"
+            ]
+          ],
+          "score": 13.900868,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.400868,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localdenascimento",
+                  "score": 1.4008684
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*meca",
+              "*country",
+              "saudi_arabia"
+            ],
+            [
+              "abdullah_i_da_jordania",
+              "*localdenascimento",
+              "*meca"
+            ]
+          ],
+          "score": 13.900868,
+          "detail": {
+            "keywords": [
+              "meca",
+              "pais",
+              "local"
+            ],
+            "score_detail": {
+              "m1": 12.400868,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "country",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "country",
+                  "score": 1.0
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localdenascimento",
+                  "score": 1.4008684
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "amir_ibne_alas",
+              "*nascimentolocal",
+              "*meca"
+            ],
+            [
+              "*meca",
+              "tiposubdivisao",
+              "*provincias_da_arabia_saudita"
+            ]
+          ],
+          "score": 13.654167,
+          "detail": {
+            "keywords": [
+              "meca",
+              "local",
+              "pais"
+            ],
+            "score_detail": {
+              "m1": 12.154167,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "provincia",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "provincias_da_arabia_saudita",
+                  "score": 0.63757837
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimentolocal",
+                  "score": 1.5165893
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "iazide_ibne_abi_sufiane",
+              "*nascimentolocal",
+              "*meca"
+            ],
+            [
+              "*meca",
+              "tiposubdivisao",
+              "*provincias_da_arabia_saudita"
+            ]
+          ],
+          "score": 13.654167,
+          "detail": {
+            "keywords": [
+              "meca",
+              "local",
+              "pais"
+            ],
+            "score_detail": {
+              "m1": 12.154167,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "provincia",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "provincias_da_arabia_saudita",
+                  "score": 0.63757837
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimentolocal",
+                  "score": 1.5165893
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "eisa_majrashi",
+              "*localnascimento",
+              "*meca"
+            ],
+            [
+              "*meca",
+              "tiposubdivisao",
+              "*provincias_da_arabia_saudita"
+            ]
+          ],
+          "score": 13.654167,
+          "detail": {
+            "keywords": [
+              "meca",
+              "local",
+              "pais"
+            ],
+            "score_detail": {
+              "m1": 12.154167,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "provincia",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "provincias_da_arabia_saudita",
+                  "score": 0.63757837
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "localnascimento",
+                  "score": 1.5165893
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "hind_bint_utbah",
+              "*nascimentolocal",
+              "*meca"
+            ],
+            [
+              "*meca",
+              "tiposubdivisao",
+              "*provincias_da_arabia_saudita"
+            ]
+          ],
+          "score": 13.654167,
+          "detail": {
+            "keywords": [
+              "meca",
+              "local",
+              "pais"
+            ],
+            "score_detail": {
+              "m1": 12.154167,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "meca": {
+                  "keyword": {
+                    "termo": "meca",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "meca",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "provincia",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "provincias_da_arabia_saudita",
+                  "score": 0.63757837
+                },
+                "local": {
+                  "keyword": {
+                    "termo": "local",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "nascimentolocal",
+                  "score": 1.5165893
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 2033.00142288208,
+      "l_sizes": [
+        34245,
+        38054
+      ],
+      "total_time": 14530.871152877808
+    }
+  }
+]

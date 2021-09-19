@@ -1,0 +1,2614 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "H:prp",
+          "palavra_original": "Para",
+          "palavra_canonica": "para",
+          "tags": [
+            "<clb>",
+            "<*>"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "qual",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<interr>",
+            "DET",
+            "F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "gravadora",
+          "palavra_canonica": "gravadora",
+          "tags": [
+            "<Hprof>",
+            "F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "Elvis",
+          "palavra_canonica": "Elvis",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<np-close>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "gravou",
+          "palavra_canonica": "gravar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DN:pron-poss",
+          "palavra_original": "seu",
+          "palavra_canonica": "seu",
+          "tags": [
+            "<poss",
+            "3S>",
+            "<si>",
+            "DET",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "DN:adj",
+          "palavra_original": "primeiro",
+          "palavra_canonica": "primeiro",
+          "tags": [
+            "<NUM-ord>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "H:n",
+          "palavra_original": "álbum",
+          "palavra_canonica": "álbum",
+          "tags": [
+            "<cc-r>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 13,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 3,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "H:prp",
+          "palavra_original": "Para",
+          "palavra_canonica": "para",
+          "tags": [
+            "<clb>",
+            "<*>"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DP:pron-rel",
+          "palavra_original": "qual",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<rel>",
+            "DET",
+            "M/F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Elvis_presley",
+          "palavra_canonica": "Elvis_presley",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "gravou",
+          "palavra_canonica": "gravar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "log",
+                "sinonimo": "colocar_no_registro",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "videotape",
+                "sinonimo": "gravar_em_fita_de_vídeo",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "log",
+                "sinonimo": "gravar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "log",
+                "sinonimo": "registrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "log",
+                "sinonimo": "colocar_no_diário",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "log",
+                "sinonimo": "lançar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "engrave",
+                "sinonimo": "engrave",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "inscribe",
+                "sinonimo": "inscribe",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "videotape",
+                "sinonimo": "videotape",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "log",
+                "sinonimo": "log",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "record",
+                "sinonimo": "tape",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "record",
+                "sinonimo": "record",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "engrave",
+                "sinonimo": "etch",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "DN:pron-poss",
+          "palavra_original": "seu",
+          "palavra_canonica": "seu",
+          "tags": [
+            "<poss",
+            "3S>",
+            "<si>",
+            "DET",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DN:adj",
+          "palavra_original": "primeiro",
+          "palavra_canonica": "primeiro",
+          "tags": [
+            "<NUM-ord>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "H:n",
+          "palavra_original": "álbum",
+          "palavra_canonica": "álbum",
+          "tags": [
+            "<cc-r>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "album",
+                "sinonimo": "Album",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "book",
+                "sinonimo": "livro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "11"
+              },
+              {
+                "synset": "album",
+                "sinonimo": "álbum",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "album",
+                "sinonimo": "Álbuns",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "album",
+                "sinonimo": "record_album",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "album",
+                "sinonimo": "album",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "book",
+                "sinonimo": "book",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "11"
+              }
+            ]
+          }
+        }
+      ],
+      "arvore": "[ [ STA:fcl|1| [ fA:pp|2| [H:prp|3| Para] [DP:pron-rel|4| qual] ] [S:prop|5| Elvis_presley] [P:v-fin|6| gravou] [ Od:np|7| [DN:pron-poss|8| seu] [DN:adj|9| primeiro] [H:n|10| álbum] ] ] ]",
+      "tipo": {
+        "tipo": "qual",
+        "confianca": 0.68,
+        "ids": [
+          4
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 5,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Elvis_presley",
+          "palavra_canonica": "Elvis_presley",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "gravou",
+          "palavra_canonica": "gravar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "log",
+                "sinonimo": "colocar_no_registro",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "videotape",
+                "sinonimo": "gravar_em_fita_de_vídeo",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "log",
+                "sinonimo": "gravar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "log",
+                "sinonimo": "registrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "log",
+                "sinonimo": "colocar_no_diário",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "log",
+                "sinonimo": "lançar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "engrave",
+                "sinonimo": "engrave",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "inscribe",
+                "sinonimo": "inscribe",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "videotape",
+                "sinonimo": "videotape",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "log",
+                "sinonimo": "log",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "record",
+                "sinonimo": "tape",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "record",
+                "sinonimo": "record",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "engrave",
+                "sinonimo": "etch",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ]
+          }
+        },
+        {
+          "id": 10,
+          "tag_inicial": "H:n",
+          "palavra_original": "álbum",
+          "palavra_canonica": "álbum",
+          "tags": [
+            "<cc-r>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "album",
+                "sinonimo": "Album",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "book",
+                "sinonimo": "livro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "11"
+              },
+              {
+                "synset": "album",
+                "sinonimo": "álbum",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "album",
+                "sinonimo": "Álbuns",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "album",
+                "sinonimo": "record_album",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "album",
+                "sinonimo": "album",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "book",
+                "sinonimo": "book",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "11"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 10,
+            "tag_inicial": "H:n",
+            "palavra_original": "álbum",
+            "palavra_canonica": "álbum",
+            "tags": [
+              "<cc-r>",
+              "M",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "album",
+                  "sinonimo": "Album",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "book",
+                  "sinonimo": "livro",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "11"
+                },
+                {
+                  "synset": "album",
+                  "sinonimo": "álbum",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "album",
+                  "sinonimo": "Álbuns",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "album",
+                  "sinonimo": "record_album",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "album",
+                  "sinonimo": "album",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "book",
+                  "sinonimo": "book",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "11"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 9,
+            "tag_inicial": "DN:adj",
+            "palavra_original": "primeiro",
+            "palavra_canonica": "primeiro",
+            "tags": [
+              "<NUM-ord>",
+              "M",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": null
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*elvis_presley",
+              "*gravadora",
+              "*sun_records"
+            ],
+            [
+              "*today_(album)",
+              "artist",
+              "*elvis_presley"
+            ]
+          ],
+          "score": 15.103022,
+          "detail": {
+            "keywords": [
+              "gravador",
+              "elvis_presley",
+              "album"
+            ],
+            "score_detail": {
+              "m1": 13.603022,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "gravador": {
+                  "keyword": {
+                    "termo": "gravador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gravadora",
+                  "score": 1.9753085
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "today_(album)",
+                  "score": 1.6277131
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "elvis_presley": "-1",
+              "gravador": "-191",
+              "record": "-139",
+              "album": "-246"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*elvis_presley",
+              "*gravadora",
+              "*sun_records"
+            ],
+            [
+              "*today_(album)",
+              "artista",
+              "*elvis_presley"
+            ]
+          ],
+          "score": 15.103022,
+          "detail": {
+            "keywords": [
+              "gravador",
+              "elvis_presley",
+              "album"
+            ],
+            "score_detail": {
+              "m1": 13.603022,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "gravador": {
+                  "keyword": {
+                    "termo": "gravador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gravadora",
+                  "score": 1.9753085
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "today_(album)",
+                  "score": 1.6277131
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "elvis_presley": "-1",
+              "gravador": "-191",
+              "record": "-139",
+              "album": "-246"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*elvis_presley",
+              "*gravadora",
+              "rca"
+            ],
+            [
+              "*today_(album)",
+              "artist",
+              "*elvis_presley"
+            ]
+          ],
+          "score": 15.103022,
+          "detail": {
+            "keywords": [
+              "gravador",
+              "elvis_presley",
+              "album"
+            ],
+            "score_detail": {
+              "m1": 13.603022,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "gravador": {
+                  "keyword": {
+                    "termo": "gravador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gravadora",
+                  "score": 1.9753085
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "today_(album)",
+                  "score": 1.6277131
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "elvis_presley": "-1",
+              "gravador": "-191",
+              "album": "-246"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*elvis_presley",
+              "*gravadora",
+              "rca"
+            ],
+            [
+              "*today_(album)",
+              "artista",
+              "*elvis_presley"
+            ]
+          ],
+          "score": 15.103022,
+          "detail": {
+            "keywords": [
+              "gravador",
+              "elvis_presley",
+              "album"
+            ],
+            "score_detail": {
+              "m1": 13.603022,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "gravador": {
+                  "keyword": {
+                    "termo": "gravador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gravadora",
+                  "score": 1.9753085
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "today_(album)",
+                  "score": 1.6277131
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "elvis_presley": "-1",
+              "gravador": "-191",
+              "album": "-246"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*elvis_presley",
+              "*gravadora",
+              "sony_bmg_music_entertainment"
+            ],
+            [
+              "*today_(album)",
+              "artist",
+              "*elvis_presley"
+            ]
+          ],
+          "score": 15.103022,
+          "detail": {
+            "keywords": [
+              "gravador",
+              "elvis_presley",
+              "album"
+            ],
+            "score_detail": {
+              "m1": 13.603022,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "gravador": {
+                  "keyword": {
+                    "termo": "gravador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gravadora",
+                  "score": 1.9753085
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "today_(album)",
+                  "score": 1.6277131
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4,
+          "bind_control": {
+            "binds": {
+              "elvis_presley": "-1",
+              "gravador": "-191",
+              "album": "-246"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*elvis_presley",
+              "*gravadora",
+              "sony_bmg_music_entertainment"
+            ],
+            [
+              "*today_(album)",
+              "artista",
+              "*elvis_presley"
+            ]
+          ],
+          "score": 15.103022,
+          "detail": {
+            "keywords": [
+              "gravador",
+              "elvis_presley",
+              "album"
+            ],
+            "score_detail": {
+              "m1": 13.603022,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "gravador": {
+                  "keyword": {
+                    "termo": "gravador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gravadora",
+                  "score": 1.9753085
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "today_(album)",
+                  "score": 1.6277131
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "elvis_presley": "-1",
+              "gravador": "-191",
+              "album": "-246"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*today_(album)",
+              "artist",
+              "*elvis_presley"
+            ],
+            [
+              "*elvis_presley",
+              "*gravadora",
+              "*sun_records"
+            ]
+          ],
+          "score": 15.103022,
+          "detail": {
+            "keywords": [
+              "album",
+              "elvis_presley",
+              "gravador"
+            ],
+            "score_detail": {
+              "m1": 13.603022,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "gravador": {
+                  "keyword": {
+                    "termo": "gravador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gravadora",
+                  "score": 1.9753085
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "today_(album)",
+                  "score": 1.6277131
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*today_(album)",
+              "artist",
+              "*elvis_presley"
+            ],
+            [
+              "*elvis_presley",
+              "*gravadora",
+              "rca"
+            ]
+          ],
+          "score": 15.103022,
+          "detail": {
+            "keywords": [
+              "album",
+              "elvis_presley",
+              "gravador"
+            ],
+            "score_detail": {
+              "m1": 13.603022,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "gravador": {
+                  "keyword": {
+                    "termo": "gravador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gravadora",
+                  "score": 1.9753085
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "today_(album)",
+                  "score": 1.6277131
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*today_(album)",
+              "artist",
+              "*elvis_presley"
+            ],
+            [
+              "*elvis_presley",
+              "*gravadora",
+              "sony_bmg_music_entertainment"
+            ]
+          ],
+          "score": 15.103022,
+          "detail": {
+            "keywords": [
+              "album",
+              "elvis_presley",
+              "gravador"
+            ],
+            "score_detail": {
+              "m1": 13.603022,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "gravador": {
+                  "keyword": {
+                    "termo": "gravador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gravadora",
+                  "score": 1.9753085
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "today_(album)",
+                  "score": 1.6277131
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*today_(album)",
+              "artista",
+              "*elvis_presley"
+            ],
+            [
+              "*elvis_presley",
+              "*gravadora",
+              "*sun_records"
+            ]
+          ],
+          "score": 15.103022,
+          "detail": {
+            "keywords": [
+              "album",
+              "elvis_presley",
+              "gravador"
+            ],
+            "score_detail": {
+              "m1": 13.603022,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "gravador": {
+                  "keyword": {
+                    "termo": "gravador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gravadora",
+                  "score": 1.9753085
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "today_(album)",
+                  "score": 1.6277131
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*today_(album)",
+              "artista",
+              "*elvis_presley"
+            ],
+            [
+              "*elvis_presley",
+              "*gravadora",
+              "rca"
+            ]
+          ],
+          "score": 15.103022,
+          "detail": {
+            "keywords": [
+              "album",
+              "elvis_presley",
+              "gravador"
+            ],
+            "score_detail": {
+              "m1": 13.603022,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "gravador": {
+                  "keyword": {
+                    "termo": "gravador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gravadora",
+                  "score": 1.9753085
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "today_(album)",
+                  "score": 1.6277131
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*today_(album)",
+              "artista",
+              "*elvis_presley"
+            ],
+            [
+              "*elvis_presley",
+              "*gravadora",
+              "sony_bmg_music_entertainment"
+            ]
+          ],
+          "score": 15.103022,
+          "detail": {
+            "keywords": [
+              "album",
+              "elvis_presley",
+              "gravador"
+            ],
+            "score_detail": {
+              "m1": 13.603022,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "gravador": {
+                  "keyword": {
+                    "termo": "gravador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gravadora",
+                  "score": 1.9753085
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "today_(album)",
+                  "score": 1.6277131
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*elvis_presley",
+              "*gravadora",
+              "*sun_records"
+            ],
+            [
+              "*spinout_(album)",
+              "artist",
+              "*elvis_presley"
+            ]
+          ],
+          "score": 14.991898,
+          "detail": {
+            "keywords": [
+              "gravador",
+              "elvis_presley",
+              "album"
+            ],
+            "score_detail": {
+              "m1": 13.491898,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "gravador": {
+                  "keyword": {
+                    "termo": "gravador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gravadora",
+                  "score": 1.9753085
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spinout_(album)",
+                  "score": 1.5165893
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12,
+          "bind_control": {
+            "binds": {
+              "elvis_presley": "-1",
+              "gravador": "-191",
+              "record": "-139",
+              "album": "-372"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*elvis_presley",
+              "*gravadora",
+              "*sun_records"
+            ],
+            [
+              "*spinout_(album)",
+              "artista",
+              "*elvis_presley"
+            ]
+          ],
+          "score": 14.991898,
+          "detail": {
+            "keywords": [
+              "gravador",
+              "elvis_presley",
+              "album"
+            ],
+            "score_detail": {
+              "m1": 13.491898,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "gravador": {
+                  "keyword": {
+                    "termo": "gravador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gravadora",
+                  "score": 1.9753085
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spinout_(album)",
+                  "score": 1.5165893
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13,
+          "bind_control": {
+            "binds": {
+              "elvis_presley": "-1",
+              "gravador": "-191",
+              "record": "-139",
+              "album": "-372"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*elvis_presley",
+              "*gravadora",
+              "rca"
+            ],
+            [
+              "*spinout_(album)",
+              "artist",
+              "*elvis_presley"
+            ]
+          ],
+          "score": 14.991898,
+          "detail": {
+            "keywords": [
+              "gravador",
+              "elvis_presley",
+              "album"
+            ],
+            "score_detail": {
+              "m1": 13.491898,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "gravador": {
+                  "keyword": {
+                    "termo": "gravador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gravadora",
+                  "score": 1.9753085
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spinout_(album)",
+                  "score": 1.5165893
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14,
+          "bind_control": {
+            "binds": {
+              "elvis_presley": "-1",
+              "gravador": "-191",
+              "album": "-372"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*elvis_presley",
+              "*gravadora",
+              "rca"
+            ],
+            [
+              "*spinout_(album)",
+              "artista",
+              "*elvis_presley"
+            ]
+          ],
+          "score": 14.991898,
+          "detail": {
+            "keywords": [
+              "gravador",
+              "elvis_presley",
+              "album"
+            ],
+            "score_detail": {
+              "m1": 13.491898,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "gravador": {
+                  "keyword": {
+                    "termo": "gravador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gravadora",
+                  "score": 1.9753085
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spinout_(album)",
+                  "score": 1.5165893
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15,
+          "bind_control": {
+            "binds": {
+              "elvis_presley": "-1",
+              "gravador": "-191",
+              "album": "-372"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*elvis_presley",
+              "*gravadora",
+              "sony_bmg_music_entertainment"
+            ],
+            [
+              "*spinout_(album)",
+              "artist",
+              "*elvis_presley"
+            ]
+          ],
+          "score": 14.991898,
+          "detail": {
+            "keywords": [
+              "gravador",
+              "elvis_presley",
+              "album"
+            ],
+            "score_detail": {
+              "m1": 13.491898,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "gravador": {
+                  "keyword": {
+                    "termo": "gravador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gravadora",
+                  "score": 1.9753085
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spinout_(album)",
+                  "score": 1.5165893
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16,
+          "bind_control": {
+            "binds": {
+              "elvis_presley": "-1",
+              "gravador": "-191",
+              "album": "-372"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*elvis_presley",
+              "*gravadora",
+              "sony_bmg_music_entertainment"
+            ],
+            [
+              "*spinout_(album)",
+              "artista",
+              "*elvis_presley"
+            ]
+          ],
+          "score": 14.991898,
+          "detail": {
+            "keywords": [
+              "gravador",
+              "elvis_presley",
+              "album"
+            ],
+            "score_detail": {
+              "m1": 13.491898,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "gravador": {
+                  "keyword": {
+                    "termo": "gravador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gravadora",
+                  "score": 1.9753085
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spinout_(album)",
+                  "score": 1.5165893
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17,
+          "bind_control": {
+            "binds": {
+              "elvis_presley": "-1",
+              "gravador": "-191",
+              "album": "-372"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*spinout_(album)",
+              "artist",
+              "*elvis_presley"
+            ],
+            [
+              "*elvis_presley",
+              "*gravadora",
+              "*sun_records"
+            ]
+          ],
+          "score": 14.991898,
+          "detail": {
+            "keywords": [
+              "album",
+              "elvis_presley",
+              "gravador"
+            ],
+            "score_detail": {
+              "m1": 13.491898,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "gravador": {
+                  "keyword": {
+                    "termo": "gravador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gravadora",
+                  "score": 1.9753085
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spinout_(album)",
+                  "score": 1.5165893
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*spinout_(album)",
+              "artist",
+              "*elvis_presley"
+            ],
+            [
+              "*elvis_presley",
+              "*gravadora",
+              "rca"
+            ]
+          ],
+          "score": 14.991898,
+          "detail": {
+            "keywords": [
+              "album",
+              "elvis_presley",
+              "gravador"
+            ],
+            "score_detail": {
+              "m1": 13.491898,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "gravador": {
+                  "keyword": {
+                    "termo": "gravador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gravadora",
+                  "score": 1.9753085
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spinout_(album)",
+                  "score": 1.5165893
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*spinout_(album)",
+              "artist",
+              "*elvis_presley"
+            ],
+            [
+              "*elvis_presley",
+              "*gravadora",
+              "sony_bmg_music_entertainment"
+            ]
+          ],
+          "score": 14.991898,
+          "detail": {
+            "keywords": [
+              "album",
+              "elvis_presley",
+              "gravador"
+            ],
+            "score_detail": {
+              "m1": 13.491898,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "gravador": {
+                  "keyword": {
+                    "termo": "gravador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gravadora",
+                  "score": 1.9753085
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spinout_(album)",
+                  "score": 1.5165893
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*spinout_(album)",
+              "artista",
+              "*elvis_presley"
+            ],
+            [
+              "*elvis_presley",
+              "*gravadora",
+              "*sun_records"
+            ]
+          ],
+          "score": 14.991898,
+          "detail": {
+            "keywords": [
+              "album",
+              "elvis_presley",
+              "gravador"
+            ],
+            "score_detail": {
+              "m1": 13.491898,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "gravador": {
+                  "keyword": {
+                    "termo": "gravador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gravadora",
+                  "score": 1.9753085
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spinout_(album)",
+                  "score": 1.5165893
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*spinout_(album)",
+              "artista",
+              "*elvis_presley"
+            ],
+            [
+              "*elvis_presley",
+              "*gravadora",
+              "rca"
+            ]
+          ],
+          "score": 14.991898,
+          "detail": {
+            "keywords": [
+              "album",
+              "elvis_presley",
+              "gravador"
+            ],
+            "score_detail": {
+              "m1": 13.491898,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "gravador": {
+                  "keyword": {
+                    "termo": "gravador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gravadora",
+                  "score": 1.9753085
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spinout_(album)",
+                  "score": 1.5165893
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*spinout_(album)",
+              "artista",
+              "*elvis_presley"
+            ],
+            [
+              "*elvis_presley",
+              "*gravadora",
+              "sony_bmg_music_entertainment"
+            ]
+          ],
+          "score": 14.991898,
+          "detail": {
+            "keywords": [
+              "album",
+              "elvis_presley",
+              "gravador"
+            ],
+            "score_detail": {
+              "m1": 13.491898,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "gravador": {
+                  "keyword": {
+                    "termo": "gravador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gravadora",
+                  "score": 1.9753085
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spinout_(album)",
+                  "score": 1.5165893
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*elvis_presley",
+              "*gravadora",
+              "*sun_records"
+            ],
+            [
+              "*clambake_(album)",
+              "artist",
+              "*elvis_presley"
+            ]
+          ],
+          "score": 14.934499,
+          "detail": {
+            "keywords": [
+              "gravador",
+              "elvis_presley",
+              "album"
+            ],
+            "score_detail": {
+              "m1": 13.434499,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "gravador": {
+                  "keyword": {
+                    "termo": "gravador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gravadora",
+                  "score": 1.9753085
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "clambake_(album)",
+                  "score": 1.4591899
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*elvis_presley",
+              "*gravadora",
+              "*sun_records"
+            ],
+            [
+              "*speedway_(album)",
+              "artist",
+              "*elvis_presley"
+            ]
+          ],
+          "score": 14.934499,
+          "detail": {
+            "keywords": [
+              "gravador",
+              "elvis_presley",
+              "album"
+            ],
+            "score_detail": {
+              "m1": 13.434499,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "gravador": {
+                  "keyword": {
+                    "termo": "gravador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gravadora",
+                  "score": 1.9753085
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "speedway_(album)",
+                  "score": 1.4591899
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*elvis_presley",
+              "*gravadora",
+              "*sun_records"
+            ],
+            [
+              "*clambake_(album)",
+              "artista",
+              "*elvis_presley"
+            ]
+          ],
+          "score": 14.934499,
+          "detail": {
+            "keywords": [
+              "gravador",
+              "elvis_presley",
+              "album"
+            ],
+            "score_detail": {
+              "m1": 13.434499,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "gravador": {
+                  "keyword": {
+                    "termo": "gravador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gravadora",
+                  "score": 1.9753085
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "clambake_(album)",
+                  "score": 1.4591899
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*elvis_presley",
+              "*gravadora",
+              "*sun_records"
+            ],
+            [
+              "*speedway_(album)",
+              "artista",
+              "*elvis_presley"
+            ]
+          ],
+          "score": 14.934499,
+          "detail": {
+            "keywords": [
+              "gravador",
+              "elvis_presley",
+              "album"
+            ],
+            "score_detail": {
+              "m1": 13.434499,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "gravador": {
+                  "keyword": {
+                    "termo": "gravador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gravadora",
+                  "score": 1.9753085
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "speedway_(album)",
+                  "score": 1.4591899
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*elvis_presley",
+              "*gravadora",
+              "rca"
+            ],
+            [
+              "*clambake_(album)",
+              "artist",
+              "*elvis_presley"
+            ]
+          ],
+          "score": 14.934499,
+          "detail": {
+            "keywords": [
+              "gravador",
+              "elvis_presley",
+              "album"
+            ],
+            "score_detail": {
+              "m1": 13.434499,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "gravador": {
+                  "keyword": {
+                    "termo": "gravador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gravadora",
+                  "score": 1.9753085
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "clambake_(album)",
+                  "score": 1.4591899
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*elvis_presley",
+              "*gravadora",
+              "rca"
+            ],
+            [
+              "*speedway_(album)",
+              "artist",
+              "*elvis_presley"
+            ]
+          ],
+          "score": 14.934499,
+          "detail": {
+            "keywords": [
+              "gravador",
+              "elvis_presley",
+              "album"
+            ],
+            "score_detail": {
+              "m1": 13.434499,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "gravador": {
+                  "keyword": {
+                    "termo": "gravador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gravadora",
+                  "score": 1.9753085
+                },
+                "album": {
+                  "keyword": {
+                    "termo": "album",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "speedway_(album)",
+                  "score": 1.4591899
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 1127.5372505187988,
+      "l_sizes": [
+        21651,
+        18994
+      ],
+      "total_time": 13249.269723892212
+    }
+  }
+]

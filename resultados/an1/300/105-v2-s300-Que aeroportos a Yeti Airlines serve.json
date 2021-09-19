@@ -1,0 +1,1815 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "Que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "aeroportos",
+          "palavra_canonica": "aeroporto",
+          "tags": [
+            "<Lh>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Yeti_Airlines",
+          "palavra_canonica": "Yeti_Airlines",
+          "tags": [
+            "<org>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "serve",
+          "palavra_canonica": "servir",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "Que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "aeroportos",
+          "palavra_canonica": "aeroporto",
+          "tags": [
+            "<Lh>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "airfield",
+                "sinonimo": "aeroporto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "airport",
+                "sinonimo": "Aeroportos_da_América_do_Sul",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "airport",
+                "sinonimo": "aeródromo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "airport",
+                "sinonimo": "aeroportos",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "airfield",
+                "sinonimo": "landing_field",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "airport",
+                "sinonimo": "drome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "airport",
+                "sinonimo": "airport",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "airfield",
+                "sinonimo": "flying_field",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "airfield",
+                "sinonimo": "field",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "airport",
+                "sinonimo": "aerodrome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "airport",
+                "sinonimo": "airdrome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "airfield",
+                "sinonimo": "airfield",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Yeti_Airlines",
+          "palavra_canonica": "Yeti_Airlines",
+          "tags": [
+            "<org>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 8,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "serve",
+          "palavra_canonica": "servir",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "serve",
+                "sinonimo": "exercer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "provide",
+                "sinonimo": "fornecer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "service",
+                "sinonimo": "servir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "provide",
+                "sinonimo": "prover",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "serve",
+                "sinonimo": "dar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "service",
+                "sinonimo": "funcionar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "serve",
+                "sinonimo": "dish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "provide",
+                "sinonimo": "provide",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "provide",
+                "sinonimo": "supply",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "provide",
+                "sinonimo": "cater",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "serve",
+                "sinonimo": "serve",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "serve",
+                "sinonimo": "dish_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "provide",
+                "sinonimo": "ply",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "serve",
+                "sinonimo": "dish_out",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "service",
+                "sinonimo": "service",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "serve",
+                "sinonimo": "serve_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "serve",
+                "sinonimo": "function",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 9,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "qual",
+        "confianca": 0.85,
+        "ids": [
+          3
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "aeroportos",
+          "palavra_canonica": "aeroporto",
+          "tags": [
+            "<Lh>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "airfield",
+                "sinonimo": "aeroporto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "airport",
+                "sinonimo": "Aeroportos_da_América_do_Sul",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "airport",
+                "sinonimo": "aeródromo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "airport",
+                "sinonimo": "aeroportos",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "airfield",
+                "sinonimo": "landing_field",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "airport",
+                "sinonimo": "drome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "airport",
+                "sinonimo": "airport",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "airfield",
+                "sinonimo": "flying_field",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "airfield",
+                "sinonimo": "field",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "airport",
+                "sinonimo": "aerodrome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "airport",
+                "sinonimo": "airdrome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "airfield",
+                "sinonimo": "airfield",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Yeti_Airlines",
+          "palavra_canonica": "Yeti_Airlines",
+          "tags": [
+            "<org>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 8,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "serve",
+          "palavra_canonica": "servir",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "serve",
+                "sinonimo": "exercer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "provide",
+                "sinonimo": "fornecer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "service",
+                "sinonimo": "servir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "provide",
+                "sinonimo": "prover",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "serve",
+                "sinonimo": "dar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "service",
+                "sinonimo": "funcionar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "serve",
+                "sinonimo": "dish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "provide",
+                "sinonimo": "provide",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "provide",
+                "sinonimo": "supply",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "provide",
+                "sinonimo": "cater",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "serve",
+                "sinonimo": "serve",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "serve",
+                "sinonimo": "dish_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "provide",
+                "sinonimo": "ply",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "serve",
+                "sinonimo": "dish_out",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "service",
+                "sinonimo": "service",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "serve",
+                "sinonimo": "serve_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "serve",
+                "sinonimo": "function",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "qantas",
+              "*hubssecundarios",
+              "*aeroporto de perth"
+            ]
+          ],
+          "score": 2.9882987,
+          "detail": {
+            "keywords": [
+              "servir",
+              "aeroporto"
+            ],
+            "score_detail": {
+              "m1": 2.321632,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "servir": {
+                  "keyword": {
+                    "termo": "dar",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "hubssecundarios",
+                  "score": 0.583836
+                },
+                "aeroporto": {
+                  "keyword": {
+                    "termo": "aeroporto",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "aeroporto de perth",
+                  "score": 1.737796
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 0
+        },
+        {
+          "triples": [
+            [
+              "arik_air",
+              "*hubssecundarios",
+              "*aeroporto de accra"
+            ]
+          ],
+          "score": 2.9882987,
+          "detail": {
+            "keywords": [
+              "servir",
+              "aeroporto"
+            ],
+            "score_detail": {
+              "m1": 2.321632,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "servir": {
+                  "keyword": {
+                    "termo": "dar",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "hubssecundarios",
+                  "score": 0.583836
+                },
+                "aeroporto": {
+                  "keyword": {
+                    "termo": "aeroporto",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "aeroporto de accra",
+                  "score": 1.737796
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "virgin_blue",
+              "*hubssecundarios",
+              "*aeroporto adelaide"
+            ]
+          ],
+          "score": 2.9882987,
+          "detail": {
+            "keywords": [
+              "servir",
+              "aeroporto"
+            ],
+            "score_detail": {
+              "m1": 2.321632,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "servir": {
+                  "keyword": {
+                    "termo": "dar",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "hubssecundarios",
+                  "score": 0.583836
+                },
+                "aeroporto": {
+                  "keyword": {
+                    "termo": "aeroporto",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "aeroporto adelaide",
+                  "score": 1.737796
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "airasia",
+              "*hubssecundarios",
+              "*aeroporto de penang"
+            ]
+          ],
+          "score": 2.9496188,
+          "detail": {
+            "keywords": [
+              "servir",
+              "aeroporto"
+            ],
+            "score_detail": {
+              "m1": 2.282952,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "servir": {
+                  "keyword": {
+                    "termo": "dar",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "hubssecundarios",
+                  "score": 0.583836
+                },
+                "aeroporto": {
+                  "keyword": {
+                    "termo": "aeroporto",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "aeroporto de penang",
+                  "score": 1.6991161
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "airasia",
+              "*hubssecundarios",
+              "*aeroporto de kuching"
+            ]
+          ],
+          "score": 2.9090126,
+          "detail": {
+            "keywords": [
+              "servir",
+              "aeroporto"
+            ],
+            "score_detail": {
+              "m1": 2.2423458,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "servir": {
+                  "keyword": {
+                    "termo": "dar",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "hubssecundarios",
+                  "score": 0.583836
+                },
+                "aeroporto": {
+                  "keyword": {
+                    "termo": "aeroporto",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "aeroporto de kuching",
+                  "score": 1.6585097
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*aeroporto_internacional_de_viena",
+              "*serve",
+              "viena,austria,bratislava e eslovaquia"
+            ]
+          ],
+          "score": 2.7283437,
+          "detail": {
+            "keywords": [
+              "servir",
+              "aeroporto"
+            ],
+            "score_detail": {
+              "m1": 2.061677,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "servir": {
+                  "keyword": {
+                    "termo": "serve",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "serve",
+                  "score": 1.0
+                },
+                "aeroporto": {
+                  "keyword": {
+                    "termo": "aeroporto",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "aeroporto_internacional_de_viena",
+                  "score": 1.0616771
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "estacao_galeao___tom_jobim_2",
+              "*servicos",
+              "*integracao 60px|link=aeroporto internacional tom jobim aeroporto internacional tom jobim"
+            ]
+          ],
+          "score": 2.6481223,
+          "detail": {
+            "keywords": [
+              "servico",
+              "aeroporto"
+            ],
+            "score_detail": {
+              "m1": 1.9814557,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "servico": {
+                  "keyword": {
+                    "termo": "servico",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "servicos",
+                  "score": 1.971831
+                },
+                "aeroporto": {
+                  "keyword": {
+                    "termo": "aeroporto",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "integracao 60px|link=aeroporto internacional tom jobim aeroporto internacional tom jobim",
+                  "score": 0.009624715
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "estacao_galeao___tom_jobim_1",
+              "*servicos",
+              "*integracao 60px|link=aeroporto internacional tom jobim aeroporto internacional tom jobim"
+            ]
+          ],
+          "score": 2.6481223,
+          "detail": {
+            "keywords": [
+              "servico",
+              "aeroporto"
+            ],
+            "score_detail": {
+              "m1": 1.9814557,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "servico": {
+                  "keyword": {
+                    "termo": "servico",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "servicos",
+                  "score": 1.971831
+                },
+                "aeroporto": {
+                  "keyword": {
+                    "termo": "aeroporto",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "integracao 60px|link=aeroporto internacional tom jobim aeroporto internacional tom jobim",
+                  "score": 0.009624715
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "airasia",
+              "*hubssecundarios",
+              "*aeroporto de penang"
+            ],
+            [
+              "airasia",
+              "*hubssecundarios",
+              "*aeroporto de kuching"
+            ]
+          ],
+          "score": 2.6162853,
+          "detail": {
+            "keywords": [
+              "servir",
+              "aeroporto"
+            ],
+            "score_detail": {
+              "m1": 2.282952,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "servir": {
+                  "keyword": {
+                    "termo": "dar",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "hubssecundarios",
+                  "score": 0.583836
+                },
+                "aeroporto": {
+                  "keyword": {
+                    "termo": "aeroporto",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "aeroporto de penang",
+                  "score": 1.6991161
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "airasia",
+              "*hubssecundarios",
+              "*aeroporto de kuching"
+            ],
+            [
+              "airasia",
+              "*hubssecundarios",
+              "*aeroporto de penang"
+            ]
+          ],
+          "score": 2.6162853,
+          "detail": {
+            "keywords": [
+              "servir",
+              "aeroporto"
+            ],
+            "score_detail": {
+              "m1": 2.282952,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "servir": {
+                  "keyword": {
+                    "termo": "dar",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "hubssecundarios",
+                  "score": 0.583836
+                },
+                "aeroporto": {
+                  "keyword": {
+                    "termo": "aeroporto",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "aeroporto de penang",
+                  "score": 1.6991161
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "nauru_airlines",
+              "*hubssecundarios",
+              "*aeroporto internacional de nadi"
+            ]
+          ],
+          "score": 2.365725,
+          "detail": {
+            "keywords": [
+              "servir",
+              "aeroporto"
+            ],
+            "score_detail": {
+              "m1": 1.6990583,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "servir": {
+                  "keyword": {
+                    "termo": "dar",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "hubssecundarios",
+                  "score": 0.583836
+                },
+                "aeroporto": {
+                  "keyword": {
+                    "termo": "aeroporto",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "aeroporto internacional de nadi",
+                  "score": 1.1152223
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*aeroporto",
+              "owl#sameas",
+              "q1248784"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "aeroporto"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "aeroporto": {
+                  "keyword": {
+                    "termo": "aeroporto",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "aeroporto",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*aeroporto",
+              "owl#sameas",
+              "letiste"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "aeroporto"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "aeroporto": {
+                  "keyword": {
+                    "termo": "aeroporto",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "aeroporto",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*aeroporto",
+              "owl#sameas",
+              "flughafen"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "aeroporto"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "aeroporto": {
+                  "keyword": {
+                    "termo": "aeroporto",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "aeroporto",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*aeroporto",
+              "owl#sameas",
+              12
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "aeroporto"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "aeroporto": {
+                  "keyword": {
+                    "termo": "aeroporto",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "aeroporto",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*aeroporto",
+              "owl#sameas",
+              "*airport"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "aeroporto"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "aeroporto": {
+                  "keyword": {
+                    "termo": "aeroporto",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "aeroporto",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*aeroporto",
+              "owl#sameas",
+              "aeropuerto"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "aeroporto"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "aeroporto": {
+                  "keyword": {
+                    "termo": "aeroporto",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "aeroporto",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*aeroporto",
+              "owl#sameas",
+              "aireportu"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "aeroporto"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "aeroporto": {
+                  "keyword": {
+                    "termo": "aeroporto",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "aeroporto",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*aeroporto",
+              "owl#sameas",
+              "aeroport"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "aeroporto"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "aeroporto": {
+                  "keyword": {
+                    "termo": "aeroporto",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "aeroporto",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*aeroporto",
+              "owl#sameas",
+              "*bandar_udara"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "aeroporto"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "aeroporto": {
+                  "keyword": {
+                    "termo": "aeroporto",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "aeroporto",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*aeroporto",
+              "owl#sameas",
+              "*aeroporto"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "aeroporto"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "aeroporto": {
+                  "keyword": {
+                    "termo": "aeroporto",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "aeroporto",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*aeroporto",
+              "owl#sameas",
+              "vliegveld"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "aeroporto"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "aeroporto": {
+                  "keyword": {
+                    "termo": "aeroporto",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "aeroporto",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*aeroporto",
+              "owl#sameas",
+              "port_lotniczy"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "aeroporto"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "aeroporto": {
+                  "keyword": {
+                    "termo": "aeroporto",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "aeroporto",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*aeroporto",
+              "owl#sameas",
+              "q5615912"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "aeroporto"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "aeroporto": {
+                  "keyword": {
+                    "termo": "aeroporto",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "aeroporto",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*aeroporto",
+              "owl#sameas",
+              "sablona:infobox___letiste"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "aeroporto"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "aeroporto": {
+                  "keyword": {
+                    "termo": "aeroporto",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "aeroporto",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*aeroporto",
+              "owl#sameas",
+              "vorlage:infobox_flughafen"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "aeroporto"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "aeroporto": {
+                  "keyword": {
+                    "termo": "aeroporto",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "aeroporto",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*aeroporto",
+              "owl#sameas",
+              ":_"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "aeroporto"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "aeroporto": {
+                  "keyword": {
+                    "termo": "aeroporto",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "aeroporto",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*aeroporto",
+              "owl#sameas",
+              "*template:infobox_airport"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "aeroporto"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "aeroporto": {
+                  "keyword": {
+                    "termo": "aeroporto",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "aeroporto",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*aeroporto",
+              "owl#sameas",
+              "plantilla:ficha_de_aeropuerto"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "aeroporto"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "aeroporto": {
+                  "keyword": {
+                    "termo": "aeroporto",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "aeroporto",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*aeroporto",
+              "owl#sameas",
+              "txantiloi:aireportu_infotaula"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "aeroporto"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "aeroporto": {
+                  "keyword": {
+                    "termo": "aeroporto",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "aeroporto",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 1760983300,
+      "total_time": 10617982400
+    }
+  }
+]

@@ -1,0 +1,2428 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:spec",
+          "palavra_original": "Quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "escreveu",
+          "palavra_canonica": "escrever",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "tema",
+          "palavra_canonica": "tema",
+          "tags": [
+            "<ac>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<sam->",
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<-sam>",
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Game_of_Thrones",
+          "palavra_canonica": "Game_of_Thrones",
+          "tags": [
+            "<inst>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:spec",
+          "palavra_original": "Quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "escreveu",
+          "palavra_canonica": "escrever",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "publish",
+                "sinonimo": "escrever",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "redigir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "publish",
+                "sinonimo": "publicar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "compose",
+                "sinonimo": "compor",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "spell",
+                "sinonimo": "soletrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "write",
+                "sinonimo": "drop_a_line",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "publish",
+                "sinonimo": "publish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "write",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "spell",
+                "sinonimo": "spell",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "pen",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "indite",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "compose",
+                "sinonimo": "compose",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "tema",
+          "palavra_canonica": "tema",
+          "tags": [
+            "<ac>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "question",
+                "sinonimo": "tema",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "subject",
+                "sinonimo": "temas",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "topic",
+                "sinonimo": "assunto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "subject",
+                "sinonimo": "mensagem",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "subject",
+                "sinonimo": "tópico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "topic",
+                "sinonimo": "matéria",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "question",
+                "sinonimo": "questão",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "theme",
+                "sinonimo": "motivo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "theme",
+                "sinonimo": "ideia",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "question",
+                "sinonimo": "question",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "theme",
+                "sinonimo": "motif",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "theme",
+                "sinonimo": "melodic_theme",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "topic",
+                "sinonimo": "issue",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "theme",
+                "sinonimo": "idea",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "subject",
+                "sinonimo": "theme",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "topic",
+                "sinonimo": "subject",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "question",
+                "sinonimo": "head",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "topic",
+                "sinonimo": "topic",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "theme",
+                "sinonimo": "musical_theme",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "topic",
+                "sinonimo": "matter",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<sam->",
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<-sam>",
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Game_of_thrones",
+          "palavra_canonica": "Game_of_thrones",
+          "tags": [
+            "<inst>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 12,
+          "tag_inicial": "?",
+          "palavra_original": " ",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "[ [ QUE:fcl|1| [S:spec|2| Quem] [P:v-fin|3| escreveu] [ Od:np|4| [DN:art|5| o] [H:n|6| tema] [ DN:pp|7| [H:prp|8| de] [ DP:np|9| [DN:art|10| o] [H:prop|11| Game_of_thrones] ] ] ] [?|12|  ] ] ]",
+      "tipo": {
+        "tipo": "quem",
+        "confianca": 0.93,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "escreveu",
+          "palavra_canonica": "escrever",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "publish",
+                "sinonimo": "escrever",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "redigir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "publish",
+                "sinonimo": "publicar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "compose",
+                "sinonimo": "compor",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "spell",
+                "sinonimo": "soletrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "write",
+                "sinonimo": "drop_a_line",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "publish",
+                "sinonimo": "publish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "write",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "spell",
+                "sinonimo": "spell",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "pen",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "indite",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "compose",
+                "sinonimo": "compose",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "tema",
+          "palavra_canonica": "tema",
+          "tags": [
+            "<ac>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "question",
+                "sinonimo": "tema",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "subject",
+                "sinonimo": "temas",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "topic",
+                "sinonimo": "assunto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "subject",
+                "sinonimo": "mensagem",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "subject",
+                "sinonimo": "tópico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "topic",
+                "sinonimo": "matéria",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "question",
+                "sinonimo": "questão",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "theme",
+                "sinonimo": "motivo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "theme",
+                "sinonimo": "ideia",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "question",
+                "sinonimo": "question",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "theme",
+                "sinonimo": "motif",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "theme",
+                "sinonimo": "melodic_theme",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "topic",
+                "sinonimo": "issue",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "theme",
+                "sinonimo": "idea",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "subject",
+                "sinonimo": "theme",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "topic",
+                "sinonimo": "subject",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "question",
+                "sinonimo": "head",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "topic",
+                "sinonimo": "topic",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "theme",
+                "sinonimo": "musical_theme",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "topic",
+                "sinonimo": "matter",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 11,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Game_of_thrones",
+          "palavra_canonica": "Game_of_thrones",
+          "tags": [
+            "<inst>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 6,
+            "tag_inicial": "H:n",
+            "palavra_original": "tema",
+            "palavra_canonica": "tema",
+            "tags": [
+              "<ac>",
+              "M",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "question",
+                  "sinonimo": "tema",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "subject",
+                  "sinonimo": "temas",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "topic",
+                  "sinonimo": "assunto",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "subject",
+                  "sinonimo": "mensagem",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "subject",
+                  "sinonimo": "tópico",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "topic",
+                  "sinonimo": "matéria",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "question",
+                  "sinonimo": "questão",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "theme",
+                  "sinonimo": "motivo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "theme",
+                  "sinonimo": "ideia",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "question",
+                  "sinonimo": "question",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "theme",
+                  "sinonimo": "motif",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "theme",
+                  "sinonimo": "melodic_theme",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "topic",
+                  "sinonimo": "issue",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "theme",
+                  "sinonimo": "idea",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "subject",
+                  "sinonimo": "theme",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "topic",
+                  "sinonimo": "subject",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "question",
+                  "sinonimo": "head",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "topic",
+                  "sinonimo": "topic",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "theme",
+                  "sinonimo": "musical_theme",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "topic",
+                  "sinonimo": "matter",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 11,
+            "tag_inicial": "H:prop",
+            "palavra_original": "Game_of_thrones",
+            "palavra_canonica": "Game_of_thrones",
+            "tags": [
+              "<inst>",
+              "<*>",
+              "<heur>",
+              "<foreign>",
+              "M",
+              "S"
+            ],
+            "nivel": 4,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*blackwater_(game_of_thrones)",
+              "*escritor",
+              "george_r._r._martin"
+            ],
+            [
+              "*blackwater_(game_of_thrones)",
+              "serie",
+              "*game_of_thrones"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "escritor",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "game_of_thrones": "-48",
+              "escritor": "-113"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*blackwater_(game_of_thrones)",
+              "*escritor",
+              "george_r._r._martin"
+            ],
+            [
+              "*blackwater_(game_of_thrones)",
+              "series",
+              "*game_of_thrones"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "escritor",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "game_of_thrones": "-48",
+              "escritor": "-113"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*blackwater_(game_of_thrones)",
+              "serie",
+              "*game_of_thrones"
+            ],
+            [
+              "*blackwater_(game_of_thrones)",
+              "*escritor",
+              "george_r._r._martin"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "game_of_thrones",
+              "escritor"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*blackwater_(game_of_thrones)",
+              "series",
+              "*game_of_thrones"
+            ],
+            [
+              "*blackwater_(game_of_thrones)",
+              "*escritor",
+              "george_r._r._martin"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "game_of_thrones",
+              "escritor"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "escritor": {
+                  "keyword": {
+                    "termo": "escritor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "escritor",
+                  "score": 2.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "*subject",
+              "*categoria:game_of_thrones"
+            ]
+          ],
+          "score": 12.666667,
+          "detail": {
+            "keywords": [
+              "tema",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "tema": {
+                  "keyword": {
+                    "termo": "subject",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "subject",
+                  "score": 1.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "*openingtheme",
+              "ramin_djawadi"
+            ]
+          ],
+          "score": 12.507184,
+          "detail": {
+            "keywords": [
+              "tema",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 10.840517,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "tema": {
+                  "keyword": {
+                    "termo": "theme",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "openingtheme",
+                  "score": 0.8405173
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "*subject",
+              "*categoria:game_of_thrones"
+            ],
+            [
+              "*game_of_thrones",
+              "*openingtheme",
+              "ramin_djawadi"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "tema",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tema": {
+                  "keyword": {
+                    "termo": "subject",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "subject",
+                  "score": 1.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "*subject",
+              "*categoria:game_of_thrones"
+            ],
+            [
+              "*game_of_thrones",
+              "owl#sameas",
+              "q23572"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "tema",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tema": {
+                  "keyword": {
+                    "termo": "subject",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "subject",
+                  "score": 1.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "*subject",
+              "*categoria:game_of_thrones"
+            ],
+            [
+              "*game_of_thrones",
+              "owl#sameas",
+              "hra_o_truny_(serial)"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "tema",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tema": {
+                  "keyword": {
+                    "termo": "subject",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "subject",
+                  "score": 1.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "*subject",
+              "*categoria:game_of_thrones"
+            ],
+            [
+              "*game_of_thrones",
+              "owl#sameas",
+              "*game_of_thrones"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "tema",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tema": {
+                  "keyword": {
+                    "termo": "subject",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "subject",
+                  "score": 1.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "*subject",
+              "*categoria:game_of_thrones"
+            ],
+            [
+              "*game_of_thrones",
+              "owl#sameas",
+              "juego_de_tronos_(serie_de_television)"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "tema",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tema": {
+                  "keyword": {
+                    "termo": "subject",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "subject",
+                  "score": 1.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "*subject",
+              "*categoria:game_of_thrones"
+            ],
+            [
+              "*game_of_thrones",
+              "owl#sameas",
+              "il_trono_di_spade_(serie_televisiva)"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "tema",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tema": {
+                  "keyword": {
+                    "termo": "subject",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "subject",
+                  "score": 1.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "*subject",
+              "*categoria:game_of_thrones"
+            ],
+            [
+              "*game_of_thrones",
+              "owl#sameas",
+              7
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "tema",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tema": {
+                  "keyword": {
+                    "termo": "subject",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "subject",
+                  "score": 1.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "*subject",
+              "*categoria:game_of_thrones"
+            ],
+            [
+              "*game_of_thrones",
+              "owl#sameas",
+              "__()"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "tema",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tema": {
+                  "keyword": {
+                    "termo": "subject",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "subject",
+                  "score": 1.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "*subject",
+              "*categoria:game_of_thrones"
+            ],
+            [
+              "*game_of_thrones",
+              "owl#sameas",
+              "gra_o_tron_(serial_telewizyjny)"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "tema",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tema": {
+                  "keyword": {
+                    "termo": "subject",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "subject",
+                  "score": 1.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "*subject",
+              "*categoria:game_of_thrones"
+            ],
+            [
+              "*game_of_thrones",
+              "imagem",
+              "gameofthrones.png"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "tema",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tema": {
+                  "keyword": {
+                    "termo": "subject",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "subject",
+                  "score": 1.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "*subject",
+              "*categoria:game_of_thrones"
+            ],
+            [
+              "*game_of_thrones",
+              "tamanho",
+              "250"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "tema",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tema": {
+                  "keyword": {
+                    "termo": "subject",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "subject",
+                  "score": 1.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "*subject",
+              "*categoria:game_of_thrones"
+            ],
+            [
+              "*game_of_thrones",
+              "formato",
+              "serie"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "tema",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tema": {
+                  "keyword": {
+                    "termo": "subject",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "subject",
+                  "score": 1.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "*subject",
+              "*categoria:game_of_thrones"
+            ],
+            [
+              "*game_of_thrones",
+              "genero",
+              "aventura"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "tema",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tema": {
+                  "keyword": {
+                    "termo": "subject",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "subject",
+                  "score": 1.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "*subject",
+              "*categoria:game_of_thrones"
+            ],
+            [
+              "*game_of_thrones",
+              "genero",
+              "drama"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "tema",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tema": {
+                  "keyword": {
+                    "termo": "subject",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "subject",
+                  "score": 1.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "*subject",
+              "*categoria:game_of_thrones"
+            ],
+            [
+              "*game_of_thrones",
+              "genero",
+              "epico_(genero)"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "tema",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tema": {
+                  "keyword": {
+                    "termo": "subject",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "subject",
+                  "score": 1.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "*subject",
+              "*categoria:game_of_thrones"
+            ],
+            [
+              "*game_of_thrones",
+              "genero",
+              "fantasia_(genero)"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "tema",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tema": {
+                  "keyword": {
+                    "termo": "subject",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "subject",
+                  "score": 1.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "*subject",
+              "*categoria:game_of_thrones"
+            ],
+            [
+              "*game_of_thrones",
+              "duracao",
+              "48"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "tema",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tema": {
+                  "keyword": {
+                    "termo": "subject",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "subject",
+                  "score": 1.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "*subject",
+              "*categoria:game_of_thrones"
+            ],
+            [
+              "*game_of_thrones",
+              "emissoraluso",
+              "hbo brasil"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "tema",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tema": {
+                  "keyword": {
+                    "termo": "subject",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "subject",
+                  "score": 1.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "*subject",
+              "*categoria:game_of_thrones"
+            ],
+            [
+              "*game_of_thrones",
+              "transmissao",
+              "17"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "tema",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tema": {
+                  "keyword": {
+                    "termo": "subject",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "subject",
+                  "score": 1.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "*subject",
+              "*categoria:game_of_thrones"
+            ],
+            [
+              "*game_of_thrones",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "tema",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tema": {
+                  "keyword": {
+                    "termo": "subject",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "subject",
+                  "score": 1.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "*subject",
+              "*categoria:game_of_thrones"
+            ],
+            [
+              "*game_of_thrones",
+              "owl#sameas",
+              "taxtlarn_oyunu_(teleserial,_2011)"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "tema",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tema": {
+                  "keyword": {
+                    "termo": "subject",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "subject",
+                  "score": 1.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "*subject",
+              "*categoria:game_of_thrones"
+            ],
+            [
+              "*game_of_thrones",
+              "owl#sameas",
+              "_,_"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "tema",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tema": {
+                  "keyword": {
+                    "termo": "subject",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "subject",
+                  "score": 1.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "*subject",
+              "*categoria:game_of_thrones"
+            ],
+            [
+              "*game_of_thrones",
+              "owl#sameas",
+              "___()"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "tema",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tema": {
+                  "keyword": {
+                    "termo": "subject",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "subject",
+                  "score": 1.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "*subject",
+              "*categoria:game_of_thrones"
+            ],
+            [
+              "*game_of_thrones",
+              "owl#sameas",
+              "igra_prijestolja"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "tema",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tema": {
+                  "keyword": {
+                    "termo": "subject",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "subject",
+                  "score": 1.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 2457.7836990356445,
+      "l_sizes": [
+        30552,
+        21102
+      ],
+      "total_time": 12224.274396896362
+    }
+  }
+]

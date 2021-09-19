@@ -1,0 +1,1615 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Frank_Herbert",
+          "palavra_canonica": "Frank_Herbert",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "fA:adv",
+          "palavra_original": "ainda",
+          "palavra_canonica": "ainda",
+          "tags": [
+            "<setop>",
+            "<atemp>"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "vive",
+          "palavra_canonica": "viver",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Frank_Herbert",
+          "palavra_canonica": "Frank_Herbert",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 3,
+          "tag_inicial": "fA:adv",
+          "palavra_original": "ainda",
+          "palavra_canonica": "ainda",
+          "tags": [
+            "<setop>",
+            "<atemp>"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "vive",
+          "palavra_canonica": "viver",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "occupy",
+                "sinonimo": "residir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "occupy",
+                "sinonimo": "habitar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "populate",
+                "sinonimo": "povoar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "occupy",
+                "sinonimo": "morar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "live",
+                "sinonimo": "viver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "occupy",
+                "sinonimo": "lodge_in",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "occupy",
+                "sinonimo": "occupy",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "populate",
+                "sinonimo": "dwell",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "live",
+                "sinonimo": "live",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "populate",
+                "sinonimo": "populate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "occupy",
+                "sinonimo": "reside",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "populate",
+                "sinonimo": "inhabit",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "desconhecido",
+        "confianca": 1,
+        "ids": []
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 2,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Frank_Herbert",
+          "palavra_canonica": "Frank_Herbert",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "vive",
+          "palavra_canonica": "viver",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "occupy",
+                "sinonimo": "residir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "occupy",
+                "sinonimo": "habitar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "populate",
+                "sinonimo": "povoar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "occupy",
+                "sinonimo": "morar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "live",
+                "sinonimo": "viver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "occupy",
+                "sinonimo": "lodge_in",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "occupy",
+                "sinonimo": "occupy",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "populate",
+                "sinonimo": "dwell",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "live",
+                "sinonimo": "live",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "populate",
+                "sinonimo": "populate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "occupy",
+                "sinonimo": "reside",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "populate",
+                "sinonimo": "inhabit",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*frank_herbert",
+              "owl#sameas",
+              "q7934"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "frank_herbert"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "frank_herbert": {
+                  "keyword": {
+                    "termo": "frank_herbert",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "frank_herbert",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "frank_herbert": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*frank_herbert",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "frank_herbert"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "frank_herbert": {
+                  "keyword": {
+                    "termo": "frank_herbert",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "frank_herbert",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "frank_herbert": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*frank_herbert",
+              "owl#sameas",
+              "*frank_herbert"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "frank_herbert"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "frank_herbert": {
+                  "keyword": {
+                    "termo": "frank_herbert",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "frank_herbert",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*frank_herbert",
+              "owl#sameas",
+              5
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "frank_herbert"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "frank_herbert": {
+                  "keyword": {
+                    "termo": "frank_herbert",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "frank_herbert",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "frank_herbert": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*frank_herbert",
+              "owl#sameas",
+              "franciscus_herbert"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "frank_herbert"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "frank_herbert": {
+                  "keyword": {
+                    "termo": "frank_herbert",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "frank_herbert",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4,
+          "bind_control": {
+            "binds": {
+              "frank_herbert": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*frank_herbert",
+              "owl#sameas",
+              "frenks_herberts"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "frank_herbert"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "frank_herbert": {
+                  "keyword": {
+                    "termo": "frank_herbert",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "frank_herbert",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "frank_herbert": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*frank_herbert",
+              "owl#sameas",
+              ",_"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "frank_herbert"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "frank_herbert": {
+                  "keyword": {
+                    "termo": "frank_herbert",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "frank_herbert",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6,
+          "bind_control": {
+            "binds": {
+              "frank_herbert": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*frank_herbert",
+              "owl#sameas",
+              "frank_patrick_herbert"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "frank_herbert"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "frank_herbert": {
+                  "keyword": {
+                    "termo": "frank_herbert",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "frank_herbert",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7,
+          "bind_control": {
+            "binds": {
+              "frank_herbert": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*frank_herbert",
+              "imagem",
+              "frankherbert1978-cropped.jpg"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "frank_herbert"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "frank_herbert": {
+                  "keyword": {
+                    "termo": "frank_herbert",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "frank_herbert",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8,
+          "bind_control": {
+            "binds": {
+              "frank_herbert": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*frank_herbert",
+              "nomecompleto",
+              "frank patrick herbert"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "frank_herbert"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "frank_herbert": {
+                  "keyword": {
+                    "termo": "frank_herbert",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "frank_herbert",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9,
+          "bind_control": {
+            "binds": {
+              "frank_herbert": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*frank_herbert",
+              "pais",
+              "norte-americano"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "frank_herbert"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "frank_herbert": {
+                  "keyword": {
+                    "termo": "frank_herbert",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "frank_herbert",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10,
+          "bind_control": {
+            "binds": {
+              "frank_herbert": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*frank_herbert",
+              "nascimento",
+              "tacoma, washington,"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "frank_herbert"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "frank_herbert": {
+                  "keyword": {
+                    "termo": "frank_herbert",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "frank_herbert",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11,
+          "bind_control": {
+            "binds": {
+              "frank_herbert": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*frank_herbert",
+              "localfalecimento",
+              "madison, wisconsin,"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "frank_herbert"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "frank_herbert": {
+                  "keyword": {
+                    "termo": "frank_herbert",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "frank_herbert",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12,
+          "bind_control": {
+            "binds": {
+              "frank_herbert": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*frank_herbert",
+              "obraprima",
+              "a serie duna"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "frank_herbert"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "frank_herbert": {
+                  "keyword": {
+                    "termo": "frank_herbert",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "frank_herbert",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13,
+          "bind_control": {
+            "binds": {
+              "frank_herbert": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*frank_herbert",
+              "depiction",
+              "frankherbert1978_cropped.jpg"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "frank_herbert"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "frank_herbert": {
+                  "keyword": {
+                    "termo": "frank_herbert",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "frank_herbert",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14,
+          "bind_control": {
+            "binds": {
+              "frank_herbert": "-1"
+            },
+            "best_bind": {
+              "score": 0.09068264,
+              "resource_id": 22,
+              "tr": "viver"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*frank_herbert",
+              "thumbnail",
+              "frankherbert1978_cropped.jpg?width=300"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "frank_herbert"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "frank_herbert": {
+                  "keyword": {
+                    "termo": "frank_herbert",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "frank_herbert",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15,
+          "bind_control": {
+            "binds": {
+              "frank_herbert": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*frank_herbert",
+              "wikipageusestemplate",
+              "autor"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "frank_herbert"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "frank_herbert": {
+                  "keyword": {
+                    "termo": "frank_herbert",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "frank_herbert",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16,
+          "bind_control": {
+            "binds": {
+              "frank_herbert": "-1"
+            },
+            "best_bind": {
+              "score": 0.08799135,
+              "resource_id": 26,
+              "tr": "viver"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*frank_herbert",
+              "wikipageusestemplate",
+              "predefinicao:links_externos"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "frank_herbert"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "frank_herbert": {
+                  "keyword": {
+                    "termo": "frank_herbert",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "frank_herbert",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17,
+          "bind_control": {
+            "binds": {
+              "frank_herbert": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*frank_herbert",
+              "wikipageusestemplate",
+              "predefinicao:wikiquote"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "frank_herbert"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "frank_herbert": {
+                  "keyword": {
+                    "termo": "frank_herbert",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "frank_herbert",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18,
+          "bind_control": {
+            "binds": {
+              "frank_herbert": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*frank_herbert",
+              "wikipageusestemplate",
+              "predefinicao:esboco_escritor_fc"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "frank_herbert"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "frank_herbert": {
+                  "keyword": {
+                    "termo": "frank_herbert",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "frank_herbert",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19,
+          "bind_control": {
+            "binds": {
+              "frank_herbert": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*frank_herbert",
+              "wikipageusestemplate",
+              "predefinicao:universo_de_duna"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "frank_herbert"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "frank_herbert": {
+                  "keyword": {
+                    "termo": "frank_herbert",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "frank_herbert",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20,
+          "bind_control": {
+            "binds": {
+              "frank_herbert": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*frank_herbert",
+              "wikipageusestemplate",
+              "predefinicao:portal3"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "frank_herbert"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "frank_herbert": {
+                  "keyword": {
+                    "termo": "frank_herbert",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "frank_herbert",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21,
+          "bind_control": {
+            "binds": {
+              "frank_herbert": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*frank_herbert",
+              "subject",
+              "categoria:escritores_dos_estados_unidos"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "frank_herbert"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "frank_herbert": {
+                  "keyword": {
+                    "termo": "frank_herbert",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "frank_herbert",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22,
+          "bind_control": {
+            "binds": {
+              "frank_herbert": "-1"
+            },
+            "best_bind": {
+              "score": 0.09234554,
+              "resource_id": 33,
+              "tr": "viver"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*frank_herbert",
+              "subject",
+              "categoria:escritores_de_ficcao_cientifica_dos_estados_unidos"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "frank_herbert"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "frank_herbert": {
+                  "keyword": {
+                    "termo": "frank_herbert",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "frank_herbert",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23,
+          "bind_control": {
+            "binds": {
+              "frank_herbert": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*frank_herbert",
+              "subject",
+              "categoria:naturais_de_tacoma"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "frank_herbert"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "frank_herbert": {
+                  "keyword": {
+                    "termo": "frank_herbert",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "frank_herbert",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24,
+          "bind_control": {
+            "binds": {
+              "frank_herbert": "-1"
+            },
+            "best_bind": {
+              "score": 0.09234554,
+              "resource_id": 33,
+              "tr": "viver"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*frank_herbert",
+              "wikipageusestemplate",
+              "predefinicao:usab"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "frank_herbert"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "frank_herbert": {
+                  "keyword": {
+                    "termo": "frank_herbert",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "frank_herbert",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25,
+          "bind_control": {
+            "binds": {
+              "frank_herbert": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*frank_herbert",
+              "wikipageusestemplate",
+              "predefinicao:dni"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "frank_herbert"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "frank_herbert": {
+                  "keyword": {
+                    "termo": "frank_herbert",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "frank_herbert",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26,
+          "bind_control": {
+            "binds": {
+              "frank_herbert": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*frank_herbert",
+              "wikipageusestemplate",
+              "predefinicao:flag"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "frank_herbert"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "frank_herbert": {
+                  "keyword": {
+                    "termo": "frank_herbert",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "frank_herbert",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27,
+          "bind_control": {
+            "binds": {
+              "frank_herbert": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*frank_herbert",
+              "wikipageusestemplate",
+              "predefinicao:morte"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "frank_herbert"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "frank_herbert": {
+                  "keyword": {
+                    "termo": "frank_herbert",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "frank_herbert",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28,
+          "bind_control": {
+            "binds": {
+              "frank_herbert": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*frank_herbert",
+              "wikipageexternallink",
+              "genesis.html"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "frank_herbert"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "frank_herbert": {
+                  "keyword": {
+                    "termo": "frank_herbert",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "frank_herbert",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29,
+          "bind_control": {
+            "binds": {
+              "frank_herbert": "-1"
+            },
+            "best_bind": {
+              "score": 0.0546741475,
+              "resource_id": 41,
+              "tr": "viver"
+            }
+          }
+        }
+      ],
+      "ranking_time": 671703400,
+      "total_time": 6614173600
+    }
+  }
+]

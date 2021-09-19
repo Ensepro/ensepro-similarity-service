@@ -1,0 +1,2198 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "Que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "museu",
+          "palavra_canonica": "museu",
+          "tags": [
+            "<inst>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Nova_York",
+          "palavra_canonica": "Nova_York",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "tem",
+          "palavra_canonica": "ter",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DN:pron-indef",
+          "palavra_original": "mais",
+          "palavra_canonica": "muito",
+          "tags": [
+            "<quant>",
+            "<KOMP>",
+            "DET",
+            "M/F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "H:n",
+          "palavra_original": "visitantes",
+          "palavra_canonica": "visitante",
+          "tags": [
+            "<H>",
+            "M/F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "Que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "museu",
+          "palavra_canonica": "museu",
+          "tags": [
+            "<inst>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "museum",
+                "sinonimo": "museus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "museum",
+                "sinonimo": "museu",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "museum",
+                "sinonimo": "museum",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Nova_iorque",
+          "palavra_canonica": "Nova_iorque",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 8,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "tem",
+          "palavra_canonica": "ter",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DN:pron-indef",
+          "palavra_original": "mais",
+          "palavra_canonica": "muito",
+          "tags": [
+            "<quant>",
+            "<KOMP>",
+            "DET",
+            "M/F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "H:n",
+          "palavra_original": "visitantes",
+          "palavra_canonica": "visitante",
+          "tags": [
+            "<H>",
+            "M/F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "guest",
+                "sinonimo": "convidado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "guest",
+                "sinonimo": "hóspede",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "caller",
+                "sinonimo": "visita",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "visitor",
+                "sinonimo": "visitante",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "guest",
+                "sinonimo": "guest",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "visitor",
+                "sinonimo": "visitant",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "caller",
+                "sinonimo": "company",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "guest",
+                "sinonimo": "invitee",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "caller",
+                "sinonimo": "caller",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "visitor",
+                "sinonimo": "visitor",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 12,
+          "tag_inicial": "?",
+          "palavra_original": " ",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "[ [ QUE:fcl|1| [ S:np|2| [DN:pron-int|3| Que] [H:n|4| museu] [ DN:pp|5| [H:prp|6| de] [DP:prop|7| Nova_iorque] ] ] [P:v-fin|8| tem] [ Od:np|9| [DN:pron-indef|10| mais] [H:n|11| visitantes] ] [?|12|  ] ] ]",
+      "tipo": {
+        "tipo": "qual",
+        "confianca": 0.85,
+        "ids": [
+          3
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "museu",
+          "palavra_canonica": "museu",
+          "tags": [
+            "<inst>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "museum",
+                "sinonimo": "museus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "museum",
+                "sinonimo": "museu",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "museum",
+                "sinonimo": "museum",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Nova_iorque",
+          "palavra_canonica": "Nova_iorque",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 11,
+          "tag_inicial": "H:n",
+          "palavra_original": "visitantes",
+          "palavra_canonica": "visitante",
+          "tags": [
+            "<H>",
+            "M/F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "guest",
+                "sinonimo": "convidado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "guest",
+                "sinonimo": "hóspede",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "caller",
+                "sinonimo": "visita",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "visitor",
+                "sinonimo": "visitante",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "guest",
+                "sinonimo": "guest",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "visitor",
+                "sinonimo": "visitant",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "caller",
+                "sinonimo": "company",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "guest",
+                "sinonimo": "invitee",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "caller",
+                "sinonimo": "caller",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "visitor",
+                "sinonimo": "visitor",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 4,
+            "tag_inicial": "H:n",
+            "palavra_original": "museu",
+            "palavra_canonica": "museu",
+            "tags": [
+              "<inst>",
+              "M",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "museum",
+                  "sinonimo": "museus",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "museum",
+                  "sinonimo": "museu",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "museum",
+                  "sinonimo": "museum",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 7,
+            "tag_inicial": "DP:prop",
+            "palavra_original": "Nova_iorque",
+            "palavra_canonica": "Nova_iorque",
+            "tags": [
+              "<hum>",
+              "<*>",
+              "<heur>",
+              "M/F",
+              "S"
+            ],
+            "nivel": 3,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "sorrow_(van_gogh)",
+              "*museu",
+              "*nova_iorque"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "museu",
+              "nova_iorque"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "museu": {
+                  "keyword": {
+                    "termo": "museu",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "museu",
+                  "score": 2.0
+                },
+                "nova_iorque": {
+                  "keyword": {
+                    "termo": "nova_iorque",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nova_iorque",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "museu": "-2700",
+              "nova_iorque": "-911"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "christina's_world",
+              "*museu",
+              "*nova_iorque"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "museu",
+              "nova_iorque"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "museu": {
+                  "keyword": {
+                    "termo": "museu",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "museu",
+                  "score": 2.0
+                },
+                "nova_iorque": {
+                  "keyword": {
+                    "termo": "nova_iorque",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nova_iorque",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "museu": "-2700",
+              "nova_iorque": "-911"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "sorrow_(van_gogh)",
+              "*museu",
+              "*nova_iorque"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "museu",
+              "nova_iorque"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "museu": {
+                  "keyword": {
+                    "termo": "museu",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "museu",
+                  "score": 2.0
+                },
+                "nova_iorque": {
+                  "keyword": {
+                    "termo": "nova_iorque",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nova_iorque",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "museu": "-2700",
+              "nova_iorque": "-911"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "christina's_world",
+              "*museu",
+              "*nova_iorque"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "museu",
+              "nova_iorque"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "museu": {
+                  "keyword": {
+                    "termo": "museu",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "museu",
+                  "score": 2.0
+                },
+                "nova_iorque": {
+                  "keyword": {
+                    "termo": "nova_iorque",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nova_iorque",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "museu": "-2700",
+              "nova_iorque": "-911"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "sorrow_(van_gogh)",
+              "*museu",
+              "*nova_iorque"
+            ],
+            [
+              "christina's_world",
+              "*museu",
+              "*nova_iorque"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "museu",
+              "nova_iorque"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "museu": {
+                  "keyword": {
+                    "termo": "museu",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "museu",
+                  "score": 2.0
+                },
+                "nova_iorque": {
+                  "keyword": {
+                    "termo": "nova_iorque",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nova_iorque",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "sorrow_(van_gogh)",
+              "*museu",
+              "*nova_iorque"
+            ],
+            [
+              "*nova_iorque",
+              "owl#sameas",
+              "q60"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "museu",
+              "nova_iorque"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "museu": {
+                  "keyword": {
+                    "termo": "museu",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "museu",
+                  "score": 2.0
+                },
+                "nova_iorque": {
+                  "keyword": {
+                    "termo": "nova_iorque",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nova_iorque",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "sorrow_(van_gogh)",
+              "*museu",
+              "*nova_iorque"
+            ],
+            [
+              "*nova_iorque",
+              "owl#sameas",
+              "new_york_stad"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "museu",
+              "nova_iorque"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "museu": {
+                  "keyword": {
+                    "termo": "museu",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "museu",
+                  "score": 2.0
+                },
+                "nova_iorque": {
+                  "keyword": {
+                    "termo": "nova_iorque",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nova_iorque",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "sorrow_(van_gogh)",
+              "*museu",
+              "*nova_iorque"
+            ],
+            [
+              "*nova_iorque",
+              "owl#sameas",
+              "new_york_city"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "museu",
+              "nova_iorque"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "museu": {
+                  "keyword": {
+                    "termo": "museu",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "museu",
+                  "score": 2.0
+                },
+                "nova_iorque": {
+                  "keyword": {
+                    "termo": "nova_iorque",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nova_iorque",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "sorrow_(van_gogh)",
+              "*museu",
+              "*nova_iorque"
+            ],
+            [
+              "*nova_iorque",
+              "owl#sameas",
+              "__"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "museu",
+              "nova_iorque"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "museu": {
+                  "keyword": {
+                    "termo": "museu",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "museu",
+                  "score": 2.0
+                },
+                "nova_iorque": {
+                  "keyword": {
+                    "termo": "nova_iorque",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nova_iorque",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "sorrow_(van_gogh)",
+              "*museu",
+              "*nova_iorque"
+            ],
+            [
+              "*nova_iorque",
+              "owl#sameas",
+              "nueva_york"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "museu",
+              "nova_iorque"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "museu": {
+                  "keyword": {
+                    "termo": "museu",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "museu",
+                  "score": 2.0
+                },
+                "nova_iorque": {
+                  "keyword": {
+                    "termo": "nova_iorque",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nova_iorque",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "sorrow_(van_gogh)",
+              "*museu",
+              "*nova_iorque"
+            ],
+            [
+              "*nova_iorque",
+              "owl#sameas",
+              19
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "museu",
+              "nova_iorque"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "museu": {
+                  "keyword": {
+                    "termo": "museu",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "museu",
+                  "score": 2.0
+                },
+                "nova_iorque": {
+                  "keyword": {
+                    "termo": "nova_iorque",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nova_iorque",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "sorrow_(van_gogh)",
+              "*museu",
+              "*nova_iorque"
+            ],
+            [
+              "*nova_iorque",
+              "owl#sameas",
+              "nyu_york"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "museu",
+              "nova_iorque"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "museu": {
+                  "keyword": {
+                    "termo": "museu",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "museu",
+                  "score": 2.0
+                },
+                "nova_iorque": {
+                  "keyword": {
+                    "termo": "nova_iorque",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nova_iorque",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "sorrow_(van_gogh)",
+              "*museu",
+              "*nova_iorque"
+            ],
+            [
+              "*nova_iorque",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "museu",
+              "nova_iorque"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "museu": {
+                  "keyword": {
+                    "termo": "museu",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "museu",
+                  "score": 2.0
+                },
+                "nova_iorque": {
+                  "keyword": {
+                    "termo": "nova_iorque",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nova_iorque",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "sorrow_(van_gogh)",
+              "*museu",
+              "*nova_iorque"
+            ],
+            [
+              "*nova_iorque",
+              "owl#sameas",
+              "new_york"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "museu",
+              "nova_iorque"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "museu": {
+                  "keyword": {
+                    "termo": "museu",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "museu",
+                  "score": 2.0
+                },
+                "nova_iorque": {
+                  "keyword": {
+                    "termo": "nova_iorque",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nova_iorque",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "sorrow_(van_gogh)",
+              "*museu",
+              "*nova_iorque"
+            ],
+            [
+              "*nova_iorque",
+              "owl#sameas",
+              "kuta_new_york"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "museu",
+              "nova_iorque"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "museu": {
+                  "keyword": {
+                    "termo": "museu",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "museu",
+                  "score": 2.0
+                },
+                "nova_iorque": {
+                  "keyword": {
+                    "termo": "nova_iorque",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nova_iorque",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "sorrow_(van_gogh)",
+              "*museu",
+              "*nova_iorque"
+            ],
+            [
+              "*nova_iorque",
+              "owl#sameas",
+              "nova_york"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "museu",
+              "nova_iorque"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "museu": {
+                  "keyword": {
+                    "termo": "museu",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "museu",
+                  "score": 2.0
+                },
+                "nova_iorque": {
+                  "keyword": {
+                    "termo": "nova_iorque",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nova_iorque",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "sorrow_(van_gogh)",
+              "*museu",
+              "*nova_iorque"
+            ],
+            [
+              "*nova_iorque",
+              "owl#sameas",
+              "dakbayan_sa_new_york"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "museu",
+              "nova_iorque"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "museu": {
+                  "keyword": {
+                    "termo": "museu",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "museu",
+                  "score": 2.0
+                },
+                "nova_iorque": {
+                  "keyword": {
+                    "termo": "nova_iorque",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nova_iorque",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "sorrow_(van_gogh)",
+              "*museu",
+              "*nova_iorque"
+            ],
+            [
+              "*nova_iorque",
+              "owl#sameas",
+              "_()"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "museu",
+              "nova_iorque"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "museu": {
+                  "keyword": {
+                    "termo": "museu",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "museu",
+                  "score": 2.0
+                },
+                "nova_iorque": {
+                  "keyword": {
+                    "termo": "nova_iorque",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nova_iorque",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "sorrow_(van_gogh)",
+              "*museu",
+              "*nova_iorque"
+            ],
+            [
+              "*nova_iorque",
+              "owl#sameas",
+              "dinas_efrog_newydd"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "museu",
+              "nova_iorque"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "museu": {
+                  "keyword": {
+                    "termo": "museu",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "museu",
+                  "score": 2.0
+                },
+                "nova_iorque": {
+                  "keyword": {
+                    "termo": "nova_iorque",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nova_iorque",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "sorrow_(van_gogh)",
+              "*museu",
+              "*nova_iorque"
+            ],
+            [
+              "*nova_iorque",
+              "owl#sameas",
+              "novjorko"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "museu",
+              "nova_iorque"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "museu": {
+                  "keyword": {
+                    "termo": "museu",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "museu",
+                  "score": 2.0
+                },
+                "nova_iorque": {
+                  "keyword": {
+                    "termo": "nova_iorque",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nova_iorque",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "sorrow_(van_gogh)",
+              "*museu",
+              "*nova_iorque"
+            ],
+            [
+              "*nova_iorque",
+              "owl#sameas",
+              "new_york_(sted)"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "museu",
+              "nova_iorque"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "museu": {
+                  "keyword": {
+                    "termo": "museu",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "museu",
+                  "score": 2.0
+                },
+                "nova_iorque": {
+                  "keyword": {
+                    "termo": "nova_iorque",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nova_iorque",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "sorrow_(van_gogh)",
+              "*museu",
+              "*nova_iorque"
+            ],
+            [
+              "*nova_iorque",
+              "owl#sameas",
+              "nua_eabhrac_(cathair)"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "museu",
+              "nova_iorque"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "museu": {
+                  "keyword": {
+                    "termo": "museu",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "museu",
+                  "score": 2.0
+                },
+                "nova_iorque": {
+                  "keyword": {
+                    "termo": "nova_iorque",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nova_iorque",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "sorrow_(van_gogh)",
+              "*museu",
+              "*nova_iorque"
+            ],
+            [
+              "*nova_iorque",
+              "owl#sameas",
+              "eabhraig_nuadh_(baile)"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "museu",
+              "nova_iorque"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "museu": {
+                  "keyword": {
+                    "termo": "museu",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "museu",
+                  "score": 2.0
+                },
+                "nova_iorque": {
+                  "keyword": {
+                    "termo": "nova_iorque",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nova_iorque",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "sorrow_(van_gogh)",
+              "*museu",
+              "*nova_iorque"
+            ],
+            [
+              "*nova_iorque",
+              "owl#sameas",
+              "new_york_city,_new_york"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "museu",
+              "nova_iorque"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "museu": {
+                  "keyword": {
+                    "termo": "museu",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "museu",
+                  "score": 2.0
+                },
+                "nova_iorque": {
+                  "keyword": {
+                    "termo": "nova_iorque",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nova_iorque",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "sorrow_(van_gogh)",
+              "*museu",
+              "*nova_iorque"
+            ],
+            [
+              "*nova_iorque",
+              "owl#sameas",
+              "nouyok"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "museu",
+              "nova_iorque"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "museu": {
+                  "keyword": {
+                    "termo": "museu",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "museu",
+                  "score": 2.0
+                },
+                "nova_iorque": {
+                  "keyword": {
+                    "termo": "nova_iorque",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nova_iorque",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "sorrow_(van_gogh)",
+              "*museu",
+              "*nova_iorque"
+            ],
+            [
+              "*nova_iorque",
+              "owl#sameas",
+              "new_york_(citate)"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "museu",
+              "nova_iorque"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "museu": {
+                  "keyword": {
+                    "termo": "museu",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "museu",
+                  "score": 2.0
+                },
+                "nova_iorque": {
+                  "keyword": {
+                    "termo": "nova_iorque",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nova_iorque",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "sorrow_(van_gogh)",
+              "*museu",
+              "*nova_iorque"
+            ],
+            [
+              "*nova_iorque",
+              "owl#sameas",
+              "kota_new_york"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "museu",
+              "nova_iorque"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "museu": {
+                  "keyword": {
+                    "termo": "museu",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "museu",
+                  "score": 2.0
+                },
+                "nova_iorque": {
+                  "keyword": {
+                    "termo": "nova_iorque",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nova_iorque",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "sorrow_(van_gogh)",
+              "*museu",
+              "*nova_iorque"
+            ],
+            [
+              "*nova_iorque",
+              "owl#sameas",
+              "new_york_borg"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "museu",
+              "nova_iorque"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "museu": {
+                  "keyword": {
+                    "termo": "museu",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "museu",
+                  "score": 2.0
+                },
+                "nova_iorque": {
+                  "keyword": {
+                    "termo": "nova_iorque",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nova_iorque",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "sorrow_(van_gogh)",
+              "*museu",
+              "*nova_iorque"
+            ],
+            [
+              "*nova_iorque",
+              "owl#sameas",
+              "novum_eboracum_(urbs)"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "museu",
+              "nova_iorque"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "museu": {
+                  "keyword": {
+                    "termo": "museu",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "museu",
+                  "score": 2.0
+                },
+                "nova_iorque": {
+                  "keyword": {
+                    "termo": "nova_iorque",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nova_iorque",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "sorrow_(van_gogh)",
+              "*museu",
+              "*nova_iorque"
+            ],
+            [
+              "*nova_iorque",
+              "owl#sameas",
+              "niujorkas"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "museu",
+              "nova_iorque"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "museu": {
+                  "keyword": {
+                    "termo": "museu",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "museu",
+                  "score": 2.0
+                },
+                "nova_iorque": {
+                  "keyword": {
+                    "termo": "nova_iorque",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nova_iorque",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "sorrow_(van_gogh)",
+              "*museu",
+              "*nova_iorque"
+            ],
+            [
+              "*nova_iorque",
+              "owl#sameas",
+              "nujorka"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "museu",
+              "nova_iorque"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "museu": {
+                  "keyword": {
+                    "termo": "museu",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "museu",
+                  "score": 2.0
+                },
+                "nova_iorque": {
+                  "keyword": {
+                    "termo": "nova_iorque",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nova_iorque",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "sorrow_(van_gogh)",
+              "*museu",
+              "*nova_iorque"
+            ],
+            [
+              "*nova_iorque",
+              "owl#sameas",
+              "bandar_raya_new_york"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "museu",
+              "nova_iorque"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "museu": {
+                  "keyword": {
+                    "termo": "museu",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "museu",
+                  "score": 2.0
+                },
+                "nova_iorque": {
+                  "keyword": {
+                    "termo": "nova_iorque",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nova_iorque",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 1739.6180629730225,
+      "l_sizes": [
+        28535,
+        2226
+      ],
+      "total_time": 15398.424625396729
+    }
+  }
+]

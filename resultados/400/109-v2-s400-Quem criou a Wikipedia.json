@@ -1,0 +1,1581 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:spec",
+          "palavra_original": "Quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "criou",
+          "palavra_canonica": "criar",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Wikipedia",
+          "palavra_canonica": "Wikipedia",
+          "tags": [
+            "<org>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:spec",
+          "palavra_original": "Quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "criou",
+          "palavra_canonica": "criar",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "create",
+                "sinonimo": "instituir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "create",
+                "sinonimo": "criar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "create",
+                "sinonimo": "fazer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "make",
+                "sinonimo": "provocar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "breed",
+                "sinonimo": "reproduzir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "make",
+                "sinonimo": "causar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "desenvolver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "produzir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "construir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "make",
+                "sinonimo": "realizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "develop",
+                "sinonimo": "develop",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "produce",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "create",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "breed",
+                "sinonimo": "breed",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "bring_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "rear",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "parent",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "raise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "nurture",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "foster",
+                "sinonimo": "foster",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "make",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Wikipedia",
+          "palavra_canonica": "Wikipedia",
+          "tags": [
+            "<org>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "quem",
+        "confianca": 0.93,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "criou",
+          "palavra_canonica": "criar",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "create",
+                "sinonimo": "instituir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "create",
+                "sinonimo": "criar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "create",
+                "sinonimo": "fazer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "make",
+                "sinonimo": "provocar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "breed",
+                "sinonimo": "reproduzir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "make",
+                "sinonimo": "causar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "desenvolver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "produzir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "construir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "make",
+                "sinonimo": "realizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "develop",
+                "sinonimo": "develop",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "produce",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "create",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "breed",
+                "sinonimo": "breed",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "bring_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "rear",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "parent",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "raise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "nurture",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "foster",
+                "sinonimo": "foster",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "make",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Wikipedia",
+          "palavra_canonica": "Wikipedia",
+          "tags": [
+            "<org>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*wikipedia",
+              "owl#sameas",
+              "m.0d07ph"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "wikipedia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "wikipedia": {
+                  "keyword": {
+                    "termo": "wikipedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "wikipedia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "wikipedia": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*wikipedia",
+              "22_rdf_syntax_ns#type",
+              "22_rdf_syntax_ns#property"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "wikipedia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "wikipedia": {
+                  "keyword": {
+                    "termo": "wikipedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "wikipedia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "wikipedia": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*wikipedia",
+              "rdf_schema#label",
+              "*wikipedia"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "wikipedia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "wikipedia": {
+                  "keyword": {
+                    "termo": "wikipedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "wikipedia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*wikipedia",
+              "rdf_schema#label",
+              "*wikipedia"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "wikipedia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "wikipedia": {
+                  "keyword": {
+                    "termo": "wikipedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "wikipedia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*wikipedia",
+              "owl#sameas",
+              "*wikipedia"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "wikipedia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "wikipedia": {
+                  "keyword": {
+                    "termo": "wikipedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "wikipedia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "apresentacao",
+              "owl#sameas",
+              "*wikipedia"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "wikipedia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "wikipedia": {
+                  "keyword": {
+                    "termo": "wikipedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "wikipedia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "wikipedia": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*wikipedia:sobre_a_wikipedia",
+              "owl#sameas",
+              "*wikipedia"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "wikipedia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "wikipedia": {
+                  "keyword": {
+                    "termo": "wikipedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "wikipedia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "galha",
+              "work",
+              "*wikipedia"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "wikipedia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "wikipedia": {
+                  "keyword": {
+                    "termo": "wikipedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "wikipedia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7,
+          "bind_control": {
+            "binds": {
+              "wikipedia": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*criticas_a_wikipedia",
+              "work",
+              "*wikipedia"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "wikipedia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "wikipedia": {
+                  "keyword": {
+                    "termo": "wikipedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "wikipedia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*wikipedia",
+              "owl#sameas",
+              "*wikipedia:"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "wikipedia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "wikipedia": {
+                  "keyword": {
+                    "termo": "wikipedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "wikipedia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*wikipedia:dominio_wikipedia",
+              "owl#sameas",
+              "*wikipedia"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "wikipedia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "wikipedia": {
+                  "keyword": {
+                    "termo": "wikipedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "wikipedia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*wikipedia",
+              "abstract",
+              "*wikipedia e um projeto de enciclopedia multilingue de licenca livre, baseado na web, escrito de maneira colaborativa e que se encontra atualmente sob administracao da fundacao wikimedia, uma organizacao sem fins lucrativos cuja missao e \\\"empoderar e engajar pessoas pelo mundo para coletar e desenvolver conteudo educacional sob uma licenca livre ou no dominio publico, e para dissemina-lo efetivamente e globalmente.\\\" integrando um dos varios projetos mantidos pela wikimedia, os mais de 30 milhoes de artigos (0 em portugues em 16 de fevereiro de 2017) hoje encontrados na wikipedia foram escritos de forma conjunta por diversos voluntarios ao redor do mundo; e quase todos os verbetes presentes no site podem igualmente ser editados por qualquer pessoa com acesso a internet e ao sitio eletronico . em outubro de 2013, havia edicoes ativas da wikipedia em 277 idiomas. a wikipedia foi lancada em 15 de janeiro de 2001 por jimmy wales e larry sanger e tornou-se a maior e mais popular obra de referencia geral na internet, sendo classificado em torno da setima posicao entre todos os websites do alexa e tendo cerca de 365 milhoes de leitores. a wikipedia e uma ferramenta de pesquisa amplamente utilizada por estudantes e tem influenciado o trabalho de publicitarios, pedagogos, sociologos e jornalistas, que usam seu material mesmo que nem sempre citem suas fontes. o nome wikipedia foi criado por larry sanger e e uma combinacao de wiki (uma tecnologia para criar sites colaborativos, a partir da palavra havaiana wiki, que significa \\\"rapido\\\") e enciclopedia. a palavra \\\"wikipedia\\\" e uma adequacao lusofona da forma original anglofona sobre a fusao dos dois nomes que escrevem wiki\\\" + \\\"pedia. em portugues, o prefixo \\\"wiki\\\", somado ao sufixo de \\\"enciclopedia\\\", ganhando acento diacritico agudo no e, para atender a gramatica lusofona. a wikipedia afasta-se do estilo tradicional de construcao de uma enciclopedia e possui uma grande presenca de conteudo nao-academico. quando a revista time reconheceu \\\"voce\\\" como a pessoa do ano de 2006, devido ao sucesso acelerado da colaboracao online e da interacao de milhoes de usuarios ao redor do mundo, citou a wikipedia como um dos varios exemplos de servicos web 2.0, juntamente com youtube, myspace e facebook. alguns tem notado a importancia da wikipedia, nao apenas como uma referencia enciclopedica, mas tambem como um recurso de noticias atualizado com frequencia por causa da rapidez com que artigos sobre acontecimentos recentes aparecem. estudantes tem sido orientados a escrever artigos para a wikipedia como um exercicio de explicar de forma clara e sucinta conceitos dificeis para um publico nao iniciado. embora as politicas da wikipedia defendam fortemente a verificabilidade e um ponto de vista neutro, seus criticos acusam-na de vies sistemico e inconsistencias (incluindo o peso excessivo dado a cultura popular) e alegam que ela favorece o consenso sobre credenciais em seus processos editoriais. sua confiabilidade e precisao tambem sao alvo de criticas. outras criticas apontam a sua suscetibilidade ao vandalismo e a adicao de informacoes falsas ou nao verificadas; no entanto, trabalhos academicos sugerem que os vandalismos sao geralmente de curta duracao. uma pesquisa de 2005 na revista nature mostrou que os artigos cientificos que eles compararam chegavam perto do nivel de precisao da encyclopdia britannica e tinham uma taxa semelhante de \\\"erros graves\\\". outra pesquisa de 2011 realizada pelo foresee results e divulgada pela cnet mostrou que, em uma escala de satisfacao de 0 a 100, os internautas atribuiram 78 pontos a wikipedia, um resultado maior que o de outros sites consagrados, como youtube e facebook."
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "wikipedia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "wikipedia": {
+                  "keyword": {
+                    "termo": "wikipedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "wikipedia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "predefinicao:cat_handler",
+              "templateusesparameter",
+              "*wikipedia"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "wikipedia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "wikipedia": {
+                  "keyword": {
+                    "termo": "wikipedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "wikipedia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12,
+          "bind_control": {
+            "binds": {
+              "wikipedia": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "predefinicao:namespace_detect_showall",
+              "templateusesparameter",
+              "*wikipedia"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "wikipedia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "wikipedia": {
+                  "keyword": {
+                    "termo": "wikipedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "wikipedia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13,
+          "bind_control": {
+            "binds": {
+              "wikipedia": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*wikipedia:fontes_bibliograficas",
+              "owl#sameas",
+              "*wikipedia:"
+            ]
+          ],
+          "score": 11.223442,
+          "detail": {
+            "keywords": [
+              "wikipedia"
+            ],
+            "score_detail": {
+              "m1": 9.890109,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "wikipedia": {
+                  "keyword": {
+                    "termo": "wikipedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "wikipedia:",
+                  "score": 9.890109
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*wikipedia:escolha_do_artigo_em_destaque",
+              "owl#sameas",
+              "*wikipedia:"
+            ]
+          ],
+          "score": 11.223442,
+          "detail": {
+            "keywords": [
+              "wikipedia"
+            ],
+            "score_detail": {
+              "m1": 9.890109,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "wikipedia": {
+                  "keyword": {
+                    "termo": "wikipedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "wikipedia:",
+                  "score": 9.890109
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*wikipedia:noticias",
+              "owl#sameas",
+              "*wikipedia:"
+            ]
+          ],
+          "score": 11.223442,
+          "detail": {
+            "keywords": [
+              "wikipedia"
+            ],
+            "score_detail": {
+              "m1": 9.890109,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "wikipedia": {
+                  "keyword": {
+                    "termo": "wikipedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "wikipedia:",
+                  "score": 9.890109
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*wikipedia:encontros",
+              "owl#sameas",
+              "*wikipedia:"
+            ]
+          ],
+          "score": 11.223442,
+          "detail": {
+            "keywords": [
+              "wikipedia"
+            ],
+            "score_detail": {
+              "m1": 9.890109,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "wikipedia": {
+                  "keyword": {
+                    "termo": "wikipedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "wikipedia:",
+                  "score": 9.890109
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*wikipedia:verificabilidade",
+              "owl#sameas",
+              "*wikipedia:"
+            ]
+          ],
+          "score": 11.223442,
+          "detail": {
+            "keywords": [
+              "wikipedia"
+            ],
+            "score_detail": {
+              "m1": 9.890109,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "wikipedia": {
+                  "keyword": {
+                    "termo": "wikipedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "wikipedia:",
+                  "score": 9.890109
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "aviacao",
+              "owl#sameas",
+              "*wikipedia:"
+            ]
+          ],
+          "score": 11.223442,
+          "detail": {
+            "keywords": [
+              "wikipedia"
+            ],
+            "score_detail": {
+              "m1": 9.890109,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "wikipedia": {
+                  "keyword": {
+                    "termo": "wikipedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "wikipedia:",
+                  "score": 9.890109
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "ferrovipedia",
+              "owl#sameas",
+              "*wikipedia:"
+            ]
+          ],
+          "score": 11.223442,
+          "detail": {
+            "keywords": [
+              "wikipedia"
+            ],
+            "score_detail": {
+              "m1": 9.890109,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "wikipedia": {
+                  "keyword": {
+                    "termo": "wikipedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "wikipedia:",
+                  "score": 9.890109
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*wikipedia:a_wikipedia_na_imprensa",
+              "owl#sameas",
+              "*wikipedia:"
+            ]
+          ],
+          "score": 11.223442,
+          "detail": {
+            "keywords": [
+              "wikipedia"
+            ],
+            "score_detail": {
+              "m1": 9.890109,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "wikipedia": {
+                  "keyword": {
+                    "termo": "wikipedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "wikipedia:",
+                  "score": 9.890109
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*wikipedia:politica_de_bloqueio",
+              "owl#sameas",
+              "*wikipedia:"
+            ]
+          ],
+          "score": 11.223442,
+          "detail": {
+            "keywords": [
+              "wikipedia"
+            ],
+            "score_detail": {
+              "m1": 9.890109,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "wikipedia": {
+                  "keyword": {
+                    "termo": "wikipedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "wikipedia:",
+                  "score": 9.890109
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "ajuda:faq",
+              "owl#sameas",
+              "*wikipedia:"
+            ]
+          ],
+          "score": 11.223442,
+          "detail": {
+            "keywords": [
+              "wikipedia"
+            ],
+            "score_detail": {
+              "m1": 9.890109,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "wikipedia": {
+                  "keyword": {
+                    "termo": "wikipedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "wikipedia:",
+                  "score": 9.890109
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "futebol",
+              "owl#sameas",
+              "*wikipedia:"
+            ]
+          ],
+          "score": 11.223442,
+          "detail": {
+            "keywords": [
+              "wikipedia"
+            ],
+            "score_detail": {
+              "m1": 9.890109,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "wikipedia": {
+                  "keyword": {
+                    "termo": "wikipedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "wikipedia:",
+                  "score": 9.890109
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*wikipedia:relatorios_de_bugs_e_solicitacoes_de_recursos",
+              "owl#sameas",
+              "*wikipedia:"
+            ]
+          ],
+          "score": 11.223442,
+          "detail": {
+            "keywords": [
+              "wikipedia"
+            ],
+            "score_detail": {
+              "m1": 9.890109,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "wikipedia": {
+                  "keyword": {
+                    "termo": "wikipedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "wikipedia:",
+                  "score": 9.890109
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*wikipedia:meta_wiki",
+              "owl#sameas",
+              "*wikipedia:"
+            ]
+          ],
+          "score": 11.223442,
+          "detail": {
+            "keywords": [
+              "wikipedia"
+            ],
+            "score_detail": {
+              "m1": 9.890109,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "wikipedia": {
+                  "keyword": {
+                    "termo": "wikipedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "wikipedia:",
+                  "score": 9.890109
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*wikipedia:wikipedia_em_outras_linguas",
+              "owl#sameas",
+              "*wikipedia:"
+            ]
+          ],
+          "score": 11.223442,
+          "detail": {
+            "keywords": [
+              "wikipedia"
+            ],
+            "score_detail": {
+              "m1": 9.890109,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "wikipedia": {
+                  "keyword": {
+                    "termo": "wikipedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "wikipedia:",
+                  "score": 9.890109
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*wikipedia:atalho",
+              "owl#sameas",
+              "*wikipedia:"
+            ]
+          ],
+          "score": 11.223442,
+          "detail": {
+            "keywords": [
+              "wikipedia"
+            ],
+            "score_detail": {
+              "m1": 9.890109,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "wikipedia": {
+                  "keyword": {
+                    "termo": "wikipedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "wikipedia:",
+                  "score": 9.890109
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "cite_as_fontes",
+              "owl#sameas",
+              "*wikipedia:"
+            ]
+          ],
+          "score": 11.223442,
+          "detail": {
+            "keywords": [
+              "wikipedia"
+            ],
+            "score_detail": {
+              "m1": 9.890109,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "wikipedia": {
+                  "keyword": {
+                    "termo": "wikipedia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "wikipedia:",
+                  "score": 9.890109
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 1157.5908660888672,
+      "l_sizes": [
+        10004
+      ],
+      "total_time": 8112.046241760254
+    }
+  }
+]

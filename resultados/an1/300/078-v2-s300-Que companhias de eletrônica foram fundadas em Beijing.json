@@ -1,0 +1,2693 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "Que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "companhias",
+          "palavra_canonica": "companhia",
+          "tags": [
+            "<HH>",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DP:n",
+          "palavra_original": "eletrônica",
+          "palavra_canonica": "eletrônica",
+          "tags": [
+            "<domain>",
+            "F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "P:vp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "Vaux:v-fin",
+          "palavra_original": "foram",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<aux>",
+            "PS/MQP",
+            "3P",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "Vm:v-pcp",
+          "palavra_original": "fundadas",
+          "palavra_canonica": "fundar",
+          "tags": [
+            "<vH>",
+            "<mv>",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "Op:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "H:prp",
+          "palavra_original": "em",
+          "palavra_canonica": "em",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 13,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Beijing",
+          "palavra_canonica": "Beijing",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 14,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "Que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "companhias",
+          "palavra_canonica": "companhia",
+          "tags": [
+            "<HH>",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "company",
+                "sinonimo": "pessoal",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "troop",
+                "sinonimo": "tropa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "team",
+                "sinonimo": "time",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "team",
+                "sinonimo": "equipe",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "company",
+                "sinonimo": "companhia",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "company",
+                "sinonimo": "elenco",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "team",
+                "sinonimo": "equipa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "enterprise",
+                "sinonimo": "empresas",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "enterprise",
+                "sinonimo": "negócios",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "enterprise",
+                "sinonimo": "empresa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "company",
+                "sinonimo": "troupe",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "company",
+                "sinonimo": "company",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "team",
+                "sinonimo": "squad",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "team",
+                "sinonimo": "team",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "enterprise",
+                "sinonimo": "enterprise",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "troop",
+                "sinonimo": "troop",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DP:n",
+          "palavra_original": "eletrônica",
+          "palavra_canonica": "eletrônica",
+          "tags": [
+            "<domain>",
+            "F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "electronics",
+                "sinonimo": "Eletrônica",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "electronics",
+                "sinonimo": "Eletronica",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "electronics",
+                "sinonimo": "eletrônica",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "electronics",
+                "sinonimo": "electrónica",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "electronics",
+                "sinonimo": "Eletrónica",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "electronics",
+                "sinonimo": "electronics",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 8,
+          "tag_inicial": "P:vp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "Vaux:v-fin",
+          "palavra_original": "foram",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<aux>",
+            "PS/MQP",
+            "3P",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "Vm:v-pcp",
+          "palavra_original": "fundadas",
+          "palavra_canonica": "fundar",
+          "tags": [
+            "<vH>",
+            "<mv>",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "establish",
+                "sinonimo": "fundar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
+                "sinonimo": "estabelecer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "establish",
+                "sinonimo": "institute",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
+                "sinonimo": "plant",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
+                "sinonimo": "constitute",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
+                "sinonimo": "establish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
+                "sinonimo": "found",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 11,
+          "tag_inicial": "Op:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "H:prp",
+          "palavra_original": "em",
+          "palavra_canonica": "em",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 13,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Pequim",
+          "palavra_canonica": "Pequim",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 14,
+          "tag_inicial": "?",
+          "palavra_original": " ",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "[ [ QUE:fcl|1| [ S:np|2| [DN:pron-int|3| Que] [H:n|4| companhias] [ DN:pp|5| [H:prp|6| de] [DP:n|7| eletrônica] ] ] [ P:vp|8| [Vaux:v-fin|9| foram] [Vm:v-pcp|10| fundadas] ] [ Op:pp|11| [H:prp|12| em] [DP:prop|13| Pequim] ] [?|14|  ] ] ]",
+      "tipo": {
+        "tipo": "qual",
+        "confianca": 0.85,
+        "ids": [
+          3
+        ]
+      },
+      "locucao_verbal": [
+        [
+          {
+            "id": 9,
+            "tag_inicial": "Vaux:v-fin",
+            "palavra_original": "foram",
+            "palavra_canonica": "ser",
+            "tags": [
+              "<fmc>",
+              "<aux>",
+              "PS/MQP",
+              "3P",
+              "IND",
+              "VFIN"
+            ],
+            "nivel": 2,
+            "sinonimos": null
+          },
+          {
+            "id": 10,
+            "tag_inicial": "Vm:v-pcp",
+            "palavra_original": "fundadas",
+            "palavra_canonica": "fundar",
+            "tags": [
+              "<vH>",
+              "<mv>",
+              "F",
+              "P"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "establish",
+                  "sinonimo": "fundar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "establish",
+                  "sinonimo": "estabelecer",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "establish",
+                  "sinonimo": "institute",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "establish",
+                  "sinonimo": "plant",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "establish",
+                  "sinonimo": "constitute",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "establish",
+                  "sinonimo": "establish",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "establish",
+                  "sinonimo": "found",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                }
+              ]
+            }
+          }
+        ]
+      ],
+      "termos_relevantes": [
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "companhias",
+          "palavra_canonica": "companhia",
+          "tags": [
+            "<HH>",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "company",
+                "sinonimo": "pessoal",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "troop",
+                "sinonimo": "tropa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "team",
+                "sinonimo": "time",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "team",
+                "sinonimo": "equipe",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "company",
+                "sinonimo": "companhia",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "company",
+                "sinonimo": "elenco",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "team",
+                "sinonimo": "equipa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "enterprise",
+                "sinonimo": "empresas",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "enterprise",
+                "sinonimo": "negócios",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "enterprise",
+                "sinonimo": "empresa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "company",
+                "sinonimo": "troupe",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "company",
+                "sinonimo": "company",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "team",
+                "sinonimo": "squad",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "team",
+                "sinonimo": "team",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "enterprise",
+                "sinonimo": "enterprise",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "troop",
+                "sinonimo": "troop",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DP:n",
+          "palavra_original": "eletrônica",
+          "palavra_canonica": "eletrônica",
+          "tags": [
+            "<domain>",
+            "F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "electronics",
+                "sinonimo": "Eletrônica",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "electronics",
+                "sinonimo": "Eletronica",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "electronics",
+                "sinonimo": "eletrônica",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "electronics",
+                "sinonimo": "electrónica",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "electronics",
+                "sinonimo": "Eletrónica",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "electronics",
+                "sinonimo": "electronics",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 10,
+          "tag_inicial": "Vm:v-pcp",
+          "palavra_original": "fundadas",
+          "palavra_canonica": "fundar",
+          "tags": [
+            "<vH>",
+            "<mv>",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "establish",
+                "sinonimo": "fundar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
+                "sinonimo": "estabelecer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "establish",
+                "sinonimo": "institute",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
+                "sinonimo": "plant",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
+                "sinonimo": "constitute",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
+                "sinonimo": "establish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
+                "sinonimo": "found",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 13,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Pequim",
+          "palavra_canonica": "Pequim",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 4,
+            "tag_inicial": "H:n",
+            "palavra_original": "companhias",
+            "palavra_canonica": "companhia",
+            "tags": [
+              "<HH>",
+              "F",
+              "P"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "company",
+                  "sinonimo": "pessoal",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "troop",
+                  "sinonimo": "tropa",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "team",
+                  "sinonimo": "time",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "team",
+                  "sinonimo": "equipe",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "company",
+                  "sinonimo": "companhia",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "company",
+                  "sinonimo": "elenco",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "team",
+                  "sinonimo": "equipa",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "enterprise",
+                  "sinonimo": "empresas",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "enterprise",
+                  "sinonimo": "negócios",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "enterprise",
+                  "sinonimo": "empresa",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "company",
+                  "sinonimo": "troupe",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "company",
+                  "sinonimo": "company",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "team",
+                  "sinonimo": "squad",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "team",
+                  "sinonimo": "team",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "enterprise",
+                  "sinonimo": "enterprise",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "troop",
+                  "sinonimo": "troop",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 7,
+            "tag_inicial": "DP:n",
+            "palavra_original": "eletrônica",
+            "palavra_canonica": "eletrônica",
+            "tags": [
+              "<domain>",
+              "F",
+              "S"
+            ],
+            "nivel": 3,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "electronics",
+                  "sinonimo": "Eletrônica",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "electronics",
+                  "sinonimo": "Eletronica",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "electronics",
+                  "sinonimo": "eletrônica",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "electronics",
+                  "sinonimo": "electrónica",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "electronics",
+                  "sinonimo": "Eletrónica",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "electronics",
+                  "sinonimo": "electronics",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "corporacao_nacional_de_petroleo_da_china",
+              "*fundacao",
+              "*pequim"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "pequim"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "pequim": {
+                  "keyword": {
+                    "termo": "pequim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pequim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "fundacao": "-304",
+              "pequim": "-8"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "jxd",
+              "*fundacao",
+              "*pequim"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "pequim"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "pequim": {
+                  "keyword": {
+                    "termo": "pequim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pequim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "fundacao": "-304",
+              "pequim": "-8"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "lenovo",
+              "*fundacao",
+              "*pequim"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "pequim"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "pequim": {
+                  "keyword": {
+                    "termo": "pequim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pequim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "fundacao": "-304",
+              "pequim": "-8"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "corporacao_nacional_de_petroleo_da_china",
+              "*fundacao",
+              "*pequim"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "pequim"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "pequim": {
+                  "keyword": {
+                    "termo": "pequim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pequim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "fundacao": "-304",
+              "pequim": "-8"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "jxd",
+              "*fundacao",
+              "*pequim"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "pequim"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "pequim": {
+                  "keyword": {
+                    "termo": "pequim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pequim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "fundacao": "-304",
+              "pequim": "-8"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "lenovo",
+              "*fundacao",
+              "*pequim"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "pequim"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "pequim": {
+                  "keyword": {
+                    "termo": "pequim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pequim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "fundacao": "-304",
+              "pequim": "-8"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "corporacao_nacional_de_petroleo_da_china",
+              "*fundacao",
+              "*pequim"
+            ],
+            [
+              "jxd",
+              "*fundacao",
+              "*pequim"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "pequim"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "pequim": {
+                  "keyword": {
+                    "termo": "pequim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pequim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "corporacao_nacional_de_petroleo_da_china",
+              "*fundacao",
+              "*pequim"
+            ],
+            [
+              "lenovo",
+              "*fundacao",
+              "*pequim"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "pequim"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "pequim": {
+                  "keyword": {
+                    "termo": "pequim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pequim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "corporacao_nacional_de_petroleo_da_china",
+              "*fundacao",
+              "*pequim"
+            ],
+            [
+              "*pequim",
+              "owl#sameas",
+              "q956"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "pequim"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "pequim": {
+                  "keyword": {
+                    "termo": "pequim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pequim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "corporacao_nacional_de_petroleo_da_china",
+              "*fundacao",
+              "*pequim"
+            ],
+            [
+              "*pequim",
+              "owl#sameas",
+              "beijing"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "pequim"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "pequim": {
+                  "keyword": {
+                    "termo": "pequim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pequim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "corporacao_nacional_de_petroleo_da_china",
+              "*fundacao",
+              "*pequim"
+            ],
+            [
+              "*pequim",
+              "owl#sameas",
+              "peking"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "pequim"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "pequim": {
+                  "keyword": {
+                    "termo": "pequim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pequim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "corporacao_nacional_de_petroleo_da_china",
+              "*fundacao",
+              "*pequim"
+            ],
+            [
+              "*pequim",
+              "owl#sameas",
+              12
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "pequim"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "pequim": {
+                  "keyword": {
+                    "termo": "pequim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pequim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "corporacao_nacional_de_petroleo_da_china",
+              "*fundacao",
+              "*pequim"
+            ],
+            [
+              "*pequim",
+              "owl#sameas",
+              "pequin"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "pequim"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "pequim": {
+                  "keyword": {
+                    "termo": "pequim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pequim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "corporacao_nacional_de_petroleo_da_china",
+              "*fundacao",
+              "*pequim"
+            ],
+            [
+              "*pequim",
+              "owl#sameas",
+              "pekin"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "pequim"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "pequim": {
+                  "keyword": {
+                    "termo": "pequim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pequim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "corporacao_nacional_de_petroleo_da_china",
+              "*fundacao",
+              "*pequim"
+            ],
+            [
+              "*pequim",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "pequim"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "pequim": {
+                  "keyword": {
+                    "termo": "pequim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pequim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "corporacao_nacional_de_petroleo_da_china",
+              "*fundacao",
+              "*pequim"
+            ],
+            [
+              "*pequim",
+              "owl#sameas",
+              "pekino"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "pequim"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "pequim": {
+                  "keyword": {
+                    "termo": "pequim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pequim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "corporacao_nacional_de_petroleo_da_china",
+              "*fundacao",
+              "*pequim"
+            ],
+            [
+              "*pequim",
+              "owl#sameas",
+              "beising"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "pequim"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "pequim": {
+                  "keyword": {
+                    "termo": "pequim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pequim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "corporacao_nacional_de_petroleo_da_china",
+              "*fundacao",
+              "*pequim"
+            ],
+            [
+              "*pequim",
+              "owl#sameas",
+              "'"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "pequim"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "pequim": {
+                  "keyword": {
+                    "termo": "pequim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pequim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "corporacao_nacional_de_petroleo_da_china",
+              "*fundacao",
+              "*pequim"
+            ],
+            [
+              "*pequim",
+              "owl#sameas",
+              "peken"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "pequim"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "pequim": {
+                  "keyword": {
+                    "termo": "pequim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pequim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "corporacao_nacional_de_petroleo_da_china",
+              "*fundacao",
+              "*pequim"
+            ],
+            [
+              "*pequim",
+              "owl#sameas",
+              "pechino"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "pequim"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "pequim": {
+                  "keyword": {
+                    "termo": "pequim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pequim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "corporacao_nacional_de_petroleo_da_china",
+              "*fundacao",
+              "*pequim"
+            ],
+            [
+              "*pequim",
+              "owl#sameas",
+              "pechinum"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "pequim"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "pequim": {
+                  "keyword": {
+                    "termo": "pequim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pequim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "corporacao_nacional_de_petroleo_da_china",
+              "*fundacao",
+              "*pequim"
+            ],
+            [
+              "*pequim",
+              "owl#sameas",
+              "pechin"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "pequim"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "pequim": {
+                  "keyword": {
+                    "termo": "pequim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pequim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "corporacao_nacional_de_petroleo_da_china",
+              "*fundacao",
+              "*pequim"
+            ],
+            [
+              "*pequim",
+              "owl#sameas",
+              "pekinas"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "pequim"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "pequim": {
+                  "keyword": {
+                    "termo": "pequim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pequim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "corporacao_nacional_de_petroleo_da_china",
+              "*fundacao",
+              "*pequim"
+            ],
+            [
+              "*pequim",
+              "owl#sameas",
+              "pekina"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "pequim"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "pequim": {
+                  "keyword": {
+                    "termo": "pequim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pequim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "corporacao_nacional_de_petroleo_da_china",
+              "*fundacao",
+              "*pequim"
+            ],
+            [
+              "*pequim",
+              "owl#sameas",
+              "pikkin"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "pequim"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "pequim": {
+                  "keyword": {
+                    "termo": "pequim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pequim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "corporacao_nacional_de_petroleo_da_china",
+              "*fundacao",
+              "*pequim"
+            ],
+            [
+              "*pequim",
+              "owl#sameas",
+              "pechinu"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "pequim"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "pequim": {
+                  "keyword": {
+                    "termo": "pequim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pequim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "corporacao_nacional_de_petroleo_da_china",
+              "*fundacao",
+              "*pequim"
+            ],
+            [
+              "*pequim",
+              "owl#sameas",
+              "pekini"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "pequim"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "pequim": {
+                  "keyword": {
+                    "termo": "pequim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pequim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "corporacao_nacional_de_petroleo_da_china",
+              "*fundacao",
+              "*pequim"
+            ],
+            [
+              "*pequim",
+              "owl#sameas",
+              "bac_kinh"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "pequim"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "pequim": {
+                  "keyword": {
+                    "termo": "pequim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pequim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "corporacao_nacional_de_petroleo_da_china",
+              "*fundacao",
+              "*pequim"
+            ],
+            [
+              "*pequim",
+              "owl#sameas",
+              "beycing"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "pequim"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "pequim": {
+                  "keyword": {
+                    "termo": "pequim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pequim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "corporacao_nacional_de_petroleo_da_china",
+              "*fundacao",
+              "*pequim"
+            ],
+            [
+              "*pequim",
+              "pais",
+              "china"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "pequim"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "pequim": {
+                  "keyword": {
+                    "termo": "pequim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pequim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "corporacao_nacional_de_petroleo_da_china",
+              "*fundacao",
+              "*pequim"
+            ],
+            [
+              "*pequim",
+              "legendaimagem",
+              "*simbolos de pequim."
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "pequim"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "pequim": {
+                  "keyword": {
+                    "termo": "pequim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pequim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "corporacao_nacional_de_petroleo_da_china",
+              "*fundacao",
+              "*pequim"
+            ],
+            [
+              "*pequim",
+              "titulolider",
+              "prefeito"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "pequim"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "pequim": {
+                  "keyword": {
+                    "termo": "pequim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pequim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "corporacao_nacional_de_petroleo_da_china",
+              "*fundacao",
+              "*pequim"
+            ],
+            [
+              "*pequim",
+              "nomelider",
+              "wang_anshun"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "pequim"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "pequim": {
+                  "keyword": {
+                    "termo": "pequim",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pequim",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 6581801000,
+      "total_time": 20208446400
+    }
+  }
+]

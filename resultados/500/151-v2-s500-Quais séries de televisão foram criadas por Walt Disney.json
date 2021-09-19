@@ -1,0 +1,3224 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "Quais",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "séries",
+          "palavra_canonica": "série",
+          "tags": [
+            "<coll>",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DP:n",
+          "palavra_original": "televisão",
+          "palavra_canonica": "televisão",
+          "tags": [
+            "<sem-w>",
+            "<HH>",
+            "F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "P:vp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "Vaux:v-fin",
+          "palavra_original": "foram",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<aux>",
+            "PS/MQP",
+            "3P",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "Vm:v-pcp",
+          "palavra_original": "criadas",
+          "palavra_canonica": "criar",
+          "tags": [
+            "<mv>",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "fApass:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "H:prp",
+          "palavra_original": "por",
+          "palavra_canonica": "por",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 13,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Walt_Disney",
+          "palavra_canonica": "Walt_Disney",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 14,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "Quais",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "séries",
+          "palavra_canonica": "série",
+          "tags": [
+            "<coll>",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "world_series",
+                "sinonimo": "World_Series",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "series",
+                "sinonimo": "sequência",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "world_series",
+                "sinonimo": "World_series",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "series",
+                "sinonimo": "série",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "07"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "world_series",
+                "sinonimo": "World_Series",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "series",
+                "sinonimo": "series",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "string",
+                "sinonimo": "string",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "string",
+                "sinonimo": "train",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              }
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DP:n",
+          "palavra_original": "televisão",
+          "palavra_canonica": "televisão",
+          "tags": [
+            "<sem-w>",
+            "<HH>",
+            "F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "television",
+                "sinonimo": "tevê",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "television",
+                "sinonimo": "televisor",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "television",
+                "sinonimo": "tv",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "television",
+                "sinonimo": "televisão",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "television",
+                "sinonimo": "Tevê",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "television_receiver",
+                "sinonimo": "television_receiver",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "television_receiver",
+                "sinonimo": "boob_tube",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "television_receiver",
+                "sinonimo": "tv_set",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "television",
+                "sinonimo": "telecasting",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "television_receiver",
+                "sinonimo": "idiot_box",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "television",
+                "sinonimo": "video",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "television_receiver",
+                "sinonimo": "telly",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "television_receiver",
+                "sinonimo": "tv",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "television_receiver",
+                "sinonimo": "television_set",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "television_receiver",
+                "sinonimo": "television",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "television_receiver",
+                "sinonimo": "goggle_box",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "television",
+                "sinonimo": "TV",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "television",
+                "sinonimo": "television_system",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 8,
+          "tag_inicial": "P:vp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "Vaux:v-fin",
+          "palavra_original": "foram",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<aux>",
+            "PS/MQP",
+            "3P",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "Vm:v-pcp",
+          "palavra_original": "criadas",
+          "palavra_canonica": "criar",
+          "tags": [
+            "<mv>",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "make",
+                "sinonimo": "construir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "produzir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "create",
+                "sinonimo": "fazer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "create",
+                "sinonimo": "instituir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "breed",
+                "sinonimo": "reproduzir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "make",
+                "sinonimo": "realizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "make",
+                "sinonimo": "causar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "make",
+                "sinonimo": "criar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "desenvolver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "make",
+                "sinonimo": "provocar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "breed",
+                "sinonimo": "breed",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "rear",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "produce",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "parent",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "nurture",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "foster",
+                "sinonimo": "foster",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "raise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "create",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "make",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "develop",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "bring_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 11,
+          "tag_inicial": "fApass:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "H:prp",
+          "palavra_original": "por",
+          "palavra_canonica": "por",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 13,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Walt_Disney",
+          "palavra_canonica": "Walt_Disney",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 14,
+          "tag_inicial": "?",
+          "palavra_original": " ",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "[ [ QUE:fcl|1| [ S:np|2| [DN:pron-int|3| Quais] [H:n|4| séries] [ DN:pp|5| [H:prp|6| de] [DP:n|7| televisão] ] ] [ P:vp|8| [Vaux:v-fin|9| foram] [Vm:v-pcp|10| criadas] ] [ fApass:pp|11| [H:prp|12| por] [DP:prop|13| Walt_Disney] ] [?|14|  ] ] ]",
+      "tipo": {
+        "tipo": "qual",
+        "confianca": 0.86,
+        "ids": [
+          3
+        ]
+      },
+      "locucao_verbal": [
+        [
+          {
+            "id": 9,
+            "tag_inicial": "Vaux:v-fin",
+            "palavra_original": "foram",
+            "palavra_canonica": "ser",
+            "tags": [
+              "<fmc>",
+              "<aux>",
+              "PS/MQP",
+              "3P",
+              "IND",
+              "VFIN"
+            ],
+            "nivel": 2,
+            "sinonimos": null
+          },
+          {
+            "id": 10,
+            "tag_inicial": "Vm:v-pcp",
+            "palavra_original": "criadas",
+            "palavra_canonica": "criar",
+            "tags": [
+              "<mv>",
+              "F",
+              "P"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "make",
+                  "sinonimo": "construir",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "produce",
+                  "sinonimo": "produzir",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "create",
+                  "sinonimo": "fazer",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "create",
+                  "sinonimo": "instituir",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "breed",
+                  "sinonimo": "reproduzir",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "make",
+                  "sinonimo": "realizar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "make",
+                  "sinonimo": "causar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "make",
+                  "sinonimo": "criar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "develop",
+                  "sinonimo": "desenvolver",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "make",
+                  "sinonimo": "provocar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "breed",
+                  "sinonimo": "breed",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "rear",
+                  "sinonimo": "rear",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "produce",
+                  "sinonimo": "produce",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "rear",
+                  "sinonimo": "parent",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "rear",
+                  "sinonimo": "nurture",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "foster",
+                  "sinonimo": "foster",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "rear",
+                  "sinonimo": "raise",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "produce",
+                  "sinonimo": "create",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "produce",
+                  "sinonimo": "make",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "develop",
+                  "sinonimo": "develop",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "rear",
+                  "sinonimo": "bring_up",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                }
+              ]
+            }
+          }
+        ]
+      ],
+      "termos_relevantes": [
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "séries",
+          "palavra_canonica": "série",
+          "tags": [
+            "<coll>",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "world_series",
+                "sinonimo": "World_Series",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "series",
+                "sinonimo": "sequência",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "world_series",
+                "sinonimo": "World_series",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "series",
+                "sinonimo": "série",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "07"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "world_series",
+                "sinonimo": "World_Series",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "series",
+                "sinonimo": "series",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "string",
+                "sinonimo": "string",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "string",
+                "sinonimo": "train",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DP:n",
+          "palavra_original": "televisão",
+          "palavra_canonica": "televisão",
+          "tags": [
+            "<sem-w>",
+            "<HH>",
+            "F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "television",
+                "sinonimo": "tevê",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "television",
+                "sinonimo": "televisor",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "television",
+                "sinonimo": "tv",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "television",
+                "sinonimo": "televisão",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "television",
+                "sinonimo": "Tevê",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "television_receiver",
+                "sinonimo": "television_receiver",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "television_receiver",
+                "sinonimo": "boob_tube",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "television_receiver",
+                "sinonimo": "tv_set",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "television",
+                "sinonimo": "telecasting",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "television_receiver",
+                "sinonimo": "idiot_box",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "television",
+                "sinonimo": "video",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "television_receiver",
+                "sinonimo": "telly",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "television_receiver",
+                "sinonimo": "tv",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "television_receiver",
+                "sinonimo": "television_set",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "television_receiver",
+                "sinonimo": "television",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "television_receiver",
+                "sinonimo": "goggle_box",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "television",
+                "sinonimo": "TV",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "television",
+                "sinonimo": "television_system",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 10,
+          "tag_inicial": "Vm:v-pcp",
+          "palavra_original": "criadas",
+          "palavra_canonica": "criar",
+          "tags": [
+            "<mv>",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "make",
+                "sinonimo": "construir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "produzir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "create",
+                "sinonimo": "fazer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "create",
+                "sinonimo": "instituir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "breed",
+                "sinonimo": "reproduzir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "make",
+                "sinonimo": "realizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "make",
+                "sinonimo": "causar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "make",
+                "sinonimo": "criar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "desenvolver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "make",
+                "sinonimo": "provocar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "breed",
+                "sinonimo": "breed",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "rear",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "produce",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "parent",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "nurture",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "foster",
+                "sinonimo": "foster",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "raise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "create",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "make",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "develop",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "bring_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 13,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Walt_Disney",
+          "palavra_canonica": "Walt_Disney",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 4,
+            "tag_inicial": "H:n",
+            "palavra_original": "séries",
+            "palavra_canonica": "série",
+            "tags": [
+              "<coll>",
+              "F",
+              "P"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "world_series",
+                  "sinonimo": "World_Series",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "series",
+                  "sinonimo": "sequência",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "world_series",
+                  "sinonimo": "World_series",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "series",
+                  "sinonimo": "série",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "07"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "world_series",
+                  "sinonimo": "World_Series",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "series",
+                  "sinonimo": "series",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "string",
+                  "sinonimo": "string",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "string",
+                  "sinonimo": "train",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 7,
+            "tag_inicial": "DP:n",
+            "palavra_original": "televisão",
+            "palavra_canonica": "televisão",
+            "tags": [
+              "<sem-w>",
+              "<HH>",
+              "F",
+              "S"
+            ],
+            "nivel": 3,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "television",
+                  "sinonimo": "tevê",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "television",
+                  "sinonimo": "televisor",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "television",
+                  "sinonimo": "tv",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "television",
+                  "sinonimo": "televisão",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "television",
+                  "sinonimo": "Tevê",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "television_receiver",
+                  "sinonimo": "television_receiver",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "television_receiver",
+                  "sinonimo": "boob_tube",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "television_receiver",
+                  "sinonimo": "tv_set",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "television",
+                  "sinonimo": "telecasting",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "television_receiver",
+                  "sinonimo": "idiot_box",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "television",
+                  "sinonimo": "video",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "television_receiver",
+                  "sinonimo": "telly",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "television_receiver",
+                  "sinonimo": "tv",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "television_receiver",
+                  "sinonimo": "television_set",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "television_receiver",
+                  "sinonimo": "television",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "television_receiver",
+                  "sinonimo": "goggle_box",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "television",
+                  "sinonimo": "TV",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "television",
+                  "sinonimo": "television_system",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "*alias_(telesserie)",
+              "localizacao",
+              "*walt_disney"
+            ],
+            [
+              "*alias_(telesserie)",
+              "*criador",
+              "j._j._abrams"
+            ]
+          ],
+          "score": 14.841872,
+          "detail": {
+            "keywords": [
+              "walt_disney",
+              "serie",
+              "criador"
+            ],
+            "score_detail": {
+              "m1": 13.341872,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "walt_disney": {
+                  "keyword": {
+                    "termo": "walt_disney",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "walt_disney",
+                  "score": 10.0
+                },
+                "serie": {
+                  "keyword": {
+                    "termo": "serie",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "alias_(telesserie)",
+                  "score": 1.3418726
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "serie": "-303",
+              "walt_disney": "-1",
+              "criador": "-221"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*alias_(telesserie)",
+              "localizacao",
+              "*walt_disney"
+            ],
+            [
+              "*alias_(telesserie)",
+              "*criador",
+              "j._j._abrams"
+            ]
+          ],
+          "score": 14.841872,
+          "detail": {
+            "keywords": [
+              "walt_disney",
+              "serie",
+              "criador"
+            ],
+            "score_detail": {
+              "m1": 13.341872,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "walt_disney": {
+                  "keyword": {
+                    "termo": "walt_disney",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "walt_disney",
+                  "score": 10.0
+                },
+                "serie": {
+                  "keyword": {
+                    "termo": "serie",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "alias_(telesserie)",
+                  "score": 1.3418726
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "serie": "-303",
+              "walt_disney": "-1",
+              "criador": "-221"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*alias_(telesserie)",
+              "*criador",
+              "j._j._abrams"
+            ],
+            [
+              "*alias_(telesserie)",
+              "localizacao",
+              "*walt_disney"
+            ]
+          ],
+          "score": 14.841872,
+          "detail": {
+            "keywords": [
+              "criador",
+              "serie",
+              "walt_disney"
+            ],
+            "score_detail": {
+              "m1": 13.341872,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "walt_disney": {
+                  "keyword": {
+                    "termo": "walt_disney",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "walt_disney",
+                  "score": 10.0
+                },
+                "serie": {
+                  "keyword": {
+                    "termo": "serie",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "alias_(telesserie)",
+                  "score": 1.3418726
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*mickey,_donald_e_pateta_(serie)",
+              "*criador",
+              "*walt_disney"
+            ]
+          ],
+          "score": 14.628212,
+          "detail": {
+            "keywords": [
+              "criador",
+              "walt_disney",
+              "serie"
+            ],
+            "score_detail": {
+              "m1": 12.628212,
+              "m2": 1.0,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "walt_disney": {
+                  "keyword": {
+                    "termo": "walt_disney",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "walt_disney",
+                  "score": 10.0
+                },
+                "serie": {
+                  "keyword": {
+                    "termo": "serie",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "mickey,_donald_e_pateta_(serie)",
+                  "score": 0.6282124
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*mickey,_donald_e_pateta_(serie)",
+              "*criador",
+              "*walt_disney"
+            ],
+            [
+              "pluto",
+              "*criador",
+              "*walt_disney"
+            ]
+          ],
+          "score": 14.128212,
+          "detail": {
+            "keywords": [
+              "criador",
+              "walt_disney",
+              "serie"
+            ],
+            "score_detail": {
+              "m1": 12.628212,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "walt_disney": {
+                  "keyword": {
+                    "termo": "walt_disney",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "walt_disney",
+                  "score": 10.0
+                },
+                "serie": {
+                  "keyword": {
+                    "termo": "serie",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "mickey,_donald_e_pateta_(serie)",
+                  "score": 0.6282124
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*mickey,_donald_e_pateta_(serie)",
+              "*criador",
+              "*walt_disney"
+            ],
+            [
+              "mickey_mouse",
+              "*criador",
+              "*walt_disney"
+            ]
+          ],
+          "score": 14.128212,
+          "detail": {
+            "keywords": [
+              "criador",
+              "walt_disney",
+              "serie"
+            ],
+            "score_detail": {
+              "m1": 12.628212,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "walt_disney": {
+                  "keyword": {
+                    "termo": "walt_disney",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "walt_disney",
+                  "score": 10.0
+                },
+                "serie": {
+                  "keyword": {
+                    "termo": "serie",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "mickey,_donald_e_pateta_(serie)",
+                  "score": 0.6282124
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*mickey,_donald_e_pateta_(serie)",
+              "*criador",
+              "*walt_disney"
+            ],
+            [
+              "pato_donald",
+              "*criador",
+              "*walt_disney"
+            ]
+          ],
+          "score": 14.128212,
+          "detail": {
+            "keywords": [
+              "criador",
+              "walt_disney",
+              "serie"
+            ],
+            "score_detail": {
+              "m1": 12.628212,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "walt_disney": {
+                  "keyword": {
+                    "termo": "walt_disney",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "walt_disney",
+                  "score": 10.0
+                },
+                "serie": {
+                  "keyword": {
+                    "termo": "serie",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "mickey,_donald_e_pateta_(serie)",
+                  "score": 0.6282124
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*mickey,_donald_e_pateta_(serie)",
+              "*criador",
+              "*walt_disney"
+            ],
+            [
+              "ze_grandao",
+              "*criador",
+              "*walt_disney"
+            ]
+          ],
+          "score": 14.128212,
+          "detail": {
+            "keywords": [
+              "criador",
+              "walt_disney",
+              "serie"
+            ],
+            "score_detail": {
+              "m1": 12.628212,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "walt_disney": {
+                  "keyword": {
+                    "termo": "walt_disney",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "walt_disney",
+                  "score": 10.0
+                },
+                "serie": {
+                  "keyword": {
+                    "termo": "serie",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "mickey,_donald_e_pateta_(serie)",
+                  "score": 0.6282124
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*mickey,_donald_e_pateta_(serie)",
+              "*criador",
+              "*walt_disney"
+            ],
+            [
+              "joao_honesto",
+              "*criador",
+              "*walt_disney"
+            ]
+          ],
+          "score": 14.128212,
+          "detail": {
+            "keywords": [
+              "criador",
+              "walt_disney",
+              "serie"
+            ],
+            "score_detail": {
+              "m1": 12.628212,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "walt_disney": {
+                  "keyword": {
+                    "termo": "walt_disney",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "walt_disney",
+                  "score": 10.0
+                },
+                "serie": {
+                  "keyword": {
+                    "termo": "serie",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "mickey,_donald_e_pateta_(serie)",
+                  "score": 0.6282124
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*mickey,_donald_e_pateta_(serie)",
+              "*criador",
+              "*walt_disney"
+            ],
+            [
+              "rainha_ma_(disney)",
+              "*criador",
+              "*walt_disney"
+            ]
+          ],
+          "score": 14.128212,
+          "detail": {
+            "keywords": [
+              "criador",
+              "walt_disney",
+              "serie"
+            ],
+            "score_detail": {
+              "m1": 12.628212,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "walt_disney": {
+                  "keyword": {
+                    "termo": "walt_disney",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "walt_disney",
+                  "score": 10.0
+                },
+                "serie": {
+                  "keyword": {
+                    "termo": "serie",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "mickey,_donald_e_pateta_(serie)",
+                  "score": 0.6282124
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*mickey,_donald_e_pateta_(serie)",
+              "*criador",
+              "*walt_disney"
+            ],
+            [
+              "clara_de_ovos",
+              "*criador",
+              "*walt_disney"
+            ]
+          ],
+          "score": 14.128212,
+          "detail": {
+            "keywords": [
+              "criador",
+              "walt_disney",
+              "serie"
+            ],
+            "score_detail": {
+              "m1": 12.628212,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "walt_disney": {
+                  "keyword": {
+                    "termo": "walt_disney",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "walt_disney",
+                  "score": 10.0
+                },
+                "serie": {
+                  "keyword": {
+                    "termo": "serie",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "mickey,_donald_e_pateta_(serie)",
+                  "score": 0.6282124
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*mickey,_donald_e_pateta_(serie)",
+              "*criador",
+              "*walt_disney"
+            ],
+            [
+              "mickey_e_donald",
+              "*criador",
+              "*walt_disney"
+            ]
+          ],
+          "score": 14.128212,
+          "detail": {
+            "keywords": [
+              "criador",
+              "walt_disney",
+              "serie"
+            ],
+            "score_detail": {
+              "m1": 12.628212,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "walt_disney": {
+                  "keyword": {
+                    "termo": "walt_disney",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "walt_disney",
+                  "score": 10.0
+                },
+                "serie": {
+                  "keyword": {
+                    "termo": "serie",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "mickey,_donald_e_pateta_(serie)",
+                  "score": 0.6282124
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*mickey,_donald_e_pateta_(serie)",
+              "*criador",
+              "*walt_disney"
+            ],
+            [
+              "*walt_disney",
+              "owl#sameas",
+              "q8704"
+            ]
+          ],
+          "score": 14.128212,
+          "detail": {
+            "keywords": [
+              "criador",
+              "walt_disney",
+              "serie"
+            ],
+            "score_detail": {
+              "m1": 12.628212,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "walt_disney": {
+                  "keyword": {
+                    "termo": "walt_disney",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "walt_disney",
+                  "score": 10.0
+                },
+                "serie": {
+                  "keyword": {
+                    "termo": "serie",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "mickey,_donald_e_pateta_(serie)",
+                  "score": 0.6282124
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*mickey,_donald_e_pateta_(serie)",
+              "*criador",
+              "*walt_disney"
+            ],
+            [
+              "*walt_disney",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 14.128212,
+          "detail": {
+            "keywords": [
+              "criador",
+              "walt_disney",
+              "serie"
+            ],
+            "score_detail": {
+              "m1": 12.628212,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "walt_disney": {
+                  "keyword": {
+                    "termo": "walt_disney",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "walt_disney",
+                  "score": 10.0
+                },
+                "serie": {
+                  "keyword": {
+                    "termo": "serie",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "mickey,_donald_e_pateta_(serie)",
+                  "score": 0.6282124
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*mickey,_donald_e_pateta_(serie)",
+              "*criador",
+              "*walt_disney"
+            ],
+            [
+              "*walt_disney",
+              "owl#sameas",
+              "uolt_disney"
+            ]
+          ],
+          "score": 14.128212,
+          "detail": {
+            "keywords": [
+              "criador",
+              "walt_disney",
+              "serie"
+            ],
+            "score_detail": {
+              "m1": 12.628212,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "walt_disney": {
+                  "keyword": {
+                    "termo": "walt_disney",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "walt_disney",
+                  "score": 10.0
+                },
+                "serie": {
+                  "keyword": {
+                    "termo": "serie",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "mickey,_donald_e_pateta_(serie)",
+                  "score": 0.6282124
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*mickey,_donald_e_pateta_(serie)",
+              "*criador",
+              "*walt_disney"
+            ],
+            [
+              "*walt_disney",
+              "owl#sameas",
+              ",_"
+            ]
+          ],
+          "score": 14.128212,
+          "detail": {
+            "keywords": [
+              "criador",
+              "walt_disney",
+              "serie"
+            ],
+            "score_detail": {
+              "m1": 12.628212,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "walt_disney": {
+                  "keyword": {
+                    "termo": "walt_disney",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "walt_disney",
+                  "score": 10.0
+                },
+                "serie": {
+                  "keyword": {
+                    "termo": "serie",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "mickey,_donald_e_pateta_(serie)",
+                  "score": 0.6282124
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*mickey,_donald_e_pateta_(serie)",
+              "*criador",
+              "*walt_disney"
+            ],
+            [
+              "*walt_disney",
+              "owl#sameas",
+              7
+            ]
+          ],
+          "score": 14.128212,
+          "detail": {
+            "keywords": [
+              "criador",
+              "walt_disney",
+              "serie"
+            ],
+            "score_detail": {
+              "m1": 12.628212,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "walt_disney": {
+                  "keyword": {
+                    "termo": "walt_disney",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "walt_disney",
+                  "score": 10.0
+                },
+                "serie": {
+                  "keyword": {
+                    "termo": "serie",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "mickey,_donald_e_pateta_(serie)",
+                  "score": 0.6282124
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*mickey,_donald_e_pateta_(serie)",
+              "*criador",
+              "*walt_disney"
+            ],
+            [
+              "*walt_disney",
+              "owl#sameas",
+              ",__"
+            ]
+          ],
+          "score": 14.128212,
+          "detail": {
+            "keywords": [
+              "criador",
+              "walt_disney",
+              "serie"
+            ],
+            "score_detail": {
+              "m1": 12.628212,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "walt_disney": {
+                  "keyword": {
+                    "termo": "walt_disney",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "walt_disney",
+                  "score": 10.0
+                },
+                "serie": {
+                  "keyword": {
+                    "termo": "serie",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "mickey,_donald_e_pateta_(serie)",
+                  "score": 0.6282124
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*mickey,_donald_e_pateta_(serie)",
+              "*criador",
+              "*walt_disney"
+            ],
+            [
+              "*walt_disney",
+              "owl#sameas",
+              "gualterius_elias_disney"
+            ]
+          ],
+          "score": 14.128212,
+          "detail": {
+            "keywords": [
+              "criador",
+              "walt_disney",
+              "serie"
+            ],
+            "score_detail": {
+              "m1": 12.628212,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "walt_disney": {
+                  "keyword": {
+                    "termo": "walt_disney",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "walt_disney",
+                  "score": 10.0
+                },
+                "serie": {
+                  "keyword": {
+                    "termo": "serie",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "mickey,_donald_e_pateta_(serie)",
+                  "score": 0.6282124
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*mickey,_donald_e_pateta_(serie)",
+              "*criador",
+              "*walt_disney"
+            ],
+            [
+              "*walt_disney",
+              "owl#sameas",
+              "volts_disnejs"
+            ]
+          ],
+          "score": 14.128212,
+          "detail": {
+            "keywords": [
+              "criador",
+              "walt_disney",
+              "serie"
+            ],
+            "score_detail": {
+              "m1": 12.628212,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "walt_disney": {
+                  "keyword": {
+                    "termo": "walt_disney",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "walt_disney",
+                  "score": 10.0
+                },
+                "serie": {
+                  "keyword": {
+                    "termo": "serie",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "mickey,_donald_e_pateta_(serie)",
+                  "score": 0.6282124
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*mickey,_donald_e_pateta_(serie)",
+              "*criador",
+              "*walt_disney"
+            ],
+            [
+              "*walt_disney",
+              "owl#sameas",
+              "__"
+            ]
+          ],
+          "score": 14.128212,
+          "detail": {
+            "keywords": [
+              "criador",
+              "walt_disney",
+              "serie"
+            ],
+            "score_detail": {
+              "m1": 12.628212,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "walt_disney": {
+                  "keyword": {
+                    "termo": "walt_disney",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "walt_disney",
+                  "score": 10.0
+                },
+                "serie": {
+                  "keyword": {
+                    "termo": "serie",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "mickey,_donald_e_pateta_(serie)",
+                  "score": 0.6282124
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*mickey,_donald_e_pateta_(serie)",
+              "*criador",
+              "*walt_disney"
+            ],
+            [
+              "*walt_disney",
+              "imagem",
+              "walt disney portrait.jpg"
+            ]
+          ],
+          "score": 14.128212,
+          "detail": {
+            "keywords": [
+              "criador",
+              "walt_disney",
+              "serie"
+            ],
+            "score_detail": {
+              "m1": 12.628212,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "walt_disney": {
+                  "keyword": {
+                    "termo": "walt_disney",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "walt_disney",
+                  "score": 10.0
+                },
+                "serie": {
+                  "keyword": {
+                    "termo": "serie",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "mickey,_donald_e_pateta_(serie)",
+                  "score": 0.6282124
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*mickey,_donald_e_pateta_(serie)",
+              "*criador",
+              "*walt_disney"
+            ],
+            [
+              "*walt_disney",
+              "autor",
+              "neil gabler"
+            ]
+          ],
+          "score": 14.128212,
+          "detail": {
+            "keywords": [
+              "criador",
+              "walt_disney",
+              "serie"
+            ],
+            "score_detail": {
+              "m1": 12.628212,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "walt_disney": {
+                  "keyword": {
+                    "termo": "walt_disney",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "walt_disney",
+                  "score": 10.0
+                },
+                "serie": {
+                  "keyword": {
+                    "termo": "serie",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "mickey,_donald_e_pateta_(serie)",
+                  "score": 0.6282124
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*mickey,_donald_e_pateta_(serie)",
+              "*criador",
+              "*walt_disney"
+            ],
+            [
+              "*walt_disney",
+              "titulo",
+              "walt disney: o triunfo da imaginacao americana"
+            ]
+          ],
+          "score": 14.128212,
+          "detail": {
+            "keywords": [
+              "criador",
+              "walt_disney",
+              "serie"
+            ],
+            "score_detail": {
+              "m1": 12.628212,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "walt_disney": {
+                  "keyword": {
+                    "termo": "walt_disney",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "walt_disney",
+                  "score": 10.0
+                },
+                "serie": {
+                  "keyword": {
+                    "termo": "serie",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "mickey,_donald_e_pateta_(serie)",
+                  "score": 0.6282124
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*mickey,_donald_e_pateta_(serie)",
+              "*criador",
+              "*walt_disney"
+            ],
+            [
+              "*walt_disney",
+              "editora",
+              "novo seculo"
+            ]
+          ],
+          "score": 14.128212,
+          "detail": {
+            "keywords": [
+              "criador",
+              "walt_disney",
+              "serie"
+            ],
+            "score_detail": {
+              "m1": 12.628212,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "walt_disney": {
+                  "keyword": {
+                    "termo": "walt_disney",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "walt_disney",
+                  "score": 10.0
+                },
+                "serie": {
+                  "keyword": {
+                    "termo": "serie",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "mickey,_donald_e_pateta_(serie)",
+                  "score": 0.6282124
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*mickey,_donald_e_pateta_(serie)",
+              "*criador",
+              "*walt_disney"
+            ],
+            [
+              "*walt_disney",
+              "paginas",
+              "944"
+            ]
+          ],
+          "score": 14.128212,
+          "detail": {
+            "keywords": [
+              "criador",
+              "walt_disney",
+              "serie"
+            ],
+            "score_detail": {
+              "m1": 12.628212,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "walt_disney": {
+                  "keyword": {
+                    "termo": "walt_disney",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "walt_disney",
+                  "score": 10.0
+                },
+                "serie": {
+                  "keyword": {
+                    "termo": "serie",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "mickey,_donald_e_pateta_(serie)",
+                  "score": 0.6282124
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*mickey,_donald_e_pateta_(serie)",
+              "*criador",
+              "*walt_disney"
+            ],
+            [
+              "*walt_disney",
+              "isbn",
+              "978"
+            ]
+          ],
+          "score": 14.128212,
+          "detail": {
+            "keywords": [
+              "criador",
+              "walt_disney",
+              "serie"
+            ],
+            "score_detail": {
+              "m1": 12.628212,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "walt_disney": {
+                  "keyword": {
+                    "termo": "walt_disney",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "walt_disney",
+                  "score": 10.0
+                },
+                "serie": {
+                  "keyword": {
+                    "termo": "serie",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "mickey,_donald_e_pateta_(serie)",
+                  "score": 0.6282124
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*mickey,_donald_e_pateta_(serie)",
+              "*criador",
+              "*walt_disney"
+            ],
+            [
+              "*walt_disney",
+              "commons",
+              "walt disney"
+            ]
+          ],
+          "score": 14.128212,
+          "detail": {
+            "keywords": [
+              "criador",
+              "walt_disney",
+              "serie"
+            ],
+            "score_detail": {
+              "m1": 12.628212,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "walt_disney": {
+                  "keyword": {
+                    "termo": "walt_disney",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "walt_disney",
+                  "score": 10.0
+                },
+                "serie": {
+                  "keyword": {
+                    "termo": "serie",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "mickey,_donald_e_pateta_(serie)",
+                  "score": 0.6282124
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*mickey,_donald_e_pateta_(serie)",
+              "*criador",
+              "*walt_disney"
+            ],
+            [
+              "*walt_disney",
+              "wikiquote",
+              "walt disney"
+            ]
+          ],
+          "score": 14.128212,
+          "detail": {
+            "keywords": [
+              "criador",
+              "walt_disney",
+              "serie"
+            ],
+            "score_detail": {
+              "m1": 12.628212,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "walt_disney": {
+                  "keyword": {
+                    "termo": "walt_disney",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "walt_disney",
+                  "score": 10.0
+                },
+                "serie": {
+                  "keyword": {
+                    "termo": "serie",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "mickey,_donald_e_pateta_(serie)",
+                  "score": 0.6282124
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*mickey,_donald_e_pateta_(serie)",
+              "*criador",
+              "*walt_disney"
+            ],
+            [
+              "*walt_disney",
+              "id",
+              "370"
+            ]
+          ],
+          "score": 14.128212,
+          "detail": {
+            "keywords": [
+              "criador",
+              "walt_disney",
+              "serie"
+            ],
+            "score_detail": {
+              "m1": 12.628212,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "walt_disney": {
+                  "keyword": {
+                    "termo": "walt_disney",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "walt_disney",
+                  "score": 10.0
+                },
+                "serie": {
+                  "keyword": {
+                    "termo": "serie",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "mickey,_donald_e_pateta_(serie)",
+                  "score": 0.6282124
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*mickey,_donald_e_pateta_(serie)",
+              "*criador",
+              "*walt_disney"
+            ],
+            [
+              "*walt_disney",
+              "nome",
+              "walt disney"
+            ]
+          ],
+          "score": 14.128212,
+          "detail": {
+            "keywords": [
+              "criador",
+              "walt_disney",
+              "serie"
+            ],
+            "score_detail": {
+              "m1": 12.628212,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "walt_disney": {
+                  "keyword": {
+                    "termo": "walt_disney",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "walt_disney",
+                  "score": 10.0
+                },
+                "serie": {
+                  "keyword": {
+                    "termo": "serie",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "mickey,_donald_e_pateta_(serie)",
+                  "score": 0.6282124
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 2270.6942558288574,
+      "l_sizes": [
+        22962,
+        84136
+      ],
+      "total_time": 12948.889017105103
+    }
+  }
+]

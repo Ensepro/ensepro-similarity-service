@@ -1,0 +1,2022 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "X:par",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "CJT:pron-int",
+          "palavra_original": "Qual",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<cjt-head>",
+            "<cjt-head-X>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "CJT:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "montanha",
+          "palavra_canonica": "montanha",
+          "tags": [
+            "<cjt-X>",
+            "<Ltop>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:adjp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DA:adv",
+          "palavra_original": "mais",
+          "palavra_canonica": "mais",
+          "tags": [
+            "<quant>",
+            "<KOMP>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:adj",
+          "palavra_original": "alta",
+          "palavra_canonica": "alto",
+          "tags": [
+            "<np-close>",
+            "F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<sam->",
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<-sam>",
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 13,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Austrália",
+          "palavra_canonica": "Austrália",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 14,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "X:par",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "CJT:pron-int",
+          "palavra_original": "Qual",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<cjt-head>",
+            "<cjt-head-X>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "CJT:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "montanha",
+          "palavra_canonica": "montanha",
+          "tags": [
+            "<cjt-X>",
+            "<Ltop>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "hill",
+                "sinonimo": "montanha",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "hill",
+                "sinonimo": "morro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "mountain",
+                "sinonimo": "Montanhas",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "hill",
+                "sinonimo": "chegarterra",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "mountain",
+                "sinonimo": "monte",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "hill",
+                "sinonimo": "barranco",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "hill",
+                "sinonimo": "Morros",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "hill",
+                "sinonimo": "montanhas",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "hill",
+                "sinonimo": "ladeira",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "hill",
+                "sinonimo": "colinas",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "hill",
+                "sinonimo": "colina",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "mountain",
+                "sinonimo": "mountain",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "hill",
+                "sinonimo": "hill",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "mountain",
+                "sinonimo": "mount",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:adjp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DA:adv",
+          "palavra_original": "mais",
+          "palavra_canonica": "mais",
+          "tags": [
+            "<quant>",
+            "<KOMP>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:adj",
+          "palavra_original": "alta",
+          "palavra_canonica": "alto",
+          "tags": [
+            "<np-close>",
+            "F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<sam->",
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<-sam>",
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 13,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Austrália",
+          "palavra_canonica": "Austrália",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 14,
+          "tag_inicial": "?",
+          "palavra_original": " ",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "[ [ X:par|1| [CJT:pron-int|2| Qual] [ CJT:np|3| [DN:art|4| a] [H:n|5| montanha] [ DN:adjp|6| [DA:adv|7| mais] [H:adj|8| alta] ] [ DN:pp|9| [H:prp|10| de] [ DP:np|11| [DN:art|12| a] [H:prop|13| Austrália] ] ] ] [?|14|  ] ] ]",
+      "tipo": {
+        "tipo": "qual",
+        "confianca": 0.64,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "montanha",
+          "palavra_canonica": "montanha",
+          "tags": [
+            "<cjt-X>",
+            "<Ltop>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "hill",
+                "sinonimo": "montanha",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "hill",
+                "sinonimo": "morro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "mountain",
+                "sinonimo": "Montanhas",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "hill",
+                "sinonimo": "chegarterra",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "mountain",
+                "sinonimo": "monte",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "hill",
+                "sinonimo": "barranco",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "hill",
+                "sinonimo": "Morros",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "hill",
+                "sinonimo": "montanhas",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "hill",
+                "sinonimo": "ladeira",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "hill",
+                "sinonimo": "colinas",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "hill",
+                "sinonimo": "colina",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "mountain",
+                "sinonimo": "mountain",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "hill",
+                "sinonimo": "hill",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "mountain",
+                "sinonimo": "mount",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 13,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Austrália",
+          "palavra_canonica": "Austrália",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 5,
+            "tag_inicial": "H:n",
+            "palavra_original": "montanha",
+            "palavra_canonica": "montanha",
+            "tags": [
+              "<cjt-X>",
+              "<Ltop>",
+              "F",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "hill",
+                  "sinonimo": "montanha",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "hill",
+                  "sinonimo": "morro",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "mountain",
+                  "sinonimo": "Montanhas",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "hill",
+                  "sinonimo": "chegarterra",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "mountain",
+                  "sinonimo": "monte",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "hill",
+                  "sinonimo": "barranco",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "hill",
+                  "sinonimo": "Morros",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "hill",
+                  "sinonimo": "montanhas",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "hill",
+                  "sinonimo": "ladeira",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "hill",
+                  "sinonimo": "colinas",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "hill",
+                  "sinonimo": "colina",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "mountain",
+                  "sinonimo": "mountain",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "hill",
+                  "sinonimo": "hill",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "mountain",
+                  "sinonimo": "mount",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 8,
+            "tag_inicial": "H:adj",
+            "palavra_original": "alta",
+            "palavra_canonica": "alto",
+            "tags": [
+              "<np-close>",
+              "F",
+              "S"
+            ],
+            "nivel": 3,
+            "sinonimos": null
+          }
+        },
+        {
+          "nome": {
+            "id": 5,
+            "tag_inicial": "H:n",
+            "palavra_original": "montanha",
+            "palavra_canonica": "montanha",
+            "tags": [
+              "<cjt-X>",
+              "<Ltop>",
+              "F",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "hill",
+                  "sinonimo": "montanha",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "hill",
+                  "sinonimo": "morro",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "mountain",
+                  "sinonimo": "Montanhas",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "hill",
+                  "sinonimo": "chegarterra",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "mountain",
+                  "sinonimo": "monte",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "hill",
+                  "sinonimo": "barranco",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "hill",
+                  "sinonimo": "Morros",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "hill",
+                  "sinonimo": "montanhas",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "hill",
+                  "sinonimo": "ladeira",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "hill",
+                  "sinonimo": "colinas",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "hill",
+                  "sinonimo": "colina",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "mountain",
+                  "sinonimo": "mountain",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "hill",
+                  "sinonimo": "hill",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "mountain",
+                  "sinonimo": "mount",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 13,
+            "tag_inicial": "H:prop",
+            "palavra_original": "Austrália",
+            "palavra_canonica": "Austrália",
+            "tags": [
+              "<civ>",
+              "<*>",
+              "F",
+              "S"
+            ],
+            "nivel": 4,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*alpes_australianos",
+              "abstract",
+              "*os alpes australianos sao as montanhas mais altas da australia continental. a cordilheira situa-se no sudeste do pais e estende-se ao longo dos estados de nova gales do sul e victoria. os alpes contem as unicas montanhas do territorio continental que ultrapassam os 2000 m sobre o nivel do mar, e junto a ilha de tasmania sao o unico lugar do pais onde se pode encontrar neve natural. o pico mais alto da cordilheira e o monte kosciuszko, com 2228 metros de altitude. a cordilheira e por sua vez parte da grande cordilheira divisoria, uma serie de montanhas e planaltos estendidos ao longo a mais de 3000 km desde o norte de queensland ate ao coracao de vitoria. estas cordilheiras dividem os rios e riachos que desembocam na bacia oriental do oceano pacifico, daqueles que fazem parte de bacias interiores, como a do rio murray."
+            ]
+          ],
+          "score": 12.688979,
+          "detail": {
+            "keywords": [
+              "australia",
+              "alto",
+              "alta"
+            ],
+            "score_detail": {
+              "m1": 10.688979,
+              "m2": 1.0,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "alpes_australianos",
+                  "score": 8.688979
+                },
+                "alto": {
+                  "keyword": {
+                    "termo": "alto",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "os alpes australianos sao as montanhas mais altas da australia continental. a cordilheira situa-se no sudeste do pais e estende-se ao longo dos estados de nova gales do sul e victoria. os alpes contem as unicas montanhas do territorio continental que ultrapassam os 2000 m sobre o nivel do mar, e junto a ilha de tasmania sao o unico lugar do pais onde se pode encontrar neve natural. o pico mais alto da cordilheira e o monte kosciuszko, com 2228 metros de altitude. a cordilheira e por sua vez parte da grande cordilheira divisoria, uma serie de montanhas e planaltos estendidos ao longo a mais de 3000 km desde o norte de queensland ate ao coracao de vitoria. estas cordilheiras dividem os rios e riachos que desembocam na bacia oriental do oceano pacifico, daqueles que fazem parte de bacias interiores, como a do rio murray.",
+                  "score": 1.0
+                },
+                "alta": {
+                  "keyword": {
+                    "termo": "alta",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "os alpes australianos sao as montanhas mais altas da australia continental. a cordilheira situa-se no sudeste do pais e estende-se ao longo dos estados de nova gales do sul e victoria. os alpes contem as unicas montanhas do territorio continental que ultrapassam os 2000 m sobre o nivel do mar, e junto a ilha de tasmania sao o unico lugar do pais onde se pode encontrar neve natural. o pico mais alto da cordilheira e o monte kosciuszko, com 2228 metros de altitude. a cordilheira e por sua vez parte da grande cordilheira divisoria, uma serie de montanhas e planaltos estendidos ao longo a mais de 3000 km desde o norte de queensland ate ao coracao de vitoria. estas cordilheiras dividem os rios e riachos que desembocam na bacia oriental do oceano pacifico, daqueles que fazem parte de bacias interiores, como a do rio murray.",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "australia": "-13542"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "abstract",
+              "*australia (em ingles: australia, pronunciado: [streli, -], coloquialmente: [-j]), oficialmente comunidade da australia (em ingles: commonwealth of australia) e um pais do hemisferio sul, localizado na oceania, que compreende a menor area continental do mundo (\\\"continente australiano\\\"), a ilha da tasmania e varias ilhas adjacentes nos oceanos indico e pacifico. o continente-ilha, como a australia por vezes e chamada, e banhado pelo oceano indico, ao sul, e a oeste pelo mar de timor, mar de arafura e estreito de torres, a norte, e pelo mar de coral e mar da tasmania, a leste. atraves destes mares, tem fronteira maritima com a indonesia, timor-leste e papua-nova guine, a norte, e com o territorio frances da nova caledonia, a leste, e a nova zelandia a sudeste. durante cerca de quarenta mil anos antes da colonizacao europeia iniciada no final do seculo xviii, o continente australiano e a tasmania eram habitadas por cerca de 250 nacoes individuais de aborigenes. apos visitas esporadicas de pescadores do norte e pela descoberta europeia por parte de exploradores holandeses em 1606, a metade oriental da australia foi reivindicada pelos britanicos em 1770 e inicialmente colonizada por meio do transporte de presos para a colonia de nova gales do sul, fundada em 26 de janeiro de 1788. a populacao aumentou de forma constante nos anos seguintes, o continente foi explorado e, durante o seculo xix, outros cinco grandes territorios autogovernados foram estabelecidos. em 1 de janeiro de 1901, as seis colonias se tornaram uma federacao e a comunidade da australia foi formada. desde a federacao, a australia tem mantido um sistema politico democratico liberal estavel e continua a ser um reino da commonwealth. a populacao do pais e de 23,4 milhoes de habitantes, com cerca de 60% concentrados em torno das capitais continentais estaduais de sydney, melbourne, brisbane, perth, adelaide e darwin. sua capital e camberra, localizada no territorio da capital australiana. tecnologicamente avancada e industrializada, a australia e um prospero pais multicultural e tem excelentes resultados em muitas comparacoes internacionais de desempenhos nacionais, tais como saude, esperanca de vida, qualidade de vida, desenvolvimento humano, educacao publica, liberdade economica, bem como a protecao de liberdades civis e direitos politicos. as cidades australianas tambem rotineiramente situam-se entre as mais altas do mundo em termos de habitabilidade, oferta cultural e qualidade de vida. a australia e o pais com o segundo maior indice de desenvolvimento humano do mundo (idh). e membro da organizacao das nacoes unidas (onu), g20, comunidade das nacoes, anzus, da organizacao para a cooperacao e desenvolvimento economico (ocde), bem como a organizacao mundial do comercio (omc)."
+            ]
+          ],
+          "score": 12.666667,
+          "detail": {
+            "keywords": [
+              "australia",
+              "alta"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "alta": {
+                  "keyword": {
+                    "termo": "alta",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "australia (em ingles: australia, pronunciado: [streli, -], coloquialmente: [-j]), oficialmente comunidade da australia (em ingles: commonwealth of australia) e um pais do hemisferio sul, localizado na oceania, que compreende a menor area continental do mundo (\\\"continente australiano\\\"), a ilha da tasmania e varias ilhas adjacentes nos oceanos indico e pacifico. o continente-ilha, como a australia por vezes e chamada, e banhado pelo oceano indico, ao sul, e a oeste pelo mar de timor, mar de arafura e estreito de torres, a norte, e pelo mar de coral e mar da tasmania, a leste. atraves destes mares, tem fronteira maritima com a indonesia, timor-leste e papua-nova guine, a norte, e com o territorio frances da nova caledonia, a leste, e a nova zelandia a sudeste. durante cerca de quarenta mil anos antes da colonizacao europeia iniciada no final do seculo xviii, o continente australiano e a tasmania eram habitadas por cerca de 250 nacoes individuais de aborigenes. apos visitas esporadicas de pescadores do norte e pela descoberta europeia por parte de exploradores holandeses em 1606, a metade oriental da australia foi reivindicada pelos britanicos em 1770 e inicialmente colonizada por meio do transporte de presos para a colonia de nova gales do sul, fundada em 26 de janeiro de 1788. a populacao aumentou de forma constante nos anos seguintes, o continente foi explorado e, durante o seculo xix, outros cinco grandes territorios autogovernados foram estabelecidos. em 1 de janeiro de 1901, as seis colonias se tornaram uma federacao e a comunidade da australia foi formada. desde a federacao, a australia tem mantido um sistema politico democratico liberal estavel e continua a ser um reino da commonwealth. a populacao do pais e de 23,4 milhoes de habitantes, com cerca de 60% concentrados em torno das capitais continentais estaduais de sydney, melbourne, brisbane, perth, adelaide e darwin. sua capital e camberra, localizada no territorio da capital australiana. tecnologicamente avancada e industrializada, a australia e um prospero pais multicultural e tem excelentes resultados em muitas comparacoes internacionais de desempenhos nacionais, tais como saude, esperanca de vida, qualidade de vida, desenvolvimento humano, educacao publica, liberdade economica, bem como a protecao de liberdades civis e direitos politicos. as cidades australianas tambem rotineiramente situam-se entre as mais altas do mundo em termos de habitabilidade, oferta cultural e qualidade de vida. a australia e o pais com o segundo maior indice de desenvolvimento humano do mundo (idh). e membro da organizacao das nacoes unidas (onu), g20, comunidade das nacoes, anzus, da organizacao para a cooperacao e desenvolvimento economico (ocde), bem como a organizacao mundial do comercio (omc).",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*magic_mountain",
+              "country",
+              "*australia"
+            ]
+          ],
+          "score": 12.578705,
+          "detail": {
+            "keywords": [
+              "montanha",
+              "australia"
+            ],
+            "score_detail": {
+              "m1": 10.912038,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "montanha": {
+                  "keyword": {
+                    "termo": "mountain",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "magic_mountain",
+                  "score": 0.91203827
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*monte_zeil",
+              "locatedinarea",
+              "*australia"
+            ]
+          ],
+          "score": 12.557852,
+          "detail": {
+            "keywords": [
+              "montanha",
+              "australia"
+            ],
+            "score_detail": {
+              "m1": 10.891185,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "montanha": {
+                  "keyword": {
+                    "termo": "monte",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "monte_zeil",
+                  "score": 0.8911845
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*tim_cahill",
+              "birthplace",
+              "*australia"
+            ]
+          ],
+          "score": 12.504967,
+          "detail": {
+            "keywords": [
+              "montanha",
+              "australia"
+            ],
+            "score_detail": {
+              "m1": 10.8383,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "montanha": {
+                  "keyword": {
+                    "termo": "hill",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "tim_cahill",
+                  "score": 0.83830005
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*monte_meharry",
+              "locatedinarea",
+              "*australia"
+            ]
+          ],
+          "score": 12.480523,
+          "detail": {
+            "keywords": [
+              "montanha",
+              "australia"
+            ],
+            "score_detail": {
+              "m1": 10.813856,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "montanha": {
+                  "keyword": {
+                    "termo": "monte",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "monte_meharry",
+                  "score": 0.81385654
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*darryn_hill",
+              "country",
+              "*australia"
+            ]
+          ],
+          "score": 12.474957,
+          "detail": {
+            "keywords": [
+              "montanha",
+              "australia"
+            ],
+            "score_detail": {
+              "m1": 10.8082905,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "montanha": {
+                  "keyword": {
+                    "termo": "hill",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "darryn_hill",
+                  "score": 0.80829024
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*monte_townsend",
+              "locatedinarea",
+              "*australia"
+            ]
+          ],
+          "score": 12.453084,
+          "detail": {
+            "keywords": [
+              "montanha",
+              "australia"
+            ],
+            "score_detail": {
+              "m1": 10.786417,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "montanha": {
+                  "keyword": {
+                    "termo": "monte",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "monte_townsend",
+                  "score": 0.7864172
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*chris_cahill",
+              "birthplace",
+              "*australia"
+            ]
+          ],
+          "score": 12.444334,
+          "detail": {
+            "keywords": [
+              "montanha",
+              "australia"
+            ],
+            "score_detail": {
+              "m1": 10.777667,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "montanha": {
+                  "keyword": {
+                    "termo": "hill",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "chris_cahill",
+                  "score": 0.7776671
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*tim_phillipps",
+              "birthplace",
+              "*australia"
+            ]
+          ],
+          "score": 12.413221,
+          "detail": {
+            "keywords": [
+              "montanha",
+              "australia"
+            ],
+            "score_detail": {
+              "m1": 10.746554,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "montanha": {
+                  "keyword": {
+                    "termo": "hill",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "tim_phillipps",
+                  "score": 0.74655443
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*monte_kosciuszko",
+              "locatedinarea",
+              "*australia"
+            ]
+          ],
+          "score": 12.396262,
+          "detail": {
+            "keywords": [
+              "montanha",
+              "australia"
+            ],
+            "score_detail": {
+              "m1": 10.729595,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "montanha": {
+                  "keyword": {
+                    "termo": "monte",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "monte_kosciuszko",
+                  "score": 0.72959495
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*monte_wellington",
+              "locatedinarea",
+              "*australia"
+            ]
+          ],
+          "score": 12.396262,
+          "detail": {
+            "keywords": [
+              "montanha",
+              "australia"
+            ],
+            "score_detail": {
+              "m1": 10.729595,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "montanha": {
+                  "keyword": {
+                    "termo": "monte",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "monte_wellington",
+                  "score": 0.72959495
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*hillsong_church",
+              "location",
+              "*australia"
+            ]
+          ],
+          "score": 12.350063,
+          "detail": {
+            "keywords": [
+              "montanha",
+              "australia"
+            ],
+            "score_detail": {
+              "m1": 10.683396,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "montanha": {
+                  "keyword": {
+                    "termo": "hill",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "hillsong_church",
+                  "score": 0.6833965
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*hillsong_united",
+              "country",
+              "*australia"
+            ]
+          ],
+          "score": 12.350063,
+          "detail": {
+            "keywords": [
+              "montanha",
+              "australia"
+            ],
+            "score_detail": {
+              "m1": 10.683396,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "montanha": {
+                  "keyword": {
+                    "termo": "hill",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "hillsong_united",
+                  "score": 0.6833965
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*red_hill_(filme)",
+              "country",
+              "*australia"
+            ]
+          ],
+          "score": 12.318299,
+          "detail": {
+            "keywords": [
+              "montanha",
+              "australia"
+            ],
+            "score_detail": {
+              "m1": 10.651632,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "montanha": {
+                  "keyword": {
+                    "termo": "hill",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "red_hill_(filme)",
+                  "score": 0.6516325
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*monte_ossa_(tasmania)",
+              "locatedinarea",
+              "*australia"
+            ]
+          ],
+          "score": 12.248403,
+          "detail": {
+            "keywords": [
+              "montanha",
+              "australia"
+            ],
+            "score_detail": {
+              "m1": 10.581736,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "montanha": {
+                  "keyword": {
+                    "termo": "monte",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "monte_ossa_(tasmania)",
+                  "score": 0.5817353
+                },
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "owl#sameas",
+              "m.0chghy"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "australia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "22_rdf_syntax_ns#type",
+              "country"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "australia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "rdf_schema#label",
+              "*australia"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "australia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*australia_(desambiguacao)",
+              "owl#sameas",
+              "*australia"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "australia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "owl#sameas",
+              "*australia"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "australia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*predefinicao:patrimonio_mundial_na_australia",
+              "owl#sameas",
+              "*australia"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "australia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*predefinicao:infobox_olympics_australia",
+              "owl#sameas",
+              "*australia"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "australia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "neale_fraser",
+              "cidadenatal",
+              "*australia"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "australia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "lesley_turner",
+              "cidadenatal",
+              "*australia"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "australia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "robert_howe",
+              "cidadenatal",
+              "*australia"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "australia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "fred_stolle",
+              "cidadenatal",
+              "*australia"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "australia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "luois_hunter",
+              "nascimentolocal",
+              "*australia"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "australia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "laura_robson",
+              "cidadenatal",
+              "*australia"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "australia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "adam_garcia",
+              "localidaden",
+              "*australia"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "australia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 3387.9964351654053,
+      "l_sizes": [
+        13952
+      ],
+      "total_time": 13894.850015640259
+    }
+  }
+]

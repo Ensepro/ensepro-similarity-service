@@ -1,0 +1,2254 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:adv",
+          "palavra_original": "Quando",
+          "palavra_canonica": "quando",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Boris_Becker",
+          "palavra_canonica": "Boris_Becker",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "encerrou",
+          "palavra_canonica": "encerrar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:pron-poss",
+          "palavra_original": "sua",
+          "palavra_canonica": "seu",
+          "tags": [
+            "<poss",
+            "3S>",
+            "<si>",
+            "DET",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "H:n",
+          "palavra_original": "carreira",
+          "palavra_canonica": "carreira",
+          "tags": [
+            "<Lpath>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:adv",
+          "palavra_original": "Quando",
+          "palavra_canonica": "quando",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Boris_Becker",
+          "palavra_canonica": "Boris_Becker",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "encerrou",
+          "palavra_canonica": "encerrar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "end",
+                "sinonimo": "parar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "complete",
+                "sinonimo": "acabar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "terminar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "encerrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "finalizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "concluir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "cessar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "end",
+                "sinonimo": "stop",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "end",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "terminate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "complete",
+                "sinonimo": "complete",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "finish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "cease",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:pron-poss",
+          "palavra_original": "sua",
+          "palavra_canonica": "seu",
+          "tags": [
+            "<poss",
+            "3S>",
+            "<si>",
+            "DET",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "H:n",
+          "palavra_original": "carreira",
+          "palavra_canonica": "carreira",
+          "tags": [
+            "<Lpath>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "bus",
+                "sinonimo": "Autocarro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "autocarro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "autocarros",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "racing",
+                "sinonimo": "Esportes_de_corrida",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "racing",
+                "sinonimo": "carreira",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "ónibus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "auto-ônibus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "racing",
+                "sinonimo": "corrida",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "machimbombo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "Ônibus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "ônibus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "dash",
+                "sinonimo": "sprint",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "track",
+                "sinonimo": "track",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "11"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "passenger_vehicle",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "track",
+                "sinonimo": "running",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "11"
+              },
+              {
+                "synset": "dash",
+                "sinonimo": "dash",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "omnibus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "double-decker",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "motorcoach",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "motorbus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "bus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "charabanc",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "coach",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "autobus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "jitney",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "racing",
+                "sinonimo": "racing",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 8,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "quando",
+        "confianca": 0.91,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 3,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Boris_Becker",
+          "palavra_canonica": "Boris_Becker",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "encerrou",
+          "palavra_canonica": "encerrar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "end",
+                "sinonimo": "parar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "complete",
+                "sinonimo": "acabar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "terminar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "encerrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "finalizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "concluir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "cessar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "end",
+                "sinonimo": "stop",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "end",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "terminate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "complete",
+                "sinonimo": "complete",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "finish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "cease",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "H:n",
+          "palavra_original": "carreira",
+          "palavra_canonica": "carreira",
+          "tags": [
+            "<Lpath>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "bus",
+                "sinonimo": "Autocarro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "autocarro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "autocarros",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "racing",
+                "sinonimo": "Esportes_de_corrida",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "racing",
+                "sinonimo": "carreira",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "ónibus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "auto-ônibus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "racing",
+                "sinonimo": "corrida",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "machimbombo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "Ônibus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "ônibus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "dash",
+                "sinonimo": "sprint",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "track",
+                "sinonimo": "track",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "11"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "passenger_vehicle",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "track",
+                "sinonimo": "running",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "11"
+              },
+              {
+                "synset": "dash",
+                "sinonimo": "dash",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "omnibus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "double-decker",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "motorcoach",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "motorbus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "bus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "charabanc",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "coach",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "autobus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bus",
+                "sinonimo": "jitney",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "racing",
+                "sinonimo": "racing",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*boris_becker",
+              "*gender",
+              "masculino"
+            ]
+          ],
+          "score": 12.567297,
+          "detail": {
+            "keywords": [
+              "encerrar",
+              "boris_becker"
+            ],
+            "score_detail": {
+              "m1": 10.90063,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "encerrar": {
+                  "keyword": {
+                    "termo": "end",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gender",
+                  "score": 0.9006304
+                },
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "boris_becker": "-1",
+              "end": "-133"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*boris_becker",
+              "*gender",
+              "masculino"
+            ],
+            [
+              "*boris_becker",
+              "owl#sameas",
+              "q76334"
+            ]
+          ],
+          "score": 12.233963,
+          "detail": {
+            "keywords": [
+              "encerrar",
+              "boris_becker"
+            ],
+            "score_detail": {
+              "m1": 10.90063,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "encerrar": {
+                  "keyword": {
+                    "termo": "end",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gender",
+                  "score": 0.9006304
+                },
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*boris_becker",
+              "*gender",
+              "masculino"
+            ],
+            [
+              "*boris_becker",
+              "owl#sameas",
+              "*boris_becker"
+            ]
+          ],
+          "score": 12.233963,
+          "detail": {
+            "keywords": [
+              "encerrar",
+              "boris_becker"
+            ],
+            "score_detail": {
+              "m1": 10.90063,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "encerrar": {
+                  "keyword": {
+                    "termo": "end",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gender",
+                  "score": 0.9006304
+                },
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*boris_becker",
+              "*gender",
+              "masculino"
+            ],
+            [
+              "*boris_becker",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 12.233963,
+          "detail": {
+            "keywords": [
+              "encerrar",
+              "boris_becker"
+            ],
+            "score_detail": {
+              "m1": 10.90063,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "encerrar": {
+                  "keyword": {
+                    "termo": "end",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gender",
+                  "score": 0.9006304
+                },
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*boris_becker",
+              "*gender",
+              "masculino"
+            ],
+            [
+              "*boris_becker",
+              "owl#sameas",
+              "*category:boris_becker"
+            ]
+          ],
+          "score": 12.233963,
+          "detail": {
+            "keywords": [
+              "encerrar",
+              "boris_becker"
+            ],
+            "score_detail": {
+              "m1": 10.90063,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "encerrar": {
+                  "keyword": {
+                    "termo": "end",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gender",
+                  "score": 0.9006304
+                },
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*boris_becker",
+              "*gender",
+              "masculino"
+            ],
+            [
+              "*boris_becker",
+              "owl#sameas",
+              6
+            ]
+          ],
+          "score": 12.233963,
+          "detail": {
+            "keywords": [
+              "encerrar",
+              "boris_becker"
+            ],
+            "score_detail": {
+              "m1": 10.90063,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "encerrar": {
+                  "keyword": {
+                    "termo": "end",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gender",
+                  "score": 0.9006304
+                },
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*boris_becker",
+              "*gender",
+              "masculino"
+            ],
+            [
+              "*boris_becker",
+              "owl#sameas",
+              "boriss_bekers"
+            ]
+          ],
+          "score": 12.233963,
+          "detail": {
+            "keywords": [
+              "encerrar",
+              "boris_becker"
+            ],
+            "score_detail": {
+              "m1": 10.90063,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "encerrar": {
+                  "keyword": {
+                    "termo": "end",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gender",
+                  "score": 0.9006304
+                },
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*boris_becker",
+              "*gender",
+              "masculino"
+            ],
+            [
+              "*boris_becker",
+              "owl#sameas",
+              ",_"
+            ]
+          ],
+          "score": 12.233963,
+          "detail": {
+            "keywords": [
+              "encerrar",
+              "boris_becker"
+            ],
+            "score_detail": {
+              "m1": 10.90063,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "encerrar": {
+                  "keyword": {
+                    "termo": "end",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gender",
+                  "score": 0.9006304
+                },
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*boris_becker",
+              "*gender",
+              "masculino"
+            ],
+            [
+              "*boris_becker",
+              "depiction",
+              "*boris_becker_2007_amk.jpg"
+            ]
+          ],
+          "score": 12.233963,
+          "detail": {
+            "keywords": [
+              "encerrar",
+              "boris_becker"
+            ],
+            "score_detail": {
+              "m1": 10.90063,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "encerrar": {
+                  "keyword": {
+                    "termo": "end",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gender",
+                  "score": 0.9006304
+                },
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*boris_becker",
+              "*gender",
+              "masculino"
+            ],
+            [
+              "*boris_becker",
+              "thumbnail",
+              "*boris_becker_2007_amk.jpg?width=300"
+            ]
+          ],
+          "score": 12.233963,
+          "detail": {
+            "keywords": [
+              "encerrar",
+              "boris_becker"
+            ],
+            "score_detail": {
+              "m1": 10.90063,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "encerrar": {
+                  "keyword": {
+                    "termo": "end",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gender",
+                  "score": 0.9006304
+                },
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*boris_becker",
+              "*gender",
+              "masculino"
+            ],
+            [
+              "*boris_becker",
+              "foto",
+              "150"
+            ]
+          ],
+          "score": 12.233963,
+          "detail": {
+            "keywords": [
+              "encerrar",
+              "boris_becker"
+            ],
+            "score_detail": {
+              "m1": 10.90063,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "encerrar": {
+                  "keyword": {
+                    "termo": "end",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gender",
+                  "score": 0.9006304
+                },
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*boris_becker",
+              "*gender",
+              "masculino"
+            ],
+            [
+              "*boris_becker",
+              "legfoto",
+              "boris becker"
+            ]
+          ],
+          "score": 12.233963,
+          "detail": {
+            "keywords": [
+              "encerrar",
+              "boris_becker"
+            ],
+            "score_detail": {
+              "m1": 10.90063,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "encerrar": {
+                  "keyword": {
+                    "termo": "end",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gender",
+                  "score": 0.9006304
+                },
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*boris_becker",
+              "*gender",
+              "masculino"
+            ],
+            [
+              "*boris_becker",
+              "residencia",
+              "monte carlo, monaco"
+            ]
+          ],
+          "score": 12.233963,
+          "detail": {
+            "keywords": [
+              "encerrar",
+              "boris_becker"
+            ],
+            "score_detail": {
+              "m1": 10.90063,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "encerrar": {
+                  "keyword": {
+                    "termo": "end",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gender",
+                  "score": 0.9006304
+                },
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*boris_becker",
+              "*gender",
+              "masculino"
+            ],
+            [
+              "*boris_becker",
+              "mao",
+              "direita"
+            ]
+          ],
+          "score": 12.233963,
+          "detail": {
+            "keywords": [
+              "encerrar",
+              "boris_becker"
+            ],
+            "score_detail": {
+              "m1": 10.90063,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "encerrar": {
+                  "keyword": {
+                    "termo": "end",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gender",
+                  "score": 0.9006304
+                },
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*boris_becker",
+              "*gender",
+              "masculino"
+            ],
+            [
+              "*boris_becker",
+              "profissionalizacao",
+              "1984"
+            ]
+          ],
+          "score": 12.233963,
+          "detail": {
+            "keywords": [
+              "encerrar",
+              "boris_becker"
+            ],
+            "score_detail": {
+              "m1": 10.90063,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "encerrar": {
+                  "keyword": {
+                    "termo": "end",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gender",
+                  "score": 0.9006304
+                },
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*boris_becker",
+              "*gender",
+              "masculino"
+            ],
+            [
+              "*boris_becker",
+              "abandono",
+              "1999"
+            ]
+          ],
+          "score": 12.233963,
+          "detail": {
+            "keywords": [
+              "encerrar",
+              "boris_becker"
+            ],
+            "score_detail": {
+              "m1": 10.90063,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "encerrar": {
+                  "keyword": {
+                    "termo": "end",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gender",
+                  "score": 0.9006304
+                },
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*boris_becker",
+              "*gender",
+              "masculino"
+            ],
+            [
+              "*boris_becker",
+              "tennishofano",
+              "2003"
+            ]
+          ],
+          "score": 12.233963,
+          "detail": {
+            "keywords": [
+              "encerrar",
+              "boris_becker"
+            ],
+            "score_detail": {
+              "m1": 10.90063,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "encerrar": {
+                  "keyword": {
+                    "termo": "end",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gender",
+                  "score": 0.9006304
+                },
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*boris_becker",
+              "*gender",
+              "masculino"
+            ],
+            [
+              "*boris_becker",
+              "vitoriasderrotassimples",
+              "713"
+            ]
+          ],
+          "score": 12.233963,
+          "detail": {
+            "keywords": [
+              "encerrar",
+              "boris_becker"
+            ],
+            "score_detail": {
+              "m1": 10.90063,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "encerrar": {
+                  "keyword": {
+                    "termo": "end",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gender",
+                  "score": 0.9006304
+                },
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*boris_becker",
+              "*gender",
+              "masculino"
+            ],
+            [
+              "*boris_becker",
+              "titulossimples",
+              "49"
+            ]
+          ],
+          "score": 12.233963,
+          "detail": {
+            "keywords": [
+              "encerrar",
+              "boris_becker"
+            ],
+            "score_detail": {
+              "m1": 10.90063,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "encerrar": {
+                  "keyword": {
+                    "termo": "end",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gender",
+                  "score": 0.9006304
+                },
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*boris_becker",
+              "*gender",
+              "masculino"
+            ],
+            [
+              "*boris_becker",
+              "melhorrankingsimples",
+              "no 1"
+            ]
+          ],
+          "score": 12.233963,
+          "detail": {
+            "keywords": [
+              "encerrar",
+              "boris_becker"
+            ],
+            "score_detail": {
+              "m1": 10.90063,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "encerrar": {
+                  "keyword": {
+                    "termo": "end",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gender",
+                  "score": 0.9006304
+                },
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*boris_becker",
+              "*gender",
+              "masculino"
+            ],
+            [
+              "*boris_becker",
+              "resultadoopenaustralia",
+              "v"
+            ]
+          ],
+          "score": 12.233963,
+          "detail": {
+            "keywords": [
+              "encerrar",
+              "boris_becker"
+            ],
+            "score_detail": {
+              "m1": 10.90063,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "encerrar": {
+                  "keyword": {
+                    "termo": "end",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gender",
+                  "score": 0.9006304
+                },
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*boris_becker",
+              "*gender",
+              "masculino"
+            ],
+            [
+              "*boris_becker",
+              "resultadoopenfranca",
+              "sf"
+            ]
+          ],
+          "score": 12.233963,
+          "detail": {
+            "keywords": [
+              "encerrar",
+              "boris_becker"
+            ],
+            "score_detail": {
+              "m1": 10.90063,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "encerrar": {
+                  "keyword": {
+                    "termo": "end",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gender",
+                  "score": 0.9006304
+                },
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*boris_becker",
+              "*gender",
+              "masculino"
+            ],
+            [
+              "*boris_becker",
+              "resultadowimbledon",
+              "v"
+            ]
+          ],
+          "score": 12.233963,
+          "detail": {
+            "keywords": [
+              "encerrar",
+              "boris_becker"
+            ],
+            "score_detail": {
+              "m1": 10.90063,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "encerrar": {
+                  "keyword": {
+                    "termo": "end",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gender",
+                  "score": 0.9006304
+                },
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*boris_becker",
+              "*gender",
+              "masculino"
+            ],
+            [
+              "*boris_becker",
+              "resultadoopeneua",
+              "v"
+            ]
+          ],
+          "score": 12.233963,
+          "detail": {
+            "keywords": [
+              "encerrar",
+              "boris_becker"
+            ],
+            "score_detail": {
+              "m1": 10.90063,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "encerrar": {
+                  "keyword": {
+                    "termo": "end",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gender",
+                  "score": 0.9006304
+                },
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*boris_becker",
+              "*gender",
+              "masculino"
+            ],
+            [
+              "*boris_becker",
+              "outrostorneios",
+              "sim"
+            ]
+          ],
+          "score": 12.233963,
+          "detail": {
+            "keywords": [
+              "encerrar",
+              "boris_becker"
+            ],
+            "score_detail": {
+              "m1": 10.90063,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "encerrar": {
+                  "keyword": {
+                    "termo": "end",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gender",
+                  "score": 0.9006304
+                },
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*boris_becker",
+              "*gender",
+              "masculino"
+            ],
+            [
+              "*boris_becker",
+              "resultadomasterscup",
+              "v"
+            ]
+          ],
+          "score": 12.233963,
+          "detail": {
+            "keywords": [
+              "encerrar",
+              "boris_becker"
+            ],
+            "score_detail": {
+              "m1": 10.90063,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "encerrar": {
+                  "keyword": {
+                    "termo": "end",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gender",
+                  "score": 0.9006304
+                },
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*boris_becker",
+              "*gender",
+              "masculino"
+            ],
+            [
+              "*boris_becker",
+              "vitoriasderrotasduplas",
+              "254"
+            ]
+          ],
+          "score": 12.233963,
+          "detail": {
+            "keywords": [
+              "encerrar",
+              "boris_becker"
+            ],
+            "score_detail": {
+              "m1": 10.90063,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "encerrar": {
+                  "keyword": {
+                    "termo": "end",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gender",
+                  "score": 0.9006304
+                },
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*boris_becker",
+              "*gender",
+              "masculino"
+            ],
+            [
+              "*boris_becker",
+              "titulosduplas",
+              "15"
+            ]
+          ],
+          "score": 12.233963,
+          "detail": {
+            "keywords": [
+              "encerrar",
+              "boris_becker"
+            ],
+            "score_detail": {
+              "m1": 10.90063,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "encerrar": {
+                  "keyword": {
+                    "termo": "end",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gender",
+                  "score": 0.9006304
+                },
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*boris_becker",
+              "*gender",
+              "masculino"
+            ],
+            [
+              "*boris_becker",
+              "melhorrankingduplas",
+              "no 6"
+            ]
+          ],
+          "score": 12.233963,
+          "detail": {
+            "keywords": [
+              "encerrar",
+              "boris_becker"
+            ],
+            "score_detail": {
+              "m1": 10.90063,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "encerrar": {
+                  "keyword": {
+                    "termo": "end",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gender",
+                  "score": 0.9006304
+                },
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*boris_becker",
+              "*gender",
+              "masculino"
+            ],
+            [
+              "*boris_becker",
+              "atualizado",
+              "30"
+            ]
+          ],
+          "score": 12.233963,
+          "detail": {
+            "keywords": [
+              "encerrar",
+              "boris_becker"
+            ],
+            "score_detail": {
+              "m1": 10.90063,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "encerrar": {
+                  "keyword": {
+                    "termo": "end",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "gender",
+                  "score": 0.9006304
+                },
+                "boris_becker": {
+                  "keyword": {
+                    "termo": "boris_becker",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "boris_becker",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 2124911100,
+      "total_time": 9984668300
+    }
+  }
+]

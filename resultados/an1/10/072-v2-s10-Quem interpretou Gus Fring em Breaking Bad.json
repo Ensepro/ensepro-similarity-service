@@ -1,0 +1,1439 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:spec",
+          "palavra_original": "Quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "interpretou",
+          "palavra_canonica": "interpretar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:prop",
+          "palavra_original": "Gus_Fring",
+          "palavra_canonica": "Gus_Fring",
+          "tags": [
+            "<tit>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "fA:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prp",
+          "palavra_original": "em",
+          "palavra_canonica": "em",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Breaking_Bad",
+          "palavra_canonica": "Breaking_Bad",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:spec",
+          "palavra_original": "Quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "interpretou",
+          "palavra_canonica": "interpretar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "understand",
+                "sinonimo": "entender",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "rede",
+                "sinonimo": "interpretar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "understand",
+                "sinonimo": "traduzir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "understand",
+                "sinonimo": "understand",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "interpret",
+                "sinonimo": "render",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "understand",
+                "sinonimo": "read",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "rede",
+                "sinonimo": "interpret",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "understand",
+                "sinonimo": "translate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "rede",
+                "sinonimo": "rede",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:prop",
+          "palavra_original": "Gus_Fring",
+          "palavra_canonica": "Gus_Fring",
+          "tags": [
+            "<tit>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "fA:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prp",
+          "palavra_original": "em",
+          "palavra_canonica": "em",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Breaking_Bad",
+          "palavra_canonica": "Breaking_Bad",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 8,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "quem",
+        "confianca": 0.93,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "interpretou",
+          "palavra_canonica": "interpretar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "understand",
+                "sinonimo": "entender",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "rede",
+                "sinonimo": "interpretar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "understand",
+                "sinonimo": "traduzir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "understand",
+                "sinonimo": "understand",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "interpret",
+                "sinonimo": "render",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "understand",
+                "sinonimo": "read",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "rede",
+                "sinonimo": "interpret",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "understand",
+                "sinonimo": "translate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "rede",
+                "sinonimo": "rede",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:prop",
+          "palavra_original": "Gus_Fring",
+          "palavra_canonica": "Gus_Fring",
+          "tags": [
+            "<tit>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Breaking_Bad",
+          "palavra_canonica": "Breaking_Bad",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*walter_white_(breaking_bad)",
+              "*interprete",
+              "bryan_cranston"
+            ]
+          ],
+          "score": 11.073237,
+          "detail": {
+            "keywords": [
+              "breaking_bad",
+              "interprete"
+            ],
+            "score_detail": {
+              "m1": 9.90657,
+              "m2": 0.6666667,
+              "m3": 0.5,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "walter_white_(breaking_bad)",
+                  "score": 7.906571
+                },
+                "interprete": {
+                  "keyword": {
+                    "termo": "interprete",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "interprete",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0
+        },
+        {
+          "triples": [
+            [
+              "*breaking_bad",
+              "owl#sameas",
+              "q1079"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "breaking_bad"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*breaking_bad",
+              "owl#sameas",
+              "*breaking_bad"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "breaking_bad"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*breaking_bad",
+              "owl#sameas",
+              "__()"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "breaking_bad"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*breaking_bad",
+              "owl#sameas",
+              "*breaking_bad_(teleserial,_2008)"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "breaking_bad"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*breaking_bad",
+              "owl#sameas",
+              "___"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "breaking_bad"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*breaking_bad",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "breaking_bad"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*breaking_bad",
+              "owl#sameas",
+              "pernikovy_tata"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "breaking_bad"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*breaking_bad",
+              "owl#sameas",
+              "halvale_teele"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "breaking_bad"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*breaking_bad",
+              "owl#sameas",
+              "na_putu_prema_dolje"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "breaking_bad"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*breaking_bad",
+              "owl#sameas",
+              "*breaking_bad__total_szivas"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "breaking_bad"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*breaking_bad",
+              "owl#sameas",
+              "*breaking_bad___reazioni_collaterali"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "breaking_bad"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*breaking_bad",
+              "owl#sameas",
+              17
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "breaking_bad"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*breaking_bad",
+              "owl#sameas",
+              "parkapt_robezu"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "breaking_bad"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*breaking_bad",
+              "owl#sameas",
+              "__"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "breaking_bad"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*breaking_bad",
+              "owl#sameas",
+              "pernikovy_tatko"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "breaking_bad"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*breaking_bad",
+              "owl#sameas",
+              "kriva_pota"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "breaking_bad"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*breaking_bad",
+              "owl#sameas",
+              "bien_chat_(phim_truyen_hinh)"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "breaking_bad"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*breaking_bad",
+              "wikipageusestemplate",
+              "televisao"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "breaking_bad"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*breaking_bad",
+              "wikipageusestemplate",
+              "*predefinicao:ptbr"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "breaking_bad"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*breaking_bad",
+              "wikipageusestemplate",
+              "*predefinicao:quote"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "breaking_bad"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*breaking_bad",
+              "wikipageusestemplate",
+              "*predefinicao:vt"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "breaking_bad"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*breaking_bad",
+              "wikipageusestemplate",
+              "*predefinicao:revelacoes_sobre_o_enredo"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "breaking_bad"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*breaking_bad",
+              "wikipageusestemplate",
+              "*predefinicao:fim_das_revelacoes_sobre_o_enredo"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "breaking_bad"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*breaking_bad",
+              "wikipageusestemplate",
+              "*predefinicao:referencias"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "breaking_bad"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*breaking_bad",
+              "wikipageusestemplate",
+              "*predefinicao:imdb_titulo"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "breaking_bad"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*breaking_bad",
+              "wikipageusestemplate",
+              "*predefinicao:link"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "breaking_bad"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*breaking_bad",
+              "wikipageusestemplate",
+              "*predefinicao:programas_do_amc"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "breaking_bad"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*breaking_bad",
+              "wikipageusestemplate",
+              "*predefinicao:emmy_award_de_melhor_serie_de_drama_2001_2025"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "breaking_bad"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*breaking_bad",
+              "wikipageusestemplate",
+              "*predefinicao:sag_de_melhor_elenco_em_serie_dramatica"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "breaking_bad"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 2040696800,
+      "total_time": 7344173700
+    }
+  }
+]

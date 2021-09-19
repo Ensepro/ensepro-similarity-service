@@ -1,0 +1,2832 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "Que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "filmes",
+          "palavra_canonica": "filme",
+          "tags": [
+            "<sem-w>",
+            "<cc>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "Stanley_Kubrick",
+          "palavra_canonica": "Stanley_Kubrick",
+          "tags": [
+            "<tit>",
+            "<*>",
+            "<np-close>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "dirigiu",
+          "palavra_canonica": "dirigir",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 3,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "SUB:conj-s",
+          "palavra_original": "Que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<clb>",
+            "<*>"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Stanley_kubrick",
+          "palavra_canonica": "Stanley_kubrick",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "dirigiu",
+          "palavra_canonica": "dirigir",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "head",
+                "sinonimo": "encabeçar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "comandar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "canalizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "drive",
+                "sinonimo": "conduzir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "liderar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "govern",
+                "sinonimo": "governar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "dirigir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "govern",
+                "sinonimo": "reger",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "govern",
+                "sinonimo": "gerir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "direcionar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "lidar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "apontar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "esterçar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "guiar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "dominate",
+                "sinonimo": "dominar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "dominate",
+                "sinonimo": "dominate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "manoeuvre",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "aim",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "maneuver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dominate",
+                "sinonimo": "master",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "deal",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "address",
+                "sinonimo": "turn_to",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "place",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "point",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "govern",
+                "sinonimo": "govern",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "address",
+                "sinonimo": "address",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "target",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "channelize",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "steer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "handle",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "manoeuver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "direct",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "lead",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "drive",
+                "sinonimo": "drive",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "head",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "channelise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "guide",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "care",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "manage",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "qual",
+        "confianca": 0.69,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 3,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Stanley_kubrick",
+          "palavra_canonica": "Stanley_kubrick",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "dirigiu",
+          "palavra_canonica": "dirigir",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "head",
+                "sinonimo": "encabeçar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "comandar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "canalizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "drive",
+                "sinonimo": "conduzir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "liderar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "govern",
+                "sinonimo": "governar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "dirigir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "govern",
+                "sinonimo": "reger",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "govern",
+                "sinonimo": "gerir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "direcionar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "lidar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "apontar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "esterçar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "guiar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "dominate",
+                "sinonimo": "dominar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "dominate",
+                "sinonimo": "dominate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "manoeuvre",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "aim",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "maneuver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dominate",
+                "sinonimo": "master",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "deal",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "address",
+                "sinonimo": "turn_to",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "place",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "point",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "govern",
+                "sinonimo": "govern",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "address",
+                "sinonimo": "address",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "target",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "channelize",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "steer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "handle",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "manoeuver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "direct",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "lead",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "drive",
+                "sinonimo": "drive",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "head",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "channelise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "guide",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "care",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "manage",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "killer's_kiss",
+              "*direcao",
+              "*stanley_kubrick"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "direcao": "-145",
+              "stanley_kubrick": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "barry_lyndon",
+              "*direcao",
+              "*stanley_kubrick"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "direcao": "-145",
+              "stanley_kubrick": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "paths_of_glory",
+              "*direcao",
+              "*stanley_kubrick"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "direcao": "-145",
+              "stanley_kubrick": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "the_killing",
+              "*direcao",
+              "*stanley_kubrick"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "direcao": "-145",
+              "stanley_kubrick": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "fear_and_desire",
+              "*direcao",
+              "*stanley_kubrick"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4,
+          "bind_control": {
+            "binds": {
+              "direcao": "-145",
+              "stanley_kubrick": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "eyes_wide_shut",
+              "*direcao",
+              "*stanley_kubrick"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "direcao": "-145",
+              "stanley_kubrick": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "laranja_mecanica_(filme)",
+              "*direcao",
+              "*stanley_kubrick"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6,
+          "bind_control": {
+            "binds": {
+              "direcao": "-145",
+              "stanley_kubrick": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "2001:_a_space_odyssey",
+              "*direcao",
+              "*stanley_kubrick"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7,
+          "bind_control": {
+            "binds": {
+              "direcao": "-145",
+              "stanley_kubrick": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "the_shining",
+              "*direcao",
+              "*stanley_kubrick"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8,
+          "bind_control": {
+            "binds": {
+              "direcao": "-145",
+              "stanley_kubrick": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "dr._strangelove_or:_how_i_learned_to_stop_worrying_and_love_the_bomb",
+              "*direcao",
+              "*stanley_kubrick"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9,
+          "bind_control": {
+            "binds": {
+              "direcao": "-145",
+              "stanley_kubrick": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "nascido_para_matar",
+              "*direcao",
+              "*stanley_kubrick"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10,
+          "bind_control": {
+            "binds": {
+              "direcao": "-145",
+              "stanley_kubrick": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "lolita_(filme_de_1962)",
+              "*direcao",
+              "*stanley_kubrick"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11,
+          "bind_control": {
+            "binds": {
+              "direcao": "-145",
+              "stanley_kubrick": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "spartacus_(filme)",
+              "*direcao",
+              "*stanley_kubrick"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12,
+          "bind_control": {
+            "binds": {
+              "direcao": "-145",
+              "stanley_kubrick": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "killer's_kiss",
+              "*direcao",
+              "*stanley_kubrick"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "direcao": "-145",
+              "stanley_kubrick": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "barry_lyndon",
+              "*direcao",
+              "*stanley_kubrick"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "direcao": "-145",
+              "stanley_kubrick": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "paths_of_glory",
+              "*direcao",
+              "*stanley_kubrick"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "direcao": "-145",
+              "stanley_kubrick": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "the_killing",
+              "*direcao",
+              "*stanley_kubrick"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "direcao": "-145",
+              "stanley_kubrick": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "fear_and_desire",
+              "*direcao",
+              "*stanley_kubrick"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4,
+          "bind_control": {
+            "binds": {
+              "direcao": "-145",
+              "stanley_kubrick": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "eyes_wide_shut",
+              "*direcao",
+              "*stanley_kubrick"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "direcao": "-145",
+              "stanley_kubrick": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "laranja_mecanica_(filme)",
+              "*direcao",
+              "*stanley_kubrick"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6,
+          "bind_control": {
+            "binds": {
+              "direcao": "-145",
+              "stanley_kubrick": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "2001:_a_space_odyssey",
+              "*direcao",
+              "*stanley_kubrick"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7,
+          "bind_control": {
+            "binds": {
+              "direcao": "-145",
+              "stanley_kubrick": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "the_shining",
+              "*direcao",
+              "*stanley_kubrick"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8,
+          "bind_control": {
+            "binds": {
+              "direcao": "-145",
+              "stanley_kubrick": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "dr._strangelove_or:_how_i_learned_to_stop_worrying_and_love_the_bomb",
+              "*direcao",
+              "*stanley_kubrick"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9,
+          "bind_control": {
+            "binds": {
+              "direcao": "-145",
+              "stanley_kubrick": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "nascido_para_matar",
+              "*direcao",
+              "*stanley_kubrick"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10,
+          "bind_control": {
+            "binds": {
+              "direcao": "-145",
+              "stanley_kubrick": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "lolita_(filme_de_1962)",
+              "*direcao",
+              "*stanley_kubrick"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11,
+          "bind_control": {
+            "binds": {
+              "direcao": "-145",
+              "stanley_kubrick": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "spartacus_(filme)",
+              "*direcao",
+              "*stanley_kubrick"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12,
+          "bind_control": {
+            "binds": {
+              "direcao": "-145",
+              "stanley_kubrick": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "killer's_kiss",
+              "*director",
+              "*stanley_kubrick"
+            ]
+          ],
+          "score": 12.632851,
+          "detail": {
+            "keywords": [
+              "dirigir",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 10.966184,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "direct",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "director",
+                  "score": 0.96618354
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "fear_and_desire",
+              "*director",
+              "*stanley_kubrick"
+            ]
+          ],
+          "score": 12.632851,
+          "detail": {
+            "keywords": [
+              "dirigir",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 10.966184,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "direct",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "director",
+                  "score": 0.96618354
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "barry_lyndon",
+              "*director",
+              "*stanley_kubrick"
+            ]
+          ],
+          "score": 12.632851,
+          "detail": {
+            "keywords": [
+              "dirigir",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 10.966184,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "direct",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "director",
+                  "score": 0.96618354
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "paths_of_glory",
+              "*director",
+              "*stanley_kubrick"
+            ]
+          ],
+          "score": 12.632851,
+          "detail": {
+            "keywords": [
+              "dirigir",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 10.966184,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "direct",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "director",
+                  "score": 0.96618354
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "the_killing",
+              "*director",
+              "*stanley_kubrick"
+            ]
+          ],
+          "score": 12.632851,
+          "detail": {
+            "keywords": [
+              "dirigir",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 10.966184,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "direct",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "director",
+                  "score": 0.96618354
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "spartacus_(filme)",
+              "*director",
+              "*stanley_kubrick"
+            ]
+          ],
+          "score": 12.632851,
+          "detail": {
+            "keywords": [
+              "dirigir",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 10.966184,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "direct",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "director",
+                  "score": 0.96618354
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "eyes_wide_shut",
+              "*director",
+              "*stanley_kubrick"
+            ]
+          ],
+          "score": 12.632851,
+          "detail": {
+            "keywords": [
+              "dirigir",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 10.966184,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "direct",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "director",
+                  "score": 0.96618354
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "laranja_mecanica_(filme)",
+              "*director",
+              "*stanley_kubrick"
+            ]
+          ],
+          "score": 12.632851,
+          "detail": {
+            "keywords": [
+              "dirigir",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 10.966184,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "direct",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "director",
+                  "score": 0.96618354
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "2001:_a_space_odyssey",
+              "*director",
+              "*stanley_kubrick"
+            ]
+          ],
+          "score": 12.632851,
+          "detail": {
+            "keywords": [
+              "dirigir",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 10.966184,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "direct",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "director",
+                  "score": 0.96618354
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "the_shining",
+              "*director",
+              "*stanley_kubrick"
+            ]
+          ],
+          "score": 12.632851,
+          "detail": {
+            "keywords": [
+              "dirigir",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 10.966184,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "direct",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "director",
+                  "score": 0.96618354
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "dr._strangelove_or:_how_i_learned_to_stop_worrying_and_love_the_bomb",
+              "*director",
+              "*stanley_kubrick"
+            ]
+          ],
+          "score": 12.632851,
+          "detail": {
+            "keywords": [
+              "dirigir",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 10.966184,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "direct",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "director",
+                  "score": 0.96618354
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "nascido_para_matar",
+              "*director",
+              "*stanley_kubrick"
+            ]
+          ],
+          "score": 12.632851,
+          "detail": {
+            "keywords": [
+              "dirigir",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 10.966184,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "direct",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "director",
+                  "score": 0.96618354
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "lolita_(filme_de_1962)",
+              "*director",
+              "*stanley_kubrick"
+            ]
+          ],
+          "score": 12.632851,
+          "detail": {
+            "keywords": [
+              "dirigir",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 10.966184,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "direct",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "director",
+                  "score": 0.96618354
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*stanley_kubrick",
+              "*birthplace",
+              "nova_iorque"
+            ]
+          ],
+          "score": 12.557852,
+          "detail": {
+            "keywords": [
+              "dirigir",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 10.891185,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "place",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "birthplace",
+                  "score": 0.8911845
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*stanley_kubrick",
+              "*birthplace",
+              "nova_iorque_(estado)"
+            ]
+          ],
+          "score": 12.557852,
+          "detail": {
+            "keywords": [
+              "dirigir",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 10.891185,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "place",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "birthplace",
+                  "score": 0.8911845
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*stanley_kubrick",
+              "*deathplace",
+              "st_albans"
+            ]
+          ],
+          "score": 12.557852,
+          "detail": {
+            "keywords": [
+              "dirigir",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 10.891185,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "place",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "deathplace",
+                  "score": 0.8911845
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*stanley_kubrick",
+              "*deathplace",
+              "inglaterra"
+            ]
+          ],
+          "score": 12.557852,
+          "detail": {
+            "keywords": [
+              "dirigir",
+              "stanley_kubrick"
+            ],
+            "score_detail": {
+              "m1": 10.891185,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "place",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "deathplace",
+                  "score": 0.8911845
+                },
+                "stanley_kubrick": {
+                  "keyword": {
+                    "termo": "stanley_kubrick",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "stanley_kubrick",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 943.6018466949463,
+      "l_sizes": [
+        10156
+      ],
+      "total_time": 7394.5863246917725
+    }
+  }
+]

@@ -1,0 +1,1967 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "Mostre",
+          "palavra_canonica": "mostrar",
+          "tags": [
+            "<fmc>",
+            "<*>",
+            "<mv>",
+            "PR",
+            "1/3S",
+            "SUBJ",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "Oi:pron-pers",
+          "palavra_original": "me",
+          "palavra_canonica": "eu",
+          "tags": [
+            "<refl>",
+            "M/F",
+            "1S",
+            "DAT"
+          ],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "livro",
+          "palavra_canonica": "livro",
+          "tags": [
+            "<sem-r>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "Od:spec",
+          "palavra_original": "que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<clb>",
+            "<clb-fs>",
+            "<rel>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Muhammad_Ali",
+          "palavra_canonica": "Muhammad_Ali",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "escreveu",
+          "palavra_canonica": "escrever",
+          "tags": [
+            "<vH>",
+            "<mv>",
+            "<np-close>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": ".",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "Mostre",
+          "palavra_canonica": "mostrar",
+          "tags": [
+            "<fmc>",
+            "<*>",
+            "<mv>",
+            "PR",
+            "1/3S",
+            "SUBJ",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "Oi:pron-pers",
+          "palavra_original": "me",
+          "palavra_canonica": "eu",
+          "tags": [
+            "<refl>",
+            "M/F",
+            "1S",
+            "DAT"
+          ],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "livro",
+          "palavra_canonica": "livro",
+          "tags": [
+            "<sem-r>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "phrase_book",
+                "sinonimo": "manual_idiomático",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "book",
+                "sinonimo": "álbum",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "11"
+              },
+              {
+                "synset": "volume",
+                "sinonimo": "livro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "tome",
+                "sinonimo": "volume",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "phrase_book",
+                "sinonimo": "livro_de_frases",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "book",
+                "sinonimo": "livros",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "phrase_book",
+                "sinonimo": "phrase_book",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "volume",
+                "sinonimo": "volume",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "tome",
+                "sinonimo": "tome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "book",
+                "sinonimo": "book",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "Od:spec",
+          "palavra_original": "que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<clb>",
+            "<clb-fs>",
+            "<rel>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Muhammad_Ali",
+          "palavra_canonica": "Muhammad_Ali",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 10,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "escreveu",
+          "palavra_canonica": "escrever",
+          "tags": [
+            "<vH>",
+            "<mv>",
+            "<np-close>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "spell",
+                "sinonimo": "soletrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "compose",
+                "sinonimo": "compor",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "redigir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "escrever",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "publish",
+                "sinonimo": "publicar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "spell",
+                "sinonimo": "spell",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "pen",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "drop_a_line",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "write",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "indite",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "compose",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "publish",
+                "sinonimo": "publish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ]
+          }
+        },
+        {
+          "id": 11,
+          "tag_inicial": ".",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "consulta",
+        "confianca": 0.72,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "livro",
+          "palavra_canonica": "livro",
+          "tags": [
+            "<sem-r>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "phrase_book",
+                "sinonimo": "manual_idiomático",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "book",
+                "sinonimo": "álbum",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "11"
+              },
+              {
+                "synset": "volume",
+                "sinonimo": "livro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "tome",
+                "sinonimo": "volume",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "phrase_book",
+                "sinonimo": "livro_de_frases",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "book",
+                "sinonimo": "livros",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "phrase_book",
+                "sinonimo": "phrase_book",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "volume",
+                "sinonimo": "volume",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "tome",
+                "sinonimo": "tome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "book",
+                "sinonimo": "book",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 9,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Muhammad_Ali",
+          "palavra_canonica": "Muhammad_Ali",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 10,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "escreveu",
+          "palavra_canonica": "escrever",
+          "tags": [
+            "<vH>",
+            "<mv>",
+            "<np-close>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "spell",
+                "sinonimo": "soletrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "compose",
+                "sinonimo": "compor",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "redigir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "escrever",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "publish",
+                "sinonimo": "publicar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "spell",
+                "sinonimo": "spell",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "pen",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "drop_a_line",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "write",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "indite",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "compose",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "publish",
+                "sinonimo": "publish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*muhammad_ali",
+              "wikipageusestemplate",
+              "*predefinicao:cite_book"
+            ]
+          ],
+          "score": 12.133961,
+          "detail": {
+            "keywords": [
+              "livro",
+              "muhammad_ali"
+            ],
+            "score_detail": {
+              "m1": 10.467294,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "livro": {
+                  "keyword": {
+                    "termo": "book",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "predefinicao:cite_book",
+                  "score": 0.46729413
+                },
+                "muhammad_ali": {
+                  "keyword": {
+                    "termo": "muhammad_ali",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "muhammad_ali",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "muhammad_ali": "-1",
+              "book": "-81"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*muhammad_ali",
+              "wikipageusestemplate",
+              "*predefinicao:cite_book"
+            ],
+            [
+              "*muhammad_ali",
+              "owl#sameas",
+              "q36107"
+            ]
+          ],
+          "score": 11.800627,
+          "detail": {
+            "keywords": [
+              "livro",
+              "muhammad_ali"
+            ],
+            "score_detail": {
+              "m1": 10.467294,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "livro": {
+                  "keyword": {
+                    "termo": "book",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "predefinicao:cite_book",
+                  "score": 0.46729413
+                },
+                "muhammad_ali": {
+                  "keyword": {
+                    "termo": "muhammad_ali",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "muhammad_ali",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*muhammad_ali",
+              "wikipageusestemplate",
+              "*predefinicao:cite_book"
+            ],
+            [
+              "*muhammad_ali",
+              "owl#sameas",
+              "*muhammad_ali"
+            ]
+          ],
+          "score": 11.800627,
+          "detail": {
+            "keywords": [
+              "livro",
+              "muhammad_ali"
+            ],
+            "score_detail": {
+              "m1": 10.467294,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "livro": {
+                  "keyword": {
+                    "termo": "book",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "predefinicao:cite_book",
+                  "score": 0.46729413
+                },
+                "muhammad_ali": {
+                  "keyword": {
+                    "termo": "muhammad_ali",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "muhammad_ali",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*muhammad_ali",
+              "wikipageusestemplate",
+              "*predefinicao:cite_book"
+            ],
+            [
+              "*muhammad_ali",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 11.800627,
+          "detail": {
+            "keywords": [
+              "livro",
+              "muhammad_ali"
+            ],
+            "score_detail": {
+              "m1": 10.467294,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "livro": {
+                  "keyword": {
+                    "termo": "book",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "predefinicao:cite_book",
+                  "score": 0.46729413
+                },
+                "muhammad_ali": {
+                  "keyword": {
+                    "termo": "muhammad_ali",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "muhammad_ali",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*muhammad_ali",
+              "wikipageusestemplate",
+              "*predefinicao:cite_book"
+            ],
+            [
+              "*muhammad_ali",
+              "owl#sameas",
+              "mohamed_ali"
+            ]
+          ],
+          "score": 11.800627,
+          "detail": {
+            "keywords": [
+              "livro",
+              "muhammad_ali"
+            ],
+            "score_detail": {
+              "m1": 10.467294,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "livro": {
+                  "keyword": {
+                    "termo": "book",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "predefinicao:cite_book",
+                  "score": 0.46729413
+                },
+                "muhammad_ali": {
+                  "keyword": {
+                    "termo": "muhammad_ali",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "muhammad_ali",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*muhammad_ali",
+              "wikipageusestemplate",
+              "*predefinicao:cite_book"
+            ],
+            [
+              "*muhammad_ali",
+              "owl#sameas",
+              6
+            ]
+          ],
+          "score": 11.800627,
+          "detail": {
+            "keywords": [
+              "livro",
+              "muhammad_ali"
+            ],
+            "score_detail": {
+              "m1": 10.467294,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "livro": {
+                  "keyword": {
+                    "termo": "book",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "predefinicao:cite_book",
+                  "score": 0.46729413
+                },
+                "muhammad_ali": {
+                  "keyword": {
+                    "termo": "muhammad_ali",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "muhammad_ali",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*muhammad_ali",
+              "wikipageusestemplate",
+              "*predefinicao:cite_book"
+            ],
+            [
+              "*muhammad_ali",
+              "owl#sameas",
+              "*muhammad_ali_(bokser)"
+            ]
+          ],
+          "score": 11.800627,
+          "detail": {
+            "keywords": [
+              "livro",
+              "muhammad_ali"
+            ],
+            "score_detail": {
+              "m1": 10.467294,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "livro": {
+                  "keyword": {
+                    "termo": "book",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "predefinicao:cite_book",
+                  "score": 0.46729413
+                },
+                "muhammad_ali": {
+                  "keyword": {
+                    "termo": "muhammad_ali",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "muhammad_ali",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*muhammad_ali",
+              "wikipageusestemplate",
+              "*predefinicao:cite_book"
+            ],
+            [
+              "*muhammad_ali",
+              "owl#sameas",
+              "__"
+            ]
+          ],
+          "score": 11.800627,
+          "detail": {
+            "keywords": [
+              "livro",
+              "muhammad_ali"
+            ],
+            "score_detail": {
+              "m1": 10.467294,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "livro": {
+                  "keyword": {
+                    "termo": "book",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "predefinicao:cite_book",
+                  "score": 0.46729413
+                },
+                "muhammad_ali": {
+                  "keyword": {
+                    "termo": "muhammad_ali",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "muhammad_ali",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*muhammad_ali",
+              "wikipageusestemplate",
+              "*predefinicao:cite_book"
+            ],
+            [
+              "*muhammad_ali",
+              "owl#sameas",
+              "mhmmd_li"
+            ]
+          ],
+          "score": 11.800627,
+          "detail": {
+            "keywords": [
+              "livro",
+              "muhammad_ali"
+            ],
+            "score_detail": {
+              "m1": 10.467294,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "livro": {
+                  "keyword": {
+                    "termo": "book",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "predefinicao:cite_book",
+                  "score": 0.46729413
+                },
+                "muhammad_ali": {
+                  "keyword": {
+                    "termo": "muhammad_ali",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "muhammad_ali",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*muhammad_ali",
+              "wikipageusestemplate",
+              "*predefinicao:cite_book"
+            ],
+            [
+              "*muhammad_ali",
+              "owl#sameas",
+              "__()"
+            ]
+          ],
+          "score": 11.800627,
+          "detail": {
+            "keywords": [
+              "livro",
+              "muhammad_ali"
+            ],
+            "score_detail": {
+              "m1": 10.467294,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "livro": {
+                  "keyword": {
+                    "termo": "book",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "predefinicao:cite_book",
+                  "score": 0.46729413
+                },
+                "muhammad_ali": {
+                  "keyword": {
+                    "termo": "muhammad_ali",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "muhammad_ali",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*muhammad_ali",
+              "owl#sameas",
+              "q36107"
+            ],
+            [
+              "*muhammad_ali",
+              "wikipageusestemplate",
+              "*predefinicao:cite_book"
+            ]
+          ],
+          "score": 11.800627,
+          "detail": {
+            "keywords": [
+              "muhammad_ali",
+              "livro"
+            ],
+            "score_detail": {
+              "m1": 10.467294,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "livro": {
+                  "keyword": {
+                    "termo": "book",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "predefinicao:cite_book",
+                  "score": 0.46729413
+                },
+                "muhammad_ali": {
+                  "keyword": {
+                    "termo": "muhammad_ali",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "muhammad_ali",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*muhammad_ali",
+              "owl#sameas",
+              "*muhammad_ali"
+            ],
+            [
+              "*muhammad_ali",
+              "wikipageusestemplate",
+              "*predefinicao:cite_book"
+            ]
+          ],
+          "score": 11.800627,
+          "detail": {
+            "keywords": [
+              "muhammad_ali",
+              "livro"
+            ],
+            "score_detail": {
+              "m1": 10.467294,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "livro": {
+                  "keyword": {
+                    "termo": "book",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "predefinicao:cite_book",
+                  "score": 0.46729413
+                },
+                "muhammad_ali": {
+                  "keyword": {
+                    "termo": "muhammad_ali",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "muhammad_ali",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*muhammad_ali",
+              "owl#sameas",
+              "_"
+            ],
+            [
+              "*muhammad_ali",
+              "wikipageusestemplate",
+              "*predefinicao:cite_book"
+            ]
+          ],
+          "score": 11.800627,
+          "detail": {
+            "keywords": [
+              "muhammad_ali",
+              "livro"
+            ],
+            "score_detail": {
+              "m1": 10.467294,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "livro": {
+                  "keyword": {
+                    "termo": "book",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "predefinicao:cite_book",
+                  "score": 0.46729413
+                },
+                "muhammad_ali": {
+                  "keyword": {
+                    "termo": "muhammad_ali",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "muhammad_ali",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*muhammad_ali",
+              "owl#sameas",
+              "mohamed_ali"
+            ],
+            [
+              "*muhammad_ali",
+              "wikipageusestemplate",
+              "*predefinicao:cite_book"
+            ]
+          ],
+          "score": 11.800627,
+          "detail": {
+            "keywords": [
+              "muhammad_ali",
+              "livro"
+            ],
+            "score_detail": {
+              "m1": 10.467294,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "livro": {
+                  "keyword": {
+                    "termo": "book",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "predefinicao:cite_book",
+                  "score": 0.46729413
+                },
+                "muhammad_ali": {
+                  "keyword": {
+                    "termo": "muhammad_ali",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "muhammad_ali",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*muhammad_ali",
+              "owl#sameas",
+              6
+            ],
+            [
+              "*muhammad_ali",
+              "wikipageusestemplate",
+              "*predefinicao:cite_book"
+            ]
+          ],
+          "score": 11.800627,
+          "detail": {
+            "keywords": [
+              "muhammad_ali",
+              "livro"
+            ],
+            "score_detail": {
+              "m1": 10.467294,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "livro": {
+                  "keyword": {
+                    "termo": "book",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "predefinicao:cite_book",
+                  "score": 0.46729413
+                },
+                "muhammad_ali": {
+                  "keyword": {
+                    "termo": "muhammad_ali",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "muhammad_ali",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*muhammad_ali",
+              "owl#sameas",
+              "*muhammad_ali_(bokser)"
+            ],
+            [
+              "*muhammad_ali",
+              "wikipageusestemplate",
+              "*predefinicao:cite_book"
+            ]
+          ],
+          "score": 11.800627,
+          "detail": {
+            "keywords": [
+              "muhammad_ali",
+              "livro"
+            ],
+            "score_detail": {
+              "m1": 10.467294,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "livro": {
+                  "keyword": {
+                    "termo": "book",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "predefinicao:cite_book",
+                  "score": 0.46729413
+                },
+                "muhammad_ali": {
+                  "keyword": {
+                    "termo": "muhammad_ali",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "muhammad_ali",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*muhammad_ali",
+              "owl#sameas",
+              "__"
+            ],
+            [
+              "*muhammad_ali",
+              "wikipageusestemplate",
+              "*predefinicao:cite_book"
+            ]
+          ],
+          "score": 11.800627,
+          "detail": {
+            "keywords": [
+              "muhammad_ali",
+              "livro"
+            ],
+            "score_detail": {
+              "m1": 10.467294,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "livro": {
+                  "keyword": {
+                    "termo": "book",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "predefinicao:cite_book",
+                  "score": 0.46729413
+                },
+                "muhammad_ali": {
+                  "keyword": {
+                    "termo": "muhammad_ali",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "muhammad_ali",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*muhammad_ali",
+              "owl#sameas",
+              "mhmmd_li"
+            ],
+            [
+              "*muhammad_ali",
+              "wikipageusestemplate",
+              "*predefinicao:cite_book"
+            ]
+          ],
+          "score": 11.800627,
+          "detail": {
+            "keywords": [
+              "muhammad_ali",
+              "livro"
+            ],
+            "score_detail": {
+              "m1": 10.467294,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "livro": {
+                  "keyword": {
+                    "termo": "book",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "predefinicao:cite_book",
+                  "score": 0.46729413
+                },
+                "muhammad_ali": {
+                  "keyword": {
+                    "termo": "muhammad_ali",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "muhammad_ali",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*muhammad_ali",
+              "owl#sameas",
+              "__()"
+            ],
+            [
+              "*muhammad_ali",
+              "wikipageusestemplate",
+              "*predefinicao:cite_book"
+            ]
+          ],
+          "score": 11.800627,
+          "detail": {
+            "keywords": [
+              "muhammad_ali",
+              "livro"
+            ],
+            "score_detail": {
+              "m1": 10.467294,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "livro": {
+                  "keyword": {
+                    "termo": "book",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "predefinicao:cite_book",
+                  "score": 0.46729413
+                },
+                "muhammad_ali": {
+                  "keyword": {
+                    "termo": "muhammad_ali",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "muhammad_ali",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*muhammad_ali",
+              "owl#sameas",
+              "q36107"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "muhammad_ali"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "muhammad_ali": {
+                  "keyword": {
+                    "termo": "muhammad_ali",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "muhammad_ali",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*muhammad_ali",
+              "owl#sameas",
+              "*muhammad_ali"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "muhammad_ali"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "muhammad_ali": {
+                  "keyword": {
+                    "termo": "muhammad_ali",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "muhammad_ali",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*muhammad_ali",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "muhammad_ali"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "muhammad_ali": {
+                  "keyword": {
+                    "termo": "muhammad_ali",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "muhammad_ali",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*muhammad_ali",
+              "owl#sameas",
+              "mohamed_ali"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "muhammad_ali"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "muhammad_ali": {
+                  "keyword": {
+                    "termo": "muhammad_ali",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "muhammad_ali",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*muhammad_ali",
+              "owl#sameas",
+              6
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "muhammad_ali"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "muhammad_ali": {
+                  "keyword": {
+                    "termo": "muhammad_ali",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "muhammad_ali",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*muhammad_ali",
+              "owl#sameas",
+              "*muhammad_ali_(bokser)"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "muhammad_ali"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "muhammad_ali": {
+                  "keyword": {
+                    "termo": "muhammad_ali",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "muhammad_ali",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*muhammad_ali",
+              "owl#sameas",
+              "__"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "muhammad_ali"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "muhammad_ali": {
+                  "keyword": {
+                    "termo": "muhammad_ali",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "muhammad_ali",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*muhammad_ali",
+              "owl#sameas",
+              "mhmmd_li"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "muhammad_ali"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "muhammad_ali": {
+                  "keyword": {
+                    "termo": "muhammad_ali",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "muhammad_ali",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*muhammad_ali",
+              "owl#sameas",
+              "__()"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "muhammad_ali"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "muhammad_ali": {
+                  "keyword": {
+                    "termo": "muhammad_ali",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "muhammad_ali",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*muhammad_ali",
+              "owl#sameas",
+              "*muhammad_ali_(boxador)"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "muhammad_ali"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "muhammad_ali": {
+                  "keyword": {
+                    "termo": "muhammad_ali",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "muhammad_ali",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*muhammad_ali",
+              "owl#sameas",
+              "muhammed_ali"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "muhammad_ali"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "muhammad_ali": {
+                  "keyword": {
+                    "termo": "muhammad_ali",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "muhammad_ali",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 1163.53178024292,
+      "l_sizes": [
+        31782,
+        90
+      ],
+      "total_time": 9828.813076019287
+    }
+  }
+]

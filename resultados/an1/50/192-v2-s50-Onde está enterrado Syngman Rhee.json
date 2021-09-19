@@ -1,0 +1,1706 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "As:adv",
+          "palavra_original": "Onde",
+          "palavra_canonica": "onde",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "está",
+          "palavra_canonica": "estar",
+          "tags": [
+            "<fmc>",
+            "<vK>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Cs:v-pcp",
+          "palavra_original": "enterrado",
+          "palavra_canonica": "enterrar",
+          "tags": [
+            "<n>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "Syngman_Rhee",
+          "palavra_canonica": "Syngman_Rhee",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<np-close>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 3,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "fA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "As:adv",
+          "palavra_original": "Onde",
+          "palavra_canonica": "onde",
+          "tags": [
+            "<clb>",
+            "<clb-fs>",
+            "<*>",
+            "<rel>",
+            "<ks>"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "está",
+          "palavra_canonica": "estar",
+          "tags": [
+            "<vK>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Cs:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:v-pcp",
+          "palavra_original": "enterrado",
+          "palavra_canonica": "enterrar",
+          "tags": [
+            "<n>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "bury",
+                "sinonimo": "enterrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "bury",
+                "sinonimo": "soterrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bury",
+                "sinonimo": "esconder",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bury",
+                "sinonimo": "sepultar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "bury",
+                "sinonimo": "inter",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "bury",
+                "sinonimo": "lay_to_rest",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "bury",
+                "sinonimo": "entomb",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "bury",
+                "sinonimo": "inhume",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "bury",
+                "sinonimo": "bury",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "Syngman_rhee",
+          "palavra_canonica": "Syngman_rhee",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "<np-close>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "arvore": "[ [ fA:fcl|1| [As:adv|2| Onde] [P:v-fin|3| está] [ Cs:np|4| [H:v-pcp|5| enterrado] [DN:prop|6| Syngman_rhee] ] ] ]",
+      "tipo": {
+        "tipo": "onde",
+        "confianca": 0.49,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [
+        [
+          {
+            "id": 3,
+            "tag_inicial": "P:v-fin",
+            "palavra_original": "está",
+            "palavra_canonica": "estar",
+            "tags": [
+              "<vK>",
+              "<mv>",
+              "PR",
+              "3S",
+              "IND",
+              "VFIN"
+            ],
+            "nivel": 1,
+            "sinonimos": null
+          },
+          {
+            "id": 5,
+            "tag_inicial": "H:v-pcp",
+            "palavra_original": "enterrado",
+            "palavra_canonica": "enterrar",
+            "tags": [
+              "<n>",
+              "M",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "bury",
+                  "sinonimo": "enterrar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "bury",
+                  "sinonimo": "soterrar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "bury",
+                  "sinonimo": "esconder",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "bury",
+                  "sinonimo": "sepultar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "bury",
+                  "sinonimo": "inter",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "bury",
+                  "sinonimo": "lay_to_rest",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "bury",
+                  "sinonimo": "entomb",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "bury",
+                  "sinonimo": "inhume",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "bury",
+                  "sinonimo": "bury",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          }
+        ]
+      ],
+      "termos_relevantes": [
+        {
+          "id": 5,
+          "tag_inicial": "H:v-pcp",
+          "palavra_original": "enterrado",
+          "palavra_canonica": "enterrar",
+          "tags": [
+            "<n>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "bury",
+                "sinonimo": "enterrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "bury",
+                "sinonimo": "soterrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bury",
+                "sinonimo": "esconder",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "bury",
+                "sinonimo": "sepultar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "bury",
+                "sinonimo": "inter",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "bury",
+                "sinonimo": "lay_to_rest",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "bury",
+                "sinonimo": "entomb",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "bury",
+                "sinonimo": "inhume",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "bury",
+                "sinonimo": "bury",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "Syngman_rhee",
+          "palavra_canonica": "Syngman_rhee",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "<np-close>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*syngman_rhee",
+              "owl#sameas",
+              "q171684"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "syngman_rhee"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "syngman_rhee": {
+                  "keyword": {
+                    "termo": "syngman_rhee",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "syngman_rhee",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "syngman_rhee": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*syngman_rhee",
+              "owl#sameas",
+              "*syngman_rhee"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "syngman_rhee"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "syngman_rhee": {
+                  "keyword": {
+                    "termo": "syngman_rhee",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "syngman_rhee",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*syngman_rhee",
+              "owl#sameas",
+              "__"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "syngman_rhee"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "syngman_rhee": {
+                  "keyword": {
+                    "termo": "syngman_rhee",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "syngman_rhee",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "syngman_rhee": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*syngman_rhee",
+              "owl#sameas",
+              "i_sung_man"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "syngman_rhee"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "syngman_rhee": {
+                  "keyword": {
+                    "termo": "syngman_rhee",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "syngman_rhee",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "syngman_rhee": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*syngman_rhee",
+              "owl#sameas",
+              "rhee_syng_man"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "syngman_rhee"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "syngman_rhee": {
+                  "keyword": {
+                    "termo": "syngman_rhee",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "syngman_rhee",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4,
+          "bind_control": {
+            "binds": {
+              "syngman_rhee": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*syngman_rhee",
+              "owl#sameas",
+              "ji_sung_man"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "syngman_rhee"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "syngman_rhee": {
+                  "keyword": {
+                    "termo": "syngman_rhee",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "syngman_rhee",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "syngman_rhee": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*syngman_rhee",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "syngman_rhee"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "syngman_rhee": {
+                  "keyword": {
+                    "termo": "syngman_rhee",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "syngman_rhee",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6,
+          "bind_control": {
+            "binds": {
+              "syngman_rhee": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*syngman_rhee",
+              "owl#sameas",
+              "singman_rhee"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "syngman_rhee"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "syngman_rhee": {
+                  "keyword": {
+                    "termo": "syngman_rhee",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "syngman_rhee",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7,
+          "bind_control": {
+            "binds": {
+              "syngman_rhee": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*syngman_rhee",
+              "owl#sameas",
+              "li_szin_man"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "syngman_rhee"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "syngman_rhee": {
+                  "keyword": {
+                    "termo": "syngman_rhee",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "syngman_rhee",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8,
+          "bind_control": {
+            "binds": {
+              "syngman_rhee": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*syngman_rhee",
+              "owl#sameas",
+              11
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "syngman_rhee"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "syngman_rhee": {
+                  "keyword": {
+                    "termo": "syngman_rhee",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "syngman_rhee",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9,
+          "bind_control": {
+            "binds": {
+              "syngman_rhee": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*syngman_rhee",
+              "owl#sameas",
+              "i_seungman"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "syngman_rhee"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "syngman_rhee": {
+                  "keyword": {
+                    "termo": "syngman_rhee",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "syngman_rhee",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10,
+          "bind_control": {
+            "binds": {
+              "syngman_rhee": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*syngman_rhee",
+              "owl#sameas",
+              "i_singmanas"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "syngman_rhee"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "syngman_rhee": {
+                  "keyword": {
+                    "termo": "syngman_rhee",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "syngman_rhee",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11,
+          "bind_control": {
+            "binds": {
+              "syngman_rhee": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*syngman_rhee",
+              "owl#sameas",
+              "i_sinmans"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "syngman_rhee"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "syngman_rhee": {
+                  "keyword": {
+                    "termo": "syngman_rhee",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "syngman_rhee",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12,
+          "bind_control": {
+            "binds": {
+              "syngman_rhee": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*syngman_rhee",
+              "owl#sameas",
+              "rhee_syngman"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "syngman_rhee"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "syngman_rhee": {
+                  "keyword": {
+                    "termo": "syngman_rhee",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "syngman_rhee",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13,
+          "bind_control": {
+            "binds": {
+              "syngman_rhee": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*syngman_rhee",
+              "owl#sameas",
+              "li_syng_man"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "syngman_rhee"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "syngman_rhee": {
+                  "keyword": {
+                    "termo": "syngman_rhee",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "syngman_rhee",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14,
+          "bind_control": {
+            "binds": {
+              "syngman_rhee": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*syngman_rhee",
+              "owl#sameas",
+              "ly_thua_van"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "syngman_rhee"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "syngman_rhee": {
+                  "keyword": {
+                    "termo": "syngman_rhee",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "syngman_rhee",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15,
+          "bind_control": {
+            "binds": {
+              "syngman_rhee": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*syngman_rhee",
+              "nome",
+              "syngman rhee"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "syngman_rhee"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "syngman_rhee": {
+                  "keyword": {
+                    "termo": "syngman_rhee",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "syngman_rhee",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16,
+          "bind_control": {
+            "binds": {
+              "syngman_rhee": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*syngman_rhee",
+              "nome",
+              11
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "syngman_rhee"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "syngman_rhee": {
+                  "keyword": {
+                    "termo": "syngman_rhee",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "syngman_rhee",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17,
+          "bind_control": {
+            "binds": {
+              "syngman_rhee": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*syngman_rhee",
+              "legenda",
+              "syngman rhee em 1956"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "syngman_rhee"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "syngman_rhee": {
+                  "keyword": {
+                    "termo": "syngman_rhee",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "syngman_rhee",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18,
+          "bind_control": {
+            "binds": {
+              "syngman_rhee": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*syngman_rhee",
+              "pais",
+              "coreia do sul"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "syngman_rhee"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "syngman_rhee": {
+                  "keyword": {
+                    "termo": "syngman_rhee",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "syngman_rhee",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19,
+          "bind_control": {
+            "binds": {
+              "syngman_rhee": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*syngman_rhee",
+              "ordempresidente",
+              "1"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "syngman_rhee"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "syngman_rhee": {
+                  "keyword": {
+                    "termo": "syngman_rhee",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "syngman_rhee",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20,
+          "bind_control": {
+            "binds": {
+              "syngman_rhee": "-1"
+            },
+            "best_bind": {
+              "score": 0.17351801,
+              "resource_id": 24,
+              "tr": "enterrar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*syngman_rhee",
+              "vicepresidente",
+              "yi_si_yeong"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "syngman_rhee"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "syngman_rhee": {
+                  "keyword": {
+                    "termo": "syngman_rhee",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "syngman_rhee",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21,
+          "bind_control": {
+            "binds": {
+              "syngman_rhee": "-1"
+            },
+            "best_bind": {
+              "score": 0.226207775,
+              "resource_id": 26,
+              "tr": "enterrar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*syngman_rhee",
+              "vicepresidente",
+              "kim_seong_su"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "syngman_rhee"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "syngman_rhee": {
+                  "keyword": {
+                    "termo": "syngman_rhee",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "syngman_rhee",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22,
+          "bind_control": {
+            "binds": {
+              "syngman_rhee": "-1"
+            },
+            "best_bind": {
+              "score": 0.226207775,
+              "resource_id": 26,
+              "tr": "enterrar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*syngman_rhee",
+              "vicepresidente",
+              "hahm tae-yong"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "syngman_rhee"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "syngman_rhee": {
+                  "keyword": {
+                    "termo": "syngman_rhee",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "syngman_rhee",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23,
+          "bind_control": {
+            "binds": {
+              "syngman_rhee": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*syngman_rhee",
+              "vicepresidente",
+              "chang_myon"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "syngman_rhee"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "syngman_rhee": {
+                  "keyword": {
+                    "termo": "syngman_rhee",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "syngman_rhee",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24,
+          "bind_control": {
+            "binds": {
+              "syngman_rhee": "-1"
+            },
+            "best_bind": {
+              "score": 0.226207775,
+              "resource_id": 26,
+              "tr": "enterrar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*syngman_rhee",
+              "vicepresidente",
+              "yun_bo_seon"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "syngman_rhee"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "syngman_rhee": {
+                  "keyword": {
+                    "termo": "syngman_rhee",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "syngman_rhee",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25,
+          "bind_control": {
+            "binds": {
+              "syngman_rhee": "-1"
+            },
+            "best_bind": {
+              "score": 0.226207775,
+              "resource_id": 26,
+              "tr": "enterrar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*syngman_rhee",
+              "depois",
+              "yun_bo_seon"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "syngman_rhee"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "syngman_rhee": {
+                  "keyword": {
+                    "termo": "syngman_rhee",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "syngman_rhee",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26,
+          "bind_control": {
+            "binds": {
+              "syngman_rhee": "-1"
+            },
+            "best_bind": {
+              "score": 0.2618619,
+              "resource_id": 32,
+              "tr": "enterrar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*syngman_rhee",
+              "titulo",
+              "presidente do governo provisorio da republica da coreia em exilio"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "syngman_rhee"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "syngman_rhee": {
+                  "keyword": {
+                    "termo": "syngman_rhee",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "syngman_rhee",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27,
+          "bind_control": {
+            "binds": {
+              "syngman_rhee": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*syngman_rhee",
+              "primeiroministrotitulo",
+              "yi_donghwi"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "syngman_rhee"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "syngman_rhee": {
+                  "keyword": {
+                    "termo": "syngman_rhee",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "syngman_rhee",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28,
+          "bind_control": {
+            "binds": {
+              "syngman_rhee": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*syngman_rhee",
+              "primeiroministrotitulo",
+              "yi_dongnyeong"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "syngman_rhee"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "syngman_rhee": {
+                  "keyword": {
+                    "termo": "syngman_rhee",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "syngman_rhee",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29,
+          "bind_control": {
+            "binds": {
+              "syngman_rhee": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "ranking_time": 804342200,
+      "total_time": 8814205700
+    }
+  }
+]

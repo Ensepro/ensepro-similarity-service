@@ -1,0 +1,2157 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "Cs:pron-int",
+          "palavra_original": "Qual",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "foi",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:adj",
+          "palavra_original": "último",
+          "palavra_canonica": "último",
+          "tags": [
+            "<NUM-ord>",
+            "<jh>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "H:n",
+          "palavra_original": "filme",
+          "palavra_canonica": "filme",
+          "tags": [
+            "<sem-w>",
+            "<cc>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Alec_Guinness",
+          "palavra_canonica": "Alec_Guinness",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "Cs:pron-int",
+          "palavra_original": "Qual",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "foi",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:adj",
+          "palavra_original": "último",
+          "palavra_canonica": "último",
+          "tags": [
+            "<NUM-ord>",
+            "<jh>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "H:n",
+          "palavra_original": "filme",
+          "palavra_canonica": "filme",
+          "tags": [
+            "<sem-w>",
+            "<cc>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "film",
+                "sinonimo": "Filme_Fotográfico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "produção",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "Filme_fotografico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "filme",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "cinema",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "filme_fotográfico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "película",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "filmes",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "movie",
+                "sinonimo": "motion-picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "movie",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "motion_picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "flick",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "pic",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "photographic_film",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "film",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "moving_picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "moving-picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 8,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Alec_Guinness",
+          "palavra_canonica": "Alec_Guinness",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 11,
+          "tag_inicial": "?",
+          "palavra_original": " ",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "[ [ QUE:fcl|1| [Cs:pron-int|2| Qual] [P:v-fin|3| foi] [ S:np|4| [DN:art|5| o] [DN:adj|6| último] [H:n|7| filme] [ DN:pp|8| [H:prp|9| de] [DP:prop|10| Alec_Guinness] ] ] [?|11|  ] ] ]",
+      "tipo": {
+        "tipo": "qual",
+        "confianca": 0.9,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 7,
+          "tag_inicial": "H:n",
+          "palavra_original": "filme",
+          "palavra_canonica": "filme",
+          "tags": [
+            "<sem-w>",
+            "<cc>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "film",
+                "sinonimo": "Filme_Fotográfico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "produção",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "Filme_fotografico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "filme",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "cinema",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "filme_fotográfico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "película",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "filmes",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "movie",
+                "sinonimo": "motion-picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "movie",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "motion_picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "flick",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "pic",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "photographic_film",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "film",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "moving_picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "moving-picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Alec_Guinness",
+          "palavra_canonica": "Alec_Guinness",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 7,
+            "tag_inicial": "H:n",
+            "palavra_original": "filme",
+            "palavra_canonica": "filme",
+            "tags": [
+              "<sem-w>",
+              "<cc>",
+              "M",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "film",
+                  "sinonimo": "Filme_Fotográfico",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "produção",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "film",
+                  "sinonimo": "Filme_fotografico",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "film",
+                  "sinonimo": "filme",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "cinema",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "film",
+                  "sinonimo": "filme_fotográfico",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "película",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "filmes",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "movie",
+                  "sinonimo": "motion-picture_show",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "movie",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "motion_picture",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "flick",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "pic",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "film",
+                  "sinonimo": "photographic_film",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "picture_show",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "film",
+                  "sinonimo": "film",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "moving_picture",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "moving-picture_show",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "picture",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 6,
+            "tag_inicial": "DN:adj",
+            "palavra_original": "último",
+            "palavra_canonica": "último",
+            "tags": [
+              "<NUM-ord>",
+              "<jh>",
+              "M",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": null
+          }
+        },
+        {
+          "nome": {
+            "id": 7,
+            "tag_inicial": "H:n",
+            "palavra_original": "filme",
+            "palavra_canonica": "filme",
+            "tags": [
+              "<sem-w>",
+              "<cc>",
+              "M",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "film",
+                  "sinonimo": "Filme_Fotográfico",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "produção",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "film",
+                  "sinonimo": "Filme_fotografico",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "film",
+                  "sinonimo": "filme",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "cinema",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "film",
+                  "sinonimo": "filme_fotográfico",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "película",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "filmes",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "movie",
+                  "sinonimo": "motion-picture_show",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "movie",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "motion_picture",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "flick",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "pic",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "film",
+                  "sinonimo": "photographic_film",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "picture_show",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "film",
+                  "sinonimo": "film",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "moving_picture",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "moving-picture_show",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "picture",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 10,
+            "tag_inicial": "DP:prop",
+            "palavra_original": "Alec_Guinness",
+            "palavra_canonica": "Alec_Guinness",
+            "tags": [
+              "<hum>",
+              "<*>",
+              "M",
+              "S"
+            ],
+            "nivel": 3,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*kafka_(filme)",
+              "starring",
+              "*alec_guinness"
+            ]
+          ],
+          "score": 13.29438,
+          "detail": {
+            "keywords": [
+              "alec_guinness",
+              "filme"
+            ],
+            "score_detail": {
+              "m1": 11.627713,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "alec_guinness": {
+                  "keyword": {
+                    "termo": "alec_guinness",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "alec_guinness",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "kafka_(filme)",
+                  "score": 1.6277131
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "filme": "-144",
+              "alec_guinness": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*kafka_(filme)",
+              "elenco",
+              "*alec_guinness"
+            ]
+          ],
+          "score": 13.29438,
+          "detail": {
+            "keywords": [
+              "alec_guinness",
+              "filme"
+            ],
+            "score_detail": {
+              "m1": 11.627713,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "alec_guinness": {
+                  "keyword": {
+                    "termo": "alec_guinness",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "alec_guinness",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "kafka_(filme)",
+                  "score": 1.6277131
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "filme": "-144",
+              "alec_guinness": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*cromwell_(filme)",
+              "starring",
+              "*alec_guinness"
+            ]
+          ],
+          "score": 13.125857,
+          "detail": {
+            "keywords": [
+              "alec_guinness",
+              "filme"
+            ],
+            "score_detail": {
+              "m1": 11.45919,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "alec_guinness": {
+                  "keyword": {
+                    "termo": "alec_guinness",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "alec_guinness",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cromwell_(filme)",
+                  "score": 1.4591899
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "filme": "-152",
+              "alec_guinness": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*cromwell_(filme)",
+              "elenco",
+              "*alec_guinness"
+            ]
+          ],
+          "score": 13.125857,
+          "detail": {
+            "keywords": [
+              "alec_guinness",
+              "filme"
+            ],
+            "score_detail": {
+              "m1": 11.45919,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "alec_guinness": {
+                  "keyword": {
+                    "termo": "alec_guinness",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "alec_guinness",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cromwell_(filme)",
+                  "score": 1.4591899
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "filme": "-152",
+              "alec_guinness": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*star_wars_(filme)",
+              "elenco",
+              "*alec_guinness"
+            ]
+          ],
+          "score": 13.067535,
+          "detail": {
+            "keywords": [
+              "alec_guinness",
+              "filme"
+            ],
+            "score_detail": {
+              "m1": 11.400868,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "alec_guinness": {
+                  "keyword": {
+                    "termo": "alec_guinness",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "alec_guinness",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "star_wars_(filme)",
+                  "score": 1.4008684
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4,
+          "bind_control": {
+            "binds": {
+              "filme": "-137",
+              "alec_guinness": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*star_wars_(filme)",
+              "starring",
+              "*alec_guinness"
+            ]
+          ],
+          "score": 13.067535,
+          "detail": {
+            "keywords": [
+              "alec_guinness",
+              "filme"
+            ],
+            "score_detail": {
+              "m1": 11.400868,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "alec_guinness": {
+                  "keyword": {
+                    "termo": "alec_guinness",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "alec_guinness",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "star_wars_(filme)",
+                  "score": 1.4008684
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "filme": "-137",
+              "alec_guinness": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*our_man_in_havana_(filme)",
+              "elenco",
+              "*alec_guinness"
+            ]
+          ],
+          "score": 12.59885,
+          "detail": {
+            "keywords": [
+              "alec_guinness",
+              "filme"
+            ],
+            "score_detail": {
+              "m1": 10.932183,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "alec_guinness": {
+                  "keyword": {
+                    "termo": "alec_guinness",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "alec_guinness",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "our_man_in_havana_(filme)",
+                  "score": 0.9321834
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6,
+          "bind_control": {
+            "binds": {
+              "filme": "-139",
+              "alec_guinness": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*our_man_in_havana_(filme)",
+              "starring",
+              "*alec_guinness"
+            ]
+          ],
+          "score": 12.59885,
+          "detail": {
+            "keywords": [
+              "alec_guinness",
+              "filme"
+            ],
+            "score_detail": {
+              "m1": 10.932183,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "alec_guinness": {
+                  "keyword": {
+                    "termo": "alec_guinness",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "alec_guinness",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "our_man_in_havana_(filme)",
+                  "score": 0.9321834
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7,
+          "bind_control": {
+            "binds": {
+              "filme": "-139",
+              "alec_guinness": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lawrence_da_arabia_(filme)",
+              "starring",
+              "*alec_guinness"
+            ]
+          ],
+          "score": 12.54384,
+          "detail": {
+            "keywords": [
+              "alec_guinness",
+              "filme"
+            ],
+            "score_detail": {
+              "m1": 10.877173,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "alec_guinness": {
+                  "keyword": {
+                    "termo": "alec_guinness",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "alec_guinness",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lawrence_da_arabia_(filme)",
+                  "score": 0.8771735
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8,
+          "bind_control": {
+            "binds": {
+              "filme": "-153",
+              "alec_guinness": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lawrence_da_arabia_(filme)",
+              "elenco",
+              "*alec_guinness"
+            ]
+          ],
+          "score": 12.54384,
+          "detail": {
+            "keywords": [
+              "alec_guinness",
+              "filme"
+            ],
+            "score_detail": {
+              "m1": 10.877173,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "alec_guinness": {
+                  "keyword": {
+                    "termo": "alec_guinness",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "alec_guinness",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lawrence_da_arabia_(filme)",
+                  "score": 0.8771735
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9,
+          "bind_control": {
+            "binds": {
+              "filme": "-153",
+              "alec_guinness": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*alec_guinness",
+              "*depiction",
+              "*sir_alec_guinness_allan_warren.jpg"
+            ]
+          ],
+          "score": 12.462093,
+          "detail": {
+            "keywords": [
+              "alec_guinness",
+              "filme"
+            ],
+            "score_detail": {
+              "m1": 10.795426,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "alec_guinness": {
+                  "keyword": {
+                    "termo": "alec_guinness",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "alec_guinness",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "pic",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "depiction",
+                  "score": 0.7954266
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*alec_guinness",
+              "wikipageusestemplate",
+              "*predefinicao:esboco_ator_cinema"
+            ]
+          ],
+          "score": 12.045582,
+          "detail": {
+            "keywords": [
+              "alec_guinness",
+              "filme"
+            ],
+            "score_detail": {
+              "m1": 10.378915,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "alec_guinness": {
+                  "keyword": {
+                    "termo": "alec_guinness",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "alec_guinness",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "cinema",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "predefinicao:esboco_ator_cinema",
+                  "score": 0.3789144
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*alec_guinness",
+              "subject",
+              "*categoria:bafta_de_melhor_ator_em_cinema"
+            ]
+          ],
+          "score": 11.863081,
+          "detail": {
+            "keywords": [
+              "alec_guinness",
+              "filme"
+            ],
+            "score_detail": {
+              "m1": 10.196414,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "alec_guinness": {
+                  "keyword": {
+                    "termo": "alec_guinness",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "alec_guinness",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "cinema",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "categoria:bafta_de_melhor_ator_em_cinema",
+                  "score": 0.1964142
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*alec_guinness",
+              "titulo",
+              "*lista_de_filmes_premiados_com_o_oscar_de_melhor_ator"
+            ]
+          ],
+          "score": 11.775129,
+          "detail": {
+            "keywords": [
+              "alec_guinness",
+              "filme"
+            ],
+            "score_detail": {
+              "m1": 10.108462,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "alec_guinness": {
+                  "keyword": {
+                    "termo": "alec_guinness",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "alec_guinness",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lista_de_filmes_premiados_com_o_oscar_de_melhor_ator",
+                  "score": 0.10846272
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*alec_guinness",
+              "subject",
+              "*categoria:globo_de_ouro_de_melhor_ator_em_filme_de_drama"
+            ]
+          ],
+          "score": 11.741781,
+          "detail": {
+            "keywords": [
+              "alec_guinness",
+              "filme"
+            ],
+            "score_detail": {
+              "m1": 10.075114,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "alec_guinness": {
+                  "keyword": {
+                    "termo": "alec_guinness",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "alec_guinness",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "categoria:globo_de_ouro_de_melhor_ator_em_filme_de_drama",
+                  "score": 0.0751145
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*alec_guinness",
+              "abstract",
+              "*alec guinness, ch cbe (londres, 2 de abril de 1914  west sussex, 5 de agosto de 2000) foi um ator britanico nascido na inglaterra. recebeu o titulo de sir em reconhecimento pela sua atuacao no cinema. foi indicado ao oscar de melhor ator em 1953 pelo filme \\\"o misterio da torre\\\" e em 1957, tendo vencido pelo seu papel em a ponte do rio kwai. foi tambem indicado ao oscar de melhor ator (coadjuvante/secundario) em 1978, por star wars e 1989 por \\\"little dorrit\\\". em 1980 recebeu um \\\"oscar honorario\\\" em reconhecimento pela suas memoraveis atuacoes nas telas de cinema. em 1959 foi indicado ao oscar pelo roteiro do filme \\\"the horse's mouth\\\", uma adaptacao de romance de joyce cary. foi tambem premiado no bafta, no globo de ouro, no festival de berlim e no festival de veneza, entre inumeros outros premios e indicacoes recebidas ao longo de sua carreira. tem uma estrela na calcada da fama, em 1551 vine street."
+            ]
+          ],
+          "score": 11.666667,
+          "detail": {
+            "keywords": [
+              "alec_guinness",
+              "filme"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "alec_guinness": {
+                  "keyword": {
+                    "termo": "alec_guinness",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "alec_guinness",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "alec guinness, ch cbe (londres, 2 de abril de 1914  west sussex, 5 de agosto de 2000) foi um ator britanico nascido na inglaterra. recebeu o titulo de sir em reconhecimento pela sua atuacao no cinema. foi indicado ao oscar de melhor ator em 1953 pelo filme \\\"o misterio da torre\\\" e em 1957, tendo vencido pelo seu papel em a ponte do rio kwai. foi tambem indicado ao oscar de melhor ator (coadjuvante/secundario) em 1978, por star wars e 1989 por \\\"little dorrit\\\". em 1980 recebeu um \\\"oscar honorario\\\" em reconhecimento pela suas memoraveis atuacoes nas telas de cinema. em 1959 foi indicado ao oscar pelo roteiro do filme \\\"the horse's mouth\\\", uma adaptacao de romance de joyce cary. foi tambem premiado no bafta, no globo de ouro, no festival de berlim e no festival de veneza, entre inumeros outros premios e indicacoes recebidas ao longo de sua carreira. tem uma estrela na calcada da fama, em 1551 vine street.",
+                  "score": 1.3356248e-37
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*alec_guinness",
+              "owl#sameas",
+              "q103894"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "alec_guinness"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "alec_guinness": {
+                  "keyword": {
+                    "termo": "alec_guinness",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "alec_guinness",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*alec_guinness",
+              "owl#sameas",
+              "*alec_guinness"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "alec_guinness"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "alec_guinness": {
+                  "keyword": {
+                    "termo": "alec_guinness",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "alec_guinness",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*alec_guinness",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "alec_guinness"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "alec_guinness": {
+                  "keyword": {
+                    "termo": "alec_guinness",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "alec_guinness",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*alec_guinness",
+              "owl#sameas",
+              5
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "alec_guinness"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "alec_guinness": {
+                  "keyword": {
+                    "termo": "alec_guinness",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "alec_guinness",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*alec_guinness",
+              "owl#sameas",
+              "*category:alec_guinness"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "alec_guinness"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "alec_guinness": {
+                  "keyword": {
+                    "termo": "alec_guinness",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "alec_guinness",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*alec_guinness",
+              "owl#sameas",
+              "alexander_guinness"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "alec_guinness"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "alec_guinness": {
+                  "keyword": {
+                    "termo": "alec_guinness",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "alec_guinness",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*alec_guinness",
+              "owl#sameas",
+              "aleks_giness"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "alec_guinness"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "alec_guinness": {
+                  "keyword": {
+                    "termo": "alec_guinness",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "alec_guinness",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*alec_guinness",
+              "owl#sameas",
+              ",_"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "alec_guinness"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "alec_guinness": {
+                  "keyword": {
+                    "termo": "alec_guinness",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "alec_guinness",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*alec_guinness",
+              "imagem",
+              "sir alec guinness allan warren.jpg"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "alec_guinness"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "alec_guinness": {
+                  "keyword": {
+                    "termo": "alec_guinness",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "alec_guinness",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*alec_guinness",
+              "conjuge",
+              "merula salaman"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "alec_guinness"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "alec_guinness": {
+                  "keyword": {
+                    "termo": "alec_guinness",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "alec_guinness",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*alec_guinness",
+              "anos",
+              "1957"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "alec_guinness"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "alec_guinness": {
+                  "keyword": {
+                    "termo": "alec_guinness",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "alec_guinness",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*alec_guinness",
+              "antes",
+              "yul_brynner"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "alec_guinness"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "alec_guinness": {
+                  "keyword": {
+                    "termo": "alec_guinness",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "alec_guinness",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*alec_guinness",
+              "depois",
+              "david_niven"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "alec_guinness"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "alec_guinness": {
+                  "keyword": {
+                    "termo": "alec_guinness",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "alec_guinness",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*alec_guinness",
+              "thumbnail",
+              "*sir_alec_guinness_allan_warren.jpg?width=300"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "alec_guinness"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "alec_guinness": {
+                  "keyword": {
+                    "termo": "alec_guinness",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "alec_guinness",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 996.1004257202148,
+      "l_sizes": [
+        14201
+      ],
+      "total_time": 8172.489166259766
+    }
+  }
+]

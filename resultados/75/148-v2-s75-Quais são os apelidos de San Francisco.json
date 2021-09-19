@@ -1,0 +1,1963 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "Cs:pron-int",
+          "palavra_original": "Quais",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "M/F",
+            "P"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "são",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3P",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "os",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "apelidos",
+          "palavra_canonica": "apelido",
+          "tags": [
+            "<ac-cat>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "San_Francisco",
+          "palavra_canonica": "San_Francisco",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "Cs:pron-int",
+          "palavra_original": "Quais",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "M/F",
+            "P"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "são",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3P",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "os",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "apelidos",
+          "palavra_canonica": "apelido",
+          "tags": [
+            "<ac-cat>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "alias",
+                "sinonimo": "pseudônimo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "first_name",
+                "sinonimo": "primeiro_nome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "nickname",
+                "sinonimo": "apelido",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "surname",
+                "sinonimo": "nome_de_família",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "alias",
+                "sinonimo": "nome_falso",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "alias",
+                "sinonimo": "alias",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "first_name",
+                "sinonimo": "nome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "alias",
+                "sinonimo": "pseudónimo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "first_name",
+                "sinonimo": "antenome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "first_name",
+                "sinonimo": "Nome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "nickname",
+                "sinonimo": "alcunha",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "first_name",
+                "sinonimo": "prenome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "first_name",
+                "sinonimo": "nome_de_batismo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "surname",
+                "sinonimo": "cognome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "surname",
+                "sinonimo": "sobrenome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "surname",
+                "sinonimo": "último_nome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "first_name",
+                "sinonimo": "nome_próprio",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "nickname",
+                "sinonimo": "nickname",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "nickname",
+                "sinonimo": "cognomen",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "alias",
+                "sinonimo": "false_name",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "nickname",
+                "sinonimo": "soubriquet",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "alias",
+                "sinonimo": "alias",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "surname",
+                "sinonimo": "last_name",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "surname",
+                "sinonimo": "family_name",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "first_name",
+                "sinonimo": "given_name",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "first_name",
+                "sinonimo": "first_name",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "nickname",
+                "sinonimo": "byname",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "nickname",
+                "sinonimo": "sobriquet",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "first_name",
+                "sinonimo": "forename",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "alias",
+                "sinonimo": "assumed_name",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "nickname",
+                "sinonimo": "moniker",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "surname",
+                "sinonimo": "surname",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "São_francisco_califórnia",
+          "palavra_canonica": "São_francisco_califórnia",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 10,
+          "tag_inicial": "?",
+          "palavra_original": " ",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "[ [ QUE:fcl|1| [Cs:pron-int|2| Quais] [P:v-fin|3| são] [ S:np|4| [DN:art|5| os] [H:n|6| apelidos] [ DN:pp|7| [H:prp|8| de] [DP:prop|9| São_francisco_califórnia] ] ] [?|10|  ] ] ]",
+      "tipo": {
+        "tipo": "qual",
+        "confianca": 0.9,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "apelidos",
+          "palavra_canonica": "apelido",
+          "tags": [
+            "<ac-cat>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "alias",
+                "sinonimo": "pseudônimo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "first_name",
+                "sinonimo": "primeiro_nome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "nickname",
+                "sinonimo": "apelido",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "surname",
+                "sinonimo": "nome_de_família",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "alias",
+                "sinonimo": "nome_falso",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "alias",
+                "sinonimo": "alias",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "first_name",
+                "sinonimo": "nome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "alias",
+                "sinonimo": "pseudónimo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "first_name",
+                "sinonimo": "antenome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "first_name",
+                "sinonimo": "Nome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "nickname",
+                "sinonimo": "alcunha",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "first_name",
+                "sinonimo": "prenome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "first_name",
+                "sinonimo": "nome_de_batismo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "surname",
+                "sinonimo": "cognome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "surname",
+                "sinonimo": "sobrenome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "surname",
+                "sinonimo": "último_nome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "first_name",
+                "sinonimo": "nome_próprio",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "nickname",
+                "sinonimo": "nickname",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "nickname",
+                "sinonimo": "cognomen",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "alias",
+                "sinonimo": "false_name",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "nickname",
+                "sinonimo": "soubriquet",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "alias",
+                "sinonimo": "alias",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "surname",
+                "sinonimo": "last_name",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "surname",
+                "sinonimo": "family_name",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "first_name",
+                "sinonimo": "given_name",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "first_name",
+                "sinonimo": "first_name",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "nickname",
+                "sinonimo": "byname",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "nickname",
+                "sinonimo": "sobriquet",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "first_name",
+                "sinonimo": "forename",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "alias",
+                "sinonimo": "assumed_name",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "nickname",
+                "sinonimo": "moniker",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "surname",
+                "sinonimo": "surname",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "São_francisco_califórnia",
+          "palavra_canonica": "São_francisco_califórnia",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 6,
+            "tag_inicial": "H:n",
+            "palavra_original": "apelidos",
+            "palavra_canonica": "apelido",
+            "tags": [
+              "<ac-cat>",
+              "M",
+              "P"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "alias",
+                  "sinonimo": "pseudônimo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "first_name",
+                  "sinonimo": "primeiro_nome",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "nickname",
+                  "sinonimo": "apelido",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "surname",
+                  "sinonimo": "nome_de_família",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "alias",
+                  "sinonimo": "nome_falso",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "alias",
+                  "sinonimo": "alias",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "first_name",
+                  "sinonimo": "nome",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "alias",
+                  "sinonimo": "pseudónimo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "first_name",
+                  "sinonimo": "antenome",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "first_name",
+                  "sinonimo": "Nome",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "nickname",
+                  "sinonimo": "alcunha",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "first_name",
+                  "sinonimo": "prenome",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "first_name",
+                  "sinonimo": "nome_de_batismo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "surname",
+                  "sinonimo": "cognome",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "surname",
+                  "sinonimo": "sobrenome",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "surname",
+                  "sinonimo": "último_nome",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "first_name",
+                  "sinonimo": "nome_próprio",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "nickname",
+                  "sinonimo": "nickname",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "nickname",
+                  "sinonimo": "cognomen",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "alias",
+                  "sinonimo": "false_name",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "nickname",
+                  "sinonimo": "soubriquet",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "alias",
+                  "sinonimo": "alias",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "surname",
+                  "sinonimo": "last_name",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "surname",
+                  "sinonimo": "family_name",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "first_name",
+                  "sinonimo": "given_name",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "first_name",
+                  "sinonimo": "first_name",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "nickname",
+                  "sinonimo": "byname",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "nickname",
+                  "sinonimo": "sobriquet",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "first_name",
+                  "sinonimo": "forename",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "alias",
+                  "sinonimo": "assumed_name",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "nickname",
+                  "sinonimo": "moniker",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "surname",
+                  "sinonimo": "surname",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 9,
+            "tag_inicial": "DP:prop",
+            "palavra_original": "São_francisco_califórnia",
+            "palavra_canonica": "São_francisco_califórnia",
+            "tags": [
+              "<hum>",
+              "<*>",
+              "<heur>",
+              "M/F",
+              "S"
+            ],
+            "nivel": 3,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*apelido",
+              "owl#sameas",
+              "q16290455"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "apelido"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "apelido": {
+                  "keyword": {
+                    "termo": "apelido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "apelido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 0
+        },
+        {
+          "triples": [
+            [
+              "*apelido",
+              "wikipageusestemplate",
+              "predefinicao:manutencao_de_desambiguacao"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "apelido"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "apelido": {
+                  "keyword": {
+                    "termo": "apelido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "apelido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*apelido",
+              "wikipageusestemplate",
+              "predefinicao:desambiguacao"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "apelido"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "apelido": {
+                  "keyword": {
+                    "termo": "apelido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "apelido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*apelido",
+              "wikipageusestemplate",
+              "predefinicao:desambig_busca"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "apelido"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "apelido": {
+                  "keyword": {
+                    "termo": "apelido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "apelido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*apelido",
+              "rdf_schema#label",
+              "*apelido"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "apelido"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "apelido": {
+                  "keyword": {
+                    "termo": "apelido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "apelido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*apelido",
+              "22_rdf_syntax_ns#type",
+              "22_rdf_syntax_ns#property"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "apelido"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "apelido": {
+                  "keyword": {
+                    "termo": "apelido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "apelido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*apelido",
+              "rdf_schema#label",
+              "*apelido"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "apelido"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "apelido": {
+                  "keyword": {
+                    "termo": "apelido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "apelido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*apelido",
+              "rdf_schema#label",
+              "*alcunha/apelido"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "apelido"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "apelido": {
+                  "keyword": {
+                    "termo": "apelido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "apelido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*apelido",
+              "rdf_schema#label",
+              "*apelido "
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "apelido"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "apelido": {
+                  "keyword": {
+                    "termo": "apelido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "apelido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*apelido",
+              "owl#sameas",
+              "*apelido"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "apelido"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "apelido": {
+                  "keyword": {
+                    "termo": "apelido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "apelido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "merritt_a._edson",
+              "*apelido",
+              "\\\"red mike\\\""
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "apelido"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "apelido": {
+                  "keyword": {
+                    "termo": "apelido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "apelido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "tenente_galinha",
+              "*apelido",
+              "tenente galinha"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "apelido"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "apelido": {
+                  "keyword": {
+                    "termo": "apelido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "apelido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "emprestimos_nishihara",
+              "*apelido",
+              "beasley"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "apelido"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "apelido": {
+                  "keyword": {
+                    "termo": "apelido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "apelido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "emprestimos_nishihara",
+              "*apelido",
+              "hsu"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "apelido"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "apelido": {
+                  "keyword": {
+                    "termo": "apelido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "apelido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "emprestimos_nishihara",
+              "*apelido",
+              "nathan"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "apelido"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "apelido": {
+                  "keyword": {
+                    "termo": "apelido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "apelido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "emprestimos_nishihara",
+              "*apelido",
+              "spence"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "apelido"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "apelido": {
+                  "keyword": {
+                    "termo": "apelido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "apelido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "emprestimos_nishihara",
+              "*apelido",
+              "wasserstrom"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "apelido"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "apelido": {
+                  "keyword": {
+                    "termo": "apelido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "apelido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "blumenau_voleibol_clube_(voleibol_masculino)",
+              "*apelido",
+              "lucas"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "apelido"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "apelido": {
+                  "keyword": {
+                    "termo": "apelido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "apelido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "blumenau_voleibol_clube_(voleibol_masculino)",
+              "*apelido",
+              "marcos"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "apelido"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "apelido": {
+                  "keyword": {
+                    "termo": "apelido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "apelido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "blumenau_voleibol_clube_(voleibol_masculino)",
+              "*apelido",
+              "rodrigo"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "apelido"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "apelido": {
+                  "keyword": {
+                    "termo": "apelido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "apelido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "blumenau_voleibol_clube_(voleibol_masculino)",
+              "*apelido",
+              "dariel"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "apelido"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "apelido": {
+                  "keyword": {
+                    "termo": "apelido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "apelido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "blumenau_voleibol_clube_(voleibol_masculino)",
+              "*apelido",
+              "digao"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "apelido"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "apelido": {
+                  "keyword": {
+                    "termo": "apelido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "apelido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "blumenau_voleibol_clube_(voleibol_masculino)",
+              "*apelido",
+              "fabiano"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "apelido"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "apelido": {
+                  "keyword": {
+                    "termo": "apelido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "apelido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "blumenau_voleibol_clube_(voleibol_masculino)",
+              "*apelido",
+              "juliano"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "apelido"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "apelido": {
+                  "keyword": {
+                    "termo": "apelido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "apelido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "blumenau_voleibol_clube_(voleibol_masculino)",
+              "*apelido",
+              "athos"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "apelido"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "apelido": {
+                  "keyword": {
+                    "termo": "apelido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "apelido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "blumenau_voleibol_clube_(voleibol_masculino)",
+              "*apelido",
+              "china"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "apelido"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "apelido": {
+                  "keyword": {
+                    "termo": "apelido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "apelido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "blumenau_voleibol_clube_(voleibol_masculino)",
+              "*apelido",
+              "schueroff"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "apelido"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "apelido": {
+                  "keyword": {
+                    "termo": "apelido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "apelido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "blumenau_voleibol_clube_(voleibol_masculino)",
+              "*apelido",
+              "tarcisio"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "apelido"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "apelido": {
+                  "keyword": {
+                    "termo": "apelido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "apelido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "blumenau_voleibol_clube_(voleibol_masculino)",
+              "*apelido",
+              "tulio"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "apelido"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "apelido": {
+                  "keyword": {
+                    "termo": "apelido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "apelido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "blumenau_voleibol_clube_(voleibol_masculino)",
+              "*apelido",
+              "luan"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "apelido"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "apelido": {
+                  "keyword": {
+                    "termo": "apelido",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "apelido",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 1845.8843231201172,
+      "l_sizes": [
+        22634
+      ],
+      "total_time": 14734.304666519165
+    }
+  }
+]

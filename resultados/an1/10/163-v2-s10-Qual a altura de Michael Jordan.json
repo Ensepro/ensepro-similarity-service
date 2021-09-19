@@ -1,0 +1,1658 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "X:par",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "CJT:pron-int",
+          "palavra_original": "Qual",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<cjt-head>",
+            "<cjt-head-X>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "CJT:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "altura",
+          "palavra_canonica": "altura",
+          "tags": [
+            "<cjt-X>",
+            "<f-q>",
+            "<Labs>",
+            "<temp>",
+            "<Ltop>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Michael_Jordan",
+          "palavra_canonica": "Michael_Jordan",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "X:par",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "CJT:pron-int",
+          "palavra_original": "Qual",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<cjt-head>",
+            "<cjt-head-X>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "CJT:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "altura",
+          "palavra_canonica": "altura",
+          "tags": [
+            "<cjt-X>",
+            "<f-q>",
+            "<Labs>",
+            "<temp>",
+            "<Ltop>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "pitch",
+                "sinonimo": "tom",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "stature",
+                "sinonimo": "estatura",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "altitude",
+                "sinonimo": "ortocentro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "elevation",
+                "sinonimo": "altitude",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "stature",
+                "sinonimo": "altura",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "height",
+                "sinonimo": "tallness",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pitch",
+                "sinonimo": "pitch",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "altitude",
+                "sinonimo": "altitude",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "height",
+                "sinonimo": "height",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "stature",
+                "sinonimo": "stature",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "elevation",
+                "sinonimo": "elevation",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Michael_Jordan",
+          "palavra_canonica": "Michael_Jordan",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 9,
+          "tag_inicial": "?",
+          "palavra_original": " ",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "[ [ X:par|1| [CJT:pron-int|2| Qual] [ CJT:np|3| [DN:art|4| a] [H:n|5| altura] [ DN:pp|6| [H:prp|7| de] [DP:prop|8| Michael_Jordan] ] ] [?|9|  ] ] ]",
+      "tipo": {
+        "tipo": "qual",
+        "confianca": 0.64,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "altura",
+          "palavra_canonica": "altura",
+          "tags": [
+            "<cjt-X>",
+            "<f-q>",
+            "<Labs>",
+            "<temp>",
+            "<Ltop>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "pitch",
+                "sinonimo": "tom",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "stature",
+                "sinonimo": "estatura",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "altitude",
+                "sinonimo": "ortocentro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "elevation",
+                "sinonimo": "altitude",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "stature",
+                "sinonimo": "altura",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "height",
+                "sinonimo": "tallness",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pitch",
+                "sinonimo": "pitch",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "altitude",
+                "sinonimo": "altitude",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "height",
+                "sinonimo": "height",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "stature",
+                "sinonimo": "stature",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "elevation",
+                "sinonimo": "elevation",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              }
+            ]
+          }
+        },
+        {
+          "id": 8,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Michael_Jordan",
+          "palavra_canonica": "Michael_Jordan",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 5,
+            "tag_inicial": "H:n",
+            "palavra_original": "altura",
+            "palavra_canonica": "altura",
+            "tags": [
+              "<cjt-X>",
+              "<f-q>",
+              "<Labs>",
+              "<temp>",
+              "<Ltop>",
+              "F",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "pitch",
+                  "sinonimo": "tom",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "stature",
+                  "sinonimo": "estatura",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "altitude",
+                  "sinonimo": "ortocentro",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "elevation",
+                  "sinonimo": "altitude",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "stature",
+                  "sinonimo": "altura",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "height",
+                  "sinonimo": "tallness",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "pitch",
+                  "sinonimo": "pitch",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "altitude",
+                  "sinonimo": "altitude",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "height",
+                  "sinonimo": "height",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "stature",
+                  "sinonimo": "stature",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "elevation",
+                  "sinonimo": "elevation",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "05"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 8,
+            "tag_inicial": "DP:prop",
+            "palavra_original": "Michael_Jordan",
+            "palavra_canonica": "Michael_Jordan",
+            "tags": [
+              "<hum>",
+              "<*>",
+              "M",
+              "S"
+            ],
+            "nivel": 3,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "*michael_jordan",
+              "*altura",
+              "1,98 m"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "altura",
+              "michael_jordan"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "altura": {
+                  "keyword": {
+                    "termo": "altura",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "altura",
+                  "score": 2.0
+                },
+                "michael_jordan": {
+                  "keyword": {
+                    "termo": "michael_jordan",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michael_jordan",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "michael_jordan": "-1",
+              "altura": "-86"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*michael_jordan",
+              "*altura",
+              "1,98 m"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "altura",
+              "michael_jordan"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "altura": {
+                  "keyword": {
+                    "termo": "altura",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "altura",
+                  "score": 2.0
+                },
+                "michael_jordan": {
+                  "keyword": {
+                    "termo": "michael_jordan",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michael_jordan",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "michael_jordan": "-1",
+              "altura": "-86"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*michael_jordan",
+              "*height",
+              "1.98"
+            ]
+          ],
+          "score": 12.666667,
+          "detail": {
+            "keywords": [
+              "altura",
+              "michael_jordan"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "altura": {
+                  "keyword": {
+                    "termo": "height",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "height",
+                  "score": 1.0
+                },
+                "michael_jordan": {
+                  "keyword": {
+                    "termo": "michael_jordan",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michael_jordan",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*michael_jordan",
+              "*height",
+              "198.0"
+            ]
+          ],
+          "score": 12.666667,
+          "detail": {
+            "keywords": [
+              "altura",
+              "michael_jordan"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "altura": {
+                  "keyword": {
+                    "termo": "height",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "height",
+                  "score": 1.0
+                },
+                "michael_jordan": {
+                  "keyword": {
+                    "termo": "michael_jordan",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michael_jordan",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*michael_jordan",
+              "owl#sameas",
+              "q41421"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "michael_jordan"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "michael_jordan": {
+                  "keyword": {
+                    "termo": "michael_jordan",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michael_jordan",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*michael_jordan",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "michael_jordan"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "michael_jordan": {
+                  "keyword": {
+                    "termo": "michael_jordan",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michael_jordan",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*michael_jordan",
+              "owl#sameas",
+              "*michael_jordan"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "michael_jordan"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "michael_jordan": {
+                  "keyword": {
+                    "termo": "michael_jordan",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michael_jordan",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*michael_jordan",
+              "owl#sameas",
+              "maykl_cordan"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "michael_jordan"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "michael_jordan": {
+                  "keyword": {
+                    "termo": "michael_jordan",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michael_jordan",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*michael_jordan",
+              "owl#sameas",
+              "_'"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "michael_jordan"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "michael_jordan": {
+                  "keyword": {
+                    "termo": "michael_jordan",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michael_jordan",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*michael_jordan",
+              "owl#sameas",
+              7
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "michael_jordan"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "michael_jordan": {
+                  "keyword": {
+                    "termo": "michael_jordan",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michael_jordan",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*michael_jordan",
+              "owl#sameas",
+              "__"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "michael_jordan"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "michael_jordan": {
+                  "keyword": {
+                    "termo": "michael_jordan",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michael_jordan",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*michael_jordan",
+              "owl#sameas",
+              "maikls_dzordans"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "michael_jordan"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "michael_jordan": {
+                  "keyword": {
+                    "termo": "michael_jordan",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michael_jordan",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*michael_jordan",
+              "owl#sameas",
+              ",_"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "michael_jordan"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "michael_jordan": {
+                  "keyword": {
+                    "termo": "michael_jordan",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michael_jordan",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*michael_jordan",
+              "nome",
+              "michael jordan"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "michael_jordan"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "michael_jordan": {
+                  "keyword": {
+                    "termo": "michael_jordan",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michael_jordan",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*michael_jordan",
+              "imagem",
+              "180"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "michael_jordan"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "michael_jordan": {
+                  "keyword": {
+                    "termo": "michael_jordan",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michael_jordan",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*michael_jordan",
+              "cidadenatal",
+              "nova_iorque"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "michael_jordan"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "michael_jordan": {
+                  "keyword": {
+                    "termo": "michael_jordan",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michael_jordan",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*michael_jordan",
+              "actualclube",
+              "aposentado"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "michael_jordan"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "michael_jordan": {
+                  "keyword": {
+                    "termo": "michael_jordan",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michael_jordan",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*michael_jordan",
+              "jovemanos",
+              "1981"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "michael_jordan"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "michael_jordan": {
+                  "keyword": {
+                    "termo": "michael_jordan",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michael_jordan",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*michael_jordan",
+              "jovemclubes",
+              "north_carolina_tar_heels_(basquetebol_masculino)"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "michael_jordan"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "michael_jordan": {
+                  "keyword": {
+                    "termo": "michael_jordan",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michael_jordan",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*michael_jordan",
+              "ano",
+              "1984"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "michael_jordan"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "michael_jordan": {
+                  "keyword": {
+                    "termo": "michael_jordan",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michael_jordan",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*michael_jordan",
+              "ano",
+              "1995"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "michael_jordan"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "michael_jordan": {
+                  "keyword": {
+                    "termo": "michael_jordan",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michael_jordan",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*michael_jordan",
+              "ano",
+              "2001"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "michael_jordan"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "michael_jordan": {
+                  "keyword": {
+                    "termo": "michael_jordan",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michael_jordan",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*michael_jordan",
+              "clubes",
+              "chicago bulls"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "michael_jordan"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "michael_jordan": {
+                  "keyword": {
+                    "termo": "michael_jordan",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michael_jordan",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*michael_jordan",
+              "clubes",
+              "washington wizards"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "michael_jordan"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "michael_jordan": {
+                  "keyword": {
+                    "termo": "michael_jordan",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michael_jordan",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*michael_jordan",
+              "partidas(pontos)_",
+              "667"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "michael_jordan"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "michael_jordan": {
+                  "keyword": {
+                    "termo": "michael_jordan",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michael_jordan",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*michael_jordan",
+              "partidas(pontos)_",
+              "263"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "michael_jordan"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "michael_jordan": {
+                  "keyword": {
+                    "termo": "michael_jordan",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michael_jordan",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*michael_jordan",
+              "partidas(pontos)_",
+              "142"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "michael_jordan"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "michael_jordan": {
+                  "keyword": {
+                    "termo": "michael_jordan",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michael_jordan",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*michael_jordan",
+              "partidas(pontos)_",
+              "1072"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "michael_jordan"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "michael_jordan": {
+                  "keyword": {
+                    "termo": "michael_jordan",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michael_jordan",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*michael_jordan",
+              "selecaonacional",
+              "estados unidos"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "michael_jordan"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "michael_jordan": {
+                  "keyword": {
+                    "termo": "michael_jordan",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michael_jordan",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*michael_jordan",
+              "depiction",
+              "*michael_jordan_in_2014.jpg"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "michael_jordan"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "michael_jordan": {
+                  "keyword": {
+                    "termo": "michael_jordan",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michael_jordan",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*michael_jordan",
+              "thumbnail",
+              "*michael_jordan_in_2014.jpg?width=300"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "michael_jordan"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "michael_jordan": {
+                  "keyword": {
+                    "termo": "michael_jordan",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michael_jordan",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 1763983400,
+      "total_time": 8813276400
+    }
+  }
+]

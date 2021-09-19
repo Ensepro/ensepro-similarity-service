@@ -1,0 +1,1661 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "Qual",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "papa",
+          "palavra_canonica": "papa",
+          "tags": [
+            "<food-h>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "fundou",
+          "palavra_canonica": "fundar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Televisão_do_Vaticano",
+          "palavra_canonica": "Televisão_do_Vaticano",
+          "tags": [
+            "<org>",
+            "<*>",
+            "<heur>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "Qual",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "papa",
+          "palavra_canonica": "papa",
+          "tags": [
+            "<food-h>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "pope",
+                "sinonimo": "Papa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "papa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "pontífice",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "pope",
+                "sinonimo": "Alexander_Pope",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Bishop_of_Rome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "pope",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Holy_Father",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Vicar_of_Christ",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Roman_Catholic_Pope",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "pontiff",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Catholic_Pope",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Pope",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "fundou",
+          "palavra_canonica": "fundar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "establish",
+                "sinonimo": "estabelecer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
+                "sinonimo": "fundar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "establish",
+                "sinonimo": "constitute",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
+                "sinonimo": "found",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
+                "sinonimo": "plant",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
+                "sinonimo": "establish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
+                "sinonimo": "institute",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Televisão_do_Vaticano",
+          "palavra_canonica": "Televisão_do_Vaticano",
+          "tags": [
+            "<org>",
+            "<*>",
+            "<heur>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 9,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "qual",
+        "confianca": 0.86,
+        "ids": [
+          3
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "papa",
+          "palavra_canonica": "papa",
+          "tags": [
+            "<food-h>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "pope",
+                "sinonimo": "Papa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "papa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "pontífice",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "pope",
+                "sinonimo": "Alexander_Pope",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Bishop_of_Rome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "pope",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Holy_Father",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Vicar_of_Christ",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Roman_Catholic_Pope",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "pontiff",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Catholic_Pope",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Pope",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "fundou",
+          "palavra_canonica": "fundar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "establish",
+                "sinonimo": "estabelecer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
+                "sinonimo": "fundar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "establish",
+                "sinonimo": "constitute",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
+                "sinonimo": "found",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
+                "sinonimo": "plant",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
+                "sinonimo": "establish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
+                "sinonimo": "institute",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Televisão_do_Vaticano",
+          "palavra_canonica": "Televisão_do_Vaticano",
+          "tags": [
+            "<org>",
+            "<*>",
+            "<heur>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "acta_apostolicae_sedis",
+              "*fundador",
+              "*papa_pio_x"
+            ]
+          ],
+          "score": 4.3432665,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador"
+            ],
+            "score_detail": {
+              "m1": 3.6766,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa_pio_x",
+                  "score": 1.6766001
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 0
+        },
+        {
+          "triples": [
+            [
+              "instituto_para_as_obras_de_religiao",
+              "*fundador",
+              "*papa_pio_xii"
+            ]
+          ],
+          "score": 4.2220006,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador"
+            ],
+            "score_detail": {
+              "m1": 3.555334,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa_pio_xii",
+                  "score": 1.5553342
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "criancas_da_eucaristia",
+              "*fundador",
+              "*papa bento xv"
+            ]
+          ],
+          "score": 4.1597753,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador"
+            ],
+            "score_detail": {
+              "m1": 3.4931087,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa bento xv",
+                  "score": 1.4931089
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "ordem_de_cristo",
+              "*fundador",
+              "*papa_joao_xxii"
+            ]
+          ],
+          "score": 4.096836,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador"
+            ],
+            "score_detail": {
+              "m1": 3.4301696,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa_joao_xxii",
+                  "score": 1.4301695
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "arquidiocese_de_campo_grande",
+              "*fundacao",
+              "*por papa pio xii,"
+            ]
+          ],
+          "score": 3.9065402,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "papa"
+            ],
+            "score_detail": {
+              "m1": 3.2398734,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "por papa pio xii,",
+                  "score": 1.2398733
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*papa_john's_pizza",
+              "*fundador",
+              "john schnatter"
+            ]
+          ],
+          "score": 3.9065402,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador"
+            ],
+            "score_detail": {
+              "m1": 3.2398734,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa_john's_pizza",
+                  "score": 1.2398733
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*santiago_papasquiaro",
+              "*fundacao",
+              "1597"
+            ]
+          ],
+          "score": 3.7199948,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "papa"
+            ],
+            "score_detail": {
+              "m1": 3.053328,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "santiago_papasquiaro",
+                  "score": 1.053328
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "arquidiocese_de_natal",
+              "*fundacao",
+              "*pela bula apostolicam in singulis do papa pio x"
+            ]
+          ],
+          "score": 2.7931688,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "papa"
+            ],
+            "score_detail": {
+              "m1": 2.126502,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "pela bula apostolicam in singulis do papa pio x",
+                  "score": 0.12650196
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*papa",
+              "owl#sameas",
+              "q19546"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "papa"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*papa",
+              "owl#sameas",
+              "pous"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "papa"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*papa",
+              "owl#sameas",
+              "papst"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "papa"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*papa",
+              "owl#sameas",
+              "*papa"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "papa"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*papa",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "papa"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*papa",
+              "owl#sameas",
+              "popst"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "papa"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*papa",
+              "owl#sameas",
+              5
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "papa"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*papa",
+              "owl#sameas",
+              "pab"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "papa"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*papa",
+              "owl#sameas",
+              "*pope"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "papa"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*papa",
+              "owl#sameas",
+              "papez"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "papa"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*papa",
+              "owl#sameas",
+              "pave"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "papa"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*papa",
+              "owl#sameas",
+              "papo"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "papa"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*papa",
+              "owl#sameas",
+              "paavst"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "papa"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*papa",
+              "owl#sameas",
+              "aita_santu"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "papa"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*papa",
+              "owl#sameas",
+              "paavi"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "papa"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*papa",
+              "owl#sameas",
+              "pape"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "papa"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*papa",
+              "owl#sameas",
+              "paus"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "papa"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*papa",
+              "owl#sameas",
+              "bamz"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "papa"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*papa",
+              "owl#sameas",
+              "pap"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "papa"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*papa",
+              "owl#sameas",
+              "*papa_(egyhazfo)"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "papa"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*papa",
+              "owl#sameas",
+              "paus_(katolik_roma)"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "papa"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*papa",
+              "owl#sameas",
+              "pafi"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "papa"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 7666516600,
+      "total_time": 26379368900
+    }
+  }
+]

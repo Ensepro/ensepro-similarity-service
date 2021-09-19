@@ -1,0 +1,3172 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:spec",
+          "palavra_original": "Quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "atua",
+          "palavra_canonica": "atuar",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Op:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:prp",
+          "palavra_original": "em",
+          "palavra_canonica": "em",
+          "tags": [
+            "<sam->"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:art",
+          "palavra_original": "os",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "<-sam>",
+            "M",
+            "P"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:n",
+          "palavra_original": "filmes",
+          "palavra_canonica": "filme",
+          "tags": [
+            "<sem-w>",
+            "<cc>",
+            "M",
+            "P"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DN:adj",
+          "palavra_original": "espanhois",
+          "palavra_canonica": "espanhol",
+          "tags": [
+            "<ALT:espanhóis>",
+            "<nat>",
+            "<jh>",
+            "<np-close>",
+            "M",
+            "P"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DN:icl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "P:v-pcp",
+          "palavra_original": "produzidos",
+          "palavra_canonica": "produzir",
+          "tags": [
+            "<mv>",
+            "<np-close>",
+            "M",
+            "P"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "fApass:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 13,
+          "tag_inicial": "H:prp",
+          "palavra_original": "por",
+          "palavra_canonica": "por",
+          "tags": [],
+          "nivel": 5,
+          "sinonimos": null
+        },
+        {
+          "id": 14,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Benicio_del_Toro",
+          "palavra_canonica": "Benicio_del_Toro",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 5,
+          "sinonimos": null
+        },
+        {
+          "id": 15,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:spec",
+          "palavra_original": "Quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "atua",
+          "palavra_canonica": "atuar",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "act",
+                "sinonimo": "parecer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "atuar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "fazer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "fazer_papel",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "comportar-se",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "agir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "representar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "act",
+                "sinonimo": "act",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "play",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "do",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "playact",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "roleplay",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "behave",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Op:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:prp",
+          "palavra_original": "em",
+          "palavra_canonica": "em",
+          "tags": [
+            "<sam->"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:art",
+          "palavra_original": "os",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "<-sam>",
+            "M",
+            "P"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:n",
+          "palavra_original": "filmes",
+          "palavra_canonica": "filme",
+          "tags": [
+            "<sem-w>",
+            "<cc>",
+            "M",
+            "P"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "film",
+                "sinonimo": "filme_fotográfico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "película",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "Filme_Fotográfico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "Filme_fotografico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "filmes",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "produção",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "cinema",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "filme",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "film",
+                "sinonimo": "photographic_film",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "motion_picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "flick",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "film",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "movie",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "moving_picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "moving-picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "motion-picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "pic",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DN:adj",
+          "palavra_original": "espanhois",
+          "palavra_canonica": "espanhol",
+          "tags": [
+            "<ALT:espanhóis>",
+            "<nat>",
+            "<jh>",
+            "<np-close>",
+            "M",
+            "P"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DN:icl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "P:v-pcp",
+          "palavra_original": "produzidos",
+          "palavra_canonica": "produzir",
+          "tags": [
+            "<mv>",
+            "<np-close>",
+            "M",
+            "P"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "bring",
+                "sinonimo": "causar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "effect",
+                "sinonimo": "provocar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "activate",
+                "sinonimo": "ser_causa_de",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "effect",
+                "sinonimo": "efetuar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "effect",
+                "sinonimo": "ocasionar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "fazer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "construir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "criar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "produzir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "activate",
+                "sinonimo": "ativar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "grow",
+                "sinonimo": "farm",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "effect",
+                "sinonimo": "set_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "effect",
+                "sinonimo": "effect",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "give_rise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "produce",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "make",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "bring",
+                "sinonimo": "bring",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "bring_about",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "grow",
+                "sinonimo": "grow",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "create",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "activate",
+                "sinonimo": "activate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "grow",
+                "sinonimo": "raise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "effect",
+                "sinonimo": "effectuate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 12,
+          "tag_inicial": "fApass:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 13,
+          "tag_inicial": "H:prp",
+          "palavra_original": "por",
+          "palavra_canonica": "por",
+          "tags": [],
+          "nivel": 5,
+          "sinonimos": null
+        },
+        {
+          "id": 14,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Benicio_del_Toro",
+          "palavra_canonica": "Benicio_del_Toro",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 5,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 15,
+          "tag_inicial": "?",
+          "palavra_original": " ",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "[ [ QUE:fcl|1| [S:spec|2| Quem] [P:v-fin|3| atua] [ Op:pp|4| [H:prp|5| em] [ DP:np|6| [DN:art|7| os] [H:n|8| filmes] [DN:adj|9| espanhois] [ DN:icl|10| [P:v-pcp|11| produzidos] [ fApass:pp|12| [H:prp|13| por] [DP:prop|14| Benicio_del_Toro] ] ] ] ] [?|15|  ] ] ]",
+      "tipo": {
+        "tipo": "quem",
+        "confianca": 0.93,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "atua",
+          "palavra_canonica": "atuar",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "act",
+                "sinonimo": "parecer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "atuar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "fazer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "fazer_papel",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "comportar-se",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "agir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "representar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "act",
+                "sinonimo": "act",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "play",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "do",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "playact",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "roleplay",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "act",
+                "sinonimo": "behave",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:n",
+          "palavra_original": "filmes",
+          "palavra_canonica": "filme",
+          "tags": [
+            "<sem-w>",
+            "<cc>",
+            "M",
+            "P"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "film",
+                "sinonimo": "filme_fotográfico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "película",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "Filme_Fotográfico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "Filme_fotografico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "filmes",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "produção",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "cinema",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "filme",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "film",
+                "sinonimo": "photographic_film",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "motion_picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "flick",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "film",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "movie",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "moving_picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "moving-picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "motion-picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "pic",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 11,
+          "tag_inicial": "P:v-pcp",
+          "palavra_original": "produzidos",
+          "palavra_canonica": "produzir",
+          "tags": [
+            "<mv>",
+            "<np-close>",
+            "M",
+            "P"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "bring",
+                "sinonimo": "causar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "effect",
+                "sinonimo": "provocar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "activate",
+                "sinonimo": "ser_causa_de",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "effect",
+                "sinonimo": "efetuar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "effect",
+                "sinonimo": "ocasionar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "fazer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "construir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "criar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "produzir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "activate",
+                "sinonimo": "ativar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "grow",
+                "sinonimo": "farm",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "effect",
+                "sinonimo": "set_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "effect",
+                "sinonimo": "effect",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "give_rise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "produce",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "make",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "bring",
+                "sinonimo": "bring",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "bring_about",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "grow",
+                "sinonimo": "grow",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "create",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "activate",
+                "sinonimo": "activate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "grow",
+                "sinonimo": "raise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "effect",
+                "sinonimo": "effectuate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 14,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Benicio_del_Toro",
+          "palavra_canonica": "Benicio_del_Toro",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 5,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 8,
+            "tag_inicial": "H:n",
+            "palavra_original": "filmes",
+            "palavra_canonica": "filme",
+            "tags": [
+              "<sem-w>",
+              "<cc>",
+              "M",
+              "P"
+            ],
+            "nivel": 3,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "film",
+                  "sinonimo": "filme_fotográfico",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "película",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "film",
+                  "sinonimo": "Filme_Fotográfico",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "film",
+                  "sinonimo": "Filme_fotografico",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "filmes",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "produção",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "cinema",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "film",
+                  "sinonimo": "filme",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "film",
+                  "sinonimo": "photographic_film",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "motion_picture",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "flick",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "film",
+                  "sinonimo": "film",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "movie",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "picture",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "moving_picture",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "moving-picture_show",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "motion-picture_show",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "pic",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "picture_show",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 9,
+            "tag_inicial": "DN:adj",
+            "palavra_original": "espanhois",
+            "palavra_canonica": "espanhol",
+            "tags": [
+              "<ALT:espanhóis>",
+              "<nat>",
+              "<jh>",
+              "<np-close>",
+              "M",
+              "P"
+            ],
+            "nivel": 3,
+            "sinonimos": null
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "*benicio_del_toro",
+              "award",
+              "*che_(filme)"
+            ],
+            [
+              "che_(2008)",
+              "*producer",
+              "*benicio_del_toro"
+            ]
+          ],
+          "score": 14.218549,
+          "detail": {
+            "keywords": [
+              "benicio_del_toro",
+              "filme",
+              "produzir"
+            ],
+            "score_detail": {
+              "m1": 12.718549,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "benicio_del_toro": {
+                  "keyword": {
+                    "termo": "benicio_del_toro",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "benicio_del_toro",
+                  "score": 10.0
+                },
+                "produzir": {
+                  "keyword": {
+                    "termo": "produce",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "producer",
+                  "score": 0.9859155
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "che_(filme)",
+                  "score": 1.7326335
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "benicio_del_toro": "-1",
+              "filme": "-71",
+              "produce": "-150"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*benicio_del_toro",
+              "award",
+              "*che_(filme)"
+            ],
+            [
+              "che_(2008)",
+              "*producer",
+              "*benicio_del_toro"
+            ]
+          ],
+          "score": 14.218549,
+          "detail": {
+            "keywords": [
+              "benicio_del_toro",
+              "filme",
+              "produzir"
+            ],
+            "score_detail": {
+              "m1": 12.718549,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "benicio_del_toro": {
+                  "keyword": {
+                    "termo": "benicio_del_toro",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "benicio_del_toro",
+                  "score": 10.0
+                },
+                "produzir": {
+                  "keyword": {
+                    "termo": "produce",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "producer",
+                  "score": 0.9859155
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "che_(filme)",
+                  "score": 1.7326335
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "benicio_del_toro": "-1",
+              "filme": "-71",
+              "produce": "-150"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "che_(2008)",
+              "*producer",
+              "*benicio_del_toro"
+            ],
+            [
+              "*benicio_del_toro",
+              "award",
+              "*che_(filme)"
+            ]
+          ],
+          "score": 14.218549,
+          "detail": {
+            "keywords": [
+              "produzir",
+              "benicio_del_toro",
+              "filme"
+            ],
+            "score_detail": {
+              "m1": 12.718549,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "produzir": {
+                  "keyword": {
+                    "termo": "produce",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "producer",
+                  "score": 0.9859155
+                },
+                "benicio_del_toro": {
+                  "keyword": {
+                    "termo": "benicio_del_toro",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "benicio_del_toro",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "che_(filme)",
+                  "score": 1.7326335
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*benicio_del_toro",
+              "award",
+              "*che_(filme)"
+            ],
+            [
+              "*benicio_del_toro",
+              "*abstract",
+              "*benicio monserrate rafael del toro sanchez (san juan, 19 de fevereiro de 1967) e um ator e produtor porto-riquenho. foi o segundo actor de porto rico a conquistar um oscar da academia de artes e ciencias cinematograficas de hollywood, apos rita moreno. conquistou este premio na categoria de melhor ator (coadjuvante/secundario), pelo filme traffic, em 2001, pelo qual tambem recebeu o golden globe award para melhor ator (coadjuvante/secundario) em cinema e o sag award para melhor ator (principal) em cinema daquele ano. ganhou o premio de interpretacao masculina no festival de cannes e o goya 2009 para o melhor actor principal pelo seu papel de ernesto guevara no filme che."
+            ]
+          ],
+          "score": 14.063541,
+          "detail": {
+            "keywords": [
+              "benicio_del_toro",
+              "filme",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 12.563541,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "benicio_del_toro": {
+                  "keyword": {
+                    "termo": "benicio_del_toro",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "benicio_del_toro",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "che_(filme)",
+                  "score": 1.7326335
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*benicio_del_toro",
+              "*abstract",
+              "*benicio monserrate rafael del toro sanchez (san juan, 19 de fevereiro de 1967) e um ator e produtor porto-riquenho. foi o segundo actor de porto rico a conquistar um oscar da academia de artes e ciencias cinematograficas de hollywood, apos rita moreno. conquistou este premio na categoria de melhor ator (coadjuvante/secundario), pelo filme traffic, em 2001, pelo qual tambem recebeu o golden globe award para melhor ator (coadjuvante/secundario) em cinema e o sag award para melhor ator (principal) em cinema daquele ano. ganhou o premio de interpretacao masculina no festival de cannes e o goya 2009 para o melhor actor principal pelo seu papel de ernesto guevara no filme che."
+            ],
+            [
+              "*benicio_del_toro",
+              "award",
+              "*che_(filme)"
+            ]
+          ],
+          "score": 14.063541,
+          "detail": {
+            "keywords": [
+              "benicio_del_toro",
+              "filme",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 12.563541,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "benicio_del_toro": {
+                  "keyword": {
+                    "termo": "benicio_del_toro",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "benicio_del_toro",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "che_(filme)",
+                  "score": 1.7326335
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*benicio_del_toro",
+              "award",
+              "*traffic_(filme)"
+            ],
+            [
+              "che_(2008)",
+              "*producer",
+              "*benicio_del_toro"
+            ]
+          ],
+          "score": 14.002504,
+          "detail": {
+            "keywords": [
+              "benicio_del_toro",
+              "filme",
+              "produzir"
+            ],
+            "score_detail": {
+              "m1": 12.502504,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "benicio_del_toro": {
+                  "keyword": {
+                    "termo": "benicio_del_toro",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "benicio_del_toro",
+                  "score": 10.0
+                },
+                "produzir": {
+                  "keyword": {
+                    "termo": "produce",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "producer",
+                  "score": 0.9859155
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "traffic_(filme)",
+                  "score": 1.5165893
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "che_(2008)",
+              "*producer",
+              "*benicio_del_toro"
+            ],
+            [
+              "*benicio_del_toro",
+              "award",
+              "*traffic_(filme)"
+            ]
+          ],
+          "score": 14.002504,
+          "detail": {
+            "keywords": [
+              "produzir",
+              "benicio_del_toro",
+              "filme"
+            ],
+            "score_detail": {
+              "m1": 12.502504,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "produzir": {
+                  "keyword": {
+                    "termo": "produce",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "producer",
+                  "score": 0.9859155
+                },
+                "benicio_del_toro": {
+                  "keyword": {
+                    "termo": "benicio_del_toro",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "benicio_del_toro",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "traffic_(filme)",
+                  "score": 1.5165893
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*benicio_del_toro",
+              "award",
+              "*traffic_(filme)"
+            ],
+            [
+              "*benicio_del_toro",
+              "*abstract",
+              "*benicio monserrate rafael del toro sanchez (san juan, 19 de fevereiro de 1967) e um ator e produtor porto-riquenho. foi o segundo actor de porto rico a conquistar um oscar da academia de artes e ciencias cinematograficas de hollywood, apos rita moreno. conquistou este premio na categoria de melhor ator (coadjuvante/secundario), pelo filme traffic, em 2001, pelo qual tambem recebeu o golden globe award para melhor ator (coadjuvante/secundario) em cinema e o sag award para melhor ator (principal) em cinema daquele ano. ganhou o premio de interpretacao masculina no festival de cannes e o goya 2009 para o melhor actor principal pelo seu papel de ernesto guevara no filme che."
+            ]
+          ],
+          "score": 13.847497,
+          "detail": {
+            "keywords": [
+              "benicio_del_toro",
+              "filme",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 12.347497,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "benicio_del_toro": {
+                  "keyword": {
+                    "termo": "benicio_del_toro",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "benicio_del_toro",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "traffic_(filme)",
+                  "score": 1.5165893
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*savages_(filme)",
+              "elenco",
+              "*benicio_del_toro"
+            ],
+            [
+              "*benicio_del_toro",
+              "*abstract",
+              "*benicio monserrate rafael del toro sanchez (san juan, 19 de fevereiro de 1967) e um ator e produtor porto-riquenho. foi o segundo actor de porto rico a conquistar um oscar da academia de artes e ciencias cinematograficas de hollywood, apos rita moreno. conquistou este premio na categoria de melhor ator (coadjuvante/secundario), pelo filme traffic, em 2001, pelo qual tambem recebeu o golden globe award para melhor ator (coadjuvante/secundario) em cinema e o sag award para melhor ator (principal) em cinema daquele ano. ganhou o premio de interpretacao masculina no festival de cannes e o goya 2009 para o melhor actor principal pelo seu papel de ernesto guevara no filme che."
+            ]
+          ],
+          "score": 13.847497,
+          "detail": {
+            "keywords": [
+              "benicio_del_toro",
+              "filme",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 12.347497,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "benicio_del_toro": {
+                  "keyword": {
+                    "termo": "benicio_del_toro",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "benicio_del_toro",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "savages_(filme)",
+                  "score": 1.5165893
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*sicario_(filme)",
+              "elenco",
+              "*benicio_del_toro"
+            ],
+            [
+              "*benicio_del_toro",
+              "*abstract",
+              "*benicio monserrate rafael del toro sanchez (san juan, 19 de fevereiro de 1967) e um ator e produtor porto-riquenho. foi o segundo actor de porto rico a conquistar um oscar da academia de artes e ciencias cinematograficas de hollywood, apos rita moreno. conquistou este premio na categoria de melhor ator (coadjuvante/secundario), pelo filme traffic, em 2001, pelo qual tambem recebeu o golden globe award para melhor ator (coadjuvante/secundario) em cinema e o sag award para melhor ator (principal) em cinema daquele ano. ganhou o premio de interpretacao masculina no festival de cannes e o goya 2009 para o melhor actor principal pelo seu papel de ernesto guevara no filme che."
+            ]
+          ],
+          "score": 13.847497,
+          "detail": {
+            "keywords": [
+              "benicio_del_toro",
+              "filme",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 12.347497,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "benicio_del_toro": {
+                  "keyword": {
+                    "termo": "benicio_del_toro",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "benicio_del_toro",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "sicario_(filme)",
+                  "score": 1.5165893
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*savages_(filme)",
+              "starring",
+              "*benicio_del_toro"
+            ],
+            [
+              "*benicio_del_toro",
+              "*abstract",
+              "*benicio monserrate rafael del toro sanchez (san juan, 19 de fevereiro de 1967) e um ator e produtor porto-riquenho. foi o segundo actor de porto rico a conquistar um oscar da academia de artes e ciencias cinematograficas de hollywood, apos rita moreno. conquistou este premio na categoria de melhor ator (coadjuvante/secundario), pelo filme traffic, em 2001, pelo qual tambem recebeu o golden globe award para melhor ator (coadjuvante/secundario) em cinema e o sag award para melhor ator (principal) em cinema daquele ano. ganhou o premio de interpretacao masculina no festival de cannes e o goya 2009 para o melhor actor principal pelo seu papel de ernesto guevara no filme che."
+            ]
+          ],
+          "score": 13.847497,
+          "detail": {
+            "keywords": [
+              "benicio_del_toro",
+              "filme",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 12.347497,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "benicio_del_toro": {
+                  "keyword": {
+                    "termo": "benicio_del_toro",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "benicio_del_toro",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "savages_(filme)",
+                  "score": 1.5165893
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*traffic_(filme)",
+              "starring",
+              "*benicio_del_toro"
+            ],
+            [
+              "*benicio_del_toro",
+              "*abstract",
+              "*benicio monserrate rafael del toro sanchez (san juan, 19 de fevereiro de 1967) e um ator e produtor porto-riquenho. foi o segundo actor de porto rico a conquistar um oscar da academia de artes e ciencias cinematograficas de hollywood, apos rita moreno. conquistou este premio na categoria de melhor ator (coadjuvante/secundario), pelo filme traffic, em 2001, pelo qual tambem recebeu o golden globe award para melhor ator (coadjuvante/secundario) em cinema e o sag award para melhor ator (principal) em cinema daquele ano. ganhou o premio de interpretacao masculina no festival de cannes e o goya 2009 para o melhor actor principal pelo seu papel de ernesto guevara no filme che."
+            ]
+          ],
+          "score": 13.847497,
+          "detail": {
+            "keywords": [
+              "benicio_del_toro",
+              "filme",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 12.347497,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "benicio_del_toro": {
+                  "keyword": {
+                    "termo": "benicio_del_toro",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "benicio_del_toro",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "traffic_(filme)",
+                  "score": 1.5165893
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*sicario_(filme)",
+              "starring",
+              "*benicio_del_toro"
+            ],
+            [
+              "*benicio_del_toro",
+              "*abstract",
+              "*benicio monserrate rafael del toro sanchez (san juan, 19 de fevereiro de 1967) e um ator e produtor porto-riquenho. foi o segundo actor de porto rico a conquistar um oscar da academia de artes e ciencias cinematograficas de hollywood, apos rita moreno. conquistou este premio na categoria de melhor ator (coadjuvante/secundario), pelo filme traffic, em 2001, pelo qual tambem recebeu o golden globe award para melhor ator (coadjuvante/secundario) em cinema e o sag award para melhor ator (principal) em cinema daquele ano. ganhou o premio de interpretacao masculina no festival de cannes e o goya 2009 para o melhor actor principal pelo seu papel de ernesto guevara no filme che."
+            ]
+          ],
+          "score": 13.847497,
+          "detail": {
+            "keywords": [
+              "benicio_del_toro",
+              "filme",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 12.347497,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "benicio_del_toro": {
+                  "keyword": {
+                    "termo": "benicio_del_toro",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "benicio_del_toro",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "sicario_(filme)",
+                  "score": 1.5165893
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*traffic_(filme)",
+              "elenco",
+              "*benicio_del_toro"
+            ],
+            [
+              "*benicio_del_toro",
+              "*abstract",
+              "*benicio monserrate rafael del toro sanchez (san juan, 19 de fevereiro de 1967) e um ator e produtor porto-riquenho. foi o segundo actor de porto rico a conquistar um oscar da academia de artes e ciencias cinematograficas de hollywood, apos rita moreno. conquistou este premio na categoria de melhor ator (coadjuvante/secundario), pelo filme traffic, em 2001, pelo qual tambem recebeu o golden globe award para melhor ator (coadjuvante/secundario) em cinema e o sag award para melhor ator (principal) em cinema daquele ano. ganhou o premio de interpretacao masculina no festival de cannes e o goya 2009 para o melhor actor principal pelo seu papel de ernesto guevara no filme che."
+            ]
+          ],
+          "score": 13.847497,
+          "detail": {
+            "keywords": [
+              "benicio_del_toro",
+              "filme",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 12.347497,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "benicio_del_toro": {
+                  "keyword": {
+                    "termo": "benicio_del_toro",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "benicio_del_toro",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "traffic_(filme)",
+                  "score": 1.5165893
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*benicio_del_toro",
+              "*abstract",
+              "*benicio monserrate rafael del toro sanchez (san juan, 19 de fevereiro de 1967) e um ator e produtor porto-riquenho. foi o segundo actor de porto rico a conquistar um oscar da academia de artes e ciencias cinematograficas de hollywood, apos rita moreno. conquistou este premio na categoria de melhor ator (coadjuvante/secundario), pelo filme traffic, em 2001, pelo qual tambem recebeu o golden globe award para melhor ator (coadjuvante/secundario) em cinema e o sag award para melhor ator (principal) em cinema daquele ano. ganhou o premio de interpretacao masculina no festival de cannes e o goya 2009 para o melhor actor principal pelo seu papel de ernesto guevara no filme che."
+            ],
+            [
+              "*benicio_del_toro",
+              "award",
+              "*traffic_(filme)"
+            ]
+          ],
+          "score": 13.847497,
+          "detail": {
+            "keywords": [
+              "benicio_del_toro",
+              "filme",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 12.347497,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "benicio_del_toro": {
+                  "keyword": {
+                    "termo": "benicio_del_toro",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "benicio_del_toro",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "traffic_(filme)",
+                  "score": 1.5165893
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*benicio_del_toro",
+              "*abstract",
+              "*benicio monserrate rafael del toro sanchez (san juan, 19 de fevereiro de 1967) e um ator e produtor porto-riquenho. foi o segundo actor de porto rico a conquistar um oscar da academia de artes e ciencias cinematograficas de hollywood, apos rita moreno. conquistou este premio na categoria de melhor ator (coadjuvante/secundario), pelo filme traffic, em 2001, pelo qual tambem recebeu o golden globe award para melhor ator (coadjuvante/secundario) em cinema e o sag award para melhor ator (principal) em cinema daquele ano. ganhou o premio de interpretacao masculina no festival de cannes e o goya 2009 para o melhor actor principal pelo seu papel de ernesto guevara no filme che."
+            ],
+            [
+              "*savages_(filme)",
+              "elenco",
+              "*benicio_del_toro"
+            ]
+          ],
+          "score": 13.847497,
+          "detail": {
+            "keywords": [
+              "benicio_del_toro",
+              "filme",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 12.347497,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "benicio_del_toro": {
+                  "keyword": {
+                    "termo": "benicio_del_toro",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "benicio_del_toro",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "savages_(filme)",
+                  "score": 1.5165893
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*benicio_del_toro",
+              "*abstract",
+              "*benicio monserrate rafael del toro sanchez (san juan, 19 de fevereiro de 1967) e um ator e produtor porto-riquenho. foi o segundo actor de porto rico a conquistar um oscar da academia de artes e ciencias cinematograficas de hollywood, apos rita moreno. conquistou este premio na categoria de melhor ator (coadjuvante/secundario), pelo filme traffic, em 2001, pelo qual tambem recebeu o golden globe award para melhor ator (coadjuvante/secundario) em cinema e o sag award para melhor ator (principal) em cinema daquele ano. ganhou o premio de interpretacao masculina no festival de cannes e o goya 2009 para o melhor actor principal pelo seu papel de ernesto guevara no filme che."
+            ],
+            [
+              "*sicario_(filme)",
+              "elenco",
+              "*benicio_del_toro"
+            ]
+          ],
+          "score": 13.847497,
+          "detail": {
+            "keywords": [
+              "benicio_del_toro",
+              "filme",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 12.347497,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "benicio_del_toro": {
+                  "keyword": {
+                    "termo": "benicio_del_toro",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "benicio_del_toro",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "sicario_(filme)",
+                  "score": 1.5165893
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*benicio_del_toro",
+              "*abstract",
+              "*benicio monserrate rafael del toro sanchez (san juan, 19 de fevereiro de 1967) e um ator e produtor porto-riquenho. foi o segundo actor de porto rico a conquistar um oscar da academia de artes e ciencias cinematograficas de hollywood, apos rita moreno. conquistou este premio na categoria de melhor ator (coadjuvante/secundario), pelo filme traffic, em 2001, pelo qual tambem recebeu o golden globe award para melhor ator (coadjuvante/secundario) em cinema e o sag award para melhor ator (principal) em cinema daquele ano. ganhou o premio de interpretacao masculina no festival de cannes e o goya 2009 para o melhor actor principal pelo seu papel de ernesto guevara no filme che."
+            ],
+            [
+              "*savages_(filme)",
+              "starring",
+              "*benicio_del_toro"
+            ]
+          ],
+          "score": 13.847497,
+          "detail": {
+            "keywords": [
+              "benicio_del_toro",
+              "filme",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 12.347497,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "benicio_del_toro": {
+                  "keyword": {
+                    "termo": "benicio_del_toro",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "benicio_del_toro",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "savages_(filme)",
+                  "score": 1.5165893
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*benicio_del_toro",
+              "*abstract",
+              "*benicio monserrate rafael del toro sanchez (san juan, 19 de fevereiro de 1967) e um ator e produtor porto-riquenho. foi o segundo actor de porto rico a conquistar um oscar da academia de artes e ciencias cinematograficas de hollywood, apos rita moreno. conquistou este premio na categoria de melhor ator (coadjuvante/secundario), pelo filme traffic, em 2001, pelo qual tambem recebeu o golden globe award para melhor ator (coadjuvante/secundario) em cinema e o sag award para melhor ator (principal) em cinema daquele ano. ganhou o premio de interpretacao masculina no festival de cannes e o goya 2009 para o melhor actor principal pelo seu papel de ernesto guevara no filme che."
+            ],
+            [
+              "*traffic_(filme)",
+              "starring",
+              "*benicio_del_toro"
+            ]
+          ],
+          "score": 13.847497,
+          "detail": {
+            "keywords": [
+              "benicio_del_toro",
+              "filme",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 12.347497,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "benicio_del_toro": {
+                  "keyword": {
+                    "termo": "benicio_del_toro",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "benicio_del_toro",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "traffic_(filme)",
+                  "score": 1.5165893
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*benicio_del_toro",
+              "*abstract",
+              "*benicio monserrate rafael del toro sanchez (san juan, 19 de fevereiro de 1967) e um ator e produtor porto-riquenho. foi o segundo actor de porto rico a conquistar um oscar da academia de artes e ciencias cinematograficas de hollywood, apos rita moreno. conquistou este premio na categoria de melhor ator (coadjuvante/secundario), pelo filme traffic, em 2001, pelo qual tambem recebeu o golden globe award para melhor ator (coadjuvante/secundario) em cinema e o sag award para melhor ator (principal) em cinema daquele ano. ganhou o premio de interpretacao masculina no festival de cannes e o goya 2009 para o melhor actor principal pelo seu papel de ernesto guevara no filme che."
+            ],
+            [
+              "*sicario_(filme)",
+              "starring",
+              "*benicio_del_toro"
+            ]
+          ],
+          "score": 13.847497,
+          "detail": {
+            "keywords": [
+              "benicio_del_toro",
+              "filme",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 12.347497,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "benicio_del_toro": {
+                  "keyword": {
+                    "termo": "benicio_del_toro",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "benicio_del_toro",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "sicario_(filme)",
+                  "score": 1.5165893
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*benicio_del_toro",
+              "*abstract",
+              "*benicio monserrate rafael del toro sanchez (san juan, 19 de fevereiro de 1967) e um ator e produtor porto-riquenho. foi o segundo actor de porto rico a conquistar um oscar da academia de artes e ciencias cinematograficas de hollywood, apos rita moreno. conquistou este premio na categoria de melhor ator (coadjuvante/secundario), pelo filme traffic, em 2001, pelo qual tambem recebeu o golden globe award para melhor ator (coadjuvante/secundario) em cinema e o sag award para melhor ator (principal) em cinema daquele ano. ganhou o premio de interpretacao masculina no festival de cannes e o goya 2009 para o melhor actor principal pelo seu papel de ernesto guevara no filme che."
+            ],
+            [
+              "*traffic_(filme)",
+              "elenco",
+              "*benicio_del_toro"
+            ]
+          ],
+          "score": 13.847497,
+          "detail": {
+            "keywords": [
+              "benicio_del_toro",
+              "filme",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 12.347497,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "benicio_del_toro": {
+                  "keyword": {
+                    "termo": "benicio_del_toro",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "benicio_del_toro",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "traffic_(filme)",
+                  "score": 1.5165893
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*sin_city_(filme)",
+              "starring",
+              "*benicio_del_toro"
+            ],
+            [
+              "*benicio_del_toro",
+              "*abstract",
+              "*benicio monserrate rafael del toro sanchez (san juan, 19 de fevereiro de 1967) e um ator e produtor porto-riquenho. foi o segundo actor de porto rico a conquistar um oscar da academia de artes e ciencias cinematograficas de hollywood, apos rita moreno. conquistou este premio na categoria de melhor ator (coadjuvante/secundario), pelo filme traffic, em 2001, pelo qual tambem recebeu o golden globe award para melhor ator (coadjuvante/secundario) em cinema e o sag award para melhor ator (principal) em cinema daquele ano. ganhou o premio de interpretacao masculina no festival de cannes e o goya 2009 para o melhor actor principal pelo seu papel de ernesto guevara no filme che."
+            ]
+          ],
+          "score": 13.790097,
+          "detail": {
+            "keywords": [
+              "benicio_del_toro",
+              "filme",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 12.290097,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "benicio_del_toro": {
+                  "keyword": {
+                    "termo": "benicio_del_toro",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "benicio_del_toro",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "sin_city_(filme)",
+                  "score": 1.4591899
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*sin_city_(filme)",
+              "elenco",
+              "*benicio_del_toro"
+            ],
+            [
+              "*benicio_del_toro",
+              "*abstract",
+              "*benicio monserrate rafael del toro sanchez (san juan, 19 de fevereiro de 1967) e um ator e produtor porto-riquenho. foi o segundo actor de porto rico a conquistar um oscar da academia de artes e ciencias cinematograficas de hollywood, apos rita moreno. conquistou este premio na categoria de melhor ator (coadjuvante/secundario), pelo filme traffic, em 2001, pelo qual tambem recebeu o golden globe award para melhor ator (coadjuvante/secundario) em cinema e o sag award para melhor ator (principal) em cinema daquele ano. ganhou o premio de interpretacao masculina no festival de cannes e o goya 2009 para o melhor actor principal pelo seu papel de ernesto guevara no filme che."
+            ]
+          ],
+          "score": 13.790097,
+          "detail": {
+            "keywords": [
+              "benicio_del_toro",
+              "filme",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 12.290097,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "benicio_del_toro": {
+                  "keyword": {
+                    "termo": "benicio_del_toro",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "benicio_del_toro",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "sin_city_(filme)",
+                  "score": 1.4591899
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*benicio_del_toro",
+              "*abstract",
+              "*benicio monserrate rafael del toro sanchez (san juan, 19 de fevereiro de 1967) e um ator e produtor porto-riquenho. foi o segundo actor de porto rico a conquistar um oscar da academia de artes e ciencias cinematograficas de hollywood, apos rita moreno. conquistou este premio na categoria de melhor ator (coadjuvante/secundario), pelo filme traffic, em 2001, pelo qual tambem recebeu o golden globe award para melhor ator (coadjuvante/secundario) em cinema e o sag award para melhor ator (principal) em cinema daquele ano. ganhou o premio de interpretacao masculina no festival de cannes e o goya 2009 para o melhor actor principal pelo seu papel de ernesto guevara no filme che."
+            ],
+            [
+              "*sin_city_(filme)",
+              "starring",
+              "*benicio_del_toro"
+            ]
+          ],
+          "score": 13.790097,
+          "detail": {
+            "keywords": [
+              "benicio_del_toro",
+              "filme",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 12.290097,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "benicio_del_toro": {
+                  "keyword": {
+                    "termo": "benicio_del_toro",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "benicio_del_toro",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "sin_city_(filme)",
+                  "score": 1.4591899
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*benicio_del_toro",
+              "*abstract",
+              "*benicio monserrate rafael del toro sanchez (san juan, 19 de fevereiro de 1967) e um ator e produtor porto-riquenho. foi o segundo actor de porto rico a conquistar um oscar da academia de artes e ciencias cinematograficas de hollywood, apos rita moreno. conquistou este premio na categoria de melhor ator (coadjuvante/secundario), pelo filme traffic, em 2001, pelo qual tambem recebeu o golden globe award para melhor ator (coadjuvante/secundario) em cinema e o sag award para melhor ator (principal) em cinema daquele ano. ganhou o premio de interpretacao masculina no festival de cannes e o goya 2009 para o melhor actor principal pelo seu papel de ernesto guevara no filme che."
+            ],
+            [
+              "*sin_city_(filme)",
+              "elenco",
+              "*benicio_del_toro"
+            ]
+          ],
+          "score": 13.790097,
+          "detail": {
+            "keywords": [
+              "benicio_del_toro",
+              "filme",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 12.290097,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "benicio_del_toro": {
+                  "keyword": {
+                    "termo": "benicio_del_toro",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "benicio_del_toro",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "sin_city_(filme)",
+                  "score": 1.4591899
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*benicio_del_toro",
+              "award",
+              "*che_(filme)"
+            ],
+            [
+              "*benicio_del_toro",
+              "*activeyearsstartyear",
+              "1987"
+            ]
+          ],
+          "score": 13.657896,
+          "detail": {
+            "keywords": [
+              "benicio_del_toro",
+              "filme",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 12.157896,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "benicio_del_toro": {
+                  "keyword": {
+                    "termo": "benicio_del_toro",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "benicio_del_toro",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "che_(filme)",
+                  "score": 1.7326335
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "activeyearsstartyear",
+                  "score": 0.42526215
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*benicio_del_toro",
+              "*activeyearsstartyear",
+              "1987"
+            ],
+            [
+              "*benicio_del_toro",
+              "award",
+              "*che_(filme)"
+            ]
+          ],
+          "score": 13.657896,
+          "detail": {
+            "keywords": [
+              "benicio_del_toro",
+              "atuar",
+              "filme"
+            ],
+            "score_detail": {
+              "m1": 12.157896,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "benicio_del_toro": {
+                  "keyword": {
+                    "termo": "benicio_del_toro",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "benicio_del_toro",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "che_(filme)",
+                  "score": 1.7326335
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "activeyearsstartyear",
+                  "score": 0.42526215
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*benicio_del_toro",
+              "*abstract",
+              "*benicio monserrate rafael del toro sanchez (san juan, 19 de fevereiro de 1967) e um ator e produtor porto-riquenho. foi o segundo actor de porto rico a conquistar um oscar da academia de artes e ciencias cinematograficas de hollywood, apos rita moreno. conquistou este premio na categoria de melhor ator (coadjuvante/secundario), pelo filme traffic, em 2001, pelo qual tambem recebeu o golden globe award para melhor ator (coadjuvante/secundario) em cinema e o sag award para melhor ator (principal) em cinema daquele ano. ganhou o premio de interpretacao masculina no festival de cannes e o goya 2009 para o melhor actor principal pelo seu papel de ernesto guevara no filme che."
+            ],
+            [
+              "che_(2008)",
+              "*producer",
+              "*benicio_del_toro"
+            ]
+          ],
+          "score": 13.48349,
+          "detail": {
+            "keywords": [
+              "benicio_del_toro",
+              "filme",
+              "atuar",
+              "produzir"
+            ],
+            "score_detail": {
+              "m1": 11.816823,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "benicio_del_toro": {
+                  "keyword": {
+                    "termo": "benicio_del_toro",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "benicio_del_toro",
+                  "score": 10.0
+                },
+                "produzir": {
+                  "keyword": {
+                    "termo": "produce",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "producer",
+                  "score": 0.9859155
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "benicio monserrate rafael del toro sanchez (san juan, 19 de fevereiro de 1967) e um ator e produtor porto-riquenho. foi o segundo actor de porto rico a conquistar um oscar da academia de artes e ciencias cinematograficas de hollywood, apos rita moreno. conquistou este premio na categoria de melhor ator (coadjuvante/secundario), pelo filme traffic, em 2001, pelo qual tambem recebeu o golden globe award para melhor ator (coadjuvante/secundario) em cinema e o sag award para melhor ator (principal) em cinema daquele ano. ganhou o premio de interpretacao masculina no festival de cannes e o goya 2009 para o melhor actor principal pelo seu papel de ernesto guevara no filme che.",
+                  "score": 1.2627688e-27
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "che_(2008)",
+              "*producer",
+              "*benicio_del_toro"
+            ],
+            [
+              "*benicio_del_toro",
+              "*abstract",
+              "*benicio monserrate rafael del toro sanchez (san juan, 19 de fevereiro de 1967) e um ator e produtor porto-riquenho. foi o segundo actor de porto rico a conquistar um oscar da academia de artes e ciencias cinematograficas de hollywood, apos rita moreno. conquistou este premio na categoria de melhor ator (coadjuvante/secundario), pelo filme traffic, em 2001, pelo qual tambem recebeu o golden globe award para melhor ator (coadjuvante/secundario) em cinema e o sag award para melhor ator (principal) em cinema daquele ano. ganhou o premio de interpretacao masculina no festival de cannes e o goya 2009 para o melhor actor principal pelo seu papel de ernesto guevara no filme che."
+            ]
+          ],
+          "score": 13.48349,
+          "detail": {
+            "keywords": [
+              "produzir",
+              "benicio_del_toro",
+              "filme",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 11.816823,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "produzir": {
+                  "keyword": {
+                    "termo": "produce",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "producer",
+                  "score": 0.9859155
+                },
+                "benicio_del_toro": {
+                  "keyword": {
+                    "termo": "benicio_del_toro",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "benicio_del_toro",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "benicio monserrate rafael del toro sanchez (san juan, 19 de fevereiro de 1967) e um ator e produtor porto-riquenho. foi o segundo actor de porto rico a conquistar um oscar da academia de artes e ciencias cinematograficas de hollywood, apos rita moreno. conquistou este premio na categoria de melhor ator (coadjuvante/secundario), pelo filme traffic, em 2001, pelo qual tambem recebeu o golden globe award para melhor ator (coadjuvante/secundario) em cinema e o sag award para melhor ator (principal) em cinema daquele ano. ganhou o premio de interpretacao masculina no festival de cannes e o goya 2009 para o melhor actor principal pelo seu papel de ernesto guevara no filme che.",
+                  "score": 1.2627688e-27
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "abstract",
+                  "score": 0.8309075
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*benicio_del_toro",
+              "award",
+              "*traffic_(filme)"
+            ],
+            [
+              "*benicio_del_toro",
+              "*activeyearsstartyear",
+              "1987"
+            ]
+          ],
+          "score": 13.441852,
+          "detail": {
+            "keywords": [
+              "benicio_del_toro",
+              "filme",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 11.941852,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "benicio_del_toro": {
+                  "keyword": {
+                    "termo": "benicio_del_toro",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "benicio_del_toro",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "traffic_(filme)",
+                  "score": 1.5165893
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "activeyearsstartyear",
+                  "score": 0.42526215
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*savages_(filme)",
+              "elenco",
+              "*benicio_del_toro"
+            ],
+            [
+              "*benicio_del_toro",
+              "*activeyearsstartyear",
+              "1987"
+            ]
+          ],
+          "score": 13.441852,
+          "detail": {
+            "keywords": [
+              "benicio_del_toro",
+              "filme",
+              "atuar"
+            ],
+            "score_detail": {
+              "m1": 11.941852,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "benicio_del_toro": {
+                  "keyword": {
+                    "termo": "benicio_del_toro",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "benicio_del_toro",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "savages_(filme)",
+                  "score": 1.5165893
+                },
+                "atuar": {
+                  "keyword": {
+                    "termo": "act",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "activeyearsstartyear",
+                  "score": 0.42526215
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 1176119300,
+      "total_time": 11902638200
+    }
+  }
+]

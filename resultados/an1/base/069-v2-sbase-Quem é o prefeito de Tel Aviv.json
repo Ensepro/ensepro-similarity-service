@@ -1,0 +1,1606 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "Cs:spec",
+          "palavra_original": "Quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "M/F",
+            "S/P"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "é",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "prefeito",
+          "palavra_canonica": "prefeito",
+          "tags": [
+            "<Hprof>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Tel_Aviv",
+          "palavra_canonica": "Tel_Aviv",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "Cs:spec",
+          "palavra_original": "Quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "M/F",
+            "S/P"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "é",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "prefeito",
+          "palavra_canonica": "prefeito",
+          "tags": [
+            "<Hprof>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "mayor",
+                "sinonimo": "presidente_da_câmara_municipal",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "mayor",
+                "sinonimo": "autarca",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "burgomaster",
+                "sinonimo": "prefeito",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "mayoress",
+                "sinonimo": "presidente_da_câmara",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "burgomaster",
+                "sinonimo": "burgomaster",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "mayor",
+                "sinonimo": "city_manager",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "mayor",
+                "sinonimo": "mayor",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "mayoress",
+                "sinonimo": "mayoress",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Tel_Aviv",
+          "palavra_canonica": "Tel_Aviv",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 10,
+          "tag_inicial": "?",
+          "palavra_original": " ",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "[ [ QUE:fcl|1| [Cs:spec|2| Quem] [P:v-fin|3| é] [ S:np|4| [DN:art|5| o] [H:n|6| prefeito] [ DN:pp|7| [H:prp|8| de] [DP:prop|9| Tel_Aviv] ] ] [?|10|  ] ] ]",
+      "tipo": {
+        "tipo": "quem",
+        "confianca": 0.89,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "prefeito",
+          "palavra_canonica": "prefeito",
+          "tags": [
+            "<Hprof>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "mayor",
+                "sinonimo": "presidente_da_câmara_municipal",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "mayor",
+                "sinonimo": "autarca",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "burgomaster",
+                "sinonimo": "prefeito",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "mayoress",
+                "sinonimo": "presidente_da_câmara",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "burgomaster",
+                "sinonimo": "burgomaster",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "mayor",
+                "sinonimo": "city_manager",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "mayor",
+                "sinonimo": "mayor",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "mayoress",
+                "sinonimo": "mayoress",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Tel_Aviv",
+          "palavra_canonica": "Tel_Aviv",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 6,
+            "tag_inicial": "H:n",
+            "palavra_original": "prefeito",
+            "palavra_canonica": "prefeito",
+            "tags": [
+              "<Hprof>",
+              "M",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "mayor",
+                  "sinonimo": "presidente_da_câmara_municipal",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "mayor",
+                  "sinonimo": "autarca",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "burgomaster",
+                  "sinonimo": "prefeito",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "mayoress",
+                  "sinonimo": "presidente_da_câmara",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "burgomaster",
+                  "sinonimo": "burgomaster",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "mayor",
+                  "sinonimo": "city_manager",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "mayor",
+                  "sinonimo": "mayor",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "mayoress",
+                  "sinonimo": "mayoress",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 9,
+            "tag_inicial": "DP:prop",
+            "palavra_original": "Tel_Aviv",
+            "palavra_canonica": "Tel_Aviv",
+            "tags": [
+              "<civ>",
+              "<*>",
+              "M",
+              "S"
+            ],
+            "nivel": 3,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "*tel_aviv",
+              "*prefeito",
+              "ron_huldai"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "prefeito",
+              "tel_aviv"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "prefeito": {
+                  "keyword": {
+                    "termo": "prefeito",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prefeito",
+                  "score": 2.0
+                },
+                "tel_aviv": {
+                  "keyword": {
+                    "termo": "tel_aviv",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tel_aviv",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "tel_aviv": "-1",
+              "prefeito": "-119"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*tel_aviv",
+              "*prefeito",
+              "ron_huldai"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "prefeito",
+              "tel_aviv"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "prefeito": {
+                  "keyword": {
+                    "termo": "prefeito",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prefeito",
+                  "score": 2.0
+                },
+                "tel_aviv": {
+                  "keyword": {
+                    "termo": "tel_aviv",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tel_aviv",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "tel_aviv": "-1",
+              "prefeito": "-119"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*tel_aviv",
+              "*mayor",
+              "ron_huldai"
+            ]
+          ],
+          "score": 12.666667,
+          "detail": {
+            "keywords": [
+              "prefeito",
+              "tel_aviv"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "prefeito": {
+                  "keyword": {
+                    "termo": "mayor",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "mayor",
+                  "score": 1.0
+                },
+                "tel_aviv": {
+                  "keyword": {
+                    "termo": "tel_aviv",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tel_aviv",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*tel_aviv",
+              "owl#sameas",
+              "q33935"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "tel_aviv"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tel_aviv": {
+                  "keyword": {
+                    "termo": "tel_aviv",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tel_aviv",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*tel_aviv",
+              "owl#sameas",
+              "*tel_aviv"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "tel_aviv"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tel_aviv": {
+                  "keyword": {
+                    "termo": "tel_aviv",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tel_aviv",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*tel_aviv",
+              "owl#sameas",
+              "*tel_aviv_jaffa"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "tel_aviv"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tel_aviv": {
+                  "keyword": {
+                    "termo": "tel_aviv",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tel_aviv",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*tel_aviv",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "tel_aviv"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tel_aviv": {
+                  "keyword": {
+                    "termo": "tel_aviv",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tel_aviv",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*tel_aviv",
+              "owl#sameas",
+              6
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "tel_aviv"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tel_aviv": {
+                  "keyword": {
+                    "termo": "tel_aviv",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tel_aviv",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*tel_aviv",
+              "owl#sameas",
+              "tel_awiw_jafa"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "tel_aviv"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tel_aviv": {
+                  "keyword": {
+                    "termo": "tel_aviv",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tel_aviv",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*tel_aviv",
+              "owl#sameas",
+              "tel_viv"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "tel_aviv"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tel_aviv": {
+                  "keyword": {
+                    "termo": "tel_aviv",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tel_aviv",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*tel_aviv",
+              "owl#sameas",
+              "__"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "tel_aviv"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tel_aviv": {
+                  "keyword": {
+                    "termo": "tel_aviv",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tel_aviv",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*tel_aviv",
+              "owl#sameas",
+              "*tel_aviv_(kapital_sa_distrito_sa_israel)"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "tel_aviv"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tel_aviv": {
+                  "keyword": {
+                    "termo": "tel_aviv",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tel_aviv",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*tel_aviv",
+              "owl#sameas",
+              "*tel_aviv_yafo"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "tel_aviv"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tel_aviv": {
+                  "keyword": {
+                    "termo": "tel_aviv",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tel_aviv",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*tel_aviv",
+              "owl#sameas",
+              "*tel_avivo"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "tel_aviv"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tel_aviv": {
+                  "keyword": {
+                    "termo": "tel_aviv",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tel_aviv",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*tel_aviv",
+              "owl#sameas",
+              "telavivum"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "tel_aviv"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tel_aviv": {
+                  "keyword": {
+                    "termo": "tel_aviv",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tel_aviv",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*tel_aviv",
+              "owl#sameas",
+              "*tel_avivas"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "tel_aviv"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tel_aviv": {
+                  "keyword": {
+                    "termo": "tel_aviv",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tel_aviv",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*tel_aviv",
+              "owl#sameas",
+              "telaviva"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "tel_aviv"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tel_aviv": {
+                  "keyword": {
+                    "termo": "tel_aviv",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tel_aviv",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*tel_aviv",
+              "owl#sameas",
+              "*tel_aviv_jafo"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "tel_aviv"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tel_aviv": {
+                  "keyword": {
+                    "termo": "tel_aviv",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tel_aviv",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*tel_aviv",
+              "owl#sameas",
+              "tel_abib"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "tel_aviv"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tel_aviv": {
+                  "keyword": {
+                    "termo": "tel_aviv",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tel_aviv",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*tel_aviv",
+              "owl#sameas",
+              "*tel_aviv"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "tel_aviv"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tel_aviv": {
+                  "keyword": {
+                    "termo": "tel_aviv",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tel_aviv",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*tel_aviv",
+              "wikipageusestemplate",
+              "cidade_de_israel_2"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "tel_aviv"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tel_aviv": {
+                  "keyword": {
+                    "termo": "tel_aviv",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tel_aviv",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*tel_aviv",
+              "wikipageusestemplate",
+              "predefinicao:lang_he_n"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "tel_aviv"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tel_aviv": {
+                  "keyword": {
+                    "termo": "tel_aviv",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tel_aviv",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*tel_aviv",
+              "wikipageusestemplate",
+              "predefinicao:lang_ar"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "tel_aviv"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tel_aviv": {
+                  "keyword": {
+                    "termo": "tel_aviv",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tel_aviv",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*tel_aviv",
+              "wikipageusestemplate",
+              "predefinicao:transl"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "tel_aviv"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tel_aviv": {
+                  "keyword": {
+                    "termo": "tel_aviv",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tel_aviv",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*tel_aviv",
+              "wikipageusestemplate",
+              "predefinicao:limpar"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "tel_aviv"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tel_aviv": {
+                  "keyword": {
+                    "termo": "tel_aviv",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tel_aviv",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*tel_aviv",
+              "wikipageusestemplate",
+              "predefinicao:coord"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "tel_aviv"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tel_aviv": {
+                  "keyword": {
+                    "termo": "tel_aviv",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tel_aviv",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*tel_aviv",
+              "wikipageusestemplate",
+              "predefinicao:flagicon"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "tel_aviv"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tel_aviv": {
+                  "keyword": {
+                    "termo": "tel_aviv",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tel_aviv",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*tel_aviv",
+              "wikipageusestemplate",
+              "predefinicao:artigo_principal"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "tel_aviv"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tel_aviv": {
+                  "keyword": {
+                    "termo": "tel_aviv",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tel_aviv",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*tel_aviv",
+              "wikipageusestemplate",
+              "sitio_do_patrimonio_mundial"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "tel_aviv"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tel_aviv": {
+                  "keyword": {
+                    "termo": "tel_aviv",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tel_aviv",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*tel_aviv",
+              "wikipageusestemplate",
+              "predefinicao:panorama"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "tel_aviv"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tel_aviv": {
+                  "keyword": {
+                    "termo": "tel_aviv",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tel_aviv",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*tel_aviv",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "tel_aviv"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "tel_aviv": {
+                  "keyword": {
+                    "termo": "tel_aviv",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tel_aviv",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 8326643200,
+      "total_time": 19798709300
+    }
+  }
+]

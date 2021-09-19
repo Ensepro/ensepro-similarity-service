@@ -1,0 +1,2534 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "Encontre",
+          "palavra_canonica": "encontrar",
+          "tags": [
+            "<fmc>",
+            "<*>",
+            "<vH>",
+            "<mv>",
+            "PR",
+            "1/3S",
+            "SUBJ",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:pron-indef",
+          "palavra_original": "todos_os",
+          "palavra_canonica": "todo_o",
+          "tags": [
+            "<quant>",
+            "DET",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "filmes",
+          "palavra_canonica": "filme",
+          "tags": [
+            "<sem-w>",
+            "<cc>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "Co:icl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "P:v-pcp",
+          "palavra_original": "dirigidos",
+          "palavra_canonica": "dirigir",
+          "tags": [
+            "<vH>",
+            "<jh>",
+            "<mv>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "fApass:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "H:prp",
+          "palavra_original": "por",
+          "palavra_canonica": "por",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Francis",
+          "palavra_canonica": "Francis",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "Ford_Coppola",
+          "palavra_canonica": "Ford_Coppola",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<foreign>",
+            "<np-close>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 13,
+          "tag_inicial": ".",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 3,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "Encontre",
+          "palavra_canonica": "encontrar",
+          "tags": [
+            "<fmc>",
+            "<*>",
+            "<vH>",
+            "<mv>",
+            "PR",
+            "1/3S",
+            "SUBJ",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:pron-indef",
+          "palavra_original": "todos_os",
+          "palavra_canonica": "todo_o",
+          "tags": [
+            "<quant>",
+            "DET",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "filmes",
+          "palavra_canonica": "filme",
+          "tags": [
+            "<sem-w>",
+            "<cc>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "film",
+                "sinonimo": "filme_fotográfico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "filme",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "Filme_fotografico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "película",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "Filme_Fotográfico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "cinema",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "produção",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "filmes",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "movie",
+                "sinonimo": "movie",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "moving-picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "motion_picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "pic",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "photographic_film",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "film",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "flick",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "moving_picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "motion-picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "Co:icl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "P:v-pcp",
+          "palavra_original": "dirigidos",
+          "palavra_canonica": "dirigir",
+          "tags": [
+            "<vH>",
+            "<jh>",
+            "<mv>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "steer",
+                "sinonimo": "esterçar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "canalizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "govern",
+                "sinonimo": "dirigir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "govern",
+                "sinonimo": "governar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "direct",
+                "sinonimo": "guiar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "comandar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "apontar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "encabeçar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "direcionar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "lidar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "dominate",
+                "sinonimo": "reger",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "drive",
+                "sinonimo": "conduzir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "govern",
+                "sinonimo": "gerir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "liderar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "dominate",
+                "sinonimo": "dominar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "dominate",
+                "sinonimo": "master",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "deal",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "manoeuver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "steer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "manoeuvre",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "lead",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "dominate",
+                "sinonimo": "dominate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "aim",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "address",
+                "sinonimo": "turn_to",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "care",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "govern",
+                "sinonimo": "govern",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "direct",
+                "sinonimo": "direct",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "handle",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "channelise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "point",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "address",
+                "sinonimo": "address",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "target",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "channelize",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "manage",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "maneuver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "guide",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "drive",
+                "sinonimo": "drive",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "head",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "place",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 8,
+          "tag_inicial": "fApass:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "H:prp",
+          "palavra_original": "por",
+          "palavra_canonica": "por",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Francis",
+          "palavra_canonica": "Francis",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 12,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "Ford_coppola",
+          "palavra_canonica": "Ford_coppola",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "<np-close>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "arvore": "[ [ STA:fcl|1| [P:v-fin|2| Encontre] [ Od:np|3| [DN:pron-indef|4| todos_os] [H:n|5| filmes] ] [ Co:icl|6| [P:v-pcp|7| dirigidos] [ fApass:pp|8| [H:prp|9| por] [ DP:np|10| [H:prop|11| Francis] [DN:prop|12| Ford_coppola] ] ] ] ] ]",
+      "tipo": {
+        "tipo": "consulta",
+        "confianca": 0.65,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "filmes",
+          "palavra_canonica": "filme",
+          "tags": [
+            "<sem-w>",
+            "<cc>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "film",
+                "sinonimo": "filme_fotográfico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "filme",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "Filme_fotografico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "película",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "Filme_Fotográfico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "cinema",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "produção",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "filmes",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "movie",
+                "sinonimo": "movie",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "moving-picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "motion_picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "pic",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "photographic_film",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "film",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "flick",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "moving_picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "motion-picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "P:v-pcp",
+          "palavra_original": "dirigidos",
+          "palavra_canonica": "dirigir",
+          "tags": [
+            "<vH>",
+            "<jh>",
+            "<mv>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "steer",
+                "sinonimo": "esterçar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "canalizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "govern",
+                "sinonimo": "dirigir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "govern",
+                "sinonimo": "governar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "direct",
+                "sinonimo": "guiar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "comandar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "apontar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "encabeçar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "direcionar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "lidar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "dominate",
+                "sinonimo": "reger",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "drive",
+                "sinonimo": "conduzir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "govern",
+                "sinonimo": "gerir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "liderar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "dominate",
+                "sinonimo": "dominar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "dominate",
+                "sinonimo": "master",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "deal",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "manoeuver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "steer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "manoeuvre",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "lead",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "dominate",
+                "sinonimo": "dominate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "aim",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "address",
+                "sinonimo": "turn_to",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "care",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "govern",
+                "sinonimo": "govern",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "direct",
+                "sinonimo": "direct",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "handle",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "channelise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "point",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "address",
+                "sinonimo": "address",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "target",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "channelize",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "manage",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "maneuver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "guide",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "drive",
+                "sinonimo": "drive",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "head",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "place",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 11,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Francis",
+          "palavra_canonica": "Francis",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 12,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "Ford_coppola",
+          "palavra_canonica": "Ford_coppola",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "<np-close>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 11,
+            "tag_inicial": "H:prop",
+            "palavra_original": "Francis",
+            "palavra_canonica": "Francis",
+            "tags": [
+              "<hum>",
+              "<*>",
+              "M",
+              "S"
+            ],
+            "nivel": 4,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          },
+          "complemento": {
+            "id": 12,
+            "tag_inicial": "DN:prop",
+            "palavra_original": "Ford_coppola",
+            "palavra_canonica": "Ford_coppola",
+            "tags": [
+              "<hum>",
+              "<*>",
+              "<heur>",
+              "<foreign>",
+              "<np-close>",
+              "M",
+              "S"
+            ],
+            "nivel": 4,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*hellboy_(filme)",
+              "*diretordearte",
+              "*peter francis"
+            ]
+          ],
+          "score": 13.825229,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "francis",
+              "filme"
+            ],
+            "score_detail": {
+              "m1": 12.325229,
+              "m2": 1.0,
+              "m3": 0.5,
+              "matches": {
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretordearte",
+                  "score": 1.8014399
+                },
+                "francis": {
+                  "keyword": {
+                    "termo": "francis",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "peter francis",
+                  "score": 9.007199
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "hellboy_(filme)",
+                  "score": 1.5165893
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0
+        },
+        {
+          "triples": [
+            [
+              "when_lincoln_paid",
+              "*direcao",
+              "*francis ford"
+            ]
+          ],
+          "score": 12.364473,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "francis"
+            ],
+            "score_detail": {
+              "m1": 11.197806,
+              "m2": 0.6666667,
+              "m3": 0.5,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "francis": {
+                  "keyword": {
+                    "termo": "francis",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "francis ford",
+                  "score": 9.197806
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "le_figaro",
+              "*diretor",
+              "*francis morel"
+            ]
+          ],
+          "score": 12.173866,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "francis"
+            ],
+            "score_detail": {
+              "m1": 11.007199,
+              "m2": 0.6666667,
+              "m3": 0.5,
+              "matches": {
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "francis": {
+                  "keyword": {
+                    "termo": "francis",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "francis morel",
+                  "score": 9.007199
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "colegio_santa_catarina_de_sena",
+              "*diretor",
+              "*ir. francisca"
+            ]
+          ],
+          "score": 12.173866,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "francis"
+            ],
+            "score_detail": {
+              "m1": 11.007199,
+              "m2": 0.6666667,
+              "m3": 0.5,
+              "matches": {
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "francis": {
+                  "keyword": {
+                    "termo": "francis",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "ir. francisca",
+                  "score": 9.007199
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "kahit_konting_pagtingin",
+              "*diretor",
+              "*francis pasion"
+            ]
+          ],
+          "score": 11.973119,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "francis"
+            ],
+            "score_detail": {
+              "m1": 10.806452,
+              "m2": 0.6666667,
+              "m3": 0.5,
+              "matches": {
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "francis": {
+                  "keyword": {
+                    "termo": "francis",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "francis pasion",
+                  "score": 8.806452
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*bean_(filme)",
+              "*cinematografia",
+              "*francis kenny"
+            ]
+          ],
+          "score": 11.854901,
+          "detail": {
+            "keywords": [
+              "francis",
+              "filme"
+            ],
+            "score_detail": {
+              "m1": 10.688234,
+              "m2": 0.6666667,
+              "m3": 0.5,
+              "matches": {
+                "francis": {
+                  "keyword": {
+                    "termo": "francis",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "francis kenny",
+                  "score": 9.007199
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "bean_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*francis_bazire",
+              "*picture",
+              "flaviano_vicentini"
+            ],
+            [
+              "*francis_bazire",
+              "givenname",
+              "*francis"
+            ]
+          ],
+          "score": 11.833333,
+          "detail": {
+            "keywords": [
+              "francis",
+              "filme"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "francis": {
+                  "keyword": {
+                    "termo": "francis",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "francis",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "picture",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "picture",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*francis_bazire",
+              "givenname",
+              "*francis"
+            ],
+            [
+              "*francis_bazire",
+              "*picture",
+              "flaviano_vicentini"
+            ]
+          ],
+          "score": 11.833333,
+          "detail": {
+            "keywords": [
+              "francis",
+              "filme"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "francis": {
+                  "keyword": {
+                    "termo": "francis",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "francis",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "picture",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "picture",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "crazylegs",
+              "*direcao",
+              "*francis d. lyon"
+            ]
+          ],
+          "score": 11.762385,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "francis"
+            ],
+            "score_detail": {
+              "m1": 10.595718,
+              "m2": 0.6666667,
+              "m3": 0.5,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "francis": {
+                  "keyword": {
+                    "termo": "francis",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "francis d. lyon",
+                  "score": 8.595718
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "live_at_roseland:_elements_of_4",
+              "*diretor",
+              "*francis lawrence"
+            ]
+          ],
+          "score": 11.541928,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "francis"
+            ],
+            "score_detail": {
+              "m1": 10.375261,
+              "m2": 0.6666667,
+              "m3": 0.5,
+              "matches": {
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "francis": {
+                  "keyword": {
+                    "termo": "francis",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "francis lawrence",
+                  "score": 8.375261
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "le_fatiche_di_ercole",
+              "*diretor",
+              "*pietro_francisci"
+            ]
+          ],
+          "score": 11.541928,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "francis"
+            ],
+            "score_detail": {
+              "m1": 10.375261,
+              "m2": 0.6666667,
+              "m3": 0.5,
+              "matches": {
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "francis": {
+                  "keyword": {
+                    "termo": "francis",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pietro_francisci",
+                  "score": 8.375261
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "gente_bien",
+              "*diretor",
+              "*francisco_franco"
+            ]
+          ],
+          "score": 11.541928,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "francis"
+            ],
+            "score_detail": {
+              "m1": 10.375261,
+              "m2": 0.6666667,
+              "m3": 0.5,
+              "matches": {
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "francis": {
+                  "keyword": {
+                    "termo": "francis",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "francisco_franco",
+                  "score": 8.375261
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*bean_(filme)",
+              "*cinematografia",
+              "*francis kenny"
+            ],
+            [
+              "new_jack_city",
+              "*cinematografia",
+              "*francis kenny"
+            ]
+          ],
+          "score": 11.521567,
+          "detail": {
+            "keywords": [
+              "francis",
+              "filme"
+            ],
+            "score_detail": {
+              "m1": 10.688234,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "francis": {
+                  "keyword": {
+                    "termo": "francis",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "francis kenny",
+                  "score": 9.007199
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "bean_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*bean_(filme)",
+              "*cinematografia",
+              "*francis kenny"
+            ],
+            [
+              "*coneheads",
+              "*cinematografia",
+              "*francis kenny"
+            ]
+          ],
+          "score": 11.521567,
+          "detail": {
+            "keywords": [
+              "francis",
+              "filme"
+            ],
+            "score_detail": {
+              "m1": 10.688234,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "francis": {
+                  "keyword": {
+                    "termo": "francis",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "francis kenny",
+                  "score": 9.007199
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "bean_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "new_jack_city",
+              "*cinematografia",
+              "*francis kenny"
+            ],
+            [
+              "*bean_(filme)",
+              "*cinematografia",
+              "*francis kenny"
+            ]
+          ],
+          "score": 11.521567,
+          "detail": {
+            "keywords": [
+              "francis",
+              "filme"
+            ],
+            "score_detail": {
+              "m1": 10.688234,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "francis": {
+                  "keyword": {
+                    "termo": "francis",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "francis kenny",
+                  "score": 9.007199
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "bean_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*coneheads",
+              "*cinematografia",
+              "*francis kenny"
+            ],
+            [
+              "*bean_(filme)",
+              "*cinematografia",
+              "*francis kenny"
+            ]
+          ],
+          "score": 11.521567,
+          "detail": {
+            "keywords": [
+              "francis",
+              "filme"
+            ],
+            "score_detail": {
+              "m1": 10.688234,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "francis": {
+                  "keyword": {
+                    "termo": "francis",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "francis kenny",
+                  "score": 9.007199
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "bean_(filme)",
+                  "score": 1.6810346
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "juan_dela_cruz",
+              "*diretor",
+              "*francis e. pasion"
+            ]
+          ],
+          "score": 11.312128,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "francis"
+            ],
+            "score_detail": {
+              "m1": 10.145461,
+              "m2": 0.6666667,
+              "m3": 0.5,
+              "matches": {
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "francis": {
+                  "keyword": {
+                    "termo": "francis",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "francis e. pasion",
+                  "score": 8.145461
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "sons_and_lovers",
+              "*diretordefotografia",
+              "*freddie francis"
+            ]
+          ],
+          "score": 11.294377,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "francis"
+            ],
+            "score_detail": {
+              "m1": 10.12771,
+              "m2": 0.6666667,
+              "m3": 0.5,
+              "matches": {
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretordefotografia",
+                  "score": 1.5319918
+                },
+                "francis": {
+                  "keyword": {
+                    "termo": "francis",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "freddie francis",
+                  "score": 8.595718
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*midnight_(filme)",
+              "elenco",
+              "*francis lederer"
+            ]
+          ],
+          "score": 11.221576,
+          "detail": {
+            "keywords": [
+              "francis",
+              "filme"
+            ],
+            "score_detail": {
+              "m1": 10.054909,
+              "m2": 0.6666667,
+              "m3": 0.5,
+              "matches": {
+                "francis": {
+                  "keyword": {
+                    "termo": "francis",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "francis lederer",
+                  "score": 8.595718
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "midnight_(filme)",
+                  "score": 1.4591899
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "the_gay_intruders",
+              "*producao",
+              "*francis swann"
+            ]
+          ],
+          "score": 11.173866,
+          "detail": {
+            "keywords": [
+              "francis",
+              "filme"
+            ],
+            "score_detail": {
+              "m1": 10.007199,
+              "m2": 0.6666667,
+              "m3": 0.5,
+              "matches": {
+                "francis": {
+                  "keyword": {
+                    "termo": "francis",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "francis swann",
+                  "score": 9.007199
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "producao",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "producao",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "hinduismo",
+              "*place",
+              "*san francisco"
+            ]
+          ],
+          "score": 11.173866,
+          "detail": {
+            "keywords": [
+              "dirigir",
+              "francis"
+            ],
+            "score_detail": {
+              "m1": 10.007199,
+              "m2": 0.6666667,
+              "m3": 0.5,
+              "matches": {
+                "dirigir": {
+                  "keyword": {
+                    "termo": "place",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "place",
+                  "score": 1.0
+                },
+                "francis": {
+                  "keyword": {
+                    "termo": "francis",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "san francisco",
+                  "score": 9.007199
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "in_the_days_of_the_thundering_herd",
+              "*direcao",
+              "*francis j. grandon"
+            ]
+          ],
+          "score": 11.073487,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "francis"
+            ],
+            "score_detail": {
+              "m1": 9.90682,
+              "m2": 0.6666667,
+              "m3": 0.5,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "francis": {
+                  "keyword": {
+                    "termo": "francis",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "francis j. grandon",
+                  "score": 7.90682
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "murallas_blancas",
+              "*diretor",
+              "*francisco_jambrina"
+            ]
+          ],
+          "score": 11.073487,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "francis"
+            ],
+            "score_detail": {
+              "m1": 9.90682,
+              "m2": 0.6666667,
+              "m3": 0.5,
+              "matches": {
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "francis": {
+                  "keyword": {
+                    "termo": "francis",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "francisco_jambrina",
+                  "score": 7.90682
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "abismos_de_amor",
+              "*diretor",
+              "*francisco_jambrina"
+            ]
+          ],
+          "score": 11.073487,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "francis"
+            ],
+            "score_detail": {
+              "m1": 9.90682,
+              "m2": 0.6666667,
+              "m3": 0.5,
+              "matches": {
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "francis": {
+                  "keyword": {
+                    "termo": "francis",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "francisco_jambrina",
+                  "score": 7.90682
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "no_basta_ser_medico",
+              "*diretor",
+              "*francisco_jambrina"
+            ]
+          ],
+          "score": 11.073487,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "francis"
+            ],
+            "score_detail": {
+              "m1": 9.90682,
+              "m2": 0.6666667,
+              "m3": 0.5,
+              "matches": {
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "francis": {
+                  "keyword": {
+                    "termo": "francis",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "francisco_jambrina",
+                  "score": 7.90682
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "vivimos_en_una_estrella",
+              "*diretor",
+              "*francisco_jambrina"
+            ]
+          ],
+          "score": 11.073487,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "francis"
+            ],
+            "score_detail": {
+              "m1": 9.90682,
+              "m2": 0.6666667,
+              "m3": 0.5,
+              "matches": {
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "francis": {
+                  "keyword": {
+                    "termo": "francis",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "francisco_jambrina",
+                  "score": 7.90682
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "faculdade_de_ciencias_sociais_e_humanas_da_universidade_nova_de_lisboa",
+              "*diretor",
+              "*francisco caramelo"
+            ]
+          ],
+          "score": 11.073487,
+          "detail": {
+            "keywords": [
+              "diretor",
+              "francis"
+            ],
+            "score_detail": {
+              "m1": 9.90682,
+              "m2": 0.6666667,
+              "m3": 0.5,
+              "matches": {
+                "diretor": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "diretor",
+                  "score": 2.0
+                },
+                "francis": {
+                  "keyword": {
+                    "termo": "francis",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "francisco caramelo",
+                  "score": 7.90682
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "new_jack_city",
+              "*cinematografia",
+              "*francis kenny"
+            ]
+          ],
+          "score": 11.013781,
+          "detail": {
+            "keywords": [
+              "francis",
+              "filme"
+            ],
+            "score_detail": {
+              "m1": 9.847114,
+              "m2": 0.6666667,
+              "m3": 0.5,
+              "matches": {
+                "francis": {
+                  "keyword": {
+                    "termo": "francis",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "francis kenny",
+                  "score": 9.007199
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "cinema",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cinematografia",
+                  "score": 0.83991396
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*coneheads",
+              "*cinematografia",
+              "*francis kenny"
+            ]
+          ],
+          "score": 11.013781,
+          "detail": {
+            "keywords": [
+              "francis",
+              "filme"
+            ],
+            "score_detail": {
+              "m1": 9.847114,
+              "m2": 0.6666667,
+              "m3": 0.5,
+              "matches": {
+                "francis": {
+                  "keyword": {
+                    "termo": "francis",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "francis kenny",
+                  "score": 9.007199
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "cinema",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cinematografia",
+                  "score": 0.83991396
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*francis_bazire",
+              "*picture",
+              "flaviano_vicentini"
+            ]
+          ],
+          "score": 10.973119,
+          "detail": {
+            "keywords": [
+              "francis",
+              "filme"
+            ],
+            "score_detail": {
+              "m1": 9.806452,
+              "m2": 0.6666667,
+              "m3": 0.5,
+              "matches": {
+                "francis": {
+                  "keyword": {
+                    "termo": "francis",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "francis_bazire",
+                  "score": 8.806452
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "picture",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "picture",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 13203.64236831665,
+      "l_sizes": [
+        32079,
+        15280
+      ],
+      "total_time": 32253.443956375122
+    }
+  }
+]

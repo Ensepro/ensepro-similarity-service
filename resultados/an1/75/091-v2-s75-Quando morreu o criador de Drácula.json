@@ -1,0 +1,1845 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:adv",
+          "palavra_original": "Quando",
+          "palavra_canonica": "quando",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "morreu",
+          "palavra_canonica": "morrer",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "criador",
+          "palavra_canonica": "criador",
+          "tags": [
+            "<H>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DP:n",
+          "palavra_original": "Drácula",
+          "palavra_canonica": "drácula",
+          "tags": [
+            "<prop>",
+            "<*>",
+            "<Hmyth>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:adv",
+          "palavra_original": "Quando",
+          "palavra_canonica": "quando",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "morreu",
+          "palavra_canonica": "morrer",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "succumb",
+                "sinonimo": "sucumbir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "falecer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "comer_capim_pela_raiz",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "succumb",
+                "sinonimo": "bater_a_bota",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "succumb",
+                "sinonimo": "morrer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "bater_as_botas",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "die",
+                "sinonimo": "conk",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "pass_away",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "choke",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "pass",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "kick_the_bucket",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "perish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "succumb",
+                "sinonimo": "yield",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "give-up_the_ghost",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "decease",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "go",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "drop_dead",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "cash_in_one's_chips",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "die",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "croak",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "pop_off",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "expire",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "exit",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "snuff_it",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "buy_the_farm",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "succumb",
+                "sinonimo": "succumb",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "criador",
+          "palavra_canonica": "criador",
+          "tags": [
+            "<H>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "creator",
+                "sinonimo": "creador",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "breeder",
+                "sinonimo": "criador",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "breeder",
+                "sinonimo": "stock_breeder",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "creator",
+                "sinonimo": "creator",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "breeder",
+                "sinonimo": "breeder",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DP:n",
+          "palavra_original": "Drácula",
+          "palavra_canonica": "drácula",
+          "tags": [
+            "<prop>",
+            "<*>",
+            "<Hmyth>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 10,
+          "tag_inicial": "?",
+          "palavra_original": " ",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "[ [ QUE:fcl|1| [fA:adv|2| Quando] [P:v-fin|3| morreu] [ S:np|4| [DN:art|5| o] [H:n|6| criador] [ DN:pp|7| [H:prp|8| de] [DP:n|9| Drácula] ] ] [?|10|  ] ] ]",
+      "tipo": {
+        "tipo": "quando",
+        "confianca": 0.91,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "morreu",
+          "palavra_canonica": "morrer",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "succumb",
+                "sinonimo": "sucumbir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "falecer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "comer_capim_pela_raiz",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "succumb",
+                "sinonimo": "bater_a_bota",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "succumb",
+                "sinonimo": "morrer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "bater_as_botas",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "die",
+                "sinonimo": "conk",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "pass_away",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "choke",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "pass",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "kick_the_bucket",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "perish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "succumb",
+                "sinonimo": "yield",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "give-up_the_ghost",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "decease",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "go",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "drop_dead",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "cash_in_one's_chips",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "die",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "croak",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "pop_off",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "expire",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "exit",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "snuff_it",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "die",
+                "sinonimo": "buy_the_farm",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "succumb",
+                "sinonimo": "succumb",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "criador",
+          "palavra_canonica": "criador",
+          "tags": [
+            "<H>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "creator",
+                "sinonimo": "creador",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "breeder",
+                "sinonimo": "criador",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "breeder",
+                "sinonimo": "stock_breeder",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "creator",
+                "sinonimo": "creator",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "breeder",
+                "sinonimo": "breeder",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DP:n",
+          "palavra_original": "Drácula",
+          "palavra_canonica": "drácula",
+          "tags": [
+            "<prop>",
+            "<*>",
+            "<Hmyth>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 6,
+            "tag_inicial": "H:n",
+            "palavra_original": "criador",
+            "palavra_canonica": "criador",
+            "tags": [
+              "<H>",
+              "M",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "creator",
+                  "sinonimo": "creador",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "breeder",
+                  "sinonimo": "criador",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "breeder",
+                  "sinonimo": "stock_breeder",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "creator",
+                  "sinonimo": "creator",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "breeder",
+                  "sinonimo": "breeder",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 9,
+            "tag_inicial": "DP:n",
+            "palavra_original": "Drácula",
+            "palavra_canonica": "drácula",
+            "tags": [
+              "<prop>",
+              "<*>",
+              "<Hmyth>",
+              "M",
+              "S"
+            ],
+            "nivel": 3,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*conde_dracula",
+              "*criador",
+              "bram_stoker"
+            ]
+          ],
+          "score": 12.673866,
+          "detail": {
+            "keywords": [
+              "dracula",
+              "criador"
+            ],
+            "score_detail": {
+              "m1": 11.007199,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "dracula": {
+                  "keyword": {
+                    "termo": "dracula",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "conde_dracula",
+                  "score": 9.007199
+                },
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "dracula": "-520",
+              "criador": "-1884"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*familia_dracula",
+              "*criador",
+              "william hanna e joseph barbera"
+            ]
+          ],
+          "score": 12.262385,
+          "detail": {
+            "keywords": [
+              "dracula",
+              "criador"
+            ],
+            "score_detail": {
+              "m1": 10.595718,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "dracula": {
+                  "keyword": {
+                    "termo": "dracula",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "familia_dracula",
+                  "score": 8.595718
+                },
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "dracula": "-2534",
+              "criador": "-1884"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*dracula",
+              "owl#sameas",
+              "m.026l0"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dracula"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dracula": {
+                  "keyword": {
+                    "termo": "dracula",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dracula",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*dracula",
+              "rdf_schema#label",
+              "*dracula"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dracula"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dracula": {
+                  "keyword": {
+                    "termo": "dracula",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dracula",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*dracula",
+              "owl#sameas",
+              "*dracula"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dracula"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dracula": {
+                  "keyword": {
+                    "termo": "dracula",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dracula",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*dracula_(desambiguacao)",
+              "owl#sameas",
+              "*dracula"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dracula"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dracula": {
+                  "keyword": {
+                    "termo": "dracula",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dracula",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*dracula_(orquidea)",
+              "owl#sameas",
+              "*dracula"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dracula"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dracula": {
+                  "keyword": {
+                    "termo": "dracula",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dracula",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*dracula_alcithoe",
+              "genero",
+              "*dracula"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dracula"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dracula": {
+                  "keyword": {
+                    "termo": "dracula",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dracula",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*dracula_amaliae",
+              "genero",
+              "*dracula"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dracula"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dracula": {
+                  "keyword": {
+                    "termo": "dracula",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dracula",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*dracula_andreettae",
+              "genero",
+              "*dracula"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dracula"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dracula": {
+                  "keyword": {
+                    "termo": "dracula",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dracula",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*dracula_aphrodes",
+              "genero",
+              "*dracula"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dracula"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dracula": {
+                  "keyword": {
+                    "termo": "dracula",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dracula",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*dracula_anthracina",
+              "genero",
+              "*dracula"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dracula"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dracula": {
+                  "keyword": {
+                    "termo": "dracula",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dracula",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*dracula_bella",
+              "genero",
+              "*dracula"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dracula"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dracula": {
+                  "keyword": {
+                    "termo": "dracula",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dracula",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*dracula_astuta",
+              "genero",
+              "*dracula"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dracula"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dracula": {
+                  "keyword": {
+                    "termo": "dracula",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dracula",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*dracula_bellerophon",
+              "genero",
+              "*dracula"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dracula"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dracula": {
+                  "keyword": {
+                    "termo": "dracula",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dracula",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*dracula_berthae",
+              "genero",
+              "*dracula"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dracula"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dracula": {
+                  "keyword": {
+                    "termo": "dracula",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dracula",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*dracula_brangeri",
+              "genero",
+              "*dracula"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dracula"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dracula": {
+                  "keyword": {
+                    "termo": "dracula",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dracula",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*dracula_benedictii",
+              "genero",
+              "*dracula"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dracula"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dracula": {
+                  "keyword": {
+                    "termo": "dracula",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dracula",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*dracula_carcinopsis",
+              "genero",
+              "*dracula"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dracula"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dracula": {
+                  "keyword": {
+                    "termo": "dracula",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dracula",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*dracula_chiroptera",
+              "genero",
+              "*dracula"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dracula"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dracula": {
+                  "keyword": {
+                    "termo": "dracula",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dracula",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*dracula_citrina",
+              "genero",
+              "*dracula"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dracula"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dracula": {
+                  "keyword": {
+                    "termo": "dracula",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dracula",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*dracula_erythrochaete",
+              "genero",
+              "*dracula"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dracula"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dracula": {
+                  "keyword": {
+                    "termo": "dracula",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dracula",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*dracula_diana",
+              "genero",
+              "*dracula"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dracula"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dracula": {
+                  "keyword": {
+                    "termo": "dracula",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dracula",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*dracula_deltoidea",
+              "genero",
+              "*dracula"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dracula"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dracula": {
+                  "keyword": {
+                    "termo": "dracula",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dracula",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*dracula_dodsonii",
+              "genero",
+              "*dracula"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dracula"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dracula": {
+                  "keyword": {
+                    "termo": "dracula",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dracula",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*dracula_diabola",
+              "genero",
+              "*dracula"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dracula"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dracula": {
+                  "keyword": {
+                    "termo": "dracula",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dracula",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*dracula_decussata",
+              "genero",
+              "*dracula"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dracula"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dracula": {
+                  "keyword": {
+                    "termo": "dracula",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dracula",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*dracula_dalstroemii",
+              "genero",
+              "*dracula"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dracula"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dracula": {
+                  "keyword": {
+                    "termo": "dracula",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dracula",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*dracula_dalessandroi",
+              "genero",
+              "*dracula"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dracula"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dracula": {
+                  "keyword": {
+                    "termo": "dracula",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dracula",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*dracula_cutis_bufonis",
+              "genero",
+              "*dracula"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dracula"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dracula": {
+                  "keyword": {
+                    "termo": "dracula",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dracula",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 40635011500,
+      "total_time": 61039117000
+    }
+  }
+]

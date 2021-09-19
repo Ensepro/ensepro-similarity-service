@@ -1,0 +1,1949 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Breaking_Bad",
+          "palavra_canonica": "Breaking_Bad",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "tem",
+          "palavra_canonica": "ter",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:pron-indef",
+          "palavra_original": "mais",
+          "palavra_canonica": "muito",
+          "tags": [
+            "<quant>",
+            "<KOMP>",
+            "DET",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "episódios",
+          "palavra_canonica": "episódio",
+          "tags": [
+            "<event>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DAcom:acl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:conj-s",
+          "palavra_original": "do_que",
+          "palavra_canonica": "do_que",
+          "tags": [
+            "<com>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "X:prop",
+          "palavra_original": "Game_of_Thrones",
+          "palavra_canonica": "Game_of_Thrones",
+          "tags": [
+            "<top>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Breaking_Bad",
+          "palavra_canonica": "Breaking_Bad",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "tem",
+          "palavra_canonica": "ter",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:pron-indef",
+          "palavra_original": "mais",
+          "palavra_canonica": "muito",
+          "tags": [
+            "<quant>",
+            "<KOMP>",
+            "DET",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "episódios",
+          "palavra_canonica": "episódio",
+          "tags": [
+            "<event>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "episode",
+                "sinonimo": "episódio",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "episode",
+                "sinonimo": "episode",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "episode",
+                "sinonimo": "instalment",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "episode",
+                "sinonimo": "installment",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DAcom:acl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:conj-s",
+          "palavra_original": "do_que",
+          "palavra_canonica": "do_que",
+          "tags": [
+            "<com>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "X:prop",
+          "palavra_original": "Game_of_thrones",
+          "palavra_canonica": "Game_of_thrones",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 10,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "desconhecido",
+        "confianca": 1,
+        "ids": []
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 2,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Breaking_Bad",
+          "palavra_canonica": "Breaking_Bad",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "episódios",
+          "palavra_canonica": "episódio",
+          "tags": [
+            "<event>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "episode",
+                "sinonimo": "episódio",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "episode",
+                "sinonimo": "episode",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "episode",
+                "sinonimo": "instalment",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "episode",
+                "sinonimo": "installment",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              }
+            ]
+          }
+        },
+        {
+          "id": 9,
+          "tag_inicial": "X:prop",
+          "palavra_original": "Game_of_thrones",
+          "palavra_canonica": "Game_of_thrones",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "owl#sameas",
+              11
+            ],
+            [
+              "*breaking_bad",
+              "owl#sameas",
+              11
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "game_of_thrones",
+              "breaking_bad"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "game_of_thrones": "-6",
+              "breaking_bad": "-52"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "owl#sameas",
+              "__()"
+            ],
+            [
+              "*breaking_bad",
+              "owl#sameas",
+              "__()"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "game_of_thrones",
+              "breaking_bad"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "game_of_thrones": "-6",
+              "breaking_bad": "-52"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "owl#sameas",
+              "_"
+            ],
+            [
+              "*breaking_bad",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "game_of_thrones",
+              "breaking_bad"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "game_of_thrones": "-6",
+              "breaking_bad": "-52"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "owl#sameas",
+              "___"
+            ],
+            [
+              "*breaking_bad",
+              "owl#sameas",
+              "___"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "game_of_thrones",
+              "breaking_bad"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "game_of_thrones": "-6",
+              "breaking_bad": "-52"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "owl#sameas",
+              "__"
+            ],
+            [
+              "*breaking_bad",
+              "owl#sameas",
+              "__"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "game_of_thrones",
+              "breaking_bad"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 4,
+          "bind_control": {
+            "binds": {
+              "game_of_thrones": "-6",
+              "breaking_bad": "-52"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*breaking_bad",
+              "owl#sameas",
+              "__()"
+            ],
+            [
+              "*game_of_thrones",
+              "owl#sameas",
+              "__()"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "breaking_bad",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*breaking_bad",
+              "owl#sameas",
+              "___"
+            ],
+            [
+              "*game_of_thrones",
+              "owl#sameas",
+              "___"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "breaking_bad",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*breaking_bad",
+              "owl#sameas",
+              "_"
+            ],
+            [
+              "*game_of_thrones",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "breaking_bad",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*breaking_bad",
+              "owl#sameas",
+              11
+            ],
+            [
+              "*game_of_thrones",
+              "owl#sameas",
+              11
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "breaking_bad",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*breaking_bad",
+              "owl#sameas",
+              "__"
+            ],
+            [
+              "*game_of_thrones",
+              "owl#sameas",
+              "__"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "breaking_bad",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "wikipageusestemplate",
+              "televisao"
+            ],
+            [
+              "*breaking_bad",
+              "wikipageusestemplate",
+              "televisao"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "game_of_thrones",
+              "breaking_bad"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 10,
+          "bind_control": {
+            "binds": {
+              "game_of_thrones": "-6",
+              "breaking_bad": "-52"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ],
+            [
+              "*breaking_bad",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "game_of_thrones",
+              "breaking_bad"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 11,
+          "bind_control": {
+            "binds": {
+              "game_of_thrones": "-6",
+              "breaking_bad": "-52"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ],
+            [
+              "*breaking_bad",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "game_of_thrones",
+              "breaking_bad"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 12,
+          "bind_control": {
+            "binds": {
+              "game_of_thrones": "-6",
+              "breaking_bad": "-52"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*breaking_bad",
+              "wikipageusestemplate",
+              "televisao"
+            ],
+            [
+              "*game_of_thrones",
+              "wikipageusestemplate",
+              "televisao"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "breaking_bad",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*breaking_bad",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ],
+            [
+              "*game_of_thrones",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "breaking_bad",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*breaking_bad",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ],
+            [
+              "*game_of_thrones",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "breaking_bad",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*felina_(breaking_bad)",
+              "wikipageusestemplate",
+              "*episodio_de_serie"
+            ],
+            [
+              "*blackwater_(game_of_thrones)",
+              "wikipageusestemplate",
+              "*episodio_de_serie"
+            ]
+          ],
+          "score": 20.788061,
+          "detail": {
+            "keywords": [
+              "breaking_bad",
+              "episodio",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 19.288061,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "felina_(breaking_bad)",
+                  "score": 8.983416
+                },
+                "episodio": {
+                  "keyword": {
+                    "termo": "episodio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "episodio_de_serie",
+                  "score": 1.7097765
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "blackwater_(game_of_thrones)",
+                  "score": 8.59487
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*blackwater_(game_of_thrones)",
+              "wikipageusestemplate",
+              "*episodio_de_serie"
+            ],
+            [
+              "*felina_(breaking_bad)",
+              "wikipageusestemplate",
+              "*episodio_de_serie"
+            ]
+          ],
+          "score": 20.788061,
+          "detail": {
+            "keywords": [
+              "episodio",
+              "game_of_thrones",
+              "breaking_bad"
+            ],
+            "score_detail": {
+              "m1": 19.288061,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "felina_(breaking_bad)",
+                  "score": 8.983416
+                },
+                "episodio": {
+                  "keyword": {
+                    "termo": "episodio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "episodio_de_serie",
+                  "score": 1.7097765
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "blackwater_(game_of_thrones)",
+                  "score": 8.59487
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "*episodios",
+              "60"
+            ]
+          ],
+          "score": 13.141975,
+          "detail": {
+            "keywords": [
+              "episodio",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 11.975308,
+              "m2": 0.6666667,
+              "m3": 0.5,
+              "matches": {
+                "episodio": {
+                  "keyword": {
+                    "termo": "episodio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "episodios",
+                  "score": 1.9753085
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*breaking_bad",
+              "*episodios",
+              "62"
+            ]
+          ],
+          "score": 13.141975,
+          "detail": {
+            "keywords": [
+              "breaking_bad",
+              "episodio"
+            ],
+            "score_detail": {
+              "m1": 11.975308,
+              "m2": 0.6666667,
+              "m3": 0.5,
+              "matches": {
+                "breaking_bad": {
+                  "keyword": {
+                    "termo": "breaking_bad",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "breaking_bad",
+                  "score": 10.0
+                },
+                "episodio": {
+                  "keyword": {
+                    "termo": "episodio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "episodios",
+                  "score": 1.9753085
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*blackwater_(game_of_thrones)",
+              "*episodio",
+              "9"
+            ],
+            [
+              "*blackwater_(game_of_thrones)",
+              "serie",
+              "*game_of_thrones"
+            ]
+          ],
+          "score": 12.833333,
+          "detail": {
+            "keywords": [
+              "episodio",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "episodio": {
+                  "keyword": {
+                    "termo": "episodio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "episodio",
+                  "score": 2.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*blackwater_(game_of_thrones)",
+              "serie",
+              "*game_of_thrones"
+            ],
+            [
+              "*blackwater_(game_of_thrones)",
+              "*episodio",
+              "9"
+            ]
+          ],
+          "score": 12.833333,
+          "detail": {
+            "keywords": [
+              "game_of_thrones",
+              "episodio"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "episodio": {
+                  "keyword": {
+                    "termo": "episodio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "episodio",
+                  "score": 2.0
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "*episodios",
+              "60"
+            ],
+            [
+              "*game_of_thrones",
+              "abstract",
+              "*game of thrones (em portugal, a guerra dos tronos) e uma serie de televisao norte-americana criada por david benioff e d. b. weiss para a hbo. a serie e baseada na serie de livros as cronicas de gelo e fogo (a song of ice and fire no original), escritos por george r. r. martin, com seu titulo sendo derivado do primeiro livro. game of thrones esta sendo filmada principalmente no paint hall studios, em belfast, e em outras localizacoes na irlanda do norte, espanha, navarra, marrocos, malta, croacia e islandia. sua primeira temporada estreou em 17 de abril de 2011. ja foram exibidas 6 temporadas e a 7a esta programada para ser lancada em meados de 2017. segundo a hbo a 8a temporada sera a ultima. muito aguardada desde seus primeiros estagios de desenvolvimento, game of thrones foi muito bem recebida pela critica especializada. sua primeira temporada foi indicada a varios premios, incluindo o primetime emmy award de melhor serie dramatica e o globo de ouro de melhor serie - drama; peter dinklage venceu o emmy e o globo de ouro de melhor ator coadjuvante. tambem conquistou o emmy de melhor projeto de creditos principais. possui uma das melhores notas entre os telespectadores para series em exibicao no site imdb. ganhou 38 emmy awards, mais do que qualquer outra serie de televisao. a serie entrou para o livro dos recordes como a serie dramatica com a maior transmissao simultanea ao redor do mundo. o numero foi alcancado com o episodio 2 da quinta temporada, intitulado 'the house of black and white'."
+            ]
+          ],
+          "score": 12.808641,
+          "detail": {
+            "keywords": [
+              "episodio",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 11.975308,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "episodio": {
+                  "keyword": {
+                    "termo": "episodio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "episodios",
+                  "score": 1.9753085
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "*episodios",
+              "60"
+            ],
+            [
+              "*game_of_thrones",
+              "owl#sameas",
+              "q23572"
+            ]
+          ],
+          "score": 12.808641,
+          "detail": {
+            "keywords": [
+              "episodio",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 11.975308,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "episodio": {
+                  "keyword": {
+                    "termo": "episodio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "episodios",
+                  "score": 1.9753085
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "*episodios",
+              "60"
+            ],
+            [
+              "*game_of_thrones",
+              "owl#sameas",
+              "hra_o_truny_(serial)"
+            ]
+          ],
+          "score": 12.808641,
+          "detail": {
+            "keywords": [
+              "episodio",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 11.975308,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "episodio": {
+                  "keyword": {
+                    "termo": "episodio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "episodios",
+                  "score": 1.9753085
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "*episodios",
+              "60"
+            ],
+            [
+              "*game_of_thrones",
+              "owl#sameas",
+              "*game_of_thrones"
+            ]
+          ],
+          "score": 12.808641,
+          "detail": {
+            "keywords": [
+              "episodio",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 11.975308,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "episodio": {
+                  "keyword": {
+                    "termo": "episodio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "episodios",
+                  "score": 1.9753085
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "*episodios",
+              "60"
+            ],
+            [
+              "*game_of_thrones",
+              "owl#sameas",
+              "juego_de_tronos_(serie_de_television)"
+            ]
+          ],
+          "score": 12.808641,
+          "detail": {
+            "keywords": [
+              "episodio",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 11.975308,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "episodio": {
+                  "keyword": {
+                    "termo": "episodio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "episodios",
+                  "score": 1.9753085
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "*episodios",
+              "60"
+            ],
+            [
+              "*game_of_thrones",
+              "owl#sameas",
+              "il_trono_di_spade_(serie_televisiva)"
+            ]
+          ],
+          "score": 12.808641,
+          "detail": {
+            "keywords": [
+              "episodio",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 11.975308,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "episodio": {
+                  "keyword": {
+                    "termo": "episodio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "episodios",
+                  "score": 1.9753085
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "*episodios",
+              "60"
+            ],
+            [
+              "*game_of_thrones",
+              "owl#sameas",
+              11
+            ]
+          ],
+          "score": 12.808641,
+          "detail": {
+            "keywords": [
+              "episodio",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 11.975308,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "episodio": {
+                  "keyword": {
+                    "termo": "episodio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "episodios",
+                  "score": 1.9753085
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*game_of_thrones",
+              "*episodios",
+              "60"
+            ],
+            [
+              "*game_of_thrones",
+              "owl#sameas",
+              "__()"
+            ]
+          ],
+          "score": 12.808641,
+          "detail": {
+            "keywords": [
+              "episodio",
+              "game_of_thrones"
+            ],
+            "score_detail": {
+              "m1": 11.975308,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "episodio": {
+                  "keyword": {
+                    "termo": "episodio",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "episodios",
+                  "score": 1.9753085
+                },
+                "game_of_thrones": {
+                  "keyword": {
+                    "termo": "game_of_thrones",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "game_of_thrones",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 1606.722116470337,
+      "l_sizes": [
+        2394,
+        10662
+      ],
+      "total_time": 10703.263282775879
+    }
+  }
+]

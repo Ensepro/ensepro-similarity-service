@@ -1,0 +1,3749 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "Quantos",
+          "palavra_canonica": "quanto",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "<quant>",
+            "DET",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "idiomas",
+          "palavra_canonica": "idioma",
+          "tags": [
+            "<ling>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "P:vp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "Vaux:v-fin",
+          "palavra_original": "são",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<aux>",
+            "PR",
+            "3P",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "Vm:v-pcp",
+          "palavra_original": "falados",
+          "palavra_canonica": "falar",
+          "tags": [
+            "<vH>",
+            "<mv>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "Op:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "H:prp",
+          "palavra_original": "em",
+          "palavra_canonica": "em",
+          "tags": [
+            "<sam->"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<-sam>",
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Colômbia",
+          "palavra_canonica": "Colômbia",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 13,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "Quantos",
+          "palavra_canonica": "quanto",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "<quant>",
+            "DET",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "idiomas",
+          "palavra_canonica": "idioma",
+          "tags": [
+            "<ling>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "dialect",
+                "sinonimo": "dialeto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "dialecto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "provérbio",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "Dialetos",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "locução",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "Língua_Natural",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "linguagem_natural",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "language",
+                "sinonimo": "linguagem",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "ditado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "expressão",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "language",
+                "sinonimo": "língua",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "idioma",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "language",
+                "sinonimo": "discurso",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "Lingua_natural",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "língua_natural",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "speech",
+                "sinonimo": "voice_communication",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "locution",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "language",
+                "sinonimo": "speech",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "speech",
+                "sinonimo": "speech_communication",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "speech",
+                "sinonimo": "spoken_language",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "speech",
+                "sinonimo": "spoken_communication",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "accent",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "expression",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "language",
+                "sinonimo": "language",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "natural_language",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "idiom",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "dialect",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "saying",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "tongue",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "speech",
+                "sinonimo": "oral_communication",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "language",
+                "sinonimo": "linguistic_communication",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "P:vp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "Vaux:v-fin",
+          "palavra_original": "são",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<aux>",
+            "PR",
+            "3P",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "Vm:v-pcp",
+          "palavra_original": "falados",
+          "palavra_canonica": "falar",
+          "tags": [
+            "<vH>",
+            "<mv>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "talk",
+                "sinonimo": "proferir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "discourse",
+                "sinonimo": "discursar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "verbalizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "dizer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "conversar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "contar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "tratar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "falar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "pronunciar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "lecture",
+                "sinonimo": "palestrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "talk",
+                "sinonimo": "talk",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "articulate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "handle",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "enounce",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "discourse",
+                "sinonimo": "discourse",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "state",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "speak",
+                "sinonimo": "speak",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "drone",
+                "sinonimo": "drone",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "talk_of",
+                "sinonimo": "talk_about",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "treat",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "discourse",
+                "sinonimo": "discuss",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "cover",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "mouth",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "utter",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "verbalize",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "deal",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "verbalise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "sound_out",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "plow",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "enunciate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "say",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "drone",
+                "sinonimo": "drone_on",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "tell",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "lecture",
+                "sinonimo": "lecture",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "talk_of",
+                "sinonimo": "talk_of",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "pronounce",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "address",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              }
+            ]
+          }
+        },
+        {
+          "id": 8,
+          "tag_inicial": "Op:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "H:prp",
+          "palavra_original": "em",
+          "palavra_canonica": "em",
+          "tags": [
+            "<sam->"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<-sam>",
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Colômbia",
+          "palavra_canonica": "Colômbia",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 13,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "quanto",
+        "confianca": 0.92,
+        "ids": [
+          3
+        ]
+      },
+      "locucao_verbal": [
+        [
+          {
+            "id": 6,
+            "tag_inicial": "Vaux:v-fin",
+            "palavra_original": "são",
+            "palavra_canonica": "ser",
+            "tags": [
+              "<fmc>",
+              "<aux>",
+              "PR",
+              "3P",
+              "IND",
+              "VFIN"
+            ],
+            "nivel": 2,
+            "sinonimos": null
+          },
+          {
+            "id": 7,
+            "tag_inicial": "Vm:v-pcp",
+            "palavra_original": "falados",
+            "palavra_canonica": "falar",
+            "tags": [
+              "<vH>",
+              "<mv>",
+              "M",
+              "P"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "talk",
+                  "sinonimo": "proferir",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "discourse",
+                  "sinonimo": "discursar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "talk",
+                  "sinonimo": "verbalizar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "state",
+                  "sinonimo": "dizer",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "talk",
+                  "sinonimo": "conversar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "state",
+                  "sinonimo": "contar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cover",
+                  "sinonimo": "tratar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "talk",
+                  "sinonimo": "falar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "pronounce",
+                  "sinonimo": "pronunciar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "lecture",
+                  "sinonimo": "palestrar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "talk",
+                  "sinonimo": "talk",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "pronounce",
+                  "sinonimo": "articulate",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cover",
+                  "sinonimo": "handle",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "pronounce",
+                  "sinonimo": "enounce",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "discourse",
+                  "sinonimo": "discourse",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "state",
+                  "sinonimo": "state",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "speak",
+                  "sinonimo": "speak",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "drone",
+                  "sinonimo": "drone",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "talk_of",
+                  "sinonimo": "talk_about",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cover",
+                  "sinonimo": "treat",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "discourse",
+                  "sinonimo": "discuss",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cover",
+                  "sinonimo": "cover",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "talk",
+                  "sinonimo": "mouth",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "talk",
+                  "sinonimo": "utter",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "talk",
+                  "sinonimo": "verbalize",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "cover",
+                  "sinonimo": "deal",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "talk",
+                  "sinonimo": "verbalise",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "pronounce",
+                  "sinonimo": "sound_out",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cover",
+                  "sinonimo": "plow",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "pronounce",
+                  "sinonimo": "enunciate",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "state",
+                  "sinonimo": "say",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "drone",
+                  "sinonimo": "drone_on",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "state",
+                  "sinonimo": "tell",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "lecture",
+                  "sinonimo": "lecture",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "talk_of",
+                  "sinonimo": "talk_of",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "pronounce",
+                  "sinonimo": "pronounce",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cover",
+                  "sinonimo": "address",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "05"
+                }
+              ]
+            }
+          }
+        ]
+      ],
+      "termos_relevantes": [
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "idiomas",
+          "palavra_canonica": "idioma",
+          "tags": [
+            "<ling>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "dialect",
+                "sinonimo": "dialeto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "dialecto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "provérbio",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "Dialetos",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "locução",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "Língua_Natural",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "linguagem_natural",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "language",
+                "sinonimo": "linguagem",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "ditado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "expressão",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "language",
+                "sinonimo": "língua",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "idioma",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "language",
+                "sinonimo": "discurso",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "Lingua_natural",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "língua_natural",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "speech",
+                "sinonimo": "voice_communication",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "locution",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "language",
+                "sinonimo": "speech",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "speech",
+                "sinonimo": "speech_communication",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "speech",
+                "sinonimo": "spoken_language",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "speech",
+                "sinonimo": "spoken_communication",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "accent",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "expression",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "language",
+                "sinonimo": "language",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "natural_language",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "idiom",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "dialect",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "saying",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "tongue",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "speech",
+                "sinonimo": "oral_communication",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "language",
+                "sinonimo": "linguistic_communication",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "Vm:v-pcp",
+          "palavra_original": "falados",
+          "palavra_canonica": "falar",
+          "tags": [
+            "<vH>",
+            "<mv>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "talk",
+                "sinonimo": "proferir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "discourse",
+                "sinonimo": "discursar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "verbalizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "dizer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "conversar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "contar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "tratar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "falar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "pronunciar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "lecture",
+                "sinonimo": "palestrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "talk",
+                "sinonimo": "talk",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "articulate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "handle",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "enounce",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "discourse",
+                "sinonimo": "discourse",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "state",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "speak",
+                "sinonimo": "speak",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "drone",
+                "sinonimo": "drone",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "talk_of",
+                "sinonimo": "talk_about",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "treat",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "discourse",
+                "sinonimo": "discuss",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "cover",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "mouth",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "utter",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "verbalize",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "deal",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "verbalise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "sound_out",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "plow",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "enunciate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "say",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "drone",
+                "sinonimo": "drone_on",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "tell",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "lecture",
+                "sinonimo": "lecture",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "talk_of",
+                "sinonimo": "talk_of",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "pronounce",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "address",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              }
+            ]
+          }
+        },
+        {
+          "id": 12,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Colômbia",
+          "palavra_canonica": "Colômbia",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "*lingua_cofan",
+              "*state",
+              "*colombia"
+            ]
+          ],
+          "score": 13.886059,
+          "detail": {
+            "keywords": [
+              "colombia",
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.886059,
+              "m2": 1.0,
+              "m3": 1.0,
+              "matches": {
+                "colombia": {
+                  "keyword": {
+                    "termo": "colombia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "colombia",
+                  "score": 10.0
+                },
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_cofan",
+                  "score": 0.8860586
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "lingua": "-443",
+              "state": "-841",
+              "colombia": "-34"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lingua_cubeo",
+              "*state",
+              "*colombia"
+            ]
+          ],
+          "score": 13.886059,
+          "detail": {
+            "keywords": [
+              "colombia",
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.886059,
+              "m2": 1.0,
+              "m3": 1.0,
+              "matches": {
+                "colombia": {
+                  "keyword": {
+                    "termo": "colombia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "colombia",
+                  "score": 10.0
+                },
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_cubeo",
+                  "score": 0.8860586
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "lingua": "-38919",
+              "state": "-841",
+              "colombia": "-34"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lingua_yagua",
+              "*state",
+              "*colombia"
+            ]
+          ],
+          "score": 13.886059,
+          "detail": {
+            "keywords": [
+              "colombia",
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.886059,
+              "m2": 1.0,
+              "m3": 1.0,
+              "matches": {
+                "colombia": {
+                  "keyword": {
+                    "termo": "colombia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "colombia",
+                  "score": 10.0
+                },
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_yagua",
+                  "score": 0.8860586
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "lingua": "-39084",
+              "state": "-841",
+              "colombia": "-34"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lingua_ticuna",
+              "*state",
+              "*colombia"
+            ]
+          ],
+          "score": 13.863469,
+          "detail": {
+            "keywords": [
+              "colombia",
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.863469,
+              "m2": 1.0,
+              "m3": 1.0,
+              "matches": {
+                "colombia": {
+                  "keyword": {
+                    "termo": "colombia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "colombia",
+                  "score": 10.0
+                },
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_ticuna",
+                  "score": 0.8634687
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "lingua": "-840",
+              "state": "-841",
+              "colombia": "-34"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lingua_croata",
+              "*state",
+              "*colombia"
+            ]
+          ],
+          "score": 13.863469,
+          "detail": {
+            "keywords": [
+              "colombia",
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.863469,
+              "m2": 1.0,
+              "m3": 1.0,
+              "matches": {
+                "colombia": {
+                  "keyword": {
+                    "termo": "colombia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "colombia",
+                  "score": 10.0
+                },
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_croata",
+                  "score": 0.8634687
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4,
+          "bind_control": {
+            "binds": {
+              "lingua": "-959",
+              "state": "-841",
+              "colombia": "-34"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lingua_tuiuca",
+              "*state",
+              "*colombia"
+            ]
+          ],
+          "score": 13.863469,
+          "detail": {
+            "keywords": [
+              "colombia",
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.863469,
+              "m2": 1.0,
+              "m3": 1.0,
+              "matches": {
+                "colombia": {
+                  "keyword": {
+                    "termo": "colombia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "colombia",
+                  "score": 10.0
+                },
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_tuiuca",
+                  "score": 0.8634687
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "lingua": "-1552",
+              "state": "-841",
+              "colombia": "-34"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lingua_guanano",
+              "*state",
+              "*colombia"
+            ]
+          ],
+          "score": 13.839914,
+          "detail": {
+            "keywords": [
+              "colombia",
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.839914,
+              "m2": 1.0,
+              "m3": 1.0,
+              "matches": {
+                "colombia": {
+                  "keyword": {
+                    "termo": "colombia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "colombia",
+                  "score": 10.0
+                },
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_guanano",
+                  "score": 0.83991396
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6,
+          "bind_control": {
+            "binds": {
+              "lingua": "-38928",
+              "state": "-841",
+              "colombia": "-34"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*lingua_cofan",
+              "*state",
+              "*colombia"
+            ]
+          ],
+          "score": 13.886059,
+          "detail": {
+            "keywords": [
+              "colombia",
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.886059,
+              "m2": 1.0,
+              "m3": 1.0,
+              "matches": {
+                "colombia": {
+                  "keyword": {
+                    "termo": "colombia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "colombia",
+                  "score": 10.0
+                },
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_cofan",
+                  "score": 0.8860586
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "lingua": "-443",
+              "state": "-841",
+              "colombia": "-34"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lingua_cubeo",
+              "*state",
+              "*colombia"
+            ]
+          ],
+          "score": 13.886059,
+          "detail": {
+            "keywords": [
+              "colombia",
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.886059,
+              "m2": 1.0,
+              "m3": 1.0,
+              "matches": {
+                "colombia": {
+                  "keyword": {
+                    "termo": "colombia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "colombia",
+                  "score": 10.0
+                },
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_cubeo",
+                  "score": 0.8860586
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "lingua": "-38919",
+              "state": "-841",
+              "colombia": "-34"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lingua_yagua",
+              "*state",
+              "*colombia"
+            ]
+          ],
+          "score": 13.886059,
+          "detail": {
+            "keywords": [
+              "colombia",
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.886059,
+              "m2": 1.0,
+              "m3": 1.0,
+              "matches": {
+                "colombia": {
+                  "keyword": {
+                    "termo": "colombia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "colombia",
+                  "score": 10.0
+                },
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_yagua",
+                  "score": 0.8860586
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "lingua": "-39084",
+              "state": "-841",
+              "colombia": "-34"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lingua_ticuna",
+              "*state",
+              "*colombia"
+            ]
+          ],
+          "score": 13.863469,
+          "detail": {
+            "keywords": [
+              "colombia",
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.863469,
+              "m2": 1.0,
+              "m3": 1.0,
+              "matches": {
+                "colombia": {
+                  "keyword": {
+                    "termo": "colombia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "colombia",
+                  "score": 10.0
+                },
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_ticuna",
+                  "score": 0.8634687
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "lingua": "-840",
+              "state": "-841",
+              "colombia": "-34"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lingua_croata",
+              "*state",
+              "*colombia"
+            ]
+          ],
+          "score": 13.863469,
+          "detail": {
+            "keywords": [
+              "colombia",
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.863469,
+              "m2": 1.0,
+              "m3": 1.0,
+              "matches": {
+                "colombia": {
+                  "keyword": {
+                    "termo": "colombia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "colombia",
+                  "score": 10.0
+                },
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_croata",
+                  "score": 0.8634687
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4,
+          "bind_control": {
+            "binds": {
+              "lingua": "-959",
+              "state": "-841",
+              "colombia": "-34"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lingua_tuiuca",
+              "*state",
+              "*colombia"
+            ]
+          ],
+          "score": 13.863469,
+          "detail": {
+            "keywords": [
+              "colombia",
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.863469,
+              "m2": 1.0,
+              "m3": 1.0,
+              "matches": {
+                "colombia": {
+                  "keyword": {
+                    "termo": "colombia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "colombia",
+                  "score": 10.0
+                },
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_tuiuca",
+                  "score": 0.8634687
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "lingua": "-1552",
+              "state": "-841",
+              "colombia": "-34"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lingua_guanano",
+              "*state",
+              "*colombia"
+            ]
+          ],
+          "score": 13.839914,
+          "detail": {
+            "keywords": [
+              "colombia",
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.839914,
+              "m2": 1.0,
+              "m3": 1.0,
+              "matches": {
+                "colombia": {
+                  "keyword": {
+                    "termo": "colombia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "colombia",
+                  "score": 10.0
+                },
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_guanano",
+                  "score": 0.83991396
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6,
+          "bind_control": {
+            "binds": {
+              "lingua": "-38928",
+              "state": "-841",
+              "colombia": "-34"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lingua_cofan",
+              "*state",
+              "*colombia"
+            ],
+            [
+              "*lingua_cubeo",
+              "*state",
+              "*colombia"
+            ]
+          ],
+          "score": 13.386059,
+          "detail": {
+            "keywords": [
+              "colombia",
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.886059,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "colombia": {
+                  "keyword": {
+                    "termo": "colombia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "colombia",
+                  "score": 10.0
+                },
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_cubeo",
+                  "score": 0.8860586
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*lingua_cofan",
+              "*state",
+              "*colombia"
+            ],
+            [
+              "*lingua_yagua",
+              "*state",
+              "*colombia"
+            ]
+          ],
+          "score": 13.386059,
+          "detail": {
+            "keywords": [
+              "colombia",
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.886059,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "colombia": {
+                  "keyword": {
+                    "termo": "colombia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "colombia",
+                  "score": 10.0
+                },
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_yagua",
+                  "score": 0.8860586
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*lingua_cofan",
+              "*state",
+              "*colombia"
+            ],
+            [
+              "*lingua_ticuna",
+              "*state",
+              "*colombia"
+            ]
+          ],
+          "score": 13.386059,
+          "detail": {
+            "keywords": [
+              "colombia",
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.886059,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "colombia": {
+                  "keyword": {
+                    "termo": "colombia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "colombia",
+                  "score": 10.0
+                },
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_cofan",
+                  "score": 0.8860586
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*lingua_cofan",
+              "*state",
+              "*colombia"
+            ],
+            [
+              "*lingua_croata",
+              "*state",
+              "*colombia"
+            ]
+          ],
+          "score": 13.386059,
+          "detail": {
+            "keywords": [
+              "colombia",
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.886059,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "colombia": {
+                  "keyword": {
+                    "termo": "colombia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "colombia",
+                  "score": 10.0
+                },
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_cofan",
+                  "score": 0.8860586
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*lingua_cofan",
+              "*state",
+              "*colombia"
+            ],
+            [
+              "*lingua_tuiuca",
+              "*state",
+              "*colombia"
+            ]
+          ],
+          "score": 13.386059,
+          "detail": {
+            "keywords": [
+              "colombia",
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.886059,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "colombia": {
+                  "keyword": {
+                    "termo": "colombia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "colombia",
+                  "score": 10.0
+                },
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_cofan",
+                  "score": 0.8860586
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*lingua_cofan",
+              "*state",
+              "*colombia"
+            ],
+            [
+              "*lingua_guanano",
+              "*state",
+              "*colombia"
+            ]
+          ],
+          "score": 13.386059,
+          "detail": {
+            "keywords": [
+              "colombia",
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.886059,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "colombia": {
+                  "keyword": {
+                    "termo": "colombia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "colombia",
+                  "score": 10.0
+                },
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_cofan",
+                  "score": 0.8860586
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*lingua_cofan",
+              "*state",
+              "*colombia"
+            ],
+            [
+              "crioulo_de_san_andres",
+              "*state",
+              "*colombia"
+            ]
+          ],
+          "score": 13.386059,
+          "detail": {
+            "keywords": [
+              "colombia",
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.886059,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "colombia": {
+                  "keyword": {
+                    "termo": "colombia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "colombia",
+                  "score": 10.0
+                },
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_cofan",
+                  "score": 0.8860586
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*lingua_cofan",
+              "*state",
+              "*colombia"
+            ],
+            [
+              "*colombia",
+              "owl#sameas",
+              "m.01ls2"
+            ]
+          ],
+          "score": 13.386059,
+          "detail": {
+            "keywords": [
+              "colombia",
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.886059,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "colombia": {
+                  "keyword": {
+                    "termo": "colombia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "colombia",
+                  "score": 10.0
+                },
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_cofan",
+                  "score": 0.8860586
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*lingua_cofan",
+              "*state",
+              "*colombia"
+            ],
+            [
+              "*colombia",
+              "22_rdf_syntax_ns#type",
+              "soccerclub"
+            ]
+          ],
+          "score": 13.386059,
+          "detail": {
+            "keywords": [
+              "colombia",
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.886059,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "colombia": {
+                  "keyword": {
+                    "termo": "colombia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "colombia",
+                  "score": 10.0
+                },
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_cofan",
+                  "score": 0.8860586
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*lingua_cofan",
+              "*state",
+              "*colombia"
+            ],
+            [
+              "*colombia",
+              "nomenativo",
+              "*republica de colombia"
+            ]
+          ],
+          "score": 13.386059,
+          "detail": {
+            "keywords": [
+              "colombia",
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.886059,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "colombia": {
+                  "keyword": {
+                    "termo": "colombia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "colombia",
+                  "score": 10.0
+                },
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_cofan",
+                  "score": 0.8860586
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*lingua_cofan",
+              "*state",
+              "*colombia"
+            ],
+            [
+              "*colombia",
+              "hino",
+              "*himno nacional de la republica de colombia noicon|center"
+            ]
+          ],
+          "score": 13.386059,
+          "detail": {
+            "keywords": [
+              "colombia",
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.886059,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "colombia": {
+                  "keyword": {
+                    "termo": "colombia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "colombia",
+                  "score": 10.0
+                },
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_cofan",
+                  "score": 0.8860586
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*lingua_cofan",
+              "*state",
+              "*colombia"
+            ],
+            [
+              "*colombia",
+              "mapa",
+              "*colombia - location map  - col - unocha.svg"
+            ]
+          ],
+          "score": 13.386059,
+          "detail": {
+            "keywords": [
+              "colombia",
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.886059,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "colombia": {
+                  "keyword": {
+                    "termo": "colombia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "colombia",
+                  "score": 10.0
+                },
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_cofan",
+                  "score": 0.8860586
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*lingua_cofan",
+              "*state",
+              "*colombia"
+            ],
+            [
+              "*colombia",
+              "abstract",
+              "*colombia (em espanhol: colombia, pronunciado: [kolombja] ), oficialmente republica da colombia (em castelhano: ? republica de colombia), e uma republica constitucional do noroeste da america do sul. a colombia faz fronteira a leste com a venezuela e brasil; ao sul com o equador e peru; para o norte com o mar do caribe, ao noroeste com o panama; e a oeste com o oceano pacifico. a colombia tambem tem fronteiras maritimas com a venezuela, jamaica, haiti, republica dominicana, honduras, nicaragua e costa rica. com uma populacao de mais de 47 milhoes de pessoas, a colombia tem a 29a maior populacao do mundo e a segunda maior da america do sul, depois do brasil. a colombia e o terceiro pais mais populoso com a lingua espanhola como idioma oficial (depois do mexico e espanha), e tem a quarta maior comunidade de lingua espanhola no mundo depois do mexico, estados unidos e espanha. e etnicamente muito diverso e a interacao entre os descendentes dos primeiros habitantes indigenas, colonos espanhois, africanos trazidos como escravos e imigrantes do seculo xx vindos da europa e do oriente medio produziu um rico patrimonio cultural. isso tambem foi influenciado pela geografia bastante variada da colombia. a maioria dos centros urbanos estao localizados nos andes, mas o territorio colombiano tambem abrange a floresta amazonica, pastagens tropicais e os litorais do caribe e do pacifico. ecologicamente, a colombia e um dos 17 paises megadiversos do mundo (os de maior biodiversidade por unidade de area). o territorio que e hoje a colombia foi originalmente habitado por nacoes indigenas, como os chibchas, quimbaya e tairona. os espanhois chegaram em 1499, iniciaram um periodo de conquista e colonizacao que resultou na morte ou na escravizacao de cerca de 90% da populacao nativa e, em seguida, criaram o vice-reino de nova granada (que compreendia os territorios atuais de colombia, venezuela, equador, panama e a regiao noroeste do brasil), com sua capital em bogota. a independencia do dominio espanhol foi conquistada em 1819, mas por volta de 1830 a \\\"gra colombia\\\" se fragmentou com a secessao da venezuela e do equador. os atuais paises colombia e panama emergiram entao como a republica de nova granada. a nova nacao experimentou um sistema politico federalista durante a confederacao granadina (1858) e, em seguida, nos estados unidos da colombia (1863), antes da republica da colombia ser finalmente declarada em 1886. o panama se separou em 1903 sob pressao para cumprir as responsabilidades financeiras para com o governo dos estados unidos para a construcao do canal do panama. a colombia tem uma longa tradicao do governo constitucional. os partidos liberal e conservador, fundados em 1848 e 1849, respectivamente, sao dois dos mais antigos sobreviventes partidos politicos nas americas. no entanto, as tensoes entre os dois tem frequentemente acabado em violencia, principalmente na guerra dos mil dias (1899-1902) e durante la violencia, comecando em 1948. desde 1960, as forcas do governo, os rebeldes de esquerda e paramilitares de direita tem estado envolvidos nos conflitos armados mais duradouros do continente. alimentado pelo trafico de cocaina, o conflito cresceu dramaticamente nos anos 1980. no entanto, na decada de 2000, a violencia diminuiu significativamente. muitos grupos paramilitares se desmobilizaram como parte de um controvertido processo de paz com o governo, e os guerrilheiros perderam o controle em muitas areas onde outrora dominavam. a colombia, durante muitos anos, teve uma das maiores taxas de homicidio do mundo, sendo reduzida quase pela metade entre 1993 e 2005. assassinatos de sindicalistas tambem foram significativamente reduzidos desde a decada de 1990, mas os sindicalistas continuam a ser ameacados e assassinados, embora em um ritmo inferior ao da populacao geral. atualmente, o pais e uma media potencia permanente com a quarta maior economia da america latina, embora a desigualdade de renda seja prevalente e a riqueza seja mal distribuida. em 2014, a colombia chegou a um coeficiente de gini de 0,538. os numeros oficiais de 2014 indicam que cerca de 28,5% dos colombianos viviam abaixo da linha da pobreza e cerca de 8,1% em \\\"extrema pobreza\\\"."
+            ]
+          ],
+          "score": 13.386059,
+          "detail": {
+            "keywords": [
+              "colombia",
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.886059,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "colombia": {
+                  "keyword": {
+                    "termo": "colombia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "colombia",
+                  "score": 10.0
+                },
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_cofan",
+                  "score": 0.8860586
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*lingua_cofan",
+              "*state",
+              "*colombia"
+            ],
+            [
+              "*colombia",
+              "name",
+              "*republica de colombia"
+            ]
+          ],
+          "score": 13.386059,
+          "detail": {
+            "keywords": [
+              "colombia",
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.886059,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "colombia": {
+                  "keyword": {
+                    "termo": "colombia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "colombia",
+                  "score": 10.0
+                },
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_cofan",
+                  "score": 0.8860586
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*lingua_cubeo",
+              "*state",
+              "*colombia"
+            ],
+            [
+              "*lingua_cofan",
+              "*state",
+              "*colombia"
+            ]
+          ],
+          "score": 13.386059,
+          "detail": {
+            "keywords": [
+              "colombia",
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.886059,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "colombia": {
+                  "keyword": {
+                    "termo": "colombia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "colombia",
+                  "score": 10.0
+                },
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_cofan",
+                  "score": 0.8860586
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*lingua_cubeo",
+              "*state",
+              "*colombia"
+            ],
+            [
+              "*lingua_yagua",
+              "*state",
+              "*colombia"
+            ]
+          ],
+          "score": 13.386059,
+          "detail": {
+            "keywords": [
+              "colombia",
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.886059,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "colombia": {
+                  "keyword": {
+                    "termo": "colombia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "colombia",
+                  "score": 10.0
+                },
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_yagua",
+                  "score": 0.8860586
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*lingua_cubeo",
+              "*state",
+              "*colombia"
+            ],
+            [
+              "*lingua_ticuna",
+              "*state",
+              "*colombia"
+            ]
+          ],
+          "score": 13.386059,
+          "detail": {
+            "keywords": [
+              "colombia",
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.886059,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "colombia": {
+                  "keyword": {
+                    "termo": "colombia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "colombia",
+                  "score": 10.0
+                },
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_cubeo",
+                  "score": 0.8860586
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*lingua_cubeo",
+              "*state",
+              "*colombia"
+            ],
+            [
+              "*lingua_croata",
+              "*state",
+              "*colombia"
+            ]
+          ],
+          "score": 13.386059,
+          "detail": {
+            "keywords": [
+              "colombia",
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.886059,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "colombia": {
+                  "keyword": {
+                    "termo": "colombia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "colombia",
+                  "score": 10.0
+                },
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_cubeo",
+                  "score": 0.8860586
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*lingua_cubeo",
+              "*state",
+              "*colombia"
+            ],
+            [
+              "*lingua_tuiuca",
+              "*state",
+              "*colombia"
+            ]
+          ],
+          "score": 13.386059,
+          "detail": {
+            "keywords": [
+              "colombia",
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.886059,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "colombia": {
+                  "keyword": {
+                    "termo": "colombia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "colombia",
+                  "score": 10.0
+                },
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_cubeo",
+                  "score": 0.8860586
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*lingua_cubeo",
+              "*state",
+              "*colombia"
+            ],
+            [
+              "*lingua_guanano",
+              "*state",
+              "*colombia"
+            ]
+          ],
+          "score": 13.386059,
+          "detail": {
+            "keywords": [
+              "colombia",
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.886059,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "colombia": {
+                  "keyword": {
+                    "termo": "colombia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "colombia",
+                  "score": 10.0
+                },
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_cubeo",
+                  "score": 0.8860586
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*lingua_cubeo",
+              "*state",
+              "*colombia"
+            ],
+            [
+              "crioulo_de_san_andres",
+              "*state",
+              "*colombia"
+            ]
+          ],
+          "score": 13.386059,
+          "detail": {
+            "keywords": [
+              "colombia",
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.886059,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "colombia": {
+                  "keyword": {
+                    "termo": "colombia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "colombia",
+                  "score": 10.0
+                },
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_cubeo",
+                  "score": 0.8860586
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*lingua_cubeo",
+              "*state",
+              "*colombia"
+            ],
+            [
+              "*colombia",
+              "owl#sameas",
+              "m.01ls2"
+            ]
+          ],
+          "score": 13.386059,
+          "detail": {
+            "keywords": [
+              "colombia",
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.886059,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "colombia": {
+                  "keyword": {
+                    "termo": "colombia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "colombia",
+                  "score": 10.0
+                },
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_cubeo",
+                  "score": 0.8860586
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*lingua_cubeo",
+              "*state",
+              "*colombia"
+            ],
+            [
+              "*colombia",
+              "22_rdf_syntax_ns#type",
+              "soccerclub"
+            ]
+          ],
+          "score": 13.386059,
+          "detail": {
+            "keywords": [
+              "colombia",
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 11.886059,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "colombia": {
+                  "keyword": {
+                    "termo": "colombia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "colombia",
+                  "score": 10.0
+                },
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_cubeo",
+                  "score": 0.8860586
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 4406.0375690460205,
+      "l_sizes": [
+        32085,
+        76218
+      ],
+      "total_time": 16908.028602600098
+    }
+  }
+]

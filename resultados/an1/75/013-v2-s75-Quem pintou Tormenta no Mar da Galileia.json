@@ -1,0 +1,1423 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:spec",
+          "palavra_original": "Quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "pintou",
+          "palavra_canonica": "pintar",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:prop",
+          "palavra_original": "Tormenta",
+          "palavra_canonica": "Tormenta",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "fA:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prp",
+          "palavra_original": "em",
+          "palavra_canonica": "em",
+          "tags": [
+            "<sam->"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<-sam>",
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Mar_da_Galileia",
+          "palavra_canonica": "Mar_da_Galileia",
+          "tags": [
+            "<inst>",
+            "<*>",
+            "<heur>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:spec",
+          "palavra_original": "Quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "pintou",
+          "palavra_canonica": "pintar",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "paint",
+                "sinonimo": "pintar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "paint",
+                "sinonimo": "pincelar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "rouge",
+                "sinonimo": "rouge",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "paint",
+                "sinonimo": "paint",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:prop",
+          "palavra_original": "Tormenta_rpg",
+          "palavra_canonica": "Tormenta_rpg",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "fA:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prp",
+          "palavra_original": "em",
+          "palavra_canonica": "em",
+          "tags": [
+            "<sam->"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<-sam>",
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Mar_da_Galileia",
+          "palavra_canonica": "Mar_da_Galileia",
+          "tags": [
+            "<inst>",
+            "<*>",
+            "<heur>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 10,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "quem",
+        "confianca": 0.93,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "pintou",
+          "palavra_canonica": "pintar",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "paint",
+                "sinonimo": "pintar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "paint",
+                "sinonimo": "pincelar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "rouge",
+                "sinonimo": "rouge",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "paint",
+                "sinonimo": "paint",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:prop",
+          "palavra_original": "Tormenta_rpg",
+          "palavra_canonica": "Tormenta_rpg",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 9,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Mar_da_Galileia",
+          "palavra_canonica": "Mar_da_Galileia",
+          "tags": [
+            "<inst>",
+            "<*>",
+            "<heur>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*mar_da_galileia",
+              "owl#sameas",
+              "q126982"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "mar_da_galileia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "mar_da_galileia": {
+                  "keyword": {
+                    "termo": "mar_da_galileia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mar_da_galileia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0
+        },
+        {
+          "triples": [
+            [
+              "*mar_da_galileia",
+              "owl#sameas",
+              "meer_van_tiberias"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "mar_da_galileia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "mar_da_galileia": {
+                  "keyword": {
+                    "termo": "mar_da_galileia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mar_da_galileia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*mar_da_galileia",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "mar_da_galileia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "mar_da_galileia": {
+                  "keyword": {
+                    "termo": "mar_da_galileia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mar_da_galileia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*mar_da_galileia",
+              "owl#sameas",
+              "tbriyy_golu"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "mar_da_galileia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "mar_da_galileia": {
+                  "keyword": {
+                    "termo": "mar_da_galileia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mar_da_galileia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*mar_da_galileia",
+              "owl#sameas",
+              "mor_galilea"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "mar_da_galileia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "mar_da_galileia": {
+                  "keyword": {
+                    "termo": "mar_da_galileia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mar_da_galileia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*mar_da_galileia",
+              "owl#sameas",
+              "galilejsko_jezero"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "mar_da_galileia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "mar_da_galileia": {
+                  "keyword": {
+                    "termo": "mar_da_galileia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mar_da_galileia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*mar_da_galileia",
+              "owl#sameas",
+              "llac_de_tiberiades"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "mar_da_galileia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "mar_da_galileia": {
+                  "keyword": {
+                    "termo": "mar_da_galileia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mar_da_galileia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*mar_da_galileia",
+              "owl#sameas",
+              "lake_tiberias_(lanaw_sa_israel)"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "mar_da_galileia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "mar_da_galileia": {
+                  "keyword": {
+                    "termo": "mar_da_galileia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mar_da_galileia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*mar_da_galileia",
+              "owl#sameas",
+              "sea_of_galilee"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "mar_da_galileia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "mar_da_galileia": {
+                  "keyword": {
+                    "termo": "mar_da_galileia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mar_da_galileia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*mar_da_galileia",
+              "owl#sameas",
+              "galilejske_jezero"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "mar_da_galileia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "mar_da_galileia": {
+                  "keyword": {
+                    "termo": "mar_da_galileia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mar_da_galileia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*mar_da_galileia",
+              "owl#sameas",
+              "genesaret_s"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "mar_da_galileia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "mar_da_galileia": {
+                  "keyword": {
+                    "termo": "mar_da_galileia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mar_da_galileia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*mar_da_galileia",
+              "owl#sameas",
+              "see_genezareth"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "mar_da_galileia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "mar_da_galileia": {
+                  "keyword": {
+                    "termo": "mar_da_galileia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mar_da_galileia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*mar_da_galileia",
+              "owl#sameas",
+              "__"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "mar_da_galileia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "mar_da_galileia": {
+                  "keyword": {
+                    "termo": "mar_da_galileia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mar_da_galileia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*mar_da_galileia",
+              "owl#sameas",
+              "maro_kineret"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "mar_da_galileia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "mar_da_galileia": {
+                  "keyword": {
+                    "termo": "mar_da_galileia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mar_da_galileia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*mar_da_galileia",
+              "owl#sameas",
+              "mar_de_galilea"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "mar_da_galileia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "mar_da_galileia": {
+                  "keyword": {
+                    "termo": "mar_da_galileia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mar_da_galileia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*mar_da_galileia",
+              "owl#sameas",
+              "kinnereti_jarv"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "mar_da_galileia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "mar_da_galileia": {
+                  "keyword": {
+                    "termo": "mar_da_galileia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mar_da_galileia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*mar_da_galileia",
+              "owl#sameas",
+              "galileako_itsasoa"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "mar_da_galileia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "mar_da_galileia": {
+                  "keyword": {
+                    "termo": "mar_da_galileia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mar_da_galileia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*mar_da_galileia",
+              "owl#sameas",
+              "genesaretinjarvi"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "mar_da_galileia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "mar_da_galileia": {
+                  "keyword": {
+                    "termo": "mar_da_galileia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mar_da_galileia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*mar_da_galileia",
+              "owl#sameas",
+              "lac_de_tiberiade"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "mar_da_galileia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "mar_da_galileia": {
+                  "keyword": {
+                    "termo": "mar_da_galileia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mar_da_galileia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*mar_da_galileia",
+              "owl#sameas",
+              "mar_fan_tiberias"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "mar_da_galileia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "mar_da_galileia": {
+                  "keyword": {
+                    "termo": "mar_da_galileia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mar_da_galileia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*mar_da_galileia",
+              "owl#sameas",
+              "muir_na_gailile"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "mar_da_galileia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "mar_da_galileia": {
+                  "keyword": {
+                    "termo": "mar_da_galileia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mar_da_galileia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*mar_da_galileia",
+              "owl#sameas",
+              "galilejsko_more"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "mar_da_galileia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "mar_da_galileia": {
+                  "keyword": {
+                    "termo": "mar_da_galileia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mar_da_galileia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*mar_da_galileia",
+              "owl#sameas",
+              "galileai_tenger"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "mar_da_galileia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "mar_da_galileia": {
+                  "keyword": {
+                    "termo": "mar_da_galileia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mar_da_galileia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*mar_da_galileia",
+              "owl#sameas",
+              "danau_galilea"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "mar_da_galileia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "mar_da_galileia": {
+                  "keyword": {
+                    "termo": "mar_da_galileia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mar_da_galileia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*mar_da_galileia",
+              "owl#sameas",
+              "lago_di_tiberiade"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "mar_da_galileia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "mar_da_galileia": {
+                  "keyword": {
+                    "termo": "mar_da_galileia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mar_da_galileia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*mar_da_galileia",
+              "owl#sameas",
+              28
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "mar_da_galileia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "mar_da_galileia": {
+                  "keyword": {
+                    "termo": "mar_da_galileia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mar_da_galileia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*mar_da_galileia",
+              "owl#sameas",
+              "segara_galilea"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "mar_da_galileia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "mar_da_galileia": {
+                  "keyword": {
+                    "termo": "mar_da_galileia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mar_da_galileia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*mar_da_galileia",
+              "owl#sameas",
+              "sei_genesareth"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "mar_da_galileia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "mar_da_galileia": {
+                  "keyword": {
+                    "termo": "mar_da_galileia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mar_da_galileia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*mar_da_galileia",
+              "owl#sameas",
+              "tiberiados_ezeras"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "mar_da_galileia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "mar_da_galileia": {
+                  "keyword": {
+                    "termo": "mar_da_galileia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mar_da_galileia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*mar_da_galileia",
+              "owl#sameas",
+              "kinnerets"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "mar_da_galileia"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "mar_da_galileia": {
+                  "keyword": {
+                    "termo": "mar_da_galileia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mar_da_galileia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 775245000,
+      "total_time": 8772333100
+    }
+  }
+]

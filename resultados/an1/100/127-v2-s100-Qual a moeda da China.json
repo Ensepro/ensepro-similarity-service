@@ -1,0 +1,1850 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "X:par",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "CJT:pron-int",
+          "palavra_original": "Qual",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<cjt-head>",
+            "<cjt-head-X>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "CJT:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "moeda",
+          "palavra_canonica": "moeda",
+          "tags": [
+            "<cjt-X>",
+            "<cc-h>",
+            "<mon>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<sam->",
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<-sam>",
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "H:prop",
+          "palavra_original": "China",
+          "palavra_canonica": "China",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "X:par",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "CJT:pron-int",
+          "palavra_original": "Qual",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<cjt-head>",
+            "<cjt-head-X>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "CJT:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "moeda",
+          "palavra_canonica": "moeda",
+          "tags": [
+            "<cjt-X>",
+            "<cc-h>",
+            "<mon>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "currency",
+                "sinonimo": "moeda",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "money",
+                "sinonimo": "Dinheiro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "money",
+                "sinonimo": "dinheiro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "currency",
+                "sinonimo": "cobre",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "coin",
+                "sinonimo": "prata",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "coin",
+                "sinonimo": "peça",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "money",
+                "sinonimo": "divisa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "coinage",
+                "sinonimo": "mintage",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "coinage",
+                "sinonimo": "metal_money",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "coin",
+                "sinonimo": "coin",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "change",
+                "sinonimo": "change",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "08"
+              },
+              {
+                "synset": "currency",
+                "sinonimo": "currency",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "coinage",
+                "sinonimo": "coinage",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "money",
+                "sinonimo": "money",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "coinage",
+                "sinonimo": "specie",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<sam->",
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<-sam>",
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "H:prop",
+          "palavra_original": "China",
+          "palavra_canonica": "China",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 11,
+          "tag_inicial": "?",
+          "palavra_original": " ",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "[ [ X:par|1| [CJT:pron-int|2| Qual] [ CJT:np|3| [DN:art|4| a] [H:n|5| moeda] [ DN:pp|6| [H:prp|7| de] [ DP:np|8| [DN:art|9| a] [H:prop|10| China] ] ] ] [?|11|  ] ] ]",
+      "tipo": {
+        "tipo": "qual",
+        "confianca": 0.64,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "moeda",
+          "palavra_canonica": "moeda",
+          "tags": [
+            "<cjt-X>",
+            "<cc-h>",
+            "<mon>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "currency",
+                "sinonimo": "moeda",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "money",
+                "sinonimo": "Dinheiro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "money",
+                "sinonimo": "dinheiro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "currency",
+                "sinonimo": "cobre",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "coin",
+                "sinonimo": "prata",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "coin",
+                "sinonimo": "peça",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "money",
+                "sinonimo": "divisa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "coinage",
+                "sinonimo": "mintage",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "coinage",
+                "sinonimo": "metal_money",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "coin",
+                "sinonimo": "coin",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "change",
+                "sinonimo": "change",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "08"
+              },
+              {
+                "synset": "currency",
+                "sinonimo": "currency",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "coinage",
+                "sinonimo": "coinage",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "money",
+                "sinonimo": "money",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "coinage",
+                "sinonimo": "specie",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 10,
+          "tag_inicial": "H:prop",
+          "palavra_original": "China",
+          "palavra_canonica": "China",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 5,
+            "tag_inicial": "H:n",
+            "palavra_original": "moeda",
+            "palavra_canonica": "moeda",
+            "tags": [
+              "<cjt-X>",
+              "<cc-h>",
+              "<mon>",
+              "F",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "currency",
+                  "sinonimo": "moeda",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "money",
+                  "sinonimo": "Dinheiro",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "money",
+                  "sinonimo": "dinheiro",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "currency",
+                  "sinonimo": "cobre",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "coin",
+                  "sinonimo": "prata",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "coin",
+                  "sinonimo": "peça",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "money",
+                  "sinonimo": "divisa",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "coinage",
+                  "sinonimo": "mintage",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "coinage",
+                  "sinonimo": "metal_money",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "coin",
+                  "sinonimo": "coin",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "change",
+                  "sinonimo": "change",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "08"
+                },
+                {
+                  "synset": "currency",
+                  "sinonimo": "currency",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "coinage",
+                  "sinonimo": "coinage",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "money",
+                  "sinonimo": "money",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "coinage",
+                  "sinonimo": "specie",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 10,
+            "tag_inicial": "H:prop",
+            "palavra_original": "China",
+            "palavra_canonica": "China",
+            "tags": [
+              "<civ>",
+              "<*>",
+              "F",
+              "S"
+            ],
+            "nivel": 4,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "*china",
+              "*moeda",
+              "renminbi"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "china",
+              "moeda"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "china": {
+                  "keyword": {
+                    "termo": "china",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "china",
+                  "score": 10.0
+                },
+                "moeda": {
+                  "keyword": {
+                    "termo": "moeda",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "moeda",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "china": "-85",
+              "moeda": "-290"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*china",
+              "*moeda",
+              "renminbi"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "china",
+              "moeda"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "china": {
+                  "keyword": {
+                    "termo": "china",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "china",
+                  "score": 10.0
+                },
+                "moeda": {
+                  "keyword": {
+                    "termo": "moeda",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "moeda",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "china": "-85",
+              "moeda": "-290"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*china",
+              "*moedaiso",
+              "rmb"
+            ]
+          ],
+          "score": 13.542488,
+          "detail": {
+            "keywords": [
+              "china",
+              "moeda"
+            ],
+            "score_detail": {
+              "m1": 11.875821,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "china": {
+                  "keyword": {
+                    "termo": "china",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "china",
+                  "score": 10.0
+                },
+                "moeda": {
+                  "keyword": {
+                    "termo": "moeda",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "moedaiso",
+                  "score": 1.8758208
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*china",
+              "*currency",
+              "renminbi"
+            ]
+          ],
+          "score": 12.666667,
+          "detail": {
+            "keywords": [
+              "china",
+              "moeda"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "china": {
+                  "keyword": {
+                    "termo": "china",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "china",
+                  "score": 10.0
+                },
+                "moeda": {
+                  "keyword": {
+                    "termo": "currency",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "currency",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "campeonato_mundial_de_natacao_em_piscina_curta_de_2014___4x200_m_livre_feminino",
+              "*prataatleta",
+              "*china"
+            ]
+          ],
+          "score": 12.532984,
+          "detail": {
+            "keywords": [
+              "china",
+              "moeda"
+            ],
+            "score_detail": {
+              "m1": 10.866317,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "china": {
+                  "keyword": {
+                    "termo": "china",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "china",
+                  "score": 10.0
+                },
+                "moeda": {
+                  "keyword": {
+                    "termo": "prata",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prataatleta",
+                  "score": 0.86631674
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "qingdao",
+              "*subdivisaonome",
+              "*china"
+            ]
+          ],
+          "score": 12.506581,
+          "detail": {
+            "keywords": [
+              "china",
+              "moeda"
+            ],
+            "score_detail": {
+              "m1": 10.839914,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "china": {
+                  "keyword": {
+                    "termo": "china",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "china",
+                  "score": 10.0
+                },
+                "moeda": {
+                  "keyword": {
+                    "termo": "divisa",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "subdivisaonome",
+                  "score": 0.83991396
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "dandong",
+              "*subdivisaonome",
+              "*china"
+            ]
+          ],
+          "score": 12.506581,
+          "detail": {
+            "keywords": [
+              "china",
+              "moeda"
+            ],
+            "score_detail": {
+              "m1": 10.839914,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "china": {
+                  "keyword": {
+                    "termo": "china",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "china",
+                  "score": 10.0
+                },
+                "moeda": {
+                  "keyword": {
+                    "termo": "divisa",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "subdivisaonome",
+                  "score": 0.83991396
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "lassa",
+              "*subdivisaonome",
+              "*china"
+            ]
+          ],
+          "score": 12.506581,
+          "detail": {
+            "keywords": [
+              "china",
+              "moeda"
+            ],
+            "score_detail": {
+              "m1": 10.839914,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "china": {
+                  "keyword": {
+                    "termo": "china",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "china",
+                  "score": 10.0
+                },
+                "moeda": {
+                  "keyword": {
+                    "termo": "divisa",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "subdivisaonome",
+                  "score": 0.83991396
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "weihai",
+              "*subdivisaonome",
+              "*china"
+            ]
+          ],
+          "score": 12.506581,
+          "detail": {
+            "keywords": [
+              "china",
+              "moeda"
+            ],
+            "score_detail": {
+              "m1": 10.839914,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "china": {
+                  "keyword": {
+                    "termo": "china",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "china",
+                  "score": 10.0
+                },
+                "moeda": {
+                  "keyword": {
+                    "termo": "divisa",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "subdivisaonome",
+                  "score": 0.83991396
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "weifang",
+              "*subdivisaonome",
+              "*china"
+            ]
+          ],
+          "score": 12.506581,
+          "detail": {
+            "keywords": [
+              "china",
+              "moeda"
+            ],
+            "score_detail": {
+              "m1": 10.839914,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "china": {
+                  "keyword": {
+                    "termo": "china",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "china",
+                  "score": 10.0
+                },
+                "moeda": {
+                  "keyword": {
+                    "termo": "divisa",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "subdivisaonome",
+                  "score": 0.83991396
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*resultados_do_campeonato_catarinense_de_futebol_de_2009___divisao_especial",
+              "gols",
+              "*china"
+            ]
+          ],
+          "score": 11.67579,
+          "detail": {
+            "keywords": [
+              "china",
+              "moeda"
+            ],
+            "score_detail": {
+              "m1": 10.009123,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "china": {
+                  "keyword": {
+                    "termo": "china",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "china",
+                  "score": 10.0
+                },
+                "moeda": {
+                  "keyword": {
+                    "termo": "divisa",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "resultados_do_campeonato_catarinense_de_futebol_de_2009___divisao_especial",
+                  "score": 0.0091229165
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*resultados_do_campeonato_catarinense_de_futebol_de_2010___divisao_de_acesso",
+              "gols",
+              "*china"
+            ]
+          ],
+          "score": 11.674966,
+          "detail": {
+            "keywords": [
+              "china",
+              "moeda"
+            ],
+            "score_detail": {
+              "m1": 10.008299,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "china": {
+                  "keyword": {
+                    "termo": "china",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "china",
+                  "score": 10.0
+                },
+                "moeda": {
+                  "keyword": {
+                    "termo": "divisa",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "resultados_do_campeonato_catarinense_de_futebol_de_2010___divisao_de_acesso",
+                  "score": 0.008299296
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*china",
+              "owl#sameas",
+              "q148"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "china"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "china": {
+                  "keyword": {
+                    "termo": "china",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "china",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*china",
+              "owl#sameas",
+              "*volksrepubliek_china"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "china"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "china": {
+                  "keyword": {
+                    "termo": "china",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "china",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*china",
+              "owl#sameas",
+              "*volksrepublik_china"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "china"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "china": {
+                  "keyword": {
+                    "termo": "china",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "china",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*china",
+              "owl#sameas",
+              "__"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "china"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "china": {
+                  "keyword": {
+                    "termo": "china",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "china",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*china",
+              "owl#sameas",
+              "*republica_popular_de_china"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "china"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "china": {
+                  "keyword": {
+                    "termo": "china",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "china",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*china",
+              "owl#sameas",
+              5
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "china"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "china": {
+                  "keyword": {
+                    "termo": "china",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "china",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*china",
+              "owl#sameas",
+              "*republica_popular_china"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "china"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "china": {
+                  "keyword": {
+                    "termo": "china",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "china",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*china",
+              "owl#sameas",
+              "cin_xalq_respublikas"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "china"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "china": {
+                  "keyword": {
+                    "termo": "china",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "china",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*china",
+              "owl#sameas",
+              "kina"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "china"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "china": {
+                  "keyword": {
+                    "termo": "china",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "china",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*china",
+              "owl#sameas",
+              "republik_pobl_sina"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "china"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "china": {
+                  "keyword": {
+                    "termo": "china",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "china",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*china",
+              "owl#sameas",
+              "republica_popular_de_la_xina"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "china"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "china": {
+                  "keyword": {
+                    "termo": "china",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "china",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*china",
+              "owl#sameas",
+              "republikang_popular_sa_tsina"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "china"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "china": {
+                  "keyword": {
+                    "termo": "china",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "china",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*china",
+              "owl#sameas",
+              "cinska_lidova_republika"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "china"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "china": {
+                  "keyword": {
+                    "termo": "china",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "china",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*china",
+              "owl#sameas",
+              "_a_"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "china"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "china": {
+                  "keyword": {
+                    "termo": "china",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "china",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*china",
+              "owl#sameas",
+              "gweriniaeth_pobl_tsieina"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "china"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "china": {
+                  "keyword": {
+                    "termo": "china",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "china",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*china",
+              "owl#sameas",
+              "___"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "china"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "china": {
+                  "keyword": {
+                    "termo": "china",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "china",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*china",
+              "owl#sameas",
+              "*china"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "china"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "china": {
+                  "keyword": {
+                    "termo": "china",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "china",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*china",
+              "owl#sameas",
+              "cina_popola_respubliko"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "china"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "china": {
+                  "keyword": {
+                    "termo": "china",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "china",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*china",
+              "owl#sameas",
+              "hiina"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "china"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "china": {
+                  "keyword": {
+                    "termo": "china",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "china",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 5016771300,
+      "total_time": 17118443600
+    }
+  }
+]

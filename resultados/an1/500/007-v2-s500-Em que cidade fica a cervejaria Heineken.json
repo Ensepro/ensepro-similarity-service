@@ -1,0 +1,1908 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "H:prp",
+          "palavra_original": "Em",
+          "palavra_canonica": "em",
+          "tags": [
+            "<clb>",
+            "<*>"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<interr>",
+            "DET",
+            "F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "cidade",
+          "palavra_canonica": "cidade",
+          "tags": [
+            "<Lciv>",
+            "F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "fica",
+          "palavra_canonica": "ficar",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "H:n",
+          "palavra_original": "cervejaria",
+          "palavra_canonica": "cervejaria",
+          "tags": [
+            "<inst>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "Heineken",
+          "palavra_canonica": "Heineken",
+          "tags": [
+            "<inst>",
+            "<*>",
+            "<np-close>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 3,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "H:prp",
+          "palavra_original": "Em",
+          "palavra_canonica": "em",
+          "tags": [
+            "<clb>",
+            "<*>"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<interr>",
+            "DET",
+            "F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "cidade",
+          "palavra_canonica": "cidade",
+          "tags": [
+            "<Lciv>",
+            "F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "city_state",
+                "sinonimo": "Cidade-estado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "municipality",
+                "sinonimo": "autarquias",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "municipality",
+                "sinonimo": "município",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city_state",
+                "sinonimo": "cidadelivre",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "town",
+                "sinonimo": "povoado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city",
+                "sinonimo": "urbe",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "municipality",
+                "sinonimo": "concelho",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city_state",
+                "sinonimo": "cidade-estado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city_state",
+                "sinonimo": "Cidades-Estado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city_state",
+                "sinonimo": "cidade-Estado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "town",
+                "sinonimo": "arraial",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city",
+                "sinonimo": "centro_urbano",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "village",
+                "sinonimo": "aldeias",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "municipality",
+                "sinonimo": "comuna",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "village",
+                "sinonimo": "cidade",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "village",
+                "sinonimo": "aldeia",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "town",
+                "sinonimo": "vila",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city",
+                "sinonimo": "metrópole",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city",
+                "sinonimo": "metrópoles",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "town",
+                "sinonimo": "burgo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "town",
+                "sinonimo": "town",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city",
+                "sinonimo": "metropolis",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "village",
+                "sinonimo": "small_town",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city",
+                "sinonimo": "city",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "village",
+                "sinonimo": "village",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "city",
+                "sinonimo": "urban_center",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city_state",
+                "sinonimo": "city-state",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "municipality",
+                "sinonimo": "municipality",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "village",
+                "sinonimo": "hamlet",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "city_state",
+                "sinonimo": "city_state",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "village",
+                "sinonimo": "settlement",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "fica",
+          "palavra_canonica": "ficar",
+          "tags": [
+            "<fmc>",
+            "<vK>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "Cs:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "H:prp",
+          "palavra_original": "a",
+          "palavra_canonica": "a",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Heineken",
+          "palavra_canonica": "Heineken",
+          "tags": [
+            "<org>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "em_que",
+        "confianca": 0.85,
+        "ids": [
+          3,
+          5
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "cidade",
+          "palavra_canonica": "cidade",
+          "tags": [
+            "<Lciv>",
+            "F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "city_state",
+                "sinonimo": "Cidade-estado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "municipality",
+                "sinonimo": "autarquias",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "municipality",
+                "sinonimo": "município",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city_state",
+                "sinonimo": "cidadelivre",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "town",
+                "sinonimo": "povoado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city",
+                "sinonimo": "urbe",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "municipality",
+                "sinonimo": "concelho",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city_state",
+                "sinonimo": "cidade-estado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city_state",
+                "sinonimo": "Cidades-Estado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city_state",
+                "sinonimo": "cidade-Estado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "town",
+                "sinonimo": "arraial",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city",
+                "sinonimo": "centro_urbano",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "village",
+                "sinonimo": "aldeias",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "municipality",
+                "sinonimo": "comuna",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "village",
+                "sinonimo": "cidade",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "village",
+                "sinonimo": "aldeia",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "town",
+                "sinonimo": "vila",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city",
+                "sinonimo": "metrópole",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city",
+                "sinonimo": "metrópoles",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "town",
+                "sinonimo": "burgo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "town",
+                "sinonimo": "town",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city",
+                "sinonimo": "metropolis",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "village",
+                "sinonimo": "small_town",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city",
+                "sinonimo": "city",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "village",
+                "sinonimo": "village",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "city",
+                "sinonimo": "urban_center",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "city_state",
+                "sinonimo": "city-state",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "municipality",
+                "sinonimo": "municipality",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "village",
+                "sinonimo": "hamlet",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "city_state",
+                "sinonimo": "city_state",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "village",
+                "sinonimo": "settlement",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Heineken",
+          "palavra_canonica": "Heineken",
+          "tags": [
+            "<org>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*heineken",
+              "owl#sameas",
+              "q180855"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "heineken"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "heineken": {
+                  "keyword": {
+                    "termo": "heineken",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "heineken",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "heineken": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*heineken",
+              "owl#sameas",
+              "*heineken"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "heineken"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "heineken": {
+                  "keyword": {
+                    "termo": "heineken",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "heineken",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*heineken",
+              "owl#sameas",
+              "*heineken_international"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "heineken"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "heineken": {
+                  "keyword": {
+                    "termo": "heineken",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "heineken",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*heineken",
+              "owl#sameas",
+              5
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "heineken"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "heineken": {
+                  "keyword": {
+                    "termo": "heineken",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "heineken",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "heineken": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*heineken",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "heineken"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "heineken": {
+                  "keyword": {
+                    "termo": "heineken",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "heineken",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4,
+          "bind_control": {
+            "binds": {
+              "heineken": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*heineken",
+              "owl#sameas",
+              "*heineken_(brouwerij)"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "heineken"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "heineken": {
+                  "keyword": {
+                    "termo": "heineken",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "heineken",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*heineken",
+              "wikipageusestemplate",
+              "predefinicao:dtlink"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "heineken"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "heineken": {
+                  "keyword": {
+                    "termo": "heineken",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "heineken",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6,
+          "bind_control": {
+            "binds": {
+              "heineken": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*heineken",
+              "wikipageusestemplate",
+              "predefinicao:nld"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "heineken"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "heineken": {
+                  "keyword": {
+                    "termo": "heineken",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "heineken",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7,
+          "bind_control": {
+            "binds": {
+              "heineken": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*heineken",
+              "wikipageusestemplate",
+              "predefinicao:increase"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "heineken"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "heineken": {
+                  "keyword": {
+                    "termo": "heineken",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "heineken",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8,
+          "bind_control": {
+            "binds": {
+              "heineken": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*heineken",
+              "logo",
+              "*heineken int 2011.png"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "heineken"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "heineken": {
+                  "keyword": {
+                    "termo": "heineken",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "heineken",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*heineken",
+              "areaabrangida",
+              "mundo todo"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "heineken"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "heineken": {
+                  "keyword": {
+                    "termo": "heineken",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "heineken",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10,
+          "bind_control": {
+            "binds": {
+              "heineken": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*heineken",
+              "receita",
+              "1.8383e10"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "heineken"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "heineken": {
+                  "keyword": {
+                    "termo": "heineken",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "heineken",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11,
+          "bind_control": {
+            "binds": {
+              "heineken": "-1"
+            },
+            "best_bind": {
+              "score": 0.1827234,
+              "resource_id": 16,
+              "tr": "cidade"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*heineken",
+              "rendaliquida",
+              "2.949e9"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "heineken"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "heineken": {
+                  "keyword": {
+                    "termo": "heineken",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "heineken",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12,
+          "bind_control": {
+            "binds": {
+              "heineken": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*heineken",
+              "depiction",
+              "*heineken_int_2011.png"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "heineken"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "heineken": {
+                  "keyword": {
+                    "termo": "heineken",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "heineken",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*heineken",
+              "thumbnail",
+              "*heineken_int_2011.png?width=300"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "heineken"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "heineken": {
+                  "keyword": {
+                    "termo": "heineken",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "heineken",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*heineken",
+              "wikipageusestemplate",
+              "empresa"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "heineken"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "heineken": {
+                  "keyword": {
+                    "termo": "heineken",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "heineken",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15,
+          "bind_control": {
+            "binds": {
+              "heineken": "-1"
+            },
+            "best_bind": {
+              "score": 0.05857202874999999,
+              "resource_id": 8,
+              "tr": "cidade"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*heineken",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "heineken"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "heineken": {
+                  "keyword": {
+                    "termo": "heineken",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "heineken",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16,
+          "bind_control": {
+            "binds": {
+              "heineken": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*heineken",
+              "wikipageusestemplate",
+              "predefinicao:commonscat"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "heineken"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "heineken": {
+                  "keyword": {
+                    "termo": "heineken",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "heineken",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17,
+          "bind_control": {
+            "binds": {
+              "heineken": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*heineken",
+              "wikipageusestemplate",
+              "predefinicao:official_website"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "heineken"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "heineken": {
+                  "keyword": {
+                    "termo": "heineken",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "heineken",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18,
+          "bind_control": {
+            "binds": {
+              "heineken": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*heineken",
+              "wikipageusestemplate",
+              "predefinicao:esboco_empresa"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "heineken"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "heineken": {
+                  "keyword": {
+                    "termo": "heineken",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "heineken",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19,
+          "bind_control": {
+            "binds": {
+              "heineken": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*heineken",
+              "wikipageusestemplate",
+              "predefinicao:aex_25"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "heineken"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "heineken": {
+                  "keyword": {
+                    "termo": "heineken",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "heineken",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20,
+          "bind_control": {
+            "binds": {
+              "heineken": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*heineken",
+              "wikipageusestemplate",
+              "predefinicao:euronext_100"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "heineken"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "heineken": {
+                  "keyword": {
+                    "termo": "heineken",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "heineken",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21,
+          "bind_control": {
+            "binds": {
+              "heineken": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*heineken",
+              "subject",
+              "categoria:empresas_dos_paises_baixos"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "heineken"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "heineken": {
+                  "keyword": {
+                    "termo": "heineken",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "heineken",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22,
+          "bind_control": {
+            "binds": {
+              "heineken": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*heineken",
+              "subject",
+              "*categoria:heineken"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "heineken"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "heineken": {
+                  "keyword": {
+                    "termo": "heineken",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "heineken",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*heineken",
+              "subject",
+              "categoria:marcas_de_cerveja_dos_paises_baixos"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "heineken"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "heineken": {
+                  "keyword": {
+                    "termo": "heineken",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "heineken",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24,
+          "bind_control": {
+            "binds": {
+              "heineken": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*heineken",
+              "subject",
+              "categoria:cervejarias_dos_paises_baixos"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "heineken"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "heineken": {
+                  "keyword": {
+                    "termo": "heineken",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "heineken",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25,
+          "bind_control": {
+            "binds": {
+              "heineken": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*heineken",
+              "subject",
+              "categoria:empresas_fundadas_em_1863"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "heineken"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "heineken": {
+                  "keyword": {
+                    "termo": "heineken",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "heineken",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26,
+          "bind_control": {
+            "binds": {
+              "heineken": "-1"
+            },
+            "best_bind": {
+              "score": 0.0076537323,
+              "resource_id": 31,
+              "tr": "cidade"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*heineken",
+              "wikipageexternallink",
+              "*www.theheinekencompany.com"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "heineken"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "heineken": {
+                  "keyword": {
+                    "termo": "heineken",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "heineken",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*heineken",
+              "wikipageexternallink",
+              "*www.heinekenexperience.com"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "heineken"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "heineken": {
+                  "keyword": {
+                    "termo": "heineken",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "heineken",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*heineken",
+              "owl#sameas",
+              "m.013b0q"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "heineken"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "heineken": {
+                  "keyword": {
+                    "termo": "heineken",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "heineken",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29,
+          "bind_control": {
+            "binds": {
+              "heineken": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "ranking_time": 1252486300,
+      "total_time": 11817212800
+    }
+  }
+]

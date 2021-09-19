@@ -1,0 +1,2436 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "Há",
+          "palavra_canonica": "haver",
+          "tags": [
+            "<fmc>",
+            "<*>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:pron-indef",
+          "palavra_original": "algum",
+          "palavra_canonica": "algum",
+          "tags": [
+            "<quant>",
+            "DET",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "jogo",
+          "palavra_canonica": "jogo",
+          "tags": [
+            "<activity>",
+            "<occ>",
+            "<cc-h>",
+            "<game>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:adj",
+          "palavra_original": "eletrônico",
+          "palavra_canonica": "eletrônico",
+          "tags": [
+            "<nh>",
+            "<np-close>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:adj",
+          "palavra_original": "chamado",
+          "palavra_canonica": "chamado",
+          "tags": [
+            "<np-long>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "Battle_Chess",
+          "palavra_canonica": "Battle_Chess",
+          "tags": [
+            "<genre>",
+            "<*>",
+            "<np-long>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "Há",
+          "palavra_canonica": "haver",
+          "tags": [
+            "<fmc>",
+            "<*>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:pron-indef",
+          "palavra_original": "algum",
+          "palavra_canonica": "algum",
+          "tags": [
+            "<quant>",
+            "DET",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "jogo",
+          "palavra_canonica": "jogo",
+          "tags": [
+            "<activity>",
+            "<occ>",
+            "<cc-h>",
+            "<game>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "contest",
+                "sinonimo": "certame",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "turn",
+                "sinonimo": "jogo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "set",
+                "sinonimo": "grupo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pastime",
+                "sinonimo": "entreterimento",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "contest",
+                "sinonimo": "torneio",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "contest",
+                "sinonimo": "partida",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "play",
+                "sinonimo": "jogos",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "turn",
+                "sinonimo": "vez",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "contest",
+                "sinonimo": "concurso",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pastime",
+                "sinonimo": "passatempo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "contest",
+                "sinonimo": "competição",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "turn",
+                "sinonimo": "turn",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "09"
+              },
+              {
+                "synset": "turn",
+                "sinonimo": "bout",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "09"
+              },
+              {
+                "synset": "contest",
+                "sinonimo": "competition",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "game",
+                "sinonimo": "game",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pastime",
+                "sinonimo": "pursuit",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "set",
+                "sinonimo": "set",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pastime",
+                "sinonimo": "pastime",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "turn",
+                "sinonimo": "round",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "09"
+              },
+              {
+                "synset": "play",
+                "sinonimo": "child's_play",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "08"
+              },
+              {
+                "synset": "contest",
+                "sinonimo": "contest",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "play",
+                "sinonimo": "play",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "08"
+              },
+              {
+                "synset": "pastime",
+                "sinonimo": "interest",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:adj",
+          "palavra_original": "eletrônico",
+          "palavra_canonica": "eletrônico",
+          "tags": [
+            "<nh>",
+            "<np-close>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:adj",
+          "palavra_original": "chamado",
+          "palavra_canonica": "chamado",
+          "tags": [
+            "<np-long>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "Battle_Chess",
+          "palavra_canonica": "Battle_Chess",
+          "tags": [
+            "<genre>",
+            "<*>",
+            "<np-long>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 9,
+          "tag_inicial": "?",
+          "palavra_original": " ",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "[ [ QUE:fcl|1| [P:v-fin|2| Há] [ Od:np|3| [DN:pron-indef|4| algum] [H:n|5| jogo] [DN:adj|6| eletrônico] [DN:adj|7| chamado] [DN:prop|8| Battle_Chess] ] [?|9|  ] ] ]",
+      "tipo": {
+        "tipo": "algum",
+        "confianca": 0.89,
+        "ids": [
+          4
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "jogo",
+          "palavra_canonica": "jogo",
+          "tags": [
+            "<activity>",
+            "<occ>",
+            "<cc-h>",
+            "<game>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "contest",
+                "sinonimo": "certame",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "turn",
+                "sinonimo": "jogo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "set",
+                "sinonimo": "grupo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pastime",
+                "sinonimo": "entreterimento",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "contest",
+                "sinonimo": "torneio",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "contest",
+                "sinonimo": "partida",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "play",
+                "sinonimo": "jogos",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "turn",
+                "sinonimo": "vez",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "contest",
+                "sinonimo": "concurso",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pastime",
+                "sinonimo": "passatempo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "contest",
+                "sinonimo": "competição",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "turn",
+                "sinonimo": "turn",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "09"
+              },
+              {
+                "synset": "turn",
+                "sinonimo": "bout",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "09"
+              },
+              {
+                "synset": "contest",
+                "sinonimo": "competition",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "game",
+                "sinonimo": "game",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pastime",
+                "sinonimo": "pursuit",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "set",
+                "sinonimo": "set",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pastime",
+                "sinonimo": "pastime",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "turn",
+                "sinonimo": "round",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "09"
+              },
+              {
+                "synset": "play",
+                "sinonimo": "child's_play",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "08"
+              },
+              {
+                "synset": "contest",
+                "sinonimo": "contest",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "play",
+                "sinonimo": "play",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "08"
+              },
+              {
+                "synset": "pastime",
+                "sinonimo": "interest",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 8,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "Battle_Chess",
+          "palavra_canonica": "Battle_Chess",
+          "tags": [
+            "<genre>",
+            "<*>",
+            "<np-long>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 5,
+            "tag_inicial": "H:n",
+            "palavra_original": "jogo",
+            "palavra_canonica": "jogo",
+            "tags": [
+              "<activity>",
+              "<occ>",
+              "<cc-h>",
+              "<game>",
+              "M",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "contest",
+                  "sinonimo": "certame",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "turn",
+                  "sinonimo": "jogo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "set",
+                  "sinonimo": "grupo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "pastime",
+                  "sinonimo": "entreterimento",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "contest",
+                  "sinonimo": "torneio",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "contest",
+                  "sinonimo": "partida",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "play",
+                  "sinonimo": "jogos",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "turn",
+                  "sinonimo": "vez",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "contest",
+                  "sinonimo": "concurso",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "pastime",
+                  "sinonimo": "passatempo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "contest",
+                  "sinonimo": "competição",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "turn",
+                  "sinonimo": "turn",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "09"
+                },
+                {
+                  "synset": "turn",
+                  "sinonimo": "bout",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "09"
+                },
+                {
+                  "synset": "contest",
+                  "sinonimo": "competition",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "game",
+                  "sinonimo": "game",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "pastime",
+                  "sinonimo": "pursuit",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "set",
+                  "sinonimo": "set",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "pastime",
+                  "sinonimo": "pastime",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "turn",
+                  "sinonimo": "round",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "09"
+                },
+                {
+                  "synset": "play",
+                  "sinonimo": "child's_play",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "08"
+                },
+                {
+                  "synset": "contest",
+                  "sinonimo": "contest",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "play",
+                  "sinonimo": "play",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "08"
+                },
+                {
+                  "synset": "pastime",
+                  "sinonimo": "interest",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 6,
+            "tag_inicial": "DN:adj",
+            "palavra_original": "eletrônico",
+            "palavra_canonica": "eletrônico",
+            "tags": [
+              "<nh>",
+              "<np-close>",
+              "M",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": null
+          }
+        },
+        {
+          "nome": {
+            "id": 5,
+            "tag_inicial": "H:n",
+            "palavra_original": "jogo",
+            "palavra_canonica": "jogo",
+            "tags": [
+              "<activity>",
+              "<occ>",
+              "<cc-h>",
+              "<game>",
+              "M",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "contest",
+                  "sinonimo": "certame",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "turn",
+                  "sinonimo": "jogo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "set",
+                  "sinonimo": "grupo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "pastime",
+                  "sinonimo": "entreterimento",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "contest",
+                  "sinonimo": "torneio",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "contest",
+                  "sinonimo": "partida",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "play",
+                  "sinonimo": "jogos",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "turn",
+                  "sinonimo": "vez",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "contest",
+                  "sinonimo": "concurso",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "pastime",
+                  "sinonimo": "passatempo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "contest",
+                  "sinonimo": "competição",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "turn",
+                  "sinonimo": "turn",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "09"
+                },
+                {
+                  "synset": "turn",
+                  "sinonimo": "bout",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "09"
+                },
+                {
+                  "synset": "contest",
+                  "sinonimo": "competition",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "game",
+                  "sinonimo": "game",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "pastime",
+                  "sinonimo": "pursuit",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "set",
+                  "sinonimo": "set",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "pastime",
+                  "sinonimo": "pastime",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "turn",
+                  "sinonimo": "round",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "09"
+                },
+                {
+                  "synset": "play",
+                  "sinonimo": "child's_play",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "08"
+                },
+                {
+                  "synset": "contest",
+                  "sinonimo": "contest",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "play",
+                  "sinonimo": "play",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "08"
+                },
+                {
+                  "synset": "pastime",
+                  "sinonimo": "interest",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 7,
+            "tag_inicial": "DN:adj",
+            "palavra_original": "chamado",
+            "palavra_canonica": "chamado",
+            "tags": [
+              "<np-long>",
+              "M",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": null
+          }
+        },
+        {
+          "nome": {
+            "id": 5,
+            "tag_inicial": "H:n",
+            "palavra_original": "jogo",
+            "palavra_canonica": "jogo",
+            "tags": [
+              "<activity>",
+              "<occ>",
+              "<cc-h>",
+              "<game>",
+              "M",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "contest",
+                  "sinonimo": "certame",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "turn",
+                  "sinonimo": "jogo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "set",
+                  "sinonimo": "grupo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "pastime",
+                  "sinonimo": "entreterimento",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "contest",
+                  "sinonimo": "torneio",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "contest",
+                  "sinonimo": "partida",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "play",
+                  "sinonimo": "jogos",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "turn",
+                  "sinonimo": "vez",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "contest",
+                  "sinonimo": "concurso",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "pastime",
+                  "sinonimo": "passatempo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "contest",
+                  "sinonimo": "competição",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "turn",
+                  "sinonimo": "turn",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "09"
+                },
+                {
+                  "synset": "turn",
+                  "sinonimo": "bout",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "09"
+                },
+                {
+                  "synset": "contest",
+                  "sinonimo": "competition",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "game",
+                  "sinonimo": "game",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "pastime",
+                  "sinonimo": "pursuit",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "set",
+                  "sinonimo": "set",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "pastime",
+                  "sinonimo": "pastime",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "turn",
+                  "sinonimo": "round",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "09"
+                },
+                {
+                  "synset": "play",
+                  "sinonimo": "child's_play",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "08"
+                },
+                {
+                  "synset": "contest",
+                  "sinonimo": "contest",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "play",
+                  "sinonimo": "play",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "08"
+                },
+                {
+                  "synset": "pastime",
+                  "sinonimo": "interest",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 8,
+            "tag_inicial": "DN:prop",
+            "palavra_original": "Battle_Chess",
+            "palavra_canonica": "Battle_Chess",
+            "tags": [
+              "<genre>",
+              "<*>",
+              "<np-long>",
+              "M",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*battle_chess",
+              "subject",
+              "*categoria:jogos_eletronicos_de_1988"
+            ]
+          ],
+          "score": 13.360452,
+          "detail": {
+            "keywords": [
+              "eletronico",
+              "jogo",
+              "battle_chess"
+            ],
+            "score_detail": {
+              "m1": 11.360452,
+              "m2": 1.0,
+              "m3": 1.0,
+              "matches": {
+                "eletronico": {
+                  "keyword": {
+                    "termo": "eletronico",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "categoria:jogos_eletronicos_de_1988",
+                  "score": 1.0
+                },
+                "jogo": {
+                  "keyword": {
+                    "termo": "jogo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "categoria:jogos_eletronicos_de_1988",
+                  "score": 0.36045203
+                },
+                "battle_chess": {
+                  "keyword": {
+                    "termo": "battle_chess",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "battle_chess",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "battle_chess": "-1",
+              "jogo": "-11"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*battle_chess",
+              "abstract",
+              "*battle chess e um jogo eletronico para computador que simula xadrez no qual as pecas sao animadas, movimentando-se pelo tabuleiro com estilo proprio e entrando em combate apos cada lance de captura. a concepcao do design grafico do jogo foi inspirada nas sequencias de xadrez em 3d presentes nos filmes da serie star wars e future world. os animadores todd camasta e bruce schlickbernd foram agraciados com o premio best graphics, dado pela software publishers association. o jogo foi escrito pelos programadores michael quarles e jayesh patel. o battle chess tambem pode ser jogado em um tabuleiro 2d, sem animacoes. o programa original, que teve dezenas de imitacoes, tornou-se um abandonware e pode ser baixado gratuitamente na internet."
+            ]
+          ],
+          "score": 13.0,
+          "detail": {
+            "keywords": [
+              "eletronico",
+              "jogo",
+              "battle_chess"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 1.0,
+              "m3": 1.0,
+              "matches": {
+                "eletronico": {
+                  "keyword": {
+                    "termo": "eletronico",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "battle chess e um jogo eletronico para computador que simula xadrez no qual as pecas sao animadas, movimentando-se pelo tabuleiro com estilo proprio e entrando em combate apos cada lance de captura. a concepcao do design grafico do jogo foi inspirada nas sequencias de xadrez em 3d presentes nos filmes da serie star wars e future world. os animadores todd camasta e bruce schlickbernd foram agraciados com o premio best graphics, dado pela software publishers association. o jogo foi escrito pelos programadores michael quarles e jayesh patel. o battle chess tambem pode ser jogado em um tabuleiro 2d, sem animacoes. o programa original, que teve dezenas de imitacoes, tornou-se um abandonware e pode ser baixado gratuitamente na internet.",
+                  "score": 1.0
+                },
+                "jogo": {
+                  "keyword": {
+                    "termo": "jogo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "battle chess e um jogo eletronico para computador que simula xadrez no qual as pecas sao animadas, movimentando-se pelo tabuleiro com estilo proprio e entrando em combate apos cada lance de captura. a concepcao do design grafico do jogo foi inspirada nas sequencias de xadrez em 3d presentes nos filmes da serie star wars e future world. os animadores todd camasta e bruce schlickbernd foram agraciados com o premio best graphics, dado pela software publishers association. o jogo foi escrito pelos programadores michael quarles e jayesh patel. o battle chess tambem pode ser jogado em um tabuleiro 2d, sem animacoes. o programa original, que teve dezenas de imitacoes, tornou-se um abandonware e pode ser baixado gratuitamente na internet.",
+                  "score": 2.7419957e-30
+                },
+                "battle_chess": {
+                  "keyword": {
+                    "termo": "battle_chess",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "battle_chess",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "battle_chess": "-1",
+              "jogo": "-34"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*battle_chess",
+              "subject",
+              "*categoria:jogos_para_3do"
+            ]
+          ],
+          "score": 12.489078,
+          "detail": {
+            "keywords": [
+              "jogo",
+              "battle_chess"
+            ],
+            "score_detail": {
+              "m1": 10.822411,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "jogo": {
+                  "keyword": {
+                    "termo": "jogo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "categoria:jogos_para_3do",
+                  "score": 0.82241046
+                },
+                "battle_chess": {
+                  "keyword": {
+                    "termo": "battle_chess",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "battle_chess",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "battle_chess": "-1",
+              "jogo": "-12"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*battle_chess",
+              "subject",
+              "*categoria:jogos_para_dos"
+            ]
+          ],
+          "score": 12.489078,
+          "detail": {
+            "keywords": [
+              "jogo",
+              "battle_chess"
+            ],
+            "score_detail": {
+              "m1": 10.822411,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "jogo": {
+                  "keyword": {
+                    "termo": "jogo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "categoria:jogos_para_dos",
+                  "score": 0.82241046
+                },
+                "battle_chess": {
+                  "keyword": {
+                    "termo": "battle_chess",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "battle_chess",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "battle_chess": "-1",
+              "jogo": "-19"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*battle_chess",
+              "subject",
+              "*categoria:jogos_para_cd32"
+            ]
+          ],
+          "score": 12.435879,
+          "detail": {
+            "keywords": [
+              "jogo",
+              "battle_chess"
+            ],
+            "score_detail": {
+              "m1": 10.769212,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "jogo": {
+                  "keyword": {
+                    "termo": "jogo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "categoria:jogos_para_cd32",
+                  "score": 0.769212
+                },
+                "battle_chess": {
+                  "keyword": {
+                    "termo": "battle_chess",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "battle_chess",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4,
+          "bind_control": {
+            "binds": {
+              "battle_chess": "-1",
+              "jogo": "-17"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*battle_chess",
+              "subject",
+              "*categoria:jogos_para_amiga"
+            ]
+          ],
+          "score": 12.384782,
+          "detail": {
+            "keywords": [
+              "jogo",
+              "battle_chess"
+            ],
+            "score_detail": {
+              "m1": 10.718115,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "jogo": {
+                  "keyword": {
+                    "termo": "jogo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "categoria:jogos_para_amiga",
+                  "score": 0.71811485
+                },
+                "battle_chess": {
+                  "keyword": {
+                    "termo": "battle_chess",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "battle_chess",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "battle_chess": "-1",
+              "jogo": "-14"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*battle_chess",
+              "subject",
+              "*categoria:jogos_para_mac_os"
+            ]
+          ],
+          "score": 12.335882,
+          "detail": {
+            "keywords": [
+              "jogo",
+              "battle_chess"
+            ],
+            "score_detail": {
+              "m1": 10.669215,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "jogo": {
+                  "keyword": {
+                    "termo": "jogo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "categoria:jogos_para_mac_os",
+                  "score": 0.6692149
+                },
+                "battle_chess": {
+                  "keyword": {
+                    "termo": "battle_chess",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "battle_chess",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6,
+          "bind_control": {
+            "binds": {
+              "battle_chess": "-1",
+              "jogo": "-21"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*battle_chess",
+              "subject",
+              "*categoria:jogos_para_atari_st"
+            ]
+          ],
+          "score": 12.244923,
+          "detail": {
+            "keywords": [
+              "jogo",
+              "battle_chess"
+            ],
+            "score_detail": {
+              "m1": 10.578256,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "jogo": {
+                  "keyword": {
+                    "termo": "jogo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "categoria:jogos_para_atari_st",
+                  "score": 0.5782556
+                },
+                "battle_chess": {
+                  "keyword": {
+                    "termo": "battle_chess",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "battle_chess",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7,
+          "bind_control": {
+            "binds": {
+              "battle_chess": "-1",
+              "jogo": "-15"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*battle_chess",
+              "subject",
+              "*categoria:jogos_para_fm_towns"
+            ]
+          ],
+          "score": 12.244923,
+          "detail": {
+            "keywords": [
+              "jogo",
+              "battle_chess"
+            ],
+            "score_detail": {
+              "m1": 10.578256,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "jogo": {
+                  "keyword": {
+                    "termo": "jogo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "categoria:jogos_para_fm_towns",
+                  "score": 0.5782556
+                },
+                "battle_chess": {
+                  "keyword": {
+                    "termo": "battle_chess",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "battle_chess",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8,
+          "bind_control": {
+            "binds": {
+              "battle_chess": "-1",
+              "jogo": "-20"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*battle_chess",
+              "subject",
+              "*categoria:jogos_para_nec_pc_9801"
+            ]
+          ],
+          "score": 12.125883,
+          "detail": {
+            "keywords": [
+              "jogo",
+              "battle_chess"
+            ],
+            "score_detail": {
+              "m1": 10.459216,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "jogo": {
+                  "keyword": {
+                    "termo": "jogo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "categoria:jogos_para_nec_pc_9801",
+                  "score": 0.45921585
+                },
+                "battle_chess": {
+                  "keyword": {
+                    "termo": "battle_chess",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "battle_chess",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9,
+          "bind_control": {
+            "binds": {
+              "battle_chess": "-1",
+              "jogo": "-22"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*battle_chess",
+              "subject",
+              "*categoria:jogos_para_commodore_64"
+            ]
+          ],
+          "score": 12.0907755,
+          "detail": {
+            "keywords": [
+              "jogo",
+              "battle_chess"
+            ],
+            "score_detail": {
+              "m1": 10.4241085,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "jogo": {
+                  "keyword": {
+                    "termo": "jogo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "categoria:jogos_para_commodore_64",
+                  "score": 0.42410836
+                },
+                "battle_chess": {
+                  "keyword": {
+                    "termo": "battle_chess",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "battle_chess",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10,
+          "bind_control": {
+            "binds": {
+              "battle_chess": "-1",
+              "jogo": "-16"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*battle_chess",
+              "subject",
+              "*categoria:jogos_para_sharp_x68000"
+            ]
+          ],
+          "score": 12.0907755,
+          "detail": {
+            "keywords": [
+              "jogo",
+              "battle_chess"
+            ],
+            "score_detail": {
+              "m1": 10.4241085,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "jogo": {
+                  "keyword": {
+                    "termo": "jogo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "categoria:jogos_para_sharp_x68000",
+                  "score": 0.42410836
+                },
+                "battle_chess": {
+                  "keyword": {
+                    "termo": "battle_chess",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "battle_chess",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11,
+          "bind_control": {
+            "binds": {
+              "battle_chess": "-1",
+              "jogo": "-24"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*battle_chess",
+              "subject",
+              "*categoria:jogos_para_acorn_archimedes"
+            ]
+          ],
+          "score": 11.971718,
+          "detail": {
+            "keywords": [
+              "jogo",
+              "battle_chess"
+            ],
+            "score_detail": {
+              "m1": 10.305051,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "jogo": {
+                  "keyword": {
+                    "termo": "jogo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "categoria:jogos_para_acorn_archimedes",
+                  "score": 0.30505046
+                },
+                "battle_chess": {
+                  "keyword": {
+                    "termo": "battle_chess",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "battle_chess",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12,
+          "bind_control": {
+            "binds": {
+              "battle_chess": "-1",
+              "jogo": "-13"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*battle_chess",
+              "wikipageusestemplate",
+              "*predefinicao:esboco_videogame"
+            ]
+          ],
+          "score": 11.955794,
+          "detail": {
+            "keywords": [
+              "jogo",
+              "battle_chess"
+            ],
+            "score_detail": {
+              "m1": 10.289127,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "jogo": {
+                  "keyword": {
+                    "termo": "game",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "predefinicao:esboco_videogame",
+                  "score": 0.2891278
+                },
+                "battle_chess": {
+                  "keyword": {
+                    "termo": "battle_chess",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "battle_chess",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*battle_chess",
+              "subject",
+              "*categoria:jogos_para_nintendo_entertainment_system"
+            ]
+          ],
+          "score": 11.762844,
+          "detail": {
+            "keywords": [
+              "jogo",
+              "battle_chess"
+            ],
+            "score_detail": {
+              "m1": 10.096177,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "jogo": {
+                  "keyword": {
+                    "termo": "jogo",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "categoria:jogos_para_nintendo_entertainment_system",
+                  "score": 0.096177414
+                },
+                "battle_chess": {
+                  "keyword": {
+                    "termo": "battle_chess",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "battle_chess",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*battle_chess",
+              "owl#sameas",
+              "q810986"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "battle_chess"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "battle_chess": {
+                  "keyword": {
+                    "termo": "battle_chess",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "battle_chess",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*battle_chess",
+              "owl#sameas",
+              "*battle_chess"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "battle_chess"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "battle_chess": {
+                  "keyword": {
+                    "termo": "battle_chess",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "battle_chess",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*battle_chess",
+              "wikipageusestemplate",
+              "predefinicao:portal_xadrez"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "battle_chess"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "battle_chess": {
+                  "keyword": {
+                    "termo": "battle_chess",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "battle_chess",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*battle_chess",
+              "wikipageusestemplate",
+              "predefinicao:ligacoes_externas"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "battle_chess"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "battle_chess": {
+                  "keyword": {
+                    "termo": "battle_chess",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "battle_chess",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*battle_chess",
+              "wikipageusestemplate",
+              "predefinicao:esboco_xadrez"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "battle_chess"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "battle_chess": {
+                  "keyword": {
+                    "termo": "battle_chess",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "battle_chess",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*battle_chess",
+              "wikipageusestemplate",
+              "predefinicao:portal3"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "battle_chess"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "battle_chess": {
+                  "keyword": {
+                    "termo": "battle_chess",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "battle_chess",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*battle_chess",
+              "subject",
+              "categoria:programas_de_computador_de_xadrez"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "battle_chess"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "battle_chess": {
+                  "keyword": {
+                    "termo": "battle_chess",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "battle_chess",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*battle_chess",
+              "subject",
+              "categoria:xadrez_por_computador"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "battle_chess"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "battle_chess": {
+                  "keyword": {
+                    "termo": "battle_chess",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "battle_chess",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*battle_chess",
+              "owl#sameas",
+              "m.03cdn9"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "battle_chess"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "battle_chess": {
+                  "keyword": {
+                    "termo": "battle_chess",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "battle_chess",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*battle_chess",
+              "owl#sameas",
+              "m.03cdn9"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "battle_chess"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "battle_chess": {
+                  "keyword": {
+                    "termo": "battle_chess",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "battle_chess",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*battle_chess",
+              "rdf_schema#label",
+              "battle chess"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "battle_chess"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "battle_chess": {
+                  "keyword": {
+                    "termo": "battle_chess",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "battle_chess",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*battle_chess",
+              "rdf_schema#label",
+              "battle chess"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "battle_chess"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "battle_chess": {
+                  "keyword": {
+                    "termo": "battle_chess",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "battle_chess",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*battle_chess",
+              "wikipageexternallink",
+              "battlechessforwindows"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "battle_chess"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "battle_chess": {
+                  "keyword": {
+                    "termo": "battle_chess",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "battle_chess",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*battle_chess",
+              "wikipageexternallink",
+              "battlechessgsdisk.html"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "battle_chess"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "battle_chess": {
+                  "keyword": {
+                    "termo": "battle_chess",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "battle_chess",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*battle_chess",
+              "wikipageexternallink",
+              "752"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "battle_chess"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "battle_chess": {
+                  "keyword": {
+                    "termo": "battle_chess",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "battle_chess",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 1403.3915996551514,
+      "l_sizes": [
+        24875
+      ],
+      "total_time": 8518.882274627686
+    }
+  }
+]

@@ -1,0 +1,2767 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "Cs:spec",
+          "palavra_original": "Quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "M/F",
+            "S/P"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "foi",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "vice",
+          "palavra_canonica": "vice",
+          "tags": [
+            "<Hprof>",
+            "<Hattr>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:n",
+          "palavra_original": "presidente",
+          "palavra_canonica": "presidente",
+          "tags": [
+            "<Hprof>",
+            "<np-close>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<np-close>"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "John_F._Kennedy",
+          "palavra_canonica": "John_F._Kennedy",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "Cs:spec",
+          "palavra_original": "Quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "M/F",
+            "S/P"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "foi",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "vice",
+          "palavra_canonica": "vice",
+          "tags": [
+            "<Hprof>",
+            "<Hattr>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "runner-up",
+                "sinonimo": "campeão",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "frailty",
+                "sinonimo": "vice",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "runner-up",
+                "sinonimo": "segundo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "runner-up",
+                "sinonimo": "colocado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "frailty",
+                "sinonimo": "perversão",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "frailty",
+                "sinonimo": "frailty",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "runner-up",
+                "sinonimo": "runner-up",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "runner-up",
+                "sinonimo": "second_best",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "frailty",
+                "sinonimo": "vice",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:n",
+          "palavra_original": "presidente",
+          "palavra_canonica": "presidente",
+          "tags": [
+            "<Hprof>",
+            "<np-close>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "president",
+                "sinonimo": "Listas_de_presidentes",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "president_of_the_united_states",
+                "sinonimo": "Presidente_dos_Estados_Unidos",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "president_of_the_united_states",
+                "sinonimo": "Presidente_dos_Estados_Unidos_da_América",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "president",
+                "sinonimo": "presidenta",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "president_of_the_united_states",
+                "sinonimo": "Presidente_dos_estados_unidos",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "president_of_the_united_states",
+                "sinonimo": "Presidente_dos_estados_unidos_da_américa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "president",
+                "sinonimo": "diretor",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "president_of_the_united_states",
+                "sinonimo": "presidentes",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "president",
+                "sinonimo": "reitor",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "president_of_the_united_states",
+                "sinonimo": "Presidente",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "president",
+                "sinonimo": "presidente",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "president",
+                "sinonimo": "chairperson",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "president",
+                "sinonimo": "chairman",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "president",
+                "sinonimo": "prexy",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "president_of_the_united_states",
+                "sinonimo": "President",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "presiding_officer",
+                "sinonimo": "presiding_officer",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "president_of_the_united_states",
+                "sinonimo": "President_of_the_United_States",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "president",
+                "sinonimo": "chair",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "president",
+                "sinonimo": "chairwoman",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "president",
+                "sinonimo": "president",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "president_of_the_united_states",
+                "sinonimo": "United_States_President",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "president_of_the_united_states",
+                "sinonimo": "Chief_Executive",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<np-close>"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "John_F._Kennedy",
+          "palavra_canonica": "John_F._Kennedy",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 12,
+          "tag_inicial": "?",
+          "palavra_original": " ",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "[ [ QUE:fcl|1| [Cs:spec|2| Quem] [P:v-fin|3| foi] [ S:np|4| [DN:art|5| o] [H:n|6| vice] [ DN:np|7| [H:n|8| presidente] [ DN:pp|9| [H:prp|10| de] [DP:prop|11| John_F._Kennedy] ] ] ] [?|12|  ] ] ]",
+      "tipo": {
+        "tipo": "quem",
+        "confianca": 0.89,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "vice",
+          "palavra_canonica": "vice",
+          "tags": [
+            "<Hprof>",
+            "<Hattr>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "runner-up",
+                "sinonimo": "campeão",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "frailty",
+                "sinonimo": "vice",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "runner-up",
+                "sinonimo": "segundo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "runner-up",
+                "sinonimo": "colocado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "frailty",
+                "sinonimo": "perversão",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "frailty",
+                "sinonimo": "frailty",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "runner-up",
+                "sinonimo": "runner-up",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "runner-up",
+                "sinonimo": "second_best",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "frailty",
+                "sinonimo": "vice",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:n",
+          "palavra_original": "presidente",
+          "palavra_canonica": "presidente",
+          "tags": [
+            "<Hprof>",
+            "<np-close>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "president",
+                "sinonimo": "Listas_de_presidentes",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "president_of_the_united_states",
+                "sinonimo": "Presidente_dos_Estados_Unidos",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "president_of_the_united_states",
+                "sinonimo": "Presidente_dos_Estados_Unidos_da_América",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "president",
+                "sinonimo": "presidenta",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "president_of_the_united_states",
+                "sinonimo": "Presidente_dos_estados_unidos",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "president_of_the_united_states",
+                "sinonimo": "Presidente_dos_estados_unidos_da_américa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "president",
+                "sinonimo": "diretor",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "president_of_the_united_states",
+                "sinonimo": "presidentes",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "president",
+                "sinonimo": "reitor",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "president_of_the_united_states",
+                "sinonimo": "Presidente",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "president",
+                "sinonimo": "presidente",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "president",
+                "sinonimo": "chairperson",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "president",
+                "sinonimo": "chairman",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "president",
+                "sinonimo": "prexy",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "president_of_the_united_states",
+                "sinonimo": "President",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "presiding_officer",
+                "sinonimo": "presiding_officer",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "president_of_the_united_states",
+                "sinonimo": "President_of_the_United_States",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "president",
+                "sinonimo": "chair",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "president",
+                "sinonimo": "chairwoman",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "president",
+                "sinonimo": "president",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "president_of_the_united_states",
+                "sinonimo": "United_States_President",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "president_of_the_united_states",
+                "sinonimo": "Chief_Executive",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 11,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "John_F._Kennedy",
+          "palavra_canonica": "John_F._Kennedy",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 6,
+            "tag_inicial": "H:n",
+            "palavra_original": "vice",
+            "palavra_canonica": "vice",
+            "tags": [
+              "<Hprof>",
+              "<Hattr>",
+              "M",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "runner-up",
+                  "sinonimo": "campeão",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "frailty",
+                  "sinonimo": "vice",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "runner-up",
+                  "sinonimo": "segundo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "runner-up",
+                  "sinonimo": "colocado",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "frailty",
+                  "sinonimo": "perversão",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "frailty",
+                  "sinonimo": "frailty",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "runner-up",
+                  "sinonimo": "runner-up",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "runner-up",
+                  "sinonimo": "second_best",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "frailty",
+                  "sinonimo": "vice",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 8,
+            "tag_inicial": "H:n",
+            "palavra_original": "presidente",
+            "palavra_canonica": "presidente",
+            "tags": [
+              "<Hprof>",
+              "<np-close>",
+              "M/F",
+              "S"
+            ],
+            "nivel": 3,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "president",
+                  "sinonimo": "Listas_de_presidentes",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "president_of_the_united_states",
+                  "sinonimo": "Presidente_dos_Estados_Unidos",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "president_of_the_united_states",
+                  "sinonimo": "Presidente_dos_Estados_Unidos_da_América",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "president",
+                  "sinonimo": "presidenta",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "president_of_the_united_states",
+                  "sinonimo": "Presidente_dos_estados_unidos",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "president_of_the_united_states",
+                  "sinonimo": "Presidente_dos_estados_unidos_da_américa",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "president",
+                  "sinonimo": "diretor",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "president_of_the_united_states",
+                  "sinonimo": "presidentes",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "president",
+                  "sinonimo": "reitor",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "president_of_the_united_states",
+                  "sinonimo": "Presidente",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "president",
+                  "sinonimo": "presidente",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "05"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "president",
+                  "sinonimo": "chairperson",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "president",
+                  "sinonimo": "chairman",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "president",
+                  "sinonimo": "prexy",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "president_of_the_united_states",
+                  "sinonimo": "President",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "presiding_officer",
+                  "sinonimo": "presiding_officer",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "president_of_the_united_states",
+                  "sinonimo": "President_of_the_United_States",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "president",
+                  "sinonimo": "chair",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "president",
+                  "sinonimo": "chairwoman",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "president",
+                  "sinonimo": "president",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "president_of_the_united_states",
+                  "sinonimo": "United_States_President",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "president_of_the_united_states",
+                  "sinonimo": "Chief_Executive",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                }
+              ]
+            }
+          }
+        },
+        {
+          "nome": {
+            "id": 8,
+            "tag_inicial": "H:n",
+            "palavra_original": "presidente",
+            "palavra_canonica": "presidente",
+            "tags": [
+              "<Hprof>",
+              "<np-close>",
+              "M/F",
+              "S"
+            ],
+            "nivel": 3,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "president",
+                  "sinonimo": "Listas_de_presidentes",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "president_of_the_united_states",
+                  "sinonimo": "Presidente_dos_Estados_Unidos",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "president_of_the_united_states",
+                  "sinonimo": "Presidente_dos_Estados_Unidos_da_América",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "president",
+                  "sinonimo": "presidenta",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "president_of_the_united_states",
+                  "sinonimo": "Presidente_dos_estados_unidos",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "president_of_the_united_states",
+                  "sinonimo": "Presidente_dos_estados_unidos_da_américa",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "president",
+                  "sinonimo": "diretor",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "president_of_the_united_states",
+                  "sinonimo": "presidentes",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "president",
+                  "sinonimo": "reitor",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "president_of_the_united_states",
+                  "sinonimo": "Presidente",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "president",
+                  "sinonimo": "presidente",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "05"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "president",
+                  "sinonimo": "chairperson",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "president",
+                  "sinonimo": "chairman",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "president",
+                  "sinonimo": "prexy",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "president_of_the_united_states",
+                  "sinonimo": "President",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "presiding_officer",
+                  "sinonimo": "presiding_officer",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "president_of_the_united_states",
+                  "sinonimo": "President_of_the_United_States",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "president",
+                  "sinonimo": "chair",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "president",
+                  "sinonimo": "chairwoman",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "president",
+                  "sinonimo": "president",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "president_of_the_united_states",
+                  "sinonimo": "United_States_President",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "president_of_the_united_states",
+                  "sinonimo": "Chief_Executive",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 11,
+            "tag_inicial": "DP:prop",
+            "palavra_original": "John_F._Kennedy",
+            "palavra_canonica": "John_F._Kennedy",
+            "tags": [
+              "<hum>",
+              "<*>",
+              "M",
+              "S"
+            ],
+            "nivel": 4,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "jacqueline_kennedy_onassis",
+              "*vice",
+              "*john_f._kennedy"
+            ],
+            [
+              "jacqueline_kennedy_onassis",
+              "*vicetitulo",
+              "*presidente"
+            ]
+          ],
+          "score": 15.5,
+          "detail": {
+            "keywords": [
+              "vice",
+              "john_f._kennedy",
+              "presidente"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "vice": {
+                  "keyword": {
+                    "termo": "vice",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "vice",
+                  "score": 2.0
+                },
+                "john_f._kennedy": {
+                  "keyword": {
+                    "termo": "john_f._kennedy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "john_f._kennedy",
+                  "score": 10.0
+                },
+                "presidente": {
+                  "keyword": {
+                    "termo": "presidente",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "presidente",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "vice": "-84",
+              "john_f._kennedy": "-12016",
+              "presidente": "-17"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "adlai_stevenson_ii",
+              "*vice",
+              "*john_f._kennedy"
+            ],
+            [
+              "*john_f._kennedy",
+              "wikipageusestemplate",
+              "*presidente"
+            ]
+          ],
+          "score": 15.5,
+          "detail": {
+            "keywords": [
+              "vice",
+              "john_f._kennedy",
+              "presidente"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "vice": {
+                  "keyword": {
+                    "termo": "vice",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "vice",
+                  "score": 2.0
+                },
+                "john_f._kennedy": {
+                  "keyword": {
+                    "termo": "john_f._kennedy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "john_f._kennedy",
+                  "score": 10.0
+                },
+                "presidente": {
+                  "keyword": {
+                    "termo": "presidente",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "presidente",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0
+        },
+        {
+          "triples": [
+            [
+              "jacqueline_kennedy_onassis",
+              "*vice",
+              "*john_f._kennedy"
+            ],
+            [
+              "*john_f._kennedy",
+              "wikipageusestemplate",
+              "*presidente"
+            ]
+          ],
+          "score": 15.5,
+          "detail": {
+            "keywords": [
+              "vice",
+              "john_f._kennedy",
+              "presidente"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "vice": {
+                  "keyword": {
+                    "termo": "vice",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "vice",
+                  "score": 2.0
+                },
+                "john_f._kennedy": {
+                  "keyword": {
+                    "termo": "john_f._kennedy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "john_f._kennedy",
+                  "score": 10.0
+                },
+                "presidente": {
+                  "keyword": {
+                    "termo": "presidente",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "presidente",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "jacqueline_kennedy_onassis",
+              "*vice",
+              "*john_f._kennedy"
+            ],
+            [
+              "jacqueline_kennedy_onassis",
+              "*vicetitulo",
+              "*presidente"
+            ]
+          ],
+          "score": 15.5,
+          "detail": {
+            "keywords": [
+              "vice",
+              "john_f._kennedy",
+              "presidente"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "vice": {
+                  "keyword": {
+                    "termo": "vice",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "vice",
+                  "score": 2.0
+                },
+                "john_f._kennedy": {
+                  "keyword": {
+                    "termo": "john_f._kennedy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "john_f._kennedy",
+                  "score": 10.0
+                },
+                "presidente": {
+                  "keyword": {
+                    "termo": "presidente",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "presidente",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "vice": "-84",
+              "john_f._kennedy": "-12016",
+              "presidente": "-17"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*john_f._kennedy",
+              "wikipageusestemplate",
+              "*presidente"
+            ],
+            [
+              "adlai_stevenson_ii",
+              "*vice",
+              "*john_f._kennedy"
+            ]
+          ],
+          "score": 15.5,
+          "detail": {
+            "keywords": [
+              "john_f._kennedy",
+              "presidente",
+              "vice"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "vice": {
+                  "keyword": {
+                    "termo": "vice",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "vice",
+                  "score": 2.0
+                },
+                "john_f._kennedy": {
+                  "keyword": {
+                    "termo": "john_f._kennedy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "john_f._kennedy",
+                  "score": 10.0
+                },
+                "presidente": {
+                  "keyword": {
+                    "termo": "presidente",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "presidente",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*john_f._kennedy",
+              "wikipageusestemplate",
+              "*presidente"
+            ],
+            [
+              "jacqueline_kennedy_onassis",
+              "*vice",
+              "*john_f._kennedy"
+            ]
+          ],
+          "score": 15.5,
+          "detail": {
+            "keywords": [
+              "john_f._kennedy",
+              "presidente",
+              "vice"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "vice": {
+                  "keyword": {
+                    "termo": "vice",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "vice",
+                  "score": 2.0
+                },
+                "john_f._kennedy": {
+                  "keyword": {
+                    "termo": "john_f._kennedy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "john_f._kennedy",
+                  "score": 10.0
+                },
+                "presidente": {
+                  "keyword": {
+                    "termo": "presidente",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "presidente",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "jacqueline_kennedy_onassis",
+              "*vicetitulo",
+              "*presidente"
+            ],
+            [
+              "jacqueline_kennedy_onassis",
+              "*vice",
+              "*john_f._kennedy"
+            ]
+          ],
+          "score": 15.5,
+          "detail": {
+            "keywords": [
+              "vice",
+              "presidente",
+              "john_f._kennedy"
+            ],
+            "score_detail": {
+              "m1": 14.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "vice": {
+                  "keyword": {
+                    "termo": "vice",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "vice",
+                  "score": 2.0
+                },
+                "john_f._kennedy": {
+                  "keyword": {
+                    "termo": "john_f._kennedy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "john_f._kennedy",
+                  "score": 10.0
+                },
+                "presidente": {
+                  "keyword": {
+                    "termo": "presidente",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "presidente",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "adlai_stevenson_ii",
+              "*vice",
+              "*john_f._kennedy"
+            ],
+            [
+              "*john_f._kennedy",
+              "titulo",
+              "*presidente_dos_estados_unidos"
+            ]
+          ],
+          "score": 14.5,
+          "detail": {
+            "keywords": [
+              "vice",
+              "john_f._kennedy",
+              "presidente"
+            ],
+            "score_detail": {
+              "m1": 13.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "vice": {
+                  "keyword": {
+                    "termo": "vice",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "vice",
+                  "score": 2.0
+                },
+                "john_f._kennedy": {
+                  "keyword": {
+                    "termo": "john_f._kennedy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "john_f._kennedy",
+                  "score": 10.0
+                },
+                "presidente": {
+                  "keyword": {
+                    "termo": "presidente_dos_estados_unidos",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "presidente_dos_estados_unidos",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "jacqueline_kennedy_onassis",
+              "*vice",
+              "*john_f._kennedy"
+            ],
+            [
+              "*john_f._kennedy",
+              "titulo",
+              "*presidente_dos_estados_unidos"
+            ]
+          ],
+          "score": 14.5,
+          "detail": {
+            "keywords": [
+              "vice",
+              "john_f._kennedy",
+              "presidente"
+            ],
+            "score_detail": {
+              "m1": 13.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "vice": {
+                  "keyword": {
+                    "termo": "vice",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "vice",
+                  "score": 2.0
+                },
+                "john_f._kennedy": {
+                  "keyword": {
+                    "termo": "john_f._kennedy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "john_f._kennedy",
+                  "score": 10.0
+                },
+                "presidente": {
+                  "keyword": {
+                    "termo": "presidente_dos_estados_unidos",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "presidente_dos_estados_unidos",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*john_f._kennedy",
+              "titulo",
+              "*presidente_dos_estados_unidos"
+            ],
+            [
+              "adlai_stevenson_ii",
+              "*vice",
+              "*john_f._kennedy"
+            ]
+          ],
+          "score": 14.5,
+          "detail": {
+            "keywords": [
+              "john_f._kennedy",
+              "presidente",
+              "vice"
+            ],
+            "score_detail": {
+              "m1": 13.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "vice": {
+                  "keyword": {
+                    "termo": "vice",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "vice",
+                  "score": 2.0
+                },
+                "john_f._kennedy": {
+                  "keyword": {
+                    "termo": "john_f._kennedy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "john_f._kennedy",
+                  "score": 10.0
+                },
+                "presidente": {
+                  "keyword": {
+                    "termo": "presidente_dos_estados_unidos",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "presidente_dos_estados_unidos",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*john_f._kennedy",
+              "titulo",
+              "*presidente_dos_estados_unidos"
+            ],
+            [
+              "jacqueline_kennedy_onassis",
+              "*vice",
+              "*john_f._kennedy"
+            ]
+          ],
+          "score": 14.5,
+          "detail": {
+            "keywords": [
+              "john_f._kennedy",
+              "presidente",
+              "vice"
+            ],
+            "score_detail": {
+              "m1": 13.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "vice": {
+                  "keyword": {
+                    "termo": "vice",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "vice",
+                  "score": 2.0
+                },
+                "john_f._kennedy": {
+                  "keyword": {
+                    "termo": "john_f._kennedy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "john_f._kennedy",
+                  "score": 10.0
+                },
+                "presidente": {
+                  "keyword": {
+                    "termo": "presidente_dos_estados_unidos",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "presidente_dos_estados_unidos",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "adlai_stevenson_ii",
+              "*vice",
+              "*john_f._kennedy"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "vice",
+              "john_f._kennedy"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "vice": {
+                  "keyword": {
+                    "termo": "vice",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "vice",
+                  "score": 2.0
+                },
+                "john_f._kennedy": {
+                  "keyword": {
+                    "termo": "john_f._kennedy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "john_f._kennedy",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "jacqueline_kennedy_onassis",
+              "*vice",
+              "*john_f._kennedy"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "vice",
+              "john_f._kennedy"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "vice": {
+                  "keyword": {
+                    "termo": "vice",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "vice",
+                  "score": 2.0
+                },
+                "john_f._kennedy": {
+                  "keyword": {
+                    "termo": "john_f._kennedy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "john_f._kennedy",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*john_f._kennedy",
+              "wikipageusestemplate",
+              "*presidente"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "john_f._kennedy",
+              "presidente"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "john_f._kennedy": {
+                  "keyword": {
+                    "termo": "john_f._kennedy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "john_f._kennedy",
+                  "score": 10.0
+                },
+                "presidente": {
+                  "keyword": {
+                    "termo": "presidente",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "presidente",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "adlai_stevenson_ii",
+              "*vice",
+              "*john_f._kennedy"
+            ],
+            [
+              "jacqueline_kennedy_onassis",
+              "*vice",
+              "*john_f._kennedy"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "vice",
+              "john_f._kennedy"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "vice": {
+                  "keyword": {
+                    "termo": "vice",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "vice",
+                  "score": 2.0
+                },
+                "john_f._kennedy": {
+                  "keyword": {
+                    "termo": "john_f._kennedy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "john_f._kennedy",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "jacqueline_kennedy_onassis",
+              "*vice",
+              "*john_f._kennedy"
+            ],
+            [
+              "adlai_stevenson_ii",
+              "*vice",
+              "*john_f._kennedy"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "vice",
+              "john_f._kennedy"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "vice": {
+                  "keyword": {
+                    "termo": "vice",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "vice",
+                  "score": 2.0
+                },
+                "john_f._kennedy": {
+                  "keyword": {
+                    "termo": "john_f._kennedy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "john_f._kennedy",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*john_f._kennedy",
+              "wikipageusestemplate",
+              "*presidente"
+            ],
+            [
+              "*john_f._kennedy",
+              "titulo",
+              "*presidente_dos_estados_unidos"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "john_f._kennedy",
+              "presidente"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "john_f._kennedy": {
+                  "keyword": {
+                    "termo": "john_f._kennedy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "john_f._kennedy",
+                  "score": 10.0
+                },
+                "presidente": {
+                  "keyword": {
+                    "termo": "presidente",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "presidente",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*john_f._kennedy",
+              "titulo",
+              "*presidente_dos_estados_unidos"
+            ],
+            [
+              "*john_f._kennedy",
+              "wikipageusestemplate",
+              "*presidente"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "john_f._kennedy",
+              "presidente"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "john_f._kennedy": {
+                  "keyword": {
+                    "termo": "john_f._kennedy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "john_f._kennedy",
+                  "score": 10.0
+                },
+                "presidente": {
+                  "keyword": {
+                    "termo": "presidente",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "presidente",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*john_f._kennedy",
+              "titulo",
+              "*presidente_dos_estados_unidos"
+            ]
+          ],
+          "score": 12.666667,
+          "detail": {
+            "keywords": [
+              "john_f._kennedy",
+              "presidente"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "john_f._kennedy": {
+                  "keyword": {
+                    "termo": "john_f._kennedy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "john_f._kennedy",
+                  "score": 10.0
+                },
+                "presidente": {
+                  "keyword": {
+                    "termo": "presidente_dos_estados_unidos",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "presidente_dos_estados_unidos",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*centro_espacial_john_f._kennedy",
+              "chefe2posicao",
+              "*vice-diretor"
+            ],
+            [
+              "*centro_espacial_john_f._kennedy",
+              "chefe1posicao",
+              "*diretor"
+            ]
+          ],
+          "score": 12.122029,
+          "detail": {
+            "keywords": [
+              "vice",
+              "john_f._kennedy",
+              "presidente"
+            ],
+            "score_detail": {
+              "m1": 10.622029,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "vice": {
+                  "keyword": {
+                    "termo": "vice",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "vice-diretor",
+                  "score": 1.5553342
+                },
+                "john_f._kennedy": {
+                  "keyword": {
+                    "termo": "john_f._kennedy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "centro_espacial_john_f._kennedy",
+                  "score": 8.066695
+                },
+                "presidente": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "diretor",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*centro_espacial_john_f._kennedy",
+              "chefe1posicao",
+              "*diretor"
+            ],
+            [
+              "*centro_espacial_john_f._kennedy",
+              "chefe2posicao",
+              "*vice-diretor"
+            ]
+          ],
+          "score": 12.122029,
+          "detail": {
+            "keywords": [
+              "john_f._kennedy",
+              "presidente",
+              "vice"
+            ],
+            "score_detail": {
+              "m1": 10.622029,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "vice": {
+                  "keyword": {
+                    "termo": "vice",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "vice-diretor",
+                  "score": 1.5553342
+                },
+                "john_f._kennedy": {
+                  "keyword": {
+                    "termo": "john_f._kennedy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "centro_espacial_john_f._kennedy",
+                  "score": 8.066695
+                },
+                "presidente": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "diretor",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*centro_espacial_john_f._kennedy",
+              "chefe2posicao",
+              "*vice-diretor"
+            ]
+          ],
+          "score": 11.288696,
+          "detail": {
+            "keywords": [
+              "vice",
+              "john_f._kennedy"
+            ],
+            "score_detail": {
+              "m1": 9.622029,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "vice": {
+                  "keyword": {
+                    "termo": "vice",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "vice-diretor",
+                  "score": 1.5553342
+                },
+                "john_f._kennedy": {
+                  "keyword": {
+                    "termo": "john_f._kennedy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "centro_espacial_john_f._kennedy",
+                  "score": 8.066695
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*centro_espacial_john_f._kennedy",
+              "chefe1posicao",
+              "*diretor"
+            ]
+          ],
+          "score": 10.733362,
+          "detail": {
+            "keywords": [
+              "john_f._kennedy",
+              "presidente"
+            ],
+            "score_detail": {
+              "m1": 9.066695,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "john_f._kennedy": {
+                  "keyword": {
+                    "termo": "john_f._kennedy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "centro_espacial_john_f._kennedy",
+                  "score": 8.066695
+                },
+                "presidente": {
+                  "keyword": {
+                    "termo": "diretor",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "diretor",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "omar_suleiman",
+              "*vicetitulo",
+              "*presidente"
+            ]
+          ],
+          "score": 4.3432665,
+          "detail": {
+            "keywords": [
+              "vice",
+              "presidente"
+            ],
+            "score_detail": {
+              "m1": 3.6766,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "vice": {
+                  "keyword": {
+                    "termo": "vice",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "vicetitulo",
+                  "score": 1.6766001
+                },
+                "presidente": {
+                  "keyword": {
+                    "termo": "presidente",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "presidente",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "andrew_cuomo",
+              "*vicetitulo",
+              "*presidente"
+            ]
+          ],
+          "score": 4.3432665,
+          "detail": {
+            "keywords": [
+              "vice",
+              "presidente"
+            ],
+            "score_detail": {
+              "m1": 3.6766,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "vice": {
+                  "keyword": {
+                    "termo": "vice",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "vicetitulo",
+                  "score": 1.6766001
+                },
+                "presidente": {
+                  "keyword": {
+                    "termo": "presidente",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "presidente",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "alvaro_augusto_ribeiro_costa",
+              "*vicetitulo",
+              "*presidente"
+            ]
+          ],
+          "score": 4.3432665,
+          "detail": {
+            "keywords": [
+              "vice",
+              "presidente"
+            ],
+            "score_detail": {
+              "m1": 3.6766,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "vice": {
+                  "keyword": {
+                    "termo": "vice",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "vicetitulo",
+                  "score": 1.6766001
+                },
+                "presidente": {
+                  "keyword": {
+                    "termo": "presidente",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "presidente",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "maria_fernanda_ramos_coelho",
+              "*vicetitulo",
+              "*presidente"
+            ]
+          ],
+          "score": 4.3432665,
+          "detail": {
+            "keywords": [
+              "vice",
+              "presidente"
+            ],
+            "score_detail": {
+              "m1": 3.6766,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "vice": {
+                  "keyword": {
+                    "termo": "vice",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "vicetitulo",
+                  "score": 1.6766001
+                },
+                "presidente": {
+                  "keyword": {
+                    "termo": "presidente",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "presidente",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "luiz_marinho",
+              "*vicetitulo",
+              "*presidente"
+            ]
+          ],
+          "score": 4.3432665,
+          "detail": {
+            "keywords": [
+              "vice",
+              "presidente"
+            ],
+            "score_detail": {
+              "m1": 3.6766,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "vice": {
+                  "keyword": {
+                    "termo": "vice",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "vicetitulo",
+                  "score": 1.6766001
+                },
+                "presidente": {
+                  "keyword": {
+                    "termo": "presidente",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "presidente",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "cesar_gaviria",
+              "*vicetitulo",
+              "*presidente"
+            ]
+          ],
+          "score": 4.3432665,
+          "detail": {
+            "keywords": [
+              "vice",
+              "presidente"
+            ],
+            "score_detail": {
+              "m1": 3.6766,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "vice": {
+                  "keyword": {
+                    "termo": "vice",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "vicetitulo",
+                  "score": 1.6766001
+                },
+                "presidente": {
+                  "keyword": {
+                    "termo": "presidente",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "presidente",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "philander_c._knox",
+              "*vicetitulo",
+              "*presidente"
+            ]
+          ],
+          "score": 4.3432665,
+          "detail": {
+            "keywords": [
+              "vice",
+              "presidente"
+            ],
+            "score_detail": {
+              "m1": 3.6766,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "vice": {
+                  "keyword": {
+                    "termo": "vice",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "vicetitulo",
+                  "score": 1.6766001
+                },
+                "presidente": {
+                  "keyword": {
+                    "termo": "presidente",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "presidente",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "nilma_lino_gomes",
+              "*vicetitulo",
+              "*presidente"
+            ]
+          ],
+          "score": 4.3432665,
+          "detail": {
+            "keywords": [
+              "vice",
+              "presidente"
+            ],
+            "score_detail": {
+              "m1": 3.6766,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "vice": {
+                  "keyword": {
+                    "termo": "vice",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "vicetitulo",
+                  "score": 1.6766001
+                },
+                "presidente": {
+                  "keyword": {
+                    "termo": "presidente",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "presidente",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 1581.5730094909668,
+      "l_sizes": [
+        21849,
+        8758
+      ],
+      "total_time": 9722.235441207886
+    }
+  }
+]

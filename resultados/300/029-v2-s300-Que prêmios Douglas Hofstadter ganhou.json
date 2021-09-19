@@ -1,0 +1,1668 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "Que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "prêmios",
+          "palavra_canonica": "prêmio",
+          "tags": [
+            "<mon>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "Douglas_Hofstadter",
+          "palavra_canonica": "Douglas_Hofstadter",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<np-close>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "ganhou",
+          "palavra_canonica": "ganhar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 3,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "SUB:conj-s",
+          "palavra_original": "Que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<clb>",
+            "<*>"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Douglas_hofstadter",
+          "palavra_canonica": "Douglas_hofstadter",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "ganhou",
+          "palavra_canonica": "ganhar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "acquire",
+                "sinonimo": "ganhar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "receber",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "earn",
+                "sinonimo": "ganhar_dinheiro_com_seu_trabalho",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "vencer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "adquirir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "auferir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "atingir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "lucrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "obter",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "comprar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "earn",
+                "sinonimo": "garner",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "acquire",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "gain",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "win",
+                "sinonimo": "win",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "earn",
+                "sinonimo": "earn",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "qual",
+        "confianca": 0.69,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 3,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Douglas_hofstadter",
+          "palavra_canonica": "Douglas_hofstadter",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "ganhou",
+          "palavra_canonica": "ganhar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "acquire",
+                "sinonimo": "ganhar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "receber",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "earn",
+                "sinonimo": "ganhar_dinheiro_com_seu_trabalho",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "vencer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "adquirir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "auferir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "atingir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "lucrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "obter",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "comprar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "earn",
+                "sinonimo": "garner",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "acquire",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "gain",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "win",
+                "sinonimo": "win",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "earn",
+                "sinonimo": "earn",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*douglas_hofstadter",
+              "owl#sameas",
+              "q319308"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "douglas_hofstadter"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "douglas_hofstadter": {
+                  "keyword": {
+                    "termo": "douglas_hofstadter",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "douglas_hofstadter",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "douglas_hofstadter": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*douglas_hofstadter",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "douglas_hofstadter"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "douglas_hofstadter": {
+                  "keyword": {
+                    "termo": "douglas_hofstadter",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "douglas_hofstadter",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "douglas_hofstadter": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*douglas_hofstadter",
+              "owl#sameas",
+              "*douglas_hofstadter"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "douglas_hofstadter"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "douglas_hofstadter": {
+                  "keyword": {
+                    "termo": "douglas_hofstadter",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "douglas_hofstadter",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*douglas_hofstadter",
+              "owl#sameas",
+              "douglas_r._hofstadter"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "douglas_hofstadter"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "douglas_hofstadter": {
+                  "keyword": {
+                    "termo": "douglas_hofstadter",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "douglas_hofstadter",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "douglas_hofstadter": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*douglas_hofstadter",
+              "owl#sameas",
+              6
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "douglas_hofstadter"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "douglas_hofstadter": {
+                  "keyword": {
+                    "termo": "douglas_hofstadter",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "douglas_hofstadter",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4,
+          "bind_control": {
+            "binds": {
+              "douglas_hofstadter": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*douglas_hofstadter",
+              "owl#sameas",
+              ",_"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "douglas_hofstadter"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "douglas_hofstadter": {
+                  "keyword": {
+                    "termo": "douglas_hofstadter",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "douglas_hofstadter",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "douglas_hofstadter": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*douglas_hofstadter",
+              "depiction",
+              "hofstadter2002.jpg"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "douglas_hofstadter"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "douglas_hofstadter": {
+                  "keyword": {
+                    "termo": "douglas_hofstadter",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "douglas_hofstadter",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6,
+          "bind_control": {
+            "binds": {
+              "douglas_hofstadter": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*douglas_hofstadter",
+              "thumbnail",
+              "hofstadter2002.jpg?width=300"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "douglas_hofstadter"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "douglas_hofstadter": {
+                  "keyword": {
+                    "termo": "douglas_hofstadter",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "douglas_hofstadter",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7,
+          "bind_control": {
+            "binds": {
+              "douglas_hofstadter": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*douglas_hofstadter",
+              "wikipageusestemplate",
+              "predefinicao:links_externos"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "douglas_hofstadter"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "douglas_hofstadter": {
+                  "keyword": {
+                    "termo": "douglas_hofstadter",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "douglas_hofstadter",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8,
+          "bind_control": {
+            "binds": {
+              "douglas_hofstadter": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*douglas_hofstadter",
+              "wikipageusestemplate",
+              "predefinicao:portal_biografias"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "douglas_hofstadter"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "douglas_hofstadter": {
+                  "keyword": {
+                    "termo": "douglas_hofstadter",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "douglas_hofstadter",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9,
+          "bind_control": {
+            "binds": {
+              "douglas_hofstadter": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*douglas_hofstadter",
+              "wikipageusestemplate",
+              "predefinicao:en"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "douglas_hofstadter"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "douglas_hofstadter": {
+                  "keyword": {
+                    "termo": "douglas_hofstadter",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "douglas_hofstadter",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10,
+          "bind_control": {
+            "binds": {
+              "douglas_hofstadter": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*douglas_hofstadter",
+              "wikipageusestemplate",
+              "predefinicao:biografias"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "douglas_hofstadter"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "douglas_hofstadter": {
+                  "keyword": {
+                    "termo": "douglas_hofstadter",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "douglas_hofstadter",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11,
+          "bind_control": {
+            "binds": {
+              "douglas_hofstadter": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*douglas_hofstadter",
+              "wikipageusestemplate",
+              "predefinicao:esboco_biografia"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "douglas_hofstadter"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "douglas_hofstadter": {
+                  "keyword": {
+                    "termo": "douglas_hofstadter",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "douglas_hofstadter",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12,
+          "bind_control": {
+            "binds": {
+              "douglas_hofstadter": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*douglas_hofstadter",
+              "subject",
+              "categoria:cientistas_cognitivos"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "douglas_hofstadter"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "douglas_hofstadter": {
+                  "keyword": {
+                    "termo": "douglas_hofstadter",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "douglas_hofstadter",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13,
+          "bind_control": {
+            "binds": {
+              "douglas_hofstadter": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*douglas_hofstadter",
+              "subject",
+              "categoria:escritores_dos_estados_unidos"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "douglas_hofstadter"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "douglas_hofstadter": {
+                  "keyword": {
+                    "termo": "douglas_hofstadter",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "douglas_hofstadter",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14,
+          "bind_control": {
+            "binds": {
+              "douglas_hofstadter": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*douglas_hofstadter",
+              "subject",
+              "*categoria:ganhadores_do_premio_pulitzer"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "douglas_hofstadter"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "douglas_hofstadter": {
+                  "keyword": {
+                    "termo": "douglas_hofstadter",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "douglas_hofstadter",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15,
+          "bind_control": {
+            "binds": {
+              "douglas_hofstadter": "-1",
+              "ganhador": "-21"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*douglas_hofstadter",
+              "subject",
+              "categoria:vegetarianos_dos_estados_unidos"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "douglas_hofstadter"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "douglas_hofstadter": {
+                  "keyword": {
+                    "termo": "douglas_hofstadter",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "douglas_hofstadter",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16,
+          "bind_control": {
+            "binds": {
+              "douglas_hofstadter": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*douglas_hofstadter",
+              "subject",
+              "categoria:naturais_de_nova_iorque_(cidade)"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "douglas_hofstadter"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "douglas_hofstadter": {
+                  "keyword": {
+                    "termo": "douglas_hofstadter",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "douglas_hofstadter",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17,
+          "bind_control": {
+            "binds": {
+              "douglas_hofstadter": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*douglas_hofstadter",
+              "owl#sameas",
+              "m.02fcx"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "douglas_hofstadter"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "douglas_hofstadter": {
+                  "keyword": {
+                    "termo": "douglas_hofstadter",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "douglas_hofstadter",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18,
+          "bind_control": {
+            "binds": {
+              "douglas_hofstadter": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*douglas_hofstadter",
+              "owl#sameas",
+              "m.02fcx"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "douglas_hofstadter"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "douglas_hofstadter": {
+                  "keyword": {
+                    "termo": "douglas_hofstadter",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "douglas_hofstadter",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19,
+          "bind_control": {
+            "binds": {
+              "douglas_hofstadter": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*douglas_hofstadter",
+              "rdf_schema#label",
+              "douglas hofstadter"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "douglas_hofstadter"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "douglas_hofstadter": {
+                  "keyword": {
+                    "termo": "douglas_hofstadter",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "douglas_hofstadter",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20,
+          "bind_control": {
+            "binds": {
+              "douglas_hofstadter": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*douglas_hofstadter",
+              "rdf_schema#label",
+              "douglas hofstadter"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "douglas_hofstadter"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "douglas_hofstadter": {
+                  "keyword": {
+                    "termo": "douglas_hofstadter",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "douglas_hofstadter",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21,
+          "bind_control": {
+            "binds": {
+              "douglas_hofstadter": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*douglas_hofstadter",
+              "wikipageexternallink",
+              "hofstadter.html"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "douglas_hofstadter"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "douglas_hofstadter": {
+                  "keyword": {
+                    "termo": "douglas_hofstadter",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "douglas_hofstadter",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22,
+          "bind_control": {
+            "binds": {
+              "douglas_hofstadter": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*douglas_hofstadter",
+              "abstract",
+              "*douglas richard hofstadter (nova iorque, eua, 15 de fevereiro de 1945) e um academico norte-americano, sendo mais conhecido por ser o autor de godel, escher, bach: um entrelacamento de genios brilhantes (no original em ingles, godel, escher, bach: an eternal golden braid, normalmente abreviado para geb), um livro publicado em 1979 e ganhador do premio pulitzer de 1980 para a categoria de obras de nao-ficcao. godel, escher, bach e considerado uma fonte de inspiracao para muitos estudantes que se dedicam aos estudos em ciencia da computacao e inteligencia artificial. a obra referida e aconselhada como uma referencia de leitura por dietrich schwanitz no seu livro cultura, tudo o que e preciso saber, considerando-o como um livro a nao perder para quem se interessa pelo mundo moderno. douglas tambem criou, em conjunto com um grupo de amigos (1983-84), o ambigrama."
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "douglas_hofstadter"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "douglas_hofstadter": {
+                  "keyword": {
+                    "termo": "douglas_hofstadter",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "douglas_hofstadter",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23,
+          "bind_control": {
+            "binds": {
+              "douglas_hofstadter": "-1",
+              "ganhador": "-30"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*douglas_hofstadter",
+              "birthplace",
+              "nova_iorque"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "douglas_hofstadter"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "douglas_hofstadter": {
+                  "keyword": {
+                    "termo": "douglas_hofstadter",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "douglas_hofstadter",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24,
+          "bind_control": {
+            "binds": {
+              "douglas_hofstadter": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*douglas_hofstadter",
+              "birthdate",
+              "1945-2-15"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "douglas_hofstadter"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "douglas_hofstadter": {
+                  "keyword": {
+                    "termo": "douglas_hofstadter",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "douglas_hofstadter",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25,
+          "bind_control": {
+            "binds": {
+              "douglas_hofstadter": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*douglas_hofstadter",
+              "name",
+              "douglas hofstadter"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "douglas_hofstadter"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "douglas_hofstadter": {
+                  "keyword": {
+                    "termo": "douglas_hofstadter",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "douglas_hofstadter",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26,
+          "bind_control": {
+            "binds": {
+              "douglas_hofstadter": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*douglas_hofstadter",
+              "gender",
+              "masculino"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "douglas_hofstadter"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "douglas_hofstadter": {
+                  "keyword": {
+                    "termo": "douglas_hofstadter",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "douglas_hofstadter",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27,
+          "bind_control": {
+            "binds": {
+              "douglas_hofstadter": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*douglas_hofstadter",
+              "givenname",
+              "douglas"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "douglas_hofstadter"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "douglas_hofstadter": {
+                  "keyword": {
+                    "termo": "douglas_hofstadter",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "douglas_hofstadter",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28,
+          "bind_control": {
+            "binds": {
+              "douglas_hofstadter": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*douglas_hofstadter",
+              "22_rdf_syntax_ns#type",
+              "person"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "douglas_hofstadter"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "douglas_hofstadter": {
+                  "keyword": {
+                    "termo": "douglas_hofstadter",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "douglas_hofstadter",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29,
+          "bind_control": {
+            "binds": {
+              "douglas_hofstadter": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "ranking_time": 616.3980960845947,
+      "l_sizes": [
+        41
+      ],
+      "total_time": 6579.963207244873
+    }
+  }
+]

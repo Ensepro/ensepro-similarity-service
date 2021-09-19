@@ -1,0 +1,2062 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Elvis_Presley",
+          "palavra_canonica": "Elvis_Presley",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "teve",
+          "palavra_canonica": "ter",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:n",
+          "palavra_original": "filhos",
+          "palavra_canonica": "filho",
+          "tags": [
+            "<Hfam>",
+            "M",
+            "P"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Elvis_Presley",
+          "palavra_canonica": "Elvis_Presley",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "teve",
+          "palavra_canonica": "ter",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:n",
+          "palavra_original": "filhos",
+          "palavra_canonica": "filho",
+          "tags": [
+            "<Hfam>",
+            "M",
+            "P"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "child",
+                "sinonimo": "filha",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "child",
+                "sinonimo": "menino",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "cub",
+                "sinonimo": "garoto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "cub",
+                "sinonimo": "rapaz",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "child",
+                "sinonimo": "filho",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "son",
+                "sinonimo": "criança",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "offspring",
+                "sinonimo": "Descendência",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cub",
+                "sinonimo": "moço",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "offspring",
+                "sinonimo": "issue",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "daughter",
+                "sinonimo": "girl",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "daughter",
+                "sinonimo": "daughter",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cub",
+                "sinonimo": "sonny_boy",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "child",
+                "sinonimo": "child",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "offspring",
+                "sinonimo": "offspring",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "offspring",
+                "sinonimo": "progeny",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "son",
+                "sinonimo": "boy",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "son",
+                "sinonimo": "son",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cub",
+                "sinonimo": "cub",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "cub",
+                "sinonimo": "lad",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "cub",
+                "sinonimo": "laddie",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "cub",
+                "sinonimo": "sonny",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "child",
+                "sinonimo": "kid",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "desconhecido",
+        "confianca": 1,
+        "ids": []
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 2,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Elvis_Presley",
+          "palavra_canonica": "Elvis_Presley",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:n",
+          "palavra_original": "filhos",
+          "palavra_canonica": "filho",
+          "tags": [
+            "<Hfam>",
+            "M",
+            "P"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "child",
+                "sinonimo": "filha",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "child",
+                "sinonimo": "menino",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "cub",
+                "sinonimo": "garoto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "cub",
+                "sinonimo": "rapaz",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "child",
+                "sinonimo": "filho",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "son",
+                "sinonimo": "criança",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "offspring",
+                "sinonimo": "Descendência",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cub",
+                "sinonimo": "moço",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "offspring",
+                "sinonimo": "issue",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "daughter",
+                "sinonimo": "girl",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "daughter",
+                "sinonimo": "daughter",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cub",
+                "sinonimo": "sonny_boy",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "child",
+                "sinonimo": "child",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "offspring",
+                "sinonimo": "offspring",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "offspring",
+                "sinonimo": "progeny",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "son",
+                "sinonimo": "boy",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "son",
+                "sinonimo": "son",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cub",
+                "sinonimo": "cub",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "cub",
+                "sinonimo": "lad",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "cub",
+                "sinonimo": "laddie",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "cub",
+                "sinonimo": "sonny",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "child",
+                "sinonimo": "kid",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*elvis_presley",
+              "22_rdf_syntax_ns#type",
+              "*person"
+            ]
+          ],
+          "score": 12.567297,
+          "detail": {
+            "keywords": [
+              "filho",
+              "elvis_presley"
+            ],
+            "score_detail": {
+              "m1": 10.90063,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "filho": {
+                  "keyword": {
+                    "termo": "son",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "person",
+                  "score": 0.9006304
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "elvis_presley": "-1",
+              "son": "-201"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*my_boy",
+              "musicalartist",
+              "*elvis_presley"
+            ]
+          ],
+          "score": 12.567297,
+          "detail": {
+            "keywords": [
+              "filho",
+              "elvis_presley"
+            ],
+            "score_detail": {
+              "m1": 10.90063,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "filho": {
+                  "keyword": {
+                    "termo": "boy",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "my_boy",
+                  "score": 0.9006304
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "boy": "-339",
+              "elvis_presley": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*my_boy",
+              "musicalband",
+              "*elvis_presley"
+            ]
+          ],
+          "score": 12.567297,
+          "detail": {
+            "keywords": [
+              "filho",
+              "elvis_presley"
+            ],
+            "score_detail": {
+              "m1": 10.90063,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "filho": {
+                  "keyword": {
+                    "termo": "boy",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "my_boy",
+                  "score": 0.9006304
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "boy": "-339",
+              "elvis_presley": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*my_boy",
+              "artista",
+              "*elvis_presley"
+            ]
+          ],
+          "score": 12.567297,
+          "detail": {
+            "keywords": [
+              "filho",
+              "elvis_presley"
+            ],
+            "score_detail": {
+              "m1": 10.90063,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "filho": {
+                  "keyword": {
+                    "termo": "boy",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "my_boy",
+                  "score": 0.9006304
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "boy": "-339",
+              "elvis_presley": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*cody_simpson",
+              "influencedby",
+              "*elvis_presley"
+            ]
+          ],
+          "score": 12.355064,
+          "detail": {
+            "keywords": [
+              "filho",
+              "elvis_presley"
+            ],
+            "score_detail": {
+              "m1": 10.688397,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "filho": {
+                  "keyword": {
+                    "termo": "son",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "cody_simpson",
+                  "score": 0.68839735
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4,
+          "bind_control": {
+            "binds": {
+              "son": "-425",
+              "elvis_presley": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*girl_happy_(filme)",
+              "elenco",
+              "*elvis_presley"
+            ]
+          ],
+          "score": 12.255118,
+          "detail": {
+            "keywords": [
+              "filho",
+              "elvis_presley"
+            ],
+            "score_detail": {
+              "m1": 10.588451,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "filho": {
+                  "keyword": {
+                    "termo": "girl",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "girl_happy_(filme)",
+                  "score": 0.5884517
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "girl": "-277",
+              "elvis_presley": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*girl_happy_(filme)",
+              "starring",
+              "*elvis_presley"
+            ]
+          ],
+          "score": 12.255118,
+          "detail": {
+            "keywords": [
+              "filho",
+              "elvis_presley"
+            ],
+            "score_detail": {
+              "m1": 10.588451,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "filho": {
+                  "keyword": {
+                    "termo": "girl",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "girl_happy_(filme)",
+                  "score": 0.5884517
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6,
+          "bind_control": {
+            "binds": {
+              "girl": "-277",
+              "elvis_presley": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*balada_sangrenta",
+              "starring",
+              "*elvis_presley"
+            ]
+          ],
+          "score": 12.216896,
+          "detail": {
+            "keywords": [
+              "filho",
+              "elvis_presley"
+            ],
+            "score_detail": {
+              "m1": 10.550229,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "filho": {
+                  "keyword": {
+                    "termo": "lad",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "balada_sangrenta",
+                  "score": 0.5502293
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7,
+          "bind_control": {
+            "binds": {
+              "lad": "-314",
+              "elvis_presley": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*balada_sangrenta",
+              "elenco",
+              "*elvis_presley"
+            ]
+          ],
+          "score": 12.216896,
+          "detail": {
+            "keywords": [
+              "filho",
+              "elvis_presley"
+            ],
+            "score_detail": {
+              "m1": 10.550229,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "filho": {
+                  "keyword": {
+                    "termo": "lad",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "balada_sangrenta",
+                  "score": 0.5502293
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8,
+          "bind_control": {
+            "binds": {
+              "lad": "-314",
+              "elvis_presley": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*elvis_presley",
+              "afiliacoes",
+              "*the blue moon boys"
+            ]
+          ],
+          "score": 12.15232,
+          "detail": {
+            "keywords": [
+              "filho",
+              "elvis_presley"
+            ],
+            "score_detail": {
+              "m1": 10.485653,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "filho": {
+                  "keyword": {
+                    "termo": "boy",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "the blue moon boys",
+                  "score": 0.48565304
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9,
+          "bind_control": {
+            "binds": {
+              "elvis_presley": "-1",
+              "boy": "-193"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*kid_galahad_(album)",
+              "artist",
+              "*elvis_presley"
+            ]
+          ],
+          "score": 12.121559,
+          "detail": {
+            "keywords": [
+              "filho",
+              "elvis_presley"
+            ],
+            "score_detail": {
+              "m1": 10.454892,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "filho": {
+                  "keyword": {
+                    "termo": "kid",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "kid_galahad_(album)",
+                  "score": 0.45489183
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10,
+          "bind_control": {
+            "binds": {
+              "kid": "-358",
+              "elvis_presley": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*kid_galahad_(album)",
+              "artista",
+              "*elvis_presley"
+            ]
+          ],
+          "score": 12.121559,
+          "detail": {
+            "keywords": [
+              "filho",
+              "elvis_presley"
+            ],
+            "score_detail": {
+              "m1": 10.454892,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "filho": {
+                  "keyword": {
+                    "termo": "kid",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "kid_galahad_(album)",
+                  "score": 0.45489183
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11,
+          "bind_control": {
+            "binds": {
+              "kid": "-358",
+              "elvis_presley": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*elvis_presley",
+              "editora",
+              "*pearson prentice hall"
+            ]
+          ],
+          "score": 12.063497,
+          "detail": {
+            "keywords": [
+              "filho",
+              "elvis_presley"
+            ],
+            "score_detail": {
+              "m1": 10.39683,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "filho": {
+                  "keyword": {
+                    "termo": "son",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "pearson prentice hall",
+                  "score": 0.39682963
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12,
+          "bind_control": {
+            "binds": {
+              "elvis_presley": "-1",
+              "son": "-45"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*elvis_presley",
+              "22_rdf_syntax_ns#type",
+              "*dul.owl#naturalperson"
+            ]
+          ],
+          "score": 12.063497,
+          "detail": {
+            "keywords": [
+              "filho",
+              "elvis_presley"
+            ],
+            "score_detail": {
+              "m1": 10.39683,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "filho": {
+                  "keyword": {
+                    "termo": "son",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "dul.owl#naturalperson",
+                  "score": 0.39682963
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13,
+          "bind_control": {
+            "binds": {
+              "elvis_presley": "-1",
+              "son": "-205"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*girls!_girls!_girls!_(filme)",
+              "starring",
+              "*elvis_presley"
+            ]
+          ],
+          "score": 11.977958,
+          "detail": {
+            "keywords": [
+              "filho",
+              "elvis_presley"
+            ],
+            "score_detail": {
+              "m1": 10.311291,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "filho": {
+                  "keyword": {
+                    "termo": "girl",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "girls!_girls!_girls!_(filme)",
+                  "score": 0.31129038
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14,
+          "bind_control": {
+            "binds": {
+              "girl": "-362",
+              "elvis_presley": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*girls!_girls!_girls!_(album)",
+              "artist",
+              "*elvis_presley"
+            ]
+          ],
+          "score": 11.977958,
+          "detail": {
+            "keywords": [
+              "filho",
+              "elvis_presley"
+            ],
+            "score_detail": {
+              "m1": 10.311291,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "filho": {
+                  "keyword": {
+                    "termo": "girl",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "girls!_girls!_girls!_(album)",
+                  "score": 0.31129038
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15,
+          "bind_control": {
+            "binds": {
+              "girl": "-363",
+              "elvis_presley": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*girls!_girls!_girls!_(filme)",
+              "elenco",
+              "*elvis_presley"
+            ]
+          ],
+          "score": 11.977958,
+          "detail": {
+            "keywords": [
+              "filho",
+              "elvis_presley"
+            ],
+            "score_detail": {
+              "m1": 10.311291,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "filho": {
+                  "keyword": {
+                    "termo": "girl",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "girls!_girls!_girls!_(filme)",
+                  "score": 0.31129038
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16,
+          "bind_control": {
+            "binds": {
+              "girl": "-362",
+              "elvis_presley": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*girls!_girls!_girls!_(album)",
+              "artista",
+              "*elvis_presley"
+            ]
+          ],
+          "score": 11.977958,
+          "detail": {
+            "keywords": [
+              "filho",
+              "elvis_presley"
+            ],
+            "score_detail": {
+              "m1": 10.311291,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "filho": {
+                  "keyword": {
+                    "termo": "girl",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "girls!_girls!_girls!_(album)",
+                  "score": 0.31129038
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17,
+          "bind_control": {
+            "binds": {
+              "girl": "-363",
+              "elvis_presley": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*elvis_presley",
+              "titulo",
+              "*how high should boys sing?"
+            ]
+          ],
+          "score": 11.940532,
+          "detail": {
+            "keywords": [
+              "filho",
+              "elvis_presley"
+            ],
+            "score_detail": {
+              "m1": 10.273865,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "filho": {
+                  "keyword": {
+                    "termo": "boy",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "how high should boys sing?",
+                  "score": 0.2738649
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18,
+          "bind_control": {
+            "binds": {
+              "elvis_presley": "-1",
+              "boy": "-49"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*the_trouble_with_girls_(filme)",
+              "elenco",
+              "*elvis_presley"
+            ]
+          ],
+          "score": 11.934796,
+          "detail": {
+            "keywords": [
+              "filho",
+              "elvis_presley"
+            ],
+            "score_detail": {
+              "m1": 10.268129,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "filho": {
+                  "keyword": {
+                    "termo": "girl",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "the_trouble_with_girls_(filme)",
+                  "score": 0.26812917
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19,
+          "bind_control": {
+            "binds": {
+              "girl": "-289",
+              "elvis_presley": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*the_trouble_with_girls_(filme)",
+              "starring",
+              "*elvis_presley"
+            ]
+          ],
+          "score": 11.934796,
+          "detail": {
+            "keywords": [
+              "filho",
+              "elvis_presley"
+            ],
+            "score_detail": {
+              "m1": 10.268129,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "filho": {
+                  "keyword": {
+                    "termo": "girl",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "the_trouble_with_girls_(filme)",
+                  "score": 0.26812917
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20,
+          "bind_control": {
+            "binds": {
+              "girl": "-289",
+              "elvis_presley": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*kid_galahad_(filme_de_1962)",
+              "starring",
+              "*elvis_presley"
+            ]
+          ],
+          "score": 11.919837,
+          "detail": {
+            "keywords": [
+              "filho",
+              "elvis_presley"
+            ],
+            "score_detail": {
+              "m1": 10.25317,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "filho": {
+                  "keyword": {
+                    "termo": "kid",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "kid_galahad_(filme_de_1962)",
+                  "score": 0.25317016
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21,
+          "bind_control": {
+            "binds": {
+              "kid": "-359",
+              "elvis_presley": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*kid_galahad_(filme_de_1962)",
+              "elenco",
+              "*elvis_presley"
+            ]
+          ],
+          "score": 11.919837,
+          "detail": {
+            "keywords": [
+              "filho",
+              "elvis_presley"
+            ],
+            "score_detail": {
+              "m1": 10.25317,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "filho": {
+                  "keyword": {
+                    "termo": "kid",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "kid_galahad_(filme_de_1962)",
+                  "score": 0.25317016
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22,
+          "bind_control": {
+            "binds": {
+              "kid": "-359",
+              "elvis_presley": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*elvis_presley",
+              "recordlabel",
+              "*sony_bmg_music_entertainment"
+            ]
+          ],
+          "score": 11.900408,
+          "detail": {
+            "keywords": [
+              "filho",
+              "elvis_presley"
+            ],
+            "score_detail": {
+              "m1": 10.233741,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "filho": {
+                  "keyword": {
+                    "termo": "son",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "sony_bmg_music_entertainment",
+                  "score": 0.23374112
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23,
+          "bind_control": {
+            "binds": {
+              "elvis_presley": "-1",
+              "son": "-141"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*elvis_presley",
+              "gravadora",
+              "*sony_bmg_music_entertainment"
+            ]
+          ],
+          "score": 11.900408,
+          "detail": {
+            "keywords": [
+              "filho",
+              "elvis_presley"
+            ],
+            "score_detail": {
+              "m1": 10.233741,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "filho": {
+                  "keyword": {
+                    "termo": "son",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "sony_bmg_music_entertainment",
+                  "score": 0.23374112
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24,
+          "bind_control": {
+            "binds": {
+              "elvis_presley": "-1",
+              "son": "-141"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*elvis_presley",
+              "depois",
+              "*louis armstrong e mahalia jackson"
+            ]
+          ],
+          "score": 11.820913,
+          "detail": {
+            "keywords": [
+              "filho",
+              "elvis_presley"
+            ],
+            "score_detail": {
+              "m1": 10.154246,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "filho": {
+                  "keyword": {
+                    "termo": "son",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "louis armstrong e mahalia jackson",
+                  "score": 0.1542463
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25,
+          "bind_control": {
+            "binds": {
+              "elvis_presley": "-1",
+              "son": "-84"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*elvis_as_recorded_at_madison_square_garden",
+              "artist",
+              "*elvis_presley"
+            ]
+          ],
+          "score": 11.7362,
+          "detail": {
+            "keywords": [
+              "filho",
+              "elvis_presley"
+            ],
+            "score_detail": {
+              "m1": 10.069533,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "filho": {
+                  "keyword": {
+                    "termo": "son",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "elvis_as_recorded_at_madison_square_garden",
+                  "score": 0.06953327
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26,
+          "bind_control": {
+            "binds": {
+              "son": "-398",
+              "elvis_presley": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*elvis_as_recorded_at_madison_square_garden",
+              "artista",
+              "*elvis_presley"
+            ]
+          ],
+          "score": 11.7362,
+          "detail": {
+            "keywords": [
+              "filho",
+              "elvis_presley"
+            ],
+            "score_detail": {
+              "m1": 10.069533,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "filho": {
+                  "keyword": {
+                    "termo": "son",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "elvis_as_recorded_at_madison_square_garden",
+                  "score": 0.06953327
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27,
+          "bind_control": {
+            "binds": {
+              "son": "-398",
+              "elvis_presley": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*elvis_presley",
+              "titulo",
+              "*the girls' guide to elvis: the clothes, the hair, the women, and more!"
+            ]
+          ],
+          "score": 11.674042,
+          "detail": {
+            "keywords": [
+              "filho",
+              "elvis_presley"
+            ],
+            "score_detail": {
+              "m1": 10.007375,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "filho": {
+                  "keyword": {
+                    "termo": "girl",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "the girls' guide to elvis: the clothes, the hair, the women, and more!",
+                  "score": 0.007374515
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28,
+          "bind_control": {
+            "binds": {
+              "elvis_presley": "-1",
+              "girl": "-23"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*elvis_presley",
+              "abstract",
+              "*elvis aaron presley (tupelo, 8 de janeiro de 1935  memphis, 16 de agosto de 1977) foi um famoso musico e ator norte-americano, mundialmente denominado como o rei do rock e com a alcunha de \\\"elvis, the pelvis\\\", pela forma extravagante, mas ousada como dancava e se mexia, adquirida na decada de 50. elvis tambem foi um dos pioneiros do rock and roll. uma de suas maiores virtudes era a sua voz, devido ao seu alcance vocal, que atingia, segundo especialistas, notas musicais de dificil alcance para um cantor popular. a critica especializada reconhece seu expressivo ganho, em extensao, com a maturidade; alem de virtuoso senso ritmico, forca interpretativa e um timbre de voz que o destacava entre os cantores populares, sendo avaliado como um dos maiores e por outros como um dos melhores cantores populares do seculo xx. comecou sua carreira em 1954 na lendaria gravadora sun records e era acompanhado pelo guitarrista scotty moore, pelo baixista bill black e pelo baterista d.j. fontana, presley foi um dos dos responsaveis pela criacao e popularizacao do rockabilly, uma fusao de musica country e r&b. a decada de 70 prefigurou para elvis um alcance vocal incomparavel, tido pela critica mundial como a voz mais bela de todos os tempos, alcancando muita maturidade vocal e tres diferentes tons: agudo, grave medio e tenor. elvis tornou-se um dos maiores icones da cultura popular mundial do seculo xx. entre seus sucessos musicais podemos destacar \\\"hound dog\\\", \\\"don't be cruel\\\", \\\"love me tender\\\", \\\"all shook up\\\", \\\"teddy bear\\\", \\\"jailhouse rock\\\", \\\"it's now or never\\\", \\\"can t help falling in love\\\", \\\"surrender\\\", \\\"crying in the chapel\\\", \\\"mystery train\\\", \\\"in the ghetto\\\", \\\"suspicious minds\\\", \\\"don't cry daddy\\\", \\\"the wonder of you\\\", \\\"an american trilogy\\\", \\\"burning love\\\", \\\"my way\\\", \\\"my boy\\\" e \\\"moody blue\\\". na europa, cancoes como \\\"wooden heart\\\", \\\"you don't have to say you love me\\\", \\\"my boy\\\" e \\\"moody blue\\\" fizeram sucesso. particularmente no brasil, foram bem-sucedidas as cancoes \\\"kiss me quick\\\", \\\"bossa nova baby\\\", \\\"it's now or never\\\" e \\\"bridge over troubled water\\\". apos sua morte, novos sucessos advieram, como \\\"way down\\\" (logo apos seu falecimento), \\\"always on my mind\\\", \\\"guitar man\\\", \\\"a little less conversation\\\" e \\\"rubberneckin\\\". trinta e oito anos apos sua morte, presley ainda e um dos artistas com maior numero de \\\"hits\\\" nas paradas mundiais, sendo tambem um dos artistas solo recordistas em vendas de discos, com 1 bilhao de albuns vendidos em todo o mundo."
+            ]
+          ],
+          "score": 11.666667,
+          "detail": {
+            "keywords": [
+              "filho",
+              "elvis_presley"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "filho": {
+                  "keyword": {
+                    "termo": "boy",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "elvis aaron presley (tupelo, 8 de janeiro de 1935  memphis, 16 de agosto de 1977) foi um famoso musico e ator norte-americano, mundialmente denominado como o rei do rock e com a alcunha de \\\"elvis, the pelvis\\\", pela forma extravagante, mas ousada como dancava e se mexia, adquirida na decada de 50. elvis tambem foi um dos pioneiros do rock and roll. uma de suas maiores virtudes era a sua voz, devido ao seu alcance vocal, que atingia, segundo especialistas, notas musicais de dificil alcance para um cantor popular. a critica especializada reconhece seu expressivo ganho, em extensao, com a maturidade; alem de virtuoso senso ritmico, forca interpretativa e um timbre de voz que o destacava entre os cantores populares, sendo avaliado como um dos maiores e por outros como um dos melhores cantores populares do seculo xx. comecou sua carreira em 1954 na lendaria gravadora sun records e era acompanhado pelo guitarrista scotty moore, pelo baixista bill black e pelo baterista d.j. fontana, presley foi um dos dos responsaveis pela criacao e popularizacao do rockabilly, uma fusao de musica country e r&b. a decada de 70 prefigurou para elvis um alcance vocal incomparavel, tido pela critica mundial como a voz mais bela de todos os tempos, alcancando muita maturidade vocal e tres diferentes tons: agudo, grave medio e tenor. elvis tornou-se um dos maiores icones da cultura popular mundial do seculo xx. entre seus sucessos musicais podemos destacar \\\"hound dog\\\", \\\"don't be cruel\\\", \\\"love me tender\\\", \\\"all shook up\\\", \\\"teddy bear\\\", \\\"jailhouse rock\\\", \\\"it's now or never\\\", \\\"can t help falling in love\\\", \\\"surrender\\\", \\\"crying in the chapel\\\", \\\"mystery train\\\", \\\"in the ghetto\\\", \\\"suspicious minds\\\", \\\"don't cry daddy\\\", \\\"the wonder of you\\\", \\\"an american trilogy\\\", \\\"burning love\\\", \\\"my way\\\", \\\"my boy\\\" e \\\"moody blue\\\". na europa, cancoes como \\\"wooden heart\\\", \\\"you don't have to say you love me\\\", \\\"my boy\\\" e \\\"moody blue\\\" fizeram sucesso. particularmente no brasil, foram bem-sucedidas as cancoes \\\"kiss me quick\\\", \\\"bossa nova baby\\\", \\\"it's now or never\\\" e \\\"bridge over troubled water\\\". apos sua morte, novos sucessos advieram, como \\\"way down\\\" (logo apos seu falecimento), \\\"always on my mind\\\", \\\"guitar man\\\", \\\"a little less conversation\\\" e \\\"rubberneckin\\\". trinta e oito anos apos sua morte, presley ainda e um dos artistas com maior numero de \\\"hits\\\" nas paradas mundiais, sendo tambem um dos artistas solo recordistas em vendas de discos, com 1 bilhao de albuns vendidos em todo o mundo.",
+                  "score": 0.0
+                },
+                "elvis_presley": {
+                  "keyword": {
+                    "termo": "elvis_presley",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "elvis_presley",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29,
+          "bind_control": {
+            "binds": {
+              "elvis_presley": "-1",
+              "boy": "-174"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "ranking_time": 1595.571756362915,
+      "l_sizes": [
+        20527
+      ],
+      "total_time": 12199.838638305664
+    }
+  }
+]

@@ -1,0 +1,1796 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:adv",
+          "palavra_original": "Onde",
+          "palavra_canonica": "onde",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "começa",
+          "palavra_canonica": "começar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Piccadilly",
+          "palavra_canonica": "Piccadilly",
+          "tags": [
+            "<org>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:adv",
+          "palavra_original": "Onde",
+          "palavra_canonica": "onde",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "começa",
+          "palavra_canonica": "começar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "begin",
+                "sinonimo": "iniciar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "originate",
+                "sinonimo": "tomar_a_iniciativa",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "come_on",
+                "sinonimo": "começar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "originate",
+                "sinonimo": "provir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "open",
+                "sinonimo": "abrir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "originate",
+                "sinonimo": "originar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "set_about",
+                "sinonimo": "set_about",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "get_down",
+                "sinonimo": "start",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "plunge",
+                "sinonimo": "plunge",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "start",
+                "sinonimo": "embark_on",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "start",
+                "sinonimo": "go",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "09"
+              },
+              {
+                "synset": "set_in",
+                "sinonimo": "set_in",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "set_in",
+                "sinonimo": "kick_in",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "start",
+                "sinonimo": "get_going",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "09"
+              },
+              {
+                "synset": "come_on",
+                "sinonimo": "come_on",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "get_down",
+                "sinonimo": "get_down",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "open",
+                "sinonimo": "open",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "embark",
+                "sinonimo": "enter",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "originate",
+                "sinonimo": "originate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "begin",
+                "sinonimo": "lead_off",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "break_in",
+                "sinonimo": "break_in",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "start",
+                "sinonimo": "commence",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "start",
+                "sinonimo": "take_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "plunge",
+                "sinonimo": "launch",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "get_down",
+                "sinonimo": "set_out",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "get_down",
+                "sinonimo": "start_out",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "go_on",
+                "sinonimo": "come_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "originate",
+                "sinonimo": "initiate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "start",
+                "sinonimo": "start_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "go_on",
+                "sinonimo": "go_on",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "get_down",
+                "sinonimo": "get",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "embark",
+                "sinonimo": "embark",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "set_about",
+                "sinonimo": "approach",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "set_about",
+                "sinonimo": "go_about",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "begin",
+                "sinonimo": "begin",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Piccadilly",
+          "palavra_canonica": "Piccadilly",
+          "tags": [
+            "<org>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "onde",
+        "confianca": 0.9,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "começa",
+          "palavra_canonica": "começar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "begin",
+                "sinonimo": "iniciar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "originate",
+                "sinonimo": "tomar_a_iniciativa",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "come_on",
+                "sinonimo": "começar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "originate",
+                "sinonimo": "provir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "open",
+                "sinonimo": "abrir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "originate",
+                "sinonimo": "originar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "set_about",
+                "sinonimo": "set_about",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "get_down",
+                "sinonimo": "start",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "plunge",
+                "sinonimo": "plunge",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "start",
+                "sinonimo": "embark_on",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "start",
+                "sinonimo": "go",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "09"
+              },
+              {
+                "synset": "set_in",
+                "sinonimo": "set_in",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "set_in",
+                "sinonimo": "kick_in",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "start",
+                "sinonimo": "get_going",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "09"
+              },
+              {
+                "synset": "come_on",
+                "sinonimo": "come_on",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "get_down",
+                "sinonimo": "get_down",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "open",
+                "sinonimo": "open",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "embark",
+                "sinonimo": "enter",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "originate",
+                "sinonimo": "originate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "begin",
+                "sinonimo": "lead_off",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "break_in",
+                "sinonimo": "break_in",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "start",
+                "sinonimo": "commence",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "start",
+                "sinonimo": "take_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "plunge",
+                "sinonimo": "launch",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "get_down",
+                "sinonimo": "set_out",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "get_down",
+                "sinonimo": "start_out",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "go_on",
+                "sinonimo": "come_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "originate",
+                "sinonimo": "initiate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "start",
+                "sinonimo": "start_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "go_on",
+                "sinonimo": "go_on",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "get_down",
+                "sinonimo": "get",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "embark",
+                "sinonimo": "embark",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "set_about",
+                "sinonimo": "approach",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "set_about",
+                "sinonimo": "go_about",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "begin",
+                "sinonimo": "begin",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Piccadilly",
+          "palavra_canonica": "Piccadilly",
+          "tags": [
+            "<org>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*piccadilly",
+              "owl#sameas",
+              "q10349374"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "piccadilly"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "piccadilly": {
+                  "keyword": {
+                    "termo": "piccadilly",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "piccadilly",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "piccadilly": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*piccadilly",
+              "wikipageusestemplate",
+              "predefinicao:sem_fontes"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "piccadilly"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "piccadilly": {
+                  "keyword": {
+                    "termo": "piccadilly",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "piccadilly",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "piccadilly": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*piccadilly",
+              "wikipageusestemplate",
+              "predefinicao:ligacoes_externas"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "piccadilly"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "piccadilly": {
+                  "keyword": {
+                    "termo": "piccadilly",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "piccadilly",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "piccadilly": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*piccadilly",
+              "wikipageusestemplate",
+              "predefinicao:esboco_empresas"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "piccadilly"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "piccadilly": {
+                  "keyword": {
+                    "termo": "piccadilly",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "piccadilly",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "piccadilly": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*piccadilly",
+              "wikipageusestemplate",
+              "predefinicao:semiw"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "piccadilly"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "piccadilly": {
+                  "keyword": {
+                    "termo": "piccadilly",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "piccadilly",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4,
+          "bind_control": {
+            "binds": {
+              "piccadilly": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*piccadilly",
+              "subject",
+              "categoria:empresas_de_calcados_femininos"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "piccadilly"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "piccadilly": {
+                  "keyword": {
+                    "termo": "piccadilly",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "piccadilly",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "piccadilly": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*piccadilly",
+              "subject",
+              "categoria:empresas_do_rio_grande_do_sul"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "piccadilly"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "piccadilly": {
+                  "keyword": {
+                    "termo": "piccadilly",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "piccadilly",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6,
+          "bind_control": {
+            "binds": {
+              "piccadilly": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*piccadilly",
+              "subject",
+              "categoria:empresas_de_calcados_do_brasil"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "piccadilly"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "piccadilly": {
+                  "keyword": {
+                    "termo": "piccadilly",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "piccadilly",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7,
+          "bind_control": {
+            "binds": {
+              "piccadilly": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*piccadilly",
+              "subject",
+              "categoria:igrejinha"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "piccadilly"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "piccadilly": {
+                  "keyword": {
+                    "termo": "piccadilly",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "piccadilly",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8,
+          "bind_control": {
+            "binds": {
+              "piccadilly": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*piccadilly",
+              "wikipageexternallink",
+              "*www.piccadilly.com.br"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "piccadilly"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "piccadilly": {
+                  "keyword": {
+                    "termo": "piccadilly",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "piccadilly",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*piccadilly",
+              "rdf_schema#label",
+              "*piccadilly"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "piccadilly"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "piccadilly": {
+                  "keyword": {
+                    "termo": "piccadilly",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "piccadilly",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*piccadilly",
+              "owl#sameas",
+              "*piccadilly"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "piccadilly"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "piccadilly": {
+                  "keyword": {
+                    "termo": "piccadilly",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "piccadilly",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*piccadilly",
+              "22_rdf_syntax_ns#type",
+              "recordlabel"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "piccadilly"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "piccadilly": {
+                  "keyword": {
+                    "termo": "piccadilly",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "piccadilly",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12,
+          "bind_control": {
+            "binds": {
+              "piccadilly": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*piccadilly",
+              "abstract",
+              "*piccadilly e uma marca brasileira de calcados femininos que pertence a empresa a. grings s.a.. a a. grings s.a. possui sua matriz produtiva instalada em igrejinha, no rio grande do sul, e filiais em igrejinha, em rolante/rs e teutonia/rs. a empresa e uma das maiores fabricantes de calcados do brasil, sendo que somente em 2006 foram produzidos 7 milhoes de pares de calcados. seus produtos sao exportados para mais de 90 paises."
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "piccadilly"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "piccadilly": {
+                  "keyword": {
+                    "termo": "piccadilly",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "piccadilly",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*piccadilly_(londres)",
+              "owl#sameas",
+              "*piccadilly"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "piccadilly"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "piccadilly": {
+                  "keyword": {
+                    "termo": "piccadilly",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "piccadilly",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "geno_washington",
+              "gravadora",
+              "*piccadilly"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "piccadilly"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "piccadilly": {
+                  "keyword": {
+                    "termo": "piccadilly",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "piccadilly",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15,
+          "bind_control": {
+            "binds": {
+              "piccadilly": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "geno_washington",
+              "recordlabel",
+              "*piccadilly"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "piccadilly"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "piccadilly": {
+                  "keyword": {
+                    "termo": "piccadilly",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "piccadilly",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16,
+          "bind_control": {
+            "binds": {
+              "piccadilly": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*piccadilly_line",
+              "linha",
+              "*piccadilly"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "piccadilly"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "piccadilly": {
+                  "keyword": {
+                    "termo": "piccadilly",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "piccadilly",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "bravo!_(telenovela)",
+              "titulo",
+              "*piccadilly rock"
+            ]
+          ],
+          "score": 10.757951,
+          "detail": {
+            "keywords": [
+              "piccadilly"
+            ],
+            "score_detail": {
+              "m1": 9.424618,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "piccadilly": {
+                  "keyword": {
+                    "termo": "piccadilly",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "piccadilly rock",
+                  "score": 9.424618
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*piccadilly_line",
+              "abstract",
+              "*piccadilly line e uma das linhas do metropolitano de londres."
+            ]
+          ],
+          "score": 10.757951,
+          "detail": {
+            "keywords": [
+              "piccadilly"
+            ],
+            "score_detail": {
+              "m1": 9.424618,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "piccadilly": {
+                  "keyword": {
+                    "termo": "piccadilly",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "piccadilly_line",
+                  "score": 9.424618
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*piccadilly_line",
+              "rdf_schema#label",
+              "*piccadilly line"
+            ]
+          ],
+          "score": 10.757951,
+          "detail": {
+            "keywords": [
+              "piccadilly"
+            ],
+            "score_detail": {
+              "m1": 9.424618,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "piccadilly": {
+                  "keyword": {
+                    "termo": "piccadilly",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "piccadilly line",
+                  "score": 9.424618
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*piccadilly_line",
+              "rdf_schema#label",
+              "*piccadilly line"
+            ]
+          ],
+          "score": 10.757951,
+          "detail": {
+            "keywords": [
+              "piccadilly"
+            ],
+            "score_detail": {
+              "m1": 9.424618,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "piccadilly": {
+                  "keyword": {
+                    "termo": "piccadilly",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "piccadilly line",
+                  "score": 9.424618
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*piccadilly_circus",
+              "rdf_schema#label",
+              "*piccadilly circus"
+            ]
+          ],
+          "score": 10.466824,
+          "detail": {
+            "keywords": [
+              "piccadilly"
+            ],
+            "score_detail": {
+              "m1": 9.133491,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "piccadilly": {
+                  "keyword": {
+                    "termo": "piccadilly",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "piccadilly circus",
+                  "score": 9.133491
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*piccadilly_circus",
+              "rdf_schema#label",
+              "*piccadilly circus"
+            ]
+          ],
+          "score": 10.466824,
+          "detail": {
+            "keywords": [
+              "piccadilly"
+            ],
+            "score_detail": {
+              "m1": 9.133491,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "piccadilly": {
+                  "keyword": {
+                    "termo": "piccadilly",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "piccadilly circus",
+                  "score": 9.133491
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*piccadilly_circus_(metropolitano_de_londres)",
+              "nome",
+              "*piccadilly circus"
+            ]
+          ],
+          "score": 10.466824,
+          "detail": {
+            "keywords": [
+              "piccadilly"
+            ],
+            "score_detail": {
+              "m1": 9.133491,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "piccadilly": {
+                  "keyword": {
+                    "termo": "piccadilly",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "piccadilly circus",
+                  "score": 9.133491
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*piccadilly_circus",
+              "abstract",
+              "*piccadilly circus e uma famosa praca de londres, onde se cruzam as seguintes ruas: regent's street, shaftesbury avenue, piccadilly (a rua que liga piccadilly circus a hyde park) e haymarket. pertence ao borough (as camaras municipais de londres) de westminster, e e uma das zonas mais movimentadas da capital britanica."
+            ]
+          ],
+          "score": 10.466824,
+          "detail": {
+            "keywords": [
+              "piccadilly"
+            ],
+            "score_detail": {
+              "m1": 9.133491,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "piccadilly": {
+                  "keyword": {
+                    "termo": "piccadilly",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "piccadilly_circus",
+                  "score": 9.133491
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*piccadilly_incident",
+              "rdf_schema#label",
+              "*piccadilly incident"
+            ]
+          ],
+          "score": 10.13774,
+          "detail": {
+            "keywords": [
+              "piccadilly"
+            ],
+            "score_detail": {
+              "m1": 8.804407,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "piccadilly": {
+                  "keyword": {
+                    "termo": "piccadilly",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "piccadilly incident",
+                  "score": 8.804407
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*piccadilly_incident",
+              "abstract",
+              "*piccadilly incident e um filme de drama produzido no reino unido, dirigido por herbert wilcox e lancado em 1946."
+            ]
+          ],
+          "score": 10.13774,
+          "detail": {
+            "keywords": [
+              "piccadilly"
+            ],
+            "score_detail": {
+              "m1": 8.804407,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "piccadilly": {
+                  "keyword": {
+                    "termo": "piccadilly",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "piccadilly_incident",
+                  "score": 8.804407
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*piccadilly_(londres)",
+              "rdf_schema#label",
+              "*piccadilly (londres)"
+            ]
+          ],
+          "score": 9.958675,
+          "detail": {
+            "keywords": [
+              "piccadilly"
+            ],
+            "score_detail": {
+              "m1": 8.625342,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "piccadilly": {
+                  "keyword": {
+                    "termo": "piccadilly",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "piccadilly (londres)",
+                  "score": 8.625342
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*piccadilly_(londres)",
+              "abstract",
+              "*piccadilly e uma rua principal no centro de londres, reino unido, indo de hyde park corner a oeste ate piccadilly circus a leste. se localiza inteiramente na cidade de westminster. a rua faz parte da a4 road, a segunda arteria mais importante do oeste de londres. o distrito de st james fica ao sul da secao leste da rua, enquanto a parte oeste e construida apenas no lado norte, com vista para o green park. a area ao norte e mayfair. nela se localizam a royal academy, o ritz hotel, o raf club, a livraria hatchards, e as embaixadas de japao e de malta ao reino unido. simpsons, outrora uma das principais lojas de vestuario do reino unido, abriu na piccadilly na decada de 1930. a loja fechou em 1999 e o local agora abriga a livraria waterstone's."
+            ]
+          ],
+          "score": 9.958675,
+          "detail": {
+            "keywords": [
+              "piccadilly"
+            ],
+            "score_detail": {
+              "m1": 8.625342,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "piccadilly": {
+                  "keyword": {
+                    "termo": "piccadilly",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "piccadilly_(londres)",
+                  "score": 8.625342
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 802.3364543914795,
+      "l_sizes": [
+        225
+      ],
+      "total_time": 6154.042482376099
+    }
+  }
+]

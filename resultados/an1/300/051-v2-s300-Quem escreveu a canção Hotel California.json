@@ -1,0 +1,1646 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:spec",
+          "palavra_original": "Quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "escreveu",
+          "palavra_canonica": "escrever",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "canção",
+          "palavra_canonica": "canção",
+          "tags": [
+            "<sem-l>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "Hotel_California",
+          "palavra_canonica": "Hotel_California",
+          "tags": [
+            "<tit>",
+            "<*>",
+            "<np-close>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 3,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:spec",
+          "palavra_original": "Quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<rel>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "escreveu",
+          "palavra_canonica": "escrever",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "spell",
+                "sinonimo": "soletrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "escrever",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "redigir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "compose",
+                "sinonimo": "compor",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "publish",
+                "sinonimo": "publicar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "publish",
+                "sinonimo": "publish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "compose",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "write",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "indite",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "drop_a_line",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "pen",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "spell",
+                "sinonimo": "spell",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Hotel_california",
+          "palavra_canonica": "Hotel_california",
+          "tags": [
+            "<tit>",
+            "<*>",
+            "<heur>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "quem",
+        "confianca": 0.78,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "escreveu",
+          "palavra_canonica": "escrever",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "spell",
+                "sinonimo": "soletrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "escrever",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "redigir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "compose",
+                "sinonimo": "compor",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "publish",
+                "sinonimo": "publicar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "publish",
+                "sinonimo": "publish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "compose",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "write",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "indite",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "drop_a_line",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "write",
+                "sinonimo": "pen",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "spell",
+                "sinonimo": "spell",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Hotel_california",
+          "palavra_canonica": "Hotel_california",
+          "tags": [
+            "<tit>",
+            "<*>",
+            "<heur>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "artista",
+              "eagles"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "hotel_california"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 52,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1",
+              "escrever": 64
+            },
+            "best_bind": {
+              "score": 0.58698416,
+              "resource_id": 64,
+              "tr": "escrever"
+            }
+          }
+        }
+      ],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "owl#sameas",
+              "q752172"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "hotel_california"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "owl#sameas",
+              "*hotel_california"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "hotel_california"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "owl#sameas",
+              "*hotel_california_(album)"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "hotel_california"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "owl#sameas",
+              "*hotel_california_(eagles_album)"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "hotel_california"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "owl#sameas",
+              "*hotel_california_(album_des_eagles)"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "hotel_california"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "owl#sameas",
+              "*hotel_california_(album)"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "hotel_california"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "owl#sameas",
+              "_()"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "hotel_california"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "owl#sameas",
+              "*hotel_california_()"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "hotel_california"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "owl#sameas",
+              "__(_)"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "hotel_california"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "owl#sameas",
+              "*albumet_hotel_california"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "hotel_california"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "owl#sameas",
+              11
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "hotel_california"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "22_rdf_syntax_ns#type",
+              "album"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "hotel_california"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california_r6479"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "hotel_california"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageexternallink",
+              "*hotel_california"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "hotel_california"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "tipo",
+              "estudio"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "hotel_california"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "lancado",
+              "8"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "hotel_california"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "estealbum",
+              "hotel california"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "hotel_california"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "owl#sameas",
+              "m.01kmc1t"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "hotel_california"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "owl#sameas",
+              "m.01kmc1t"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "hotel_california"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageusestemplate",
+              "predefinicao:ver_desambig"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "hotel_california"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageusestemplate",
+              "album"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "hotel_california"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageusestemplate",
+              "predefinicao:col_begin"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "hotel_california"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageusestemplate",
+              "predefinicao:col_2"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "hotel_california"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageusestemplate",
+              "predefinicao:col_end"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "hotel_california"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "hotel_california"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageusestemplate",
+              "predefinicao:esboco_album"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "hotel_california"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageusestemplate",
+              "predefinicao:eagles"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "hotel_california"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageusestemplate",
+              "predefinicao:portal3"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "hotel_california"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageusestemplate",
+              "predefinicao:avaliacao_5"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "hotel_california"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*hotel_california",
+              "wikipageusestemplate",
+              "predefinicao:singles"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "hotel_california"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "hotel_california": {
+                  "keyword": {
+                    "termo": "hotel_california",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "hotel_california",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29,
+          "bind_control": {
+            "binds": {
+              "hotel_california": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "ranking_time": 888459800,
+      "total_time": 7917874600
+    }
+  }
+]

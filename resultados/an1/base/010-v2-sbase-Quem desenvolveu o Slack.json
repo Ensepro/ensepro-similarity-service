@@ -1,0 +1,1547 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:spec",
+          "palavra_original": "Quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "desenvolveu",
+          "palavra_canonica": "desenvolver",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Slack",
+          "palavra_canonica": "Slack",
+          "tags": [
+            "<brand>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:spec",
+          "palavra_original": "Quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "desenvolveu",
+          "palavra_canonica": "desenvolver",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "develop",
+                "sinonimo": "fazer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "desenvolver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "evolve",
+                "sinonimo": "elaborar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "criar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "evolve",
+                "sinonimo": "evoluir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "progredir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "develop",
+                "sinonimo": "develop",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "acquire",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "build_up",
+                "sinonimo": "build_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "build_up",
+                "sinonimo": "build",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "evolve",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "evolve",
+                "sinonimo": "germinate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "build_up",
+                "sinonimo": "work_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "build_up",
+                "sinonimo": "progress",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Slack",
+          "palavra_canonica": "Slack",
+          "tags": [
+            "<brand>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "quem",
+        "confianca": 0.93,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "desenvolveu",
+          "palavra_canonica": "desenvolver",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "develop",
+                "sinonimo": "fazer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "desenvolver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "evolve",
+                "sinonimo": "elaborar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "criar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "evolve",
+                "sinonimo": "evoluir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "progredir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "develop",
+                "sinonimo": "develop",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "acquire",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "build_up",
+                "sinonimo": "build_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "build_up",
+                "sinonimo": "build",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "evolve",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "evolve",
+                "sinonimo": "germinate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "build_up",
+                "sinonimo": "work_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "build_up",
+                "sinonimo": "progress",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Slack",
+          "palavra_canonica": "Slack",
+          "tags": [
+            "<brand>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "*nigel_slack",
+              "surname",
+              "*slack"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "slack"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "slack": {
+                  "keyword": {
+                    "termo": "slack",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "slack",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "slack": "-18"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*mel_slack",
+              "surname",
+              "*slack"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "slack"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "slack": {
+                  "keyword": {
+                    "termo": "slack",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "slack",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "slack": "-48"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*nigel_slack",
+              "surname",
+              "*slack"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "slack"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "slack": {
+                  "keyword": {
+                    "termo": "slack",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "slack",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "slack": "-18"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*mel_slack",
+              "surname",
+              "*slack"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "slack"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "slack": {
+                  "keyword": {
+                    "termo": "slack",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "slack",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "slack": "-48"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*mel_slack",
+              "rdf_schema#label",
+              "*mel slack"
+            ]
+          ],
+          "score": 10.483971,
+          "detail": {
+            "keywords": [
+              "slack"
+            ],
+            "score_detail": {
+              "m1": 9.150638,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "slack": {
+                  "keyword": {
+                    "termo": "slack",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mel slack",
+                  "score": 9.150638
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*mel_slack",
+              "abstract",
+              "*melvyn \\\"mel\\\" slack (nascido em 7 de marco de 1944) e um ex-futebolista ingles que jogou na liga de futebol em cambridge united, southend united e sunderland."
+            ]
+          ],
+          "score": 10.483971,
+          "detail": {
+            "keywords": [
+              "slack"
+            ],
+            "score_detail": {
+              "m1": 9.150638,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "slack": {
+                  "keyword": {
+                    "termo": "slack",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mel_slack",
+                  "score": 9.150638
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*mel_slack",
+              "name",
+              "*mel slack"
+            ]
+          ],
+          "score": 10.483971,
+          "detail": {
+            "keywords": [
+              "slack"
+            ],
+            "score_detail": {
+              "m1": 9.150638,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "slack": {
+                  "keyword": {
+                    "termo": "slack",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mel slack",
+                  "score": 9.150638
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "lista_de_episodios_de_dexter",
+              "title",
+              "*slack tide"
+            ]
+          ],
+          "score": 10.245178,
+          "detail": {
+            "keywords": [
+              "slack"
+            ],
+            "score_detail": {
+              "m1": 8.911845,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "slack": {
+                  "keyword": {
+                    "termo": "slack",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "slack tide",
+                  "score": 8.911845
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "robert_byrd",
+              "depois",
+              "*john slack"
+            ]
+          ],
+          "score": 10.245178,
+          "detail": {
+            "keywords": [
+              "slack"
+            ],
+            "score_detail": {
+              "m1": 8.911845,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "slack": {
+                  "keyword": {
+                    "termo": "slack",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "john slack",
+                  "score": 8.911845
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "lista_de_episodios_de_person_of_interest",
+              "writtenby",
+              "*david slack"
+            ]
+          ],
+          "score": 9.9965,
+          "detail": {
+            "keywords": [
+              "slack"
+            ],
+            "score_detail": {
+              "m1": 8.663167,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "slack": {
+                  "keyword": {
+                    "termo": "slack",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "david slack",
+                  "score": 8.663167
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*nigel_slack",
+              "abstract",
+              "*nigel slack e professor e autor de varios livros na area da administracao."
+            ]
+          ],
+          "score": 9.9965,
+          "detail": {
+            "keywords": [
+              "slack"
+            ],
+            "score_detail": {
+              "m1": 8.663167,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "slack": {
+                  "keyword": {
+                    "termo": "slack",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nigel_slack",
+                  "score": 8.663167
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*nigel_slack",
+              "rdf_schema#label",
+              "*nigel slack"
+            ]
+          ],
+          "score": 9.9965,
+          "detail": {
+            "keywords": [
+              "slack"
+            ],
+            "score_detail": {
+              "m1": 8.663167,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "slack": {
+                  "keyword": {
+                    "termo": "slack",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nigel slack",
+                  "score": 8.663167
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "teen_titans:_trouble_in_tokyo",
+              "producao",
+              "*david slack"
+            ]
+          ],
+          "score": 9.9965,
+          "detail": {
+            "keywords": [
+              "slack"
+            ],
+            "score_detail": {
+              "m1": 8.663167,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "slack": {
+                  "keyword": {
+                    "termo": "slack",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "david slack",
+                  "score": 8.663167
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "teen_titans:_trouble_in_tokyo",
+              "roteiro",
+              "*david slack"
+            ]
+          ],
+          "score": 9.9965,
+          "detail": {
+            "keywords": [
+              "slack"
+            ],
+            "score_detail": {
+              "m1": 8.663167,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "slack": {
+                  "keyword": {
+                    "termo": "slack",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "david slack",
+                  "score": 8.663167
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*slacktivism",
+              "abstract",
+              "*slacktivism e um neologismo da lingua inglesa formado pela amalgama das palavras slack e activism, o que significa \\\"ativismo preguicoso\\\" ou \\\"ativismo de preguicosos\\\". apesar do termo, originado em 1995, ter surgido com uma conotacao positiva, atualmente o mesmo e usado de forma depreciativa e pejorativa para designar acoes e campanhas (em geral, de internet e redes sociais) com pouco ou nenhum resultado pratico efetivo em que as pessoas participam apenas para mostrar engajamento, buscar uma identidade ou aliviar consciencia ou culpa, apesar de essa assuncao nao ter sido deduzida pela investigacao."
+            ]
+          ],
+          "score": 9.9965,
+          "detail": {
+            "keywords": [
+              "slack"
+            ],
+            "score_detail": {
+              "m1": 8.663167,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "slack": {
+                  "keyword": {
+                    "termo": "slack",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "slacktivism",
+                  "score": 8.663167
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*nigel_slack",
+              "name",
+              "*nigel slack"
+            ]
+          ],
+          "score": 9.9965,
+          "detail": {
+            "keywords": [
+              "slack"
+            ],
+            "score_detail": {
+              "m1": 8.663167,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "slack": {
+                  "keyword": {
+                    "termo": "slack",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nigel slack",
+                  "score": 8.663167
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "voleibol_de_praia_nos_jogos_olimpicos_de_verao_de_2008___masculino",
+              "time",
+              "*schacht - slack"
+            ]
+          ],
+          "score": 8.916281,
+          "detail": {
+            "keywords": [
+              "slack"
+            ],
+            "score_detail": {
+              "m1": 7.582947,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "slack": {
+                  "keyword": {
+                    "termo": "slack",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "schacht - slack",
+                  "score": 7.582947
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*cut_me_some_slack",
+              "rdf_schema#label",
+              "*cut me some slack"
+            ]
+          ],
+          "score": 8.337675,
+          "detail": {
+            "keywords": [
+              "slack"
+            ],
+            "score_detail": {
+              "m1": 7.004342,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "slack": {
+                  "keyword": {
+                    "termo": "slack",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "cut me some slack",
+                  "score": 7.004342
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*cut_me_some_slack",
+              "titulo",
+              "*cut me some slack"
+            ]
+          ],
+          "score": 8.337675,
+          "detail": {
+            "keywords": [
+              "slack"
+            ],
+            "score_detail": {
+              "m1": 7.004342,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "slack": {
+                  "keyword": {
+                    "termo": "slack",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "cut me some slack",
+                  "score": 7.004342
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*cut_me_some_slack",
+              "abstract",
+              "*cut me some slack e uma musica lancada em 2012, como resultado de uma improvavel parceria entre o beatle paul mccartney com ex-integrantes do nirvana - dave grohl (bateria), krist novoselic (baixo) e pat smear (guitarra) - parceria esta chamada de \\\"sirvana\\\". a cancao foi mostrada pela primeira vez no dia 12 de dezembro de 2012, no festival 12-12-12. que reuniu astros da musica em prol das vitimas do furacao sandy, em nova york. a musica foi composta especialmente para o documentario sound city de dave grohl."
+            ]
+          ],
+          "score": 8.337675,
+          "detail": {
+            "keywords": [
+              "slack"
+            ],
+            "score_detail": {
+              "m1": 7.004342,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "slack": {
+                  "keyword": {
+                    "termo": "slack",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "cut_me_some_slack",
+                  "score": 7.004342
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*via_de_hatch_slack",
+              "rdf_schema#label",
+              "*via de hatch-slack"
+            ]
+          ],
+          "score": 8.042696,
+          "detail": {
+            "keywords": [
+              "slack"
+            ],
+            "score_detail": {
+              "m1": 6.709363,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "slack": {
+                  "keyword": {
+                    "termo": "slack",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "via de hatch-slack",
+                  "score": 6.709363
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*rota_de_hatch_slack",
+              "rdf_schema#label",
+              "*rota de hatch-slack"
+            ]
+          ],
+          "score": 7.7456455,
+          "detail": {
+            "keywords": [
+              "slack"
+            ],
+            "score_detail": {
+              "m1": 6.412312,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "slack": {
+                  "keyword": {
+                    "termo": "slack",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rota de hatch-slack",
+                  "score": 6.412312
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "lista_de_episodios_de_person_of_interest",
+              "writtenby",
+              "*jonathan nolan , david slack"
+            ]
+          ],
+          "score": 5.1930537,
+          "detail": {
+            "keywords": [
+              "slack"
+            ],
+            "score_detail": {
+              "m1": 3.8597202,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "slack": {
+                  "keyword": {
+                    "termo": "slack",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "jonathan nolan , david slack",
+                  "score": 3.8597202
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*slackware?dbpv=2016_10&nif=context",
+              "nif_core#isstring",
+              "*introducao\\n\\n\\no slackware\\no slackware e um sistema operacional computacional baseado em projetos oficiais de software livre, desenvolvido por pessoas espalhadas no mundo organizadas em comunidades e instituicoes, sendo a principal delas a fsf (free software foundation) com seus projetos e licenciamentos gnu lgpl de software livre. utiliza como cerne do sistema o projeto oficial da linux foundation, o kernel linux.\\n\\nnome e historia\\no nome \\\"slackware\\\" teve sugestiva origem da \\\"the church of the subgenius\\\" (igreja do subgenio), por patrick volkerding, de onde idealiza-se o termo \\\"slack\\\" que, satirica e ironicamente, incorpora-se o \\\"senso de liberdade, independencia e originalidade para alcancar suas metas pessoais\\\", onde traduziria bem a filosofia do sistema. o fato de patrick volkerding objetivar estabilidade e nao trazer versoes betas ou aplicativos ainda em testes, trouxe ao slackware a aparente impressao de ser uma distribuicao de lancamentos lentos em comparacao as demais distribuicoes linux. esta curiosa impressao podem ter enfase no proprio nome da distribuicao: \\\"slackware\\\", que significativamente se traduz \\\"slack\\\" como sendo \\\"preguica\\\", e \\\"ware\\\" como \\\"produto\\\", sendo interpretado como um produto de lapidacao lenta. mesmo apos o lancamento de versoes estaveis da distribuicoes, ao se instalar, as configuracoes do sistema sao feitas diretamente nos documentos texto de configuracoes, modo preferido entre os usuarios mais experientes. criada em meados de 1993, o slackware linux (ou simplesmente \\\"slack\\\") tem como objetivo manter-se fiel aos padroes unix, mantendo-se bem estruturada e organizada para administradores e usuarios, profissionais e academicos, rejeitando ferramentas de configuracao que escondam o real funcionamento do sistema adotando o principio kiss (acronimo em ingles de: keep it simple, stupid - faca isto simples, estupido) de producao. alem disso, o slackware e composto apenas do empacotamento de aplicativos em versoes estaveis (diferente das versoes betas e de pre-lancamentos, ainda em condicoes de testes), em especial nas suas versoes intermediarias (o -current), e sem alteracoes feitas fora dos times oficiais de desenvolvedores. a primeira versao do slackware, o 1.0.0, foi lancada em 16 ou 17 de julho de 1993 por patrick volkerding, fundador e programador lider do projeto. era baseada na distribuicao sls linux (softlanding linux system) e fornecida em forma de imagens para disquetes de 312 polegadas, disponibilizadas em [file transfer protocols] (ftps) anonimos. em 1999, houve um anuncio da publicacao da versao 7.0 do slackware linux, sendo seu ultimo lancamento anunciado com a versao 4.0. os numeros das versoes do slackware mudaram diretamente de 4.0 a 7.0, e as versoes intermediarias ficaram conhecidas apenas dentro do current. isso foi explicado por patrick volkerding  como um esforco de marketing para mostrar que o slackware estava tao atualizado como as outras distribuicoes linux entre as quais muitas ja tinham numeros de release como 6 naquele momento (como o red hat, por exemplo, que publicava toda revisao de sua distribuicao com um acrescimo de 4.1 para 5.0 ao inves de 3.1 para 3.2, como o slackware o fazia). em 2005, o ambiente de desktop gnome foi removido do futuro release pendente (10.2) e ficou entregue a suporte e distribuicao pela comunidade. nao obstante, diversos projetos baseados na comunidade preencheram a lacuna do gnome no slackware, oferecendo distribuicoes gnome completas como o gware, o freerock gnome, o dropline gnome e o gnomeslacky para o slackware. ao longo da historia do slackware, sempre houve distribuicoes e live cds baseados nele. umas distribuicoes populares derivadas do slackware, entre elas college linux, goblinx, slax, vector linux, jolinux, zenwalk, alixe e kate os.\\n\\naspectos\\n\\n\\na distribuicao\\n\\n\\nseu papel na comunidade\\n\\n\\ngerenciamento de pacotes\\ntoda versao slackware e estavel. tambem existe sempre uma versao -current (intermediaria entre a versao estavel atual e a proxima), mas dessa jamais ha imagens oficiais para download. os pacotes do -current precisam ser descarregado pela pasta \\\"current\\\", contida nos repositorios do slackware utilizando pkgtool ou o upgradepkg. ambos devem ser executado em um terminal de comandos em modo texto. para quem faz questao de um slackware totalmente current, a opcao mais eficaz e baixar e instalar o slackpkg, uma ferramenta que acessa os repositorios oficiais e que faz esses upgrades automaticamente. o slackpkg vem instalado por padrao na distribuicao. possui seu proprio gerenciador de pacotes, o pkgtool, e traz os comandos de gerenciamento: installpkg, upgradepkg, removekpg, explodepkg, makepkg; todos sem gerenciamento de dependencias. existem programas que adicionam esse gerenciamento de forma alternativa como: o slapt-get e swaret. o formato dos pacotes .tgz/.txz sao bastante similar a um .tar.gz, contendo apenas os arquivos a serem instalados em suas respectivas pastas em relacao a pasta raiz do sistema; alem de um script com comandos complementares para a instalacao. o slackware linux e um sistema operacional livre, ou seja, esta disponivel na internet e todos tem acesso ao codigo-fonte, podendo entao melhora-lo ou adapta-lo as proprias necessidades.\\n\\ngerenciamento de modulos do kernel\\n\\n\\nremocao do gnome\\ncom as dificuldades em manter a evolucao do toolkit de desenvolvimento gtk decorrente da complexidade e ma documentacao do projeto, e as ameacas de descontinuacao por parte do time oficial do gtk, o fator de estabilidade e confiabilidade do projeto gnome foi questionado e, em marco de 2006, o gnome foi oficialmente removido da distribuicao slackware, dando abertura para adesao de novas ferramentas para o slackware. o suporte ao projeto gnome no slackware foi dado por parte da comunidade, onde surgiram repositotios nao-oficiais como: o gnome slack build, o dropline gnome, o gware e o gnomeslacky.\\n\\na evolucao da versao 11.0 para a versao 13.37 (leet)\\ndos esforcos para a integracao do novo sistema de gerenciamento de modulos (drivers de dispositivos de hardware e recursos de sistema do kernel linux), a versao 11.0 do slackware deu inicio ao processo de migracao das ferramentas que gerenciavam o carregamento de modulos do linux, que utilizava o sistema hotplug, um sistema basico de reconhecimento automatico de hardware, que funcionava como alternativa ao carregamento manual dos modulos de dispositivos em arquivos scripts de configuracao manual na inicializacao do sistema ate entao encontrada nas versoes classicas anteriores do slackware. ainda assim, fizeram com que houvesse uma interrupcao na continuacao para a versao 11.1 (que viria aperfeicoar a versao 11.0), e migrando logo para a versao 12.0. ainda buscando maior integracao e estabilidade, a migracao ficou completamente finalizado na versao 12.2. com a evolucao dos projetos surgindo como o advento do kde 4.1 (evolucao em curso do ambiente kde); a modularizacao do projeto x11; os suportes a arquitetura 64bits, fizeram parte da nova serie de lancamentos do slackware: a versao 13.0.\\n\\nderivacoes\\nha varias distribuicoes derivadas do slackware: ativas \\n*  4bak - live cd canadense para backups desenvolvido por sylvie migneault; e o antigo ddbackup; \\n*  alixe - [live cd canadense desenvolvido por uma montrealense que so se identifica como \\\"alisou\\\" mas que no site do 4bak revela ser a propria sylvie migneault; o live cd visa a promover o slackware e o slax entre usuarios de lingua francesa. \\n*  arudius - live cd americano com o peso em seguranca, baseado no slackware e no zenwalk. \\n*  austrumi - distribuicao linux letuva desenvolvida por andreijs meinerts e outros/as; e um live cd que se instala temporariamente na memoria ram, deixando, assim, a gaveta do cd/dvd livre para outros usos. \\n*  blin - distribuicao linux ucraniana. \\n*  burapha gnu/linux - distribuicao linux tailandesa desenvolvida por uma equipe da universidade de burapha. \\n*  cemf - distribuicao linux brasileira que roda direto de dentro de uma particao ou instalacao windows. \\n*  college - distribuicao linux suica que alega se basear no debian, mas e gerenciada em .tgz; virou live cd. \\n*  cytrun - distribuicao linux brasileira projetada para aumentar o nivel de seguranca de servidores / voip-pbx. \\n*  darkstar - distribuicao linux romena. \\n*  dna - live cd argentino baseado no slax. \\n*  emovix - live cd italiano com peso na execucao de multimidia. \\n*  frugalware - distribuicao linux hungara desenvolvida por miklos vajna. \\n*  goblinx - live cd brasileiro que instalado converte os pacotes .tgz em modulos .mo. \\n*  hostgis - distribuicao linux americana, servidor cartografico especialmente desenvolvido para o manejo de informacoes gis. \\n*  iwhax - distribuicao linux americana voltada para a seguranca de redes; e a antiga whax. \\n*  jolinux - distribuicao linux brasileira com linux 2.6 ja por padrao. \\n*  kateos - distribuicao linux polonesa desenvolvida por damian rakowski e outros. \\n*  kinux - distribuicao linux brasileira. \\n*  klax - live cd alemao de apresentacao do kde. \\n*  live cd router - live cd argentino projetado para operar redes e conexoes de internet. \\n*  movix - live cd italiano com peso na criacao de multimidia. \\n*  movix2 - live cd italiano com peso na execucao de multimidia. \\n*  mutagenix - live cd americano. \\n*  nimblex - distribuicao linux romena desenvolvida por bogdan radulescu. \\n*  openlab - distribuicao linux sul-africana, projetada para o ensino em informatica em escolas e faculdades; fora da africa do sul, e adotada na namibia e alemanha; e a distro para qual os softwares edukar, openbook e zybacafe foram desenvolvidos; o live cd pode ser baixado gratuitamente, o conjunto de 4 cds / 1 dvd e os softwares externos sao cobrados. \\n*  p!tux - distribuicao linux francesa para ser instalada dentro de sistemas ja existentes; e o antigo drinou linux. \\n*  pc master - distribuicao linux brasileira. \\n*  plamo - distribuicao linux japonesa com peso no idioma japones, para assim facilitar o \\\"slacking\\\" para usuarios japoneses. \\n*  pqui - distribuicao linux brasileira para desktop. \\n*  privare - live cd canadense, e o antigo elearnix, anterior freeloader linux; praticamente um curso linux em forma de sistema operacional com base no slackware. \\n*  revanche - distribuicao linux brasileira baseada simultaneamente em slackware e fedora. \\n*  rfs - distribuicao linux brasileira. \\n*  rip (recovery is possible) - distribuicao linux americana voltada a recuperacao de sistemas de arquivos. \\n*  root - distribuicao linux sueca. \\n*  runt (resnet usb network tester) - sistema operacional linux americano desenvolvido pela universidade da carolina do norte para ser instalado num pendrives e simultaneamente num disquete que operarao em conjunto; distro voltada a testar redes e ports usb. \\n*  sauveros - distribuicao linux indiana desenvolvida por maulik gordhandas. \\n*  slamp - live cd holandes baseado no slax com os pacotes do slackware. \\n*  slax - live cd checo desenvolvido por tomas matejicek; instalado em hd ou pendrive, nas versoes anteriores ao 6.0.0 convertia os pacotes .tgz em modulos .mo. desde a versao 6.0.0, o comando tgz2lmz converte os pacotes .tgz em modulos .lmz. ainda existe a possibilidade de converter pacotes dos repositorios do debian e do ubuntu em modulos, atraves do comando deb2lmz. \\n*  stux - live cd italiano. \\n*  terere - live cd brasileiro projetado para os sistemas de autenticacao de provedores e lan houses. \\n*  vector - distribuicao linux canadense desenvolvida por robert s. lange e outros; sugere-se como uma excelente opcao para dar uso a equipamentos antigos. \\n*  volta - distribuicao linux italiana 100% compatibilizada com gerenciamento de pacotes duplo: o pkgtool do slackware para o sistema e o pkgsrc do netbsd para os aplicativos; noutras palavras, com o volta linux praticamente tem-se o slackware e o netbsd rodando num mesmo sistema operacional. \\n*  wolvix - live cd noruegues baseado no slax. \\n*  zenlive - live cd frances baseado no zenwalk. \\n*  zenserver - distribuicao linux americana voltada a servidores, baseada no zenwalk. \\n*  zenwalk - distribuicao linux desktop francesa desenvolvida por jean-philippe guillemin; e a antiga minislack. slackware para amd64 \\n*  slamd64 - distribuicao linux britanica para rodar o slackware em plataforma amd64 (x86 64). \\n*  bluewhite64- distribuicao linux romena para rodar o slackware em plataforma amd64 (x86 64); disponivel em forma de live cd instalavel e de dvd de instalacao. slackware para arm \\n*  armedslack - distribuicao linux americana para rodar o slackware em plataforma arm. slackware para ibm s/390 \\n*  slack/390 - distribuicao linux americana para rodar o slackware em plataforma ibm s/390. slackware para powerpc (macintosh) \\n*  slackintosh - distribuicao linux suica para rodar o slackware em plataforma ppc (powerpc). slackware para sparc \\n*  splack - distribuicao linux americana para rodar o slackware em plataforma sparc. nao-desativadas a primeira vista, essas ai parecem desativadas, mas de fato trocaram apenas de nome e sao encontradas acima com seus novos nomes. \\n*  ddbackup - virou 4bak. \\n*  drinou - virou p!tux \\n*  elearnix - virou privare. \\n*  freeloader linux - virou privare. \\n*  minislack - virou zenwalk. \\n*  whax - virou iwhax semi-desativadas \\n*  litrix linux - distribuicao linux brasileira que continua ativa mas a partir de sua versao 3.0 trocou o slackware pelo gentoo como base; e desenvolvida por vagner rodrigues. \\n*  suse linux - distribuicao linux entao alema, que ate sua fusao com a distribuicao jurix, em 1996, se baseava no sls linux e slackware. \\n*  backtrack - live cd suico baseado em slackware e slax; fusionando o auditor security linux com o whax, seu peso e na seguranca, a partir da versao 4 e baseado no debian/ubuntu. desativadas \\n*  bearops desktop - distribuicao canadense, abandonada em 2001. \\n*  buffalo - distribuicao americana, abandonada em 2005. \\n*  definity - distribuicao brasileira desenvolvida por uma empresa em campinas, abandonada em 2003. \\n*  evil entity - distribuicao americana cujo ponto forte era a edicao de multimidia; abandonada em 2004, nao esta claro se a anunciada sucessora, arcano linux, foi ativada. \\n*  gnox - live cd britanico cujo gerenciamento em modulos permitiria acrescentar modulos diretamente a imagem .iso; distro abandonada em 2005. \\n*  netwosix - distribuicao italiana voltada para a seguranca de redes; abandonada em 2006.  \\n*  sentinix - distribuicao sueca voltada ao monitoramento de redes; abandonada em 2003. \\n*  tukaani - distribuicao linux finlandesa cujo ponto forte esta no gerenciamento de pacotes, atraves do instalador pkgtools (sic!) e do (des)compactador lzma: compatibilizam pacotes nos formatos .tgz, .tbz, .tlz e .tar. \\n*  ultima - distribuicao americana que era desenvolvida por martin ultima, abandonada em 2005.\\n\\nsuporte da slackware no brasil\\n"
+            ]
+          ],
+          "score": 3.8505633,
+          "detail": {
+            "keywords": [
+              "slack"
+            ],
+            "score_detail": {
+              "m1": 2.51723,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "slack": {
+                  "keyword": {
+                    "termo": "slack",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "slackware?dbpv=2016_10&nif=context",
+                  "score": 2.51723
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*mel_slack?dbpv=2016_10&nif=context",
+              "nif_core#isstring",
+              "*melvyn \\\"mel\\\" slack (nascido em 7 de marco de 1944) e um ex-futebolista ingles que jogou na liga de futebol em cambridge united, southend united e sunderland."
+            ]
+          ],
+          "score": 3.8505633,
+          "detail": {
+            "keywords": [
+              "slack"
+            ],
+            "score_detail": {
+              "m1": 2.51723,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "slack": {
+                  "keyword": {
+                    "termo": "slack",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "mel_slack?dbpv=2016_10&nif=context",
+                  "score": 2.51723
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*nigel_slack?dbpv=2016_10&nif=context",
+              "nif_core#isstring",
+              "*nigel slack e professor e autor de varios livros na area da administracao.\\n\\nformacao e atuacao profissional\\nnigel slack e graduado no curso de engenharia, e mestre e doutor em administracao. atualmente leciona a disciplina politica e estrategia de producao na warwick university, inglaterra. ja foi tambem professor da brunel university, oxford university e templeton college, ministrando as disciplinas de estrategia de producao e de engenharia de sistemas de producao, estudos de administracao e administracao da producao, respectivamente. ja trabalhou como aprendiz em industria de ferramentas manuais, inicialmente. depois de formado e especializado, trabalhou em engenharia de iluminacao.\\n\\npublicacoes\\nnigel slack possui varias publicacoes no ramo de administracao da producao: \\n*  1991  making management decisions, em co-autoria com steve cooke. \\n*  1993  vantagem competitiva em manufatura. \\n*  1993 - sevice superiority, tendo riberto johnston como co-autor. \\n*  1997  cases in operation management, em co-autoria com robert johnston, alan harrison, stuart chambers, e christine harland. \\n*  1997  administracao da producao, juntamente com stuart chambers e robert johnston."
+            ]
+          ],
+          "score": 3.4890301,
+          "detail": {
+            "keywords": [
+              "slack"
+            ],
+            "score_detail": {
+              "m1": 2.1556969,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "slack": {
+                  "keyword": {
+                    "termo": "slack",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "nigel_slack?dbpv=2016_10&nif=context",
+                  "score": 2.1556969
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*slacktivism?dbpv=2016_10&nif=context",
+              "nif_core#isstring",
+              "*slacktivism e um neologismo da lingua inglesa formado pela amalgama das palavras slack e activism, o que significa \\\"ativismo preguicoso\\\" ou \\\"ativismo de preguicosos\\\". apesar do termo, originado em 1995, ter surgido com uma conotacao positiva, atualmente o mesmo e usado de forma depreciativa e pejorativa para designar acoes e campanhas (em geral, de internet e redes sociais) com pouco ou nenhum resultado pratico efetivo em que as pessoas participam apenas para mostrar engajamento, buscar uma identidade ou aliviar consciencia ou culpa, apesar de essa assuncao nao ter sido deduzida pela investigacao.\\n\\ntraducoes\\nem portugues, os termos equivalentes sao sofativismo (outro neologismo, formado pela juncao das palavras sofa e ativismo), ativismo de sofa, mobilizacao de sofa, revolta de sofa ou revolucao de sofa."
+            ]
+          ],
+          "score": 3.4890301,
+          "detail": {
+            "keywords": [
+              "slack"
+            ],
+            "score_detail": {
+              "m1": 2.1556969,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "slack": {
+                  "keyword": {
+                    "termo": "slack",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "slacktivism?dbpv=2016_10&nif=context",
+                  "score": 2.1556969
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*the_slackers?dbpv=2016_10&nif=context",
+              "nif_core#isstring",
+              "*the slackers e uma das melhores e mais conhecidas bandas da nova cena de ska de nova iorque. formada no brooklyn em 1991, a banda toca uma mistura de ska, rocksteady, reggae, soul, swing, garage rock, e jazz. faz parte do selo punk \\\"hellcat records\\\". varios projetos paralelos surgiram da banda, entre eles: dave hillyard rocksteady 7, da whole thing e skandalous all stars, alem do projeto acustico do vocalista vic ruggiero.\\n\\nformacao\\n\\n*  vic ruggiero - voz e teclados \\n*  jay \\\"agent jay\\\" nugent - guitarra \\n*  dave hillyard - saxofone \\n*  glen pine - trombone \\n*  marcus geard - contra-baixo \\n*  ara babajian - bateria ex-membros \\n*  marc \\\"q-maxx 4:20\\\" lyn - voz \\n*  tj scanlon - guitarra \\n*  luis \\\"zulu\\\" zuluaga - bateria \\n*  jeremy \\\"mush one\\\" mushlin - trompete \\n*  allen teboul - bateria \\n*  dunia best- voz e flauta \\n*  jeff \\\"king django\\\" baker - trombone \\n*  tobias fields - congas \\n*  eric \\\"e-roc\\\" singer - saxofone \\n*  victor rice - contra-baixo \\n*  dave hahn - guitarra\\n\\ndiscografia\\n\\n*  do the ska with the slackers - 1992 \\n*  the slackers - 1993 \\n*  better late than never - 1996 \\n*  redlight - 1997 \\n*  the question - 1998 \\n*  before there were slackers there were... - 1999 \\n*  live at ernesto's - 2000 \\n*  wasted days - 2001 \\n*  the slackers and friends - 2002 \\n*  close my eyes - 2003 \\n*  international war criminal - 2004 \\n*  upsettin' ernesto's - 2004 \\n*  the slackers/pulley split - 2004 \\n*  an afternoon in dub - 2005 \\n*  slackness - 2005 \\n*  slack in japan - 2005 \\n*  peculiar - 2006 \\n*  big tunes! hits & misses from 1996 to 2006 - 2007 \\n*  self medication - 2008 \\n*  the great rocksteady swindle - 2010 compilacoes \\n*  \\\"give 'em the boot\\\" \\n*  \\\"give 'em the boot ii\\\" \\n*  \\\"give 'em the boot iii\\\" \\n*  \\\"give 'em the boot iv\\\" \\n*  \\\"give 'em the boot v\\\" \\n*  this is special potatoe vol. 1\\n\\nver tambem\\n\\n*  pagina oficial da banda \\n*  entrevista com the slackers.  \\n* www.grundfunk.net \\n*  the slackers' chords pagina dedicada a banda."
+            ]
+          ],
+          "score": 3.3242712,
+          "detail": {
+            "keywords": [
+              "slack"
+            ],
+            "score_detail": {
+              "m1": 1.990938,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "slack": {
+                  "keyword": {
+                    "termo": "slack",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "the_slackers?dbpv=2016_10&nif=context",
+                  "score": 1.990938
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "lista_de_episodios_de_person_of_interest",
+              "writtenby",
+              "*jonathan nolan , amanda segel, david slack"
+            ]
+          ],
+          "score": 2.6489854,
+          "detail": {
+            "keywords": [
+              "slack"
+            ],
+            "score_detail": {
+              "m1": 1.3156519,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "slack": {
+                  "keyword": {
+                    "termo": "slack",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "jonathan nolan , amanda segel, david slack",
+                  "score": 1.3156519
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*cut_me_some_slack?dbpv=2016_10&nif=context",
+              "nif_core#isstring",
+              "*cut me some slack e uma musica lancada em 2012, como resultado de uma improvavel parceria entre o beatle paul mccartney com ex-integrantes do nirvana - dave grohl (bateria), krist novoselic (baixo) e pat smear (guitarra) - parceria esta chamada de \\\"sirvana\\\". a cancao foi mostrada pela primeira vez no dia 12 de dezembro de 2012, no festival 12-12-12. que reuniu astros da musica em prol das vitimas do furacao sandy, em nova york. a musica foi composta especialmente para o documentario sound city de dave grohl.\\n\\ndetalhes da faixa\\n\\n\\npremios e indicacoes\\n"
+            ]
+          ],
+          "score": 2.6489854,
+          "detail": {
+            "keywords": [
+              "slack"
+            ],
+            "score_detail": {
+              "m1": 1.3156519,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "slack": {
+                  "keyword": {
+                    "termo": "slack",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "cut_me_some_slack?dbpv=2016_10&nif=context",
+                  "score": 1.3156519
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "austroassiminea_letha",
+              "binomialautoridade",
+              "*solem, girardi, slack-smith & kendall, 1982"
+            ]
+          ],
+          "score": 2.5409353,
+          "detail": {
+            "keywords": [
+              "slack"
+            ],
+            "score_detail": {
+              "m1": 1.2076019,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "slack": {
+                  "keyword": {
+                    "termo": "slack",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "solem, girardi, slack-smith & kendall, 1982",
+                  "score": 1.2076019
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "northrop_yf_17_cobra",
+              "*desenvolvimento",
+              "f_5"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "desenvolvimento"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "desenvolvimento": {
+                  "keyword": {
+                    "termo": "desenvolvimento",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "desenvolvimento",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 809973200,
+      "total_time": 6226366700
+    }
+  }
+]

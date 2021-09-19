@@ -1,0 +1,1966 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:spec",
+          "palavra_original": "Quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:vp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Vaux:v-fin",
+          "palavra_original": "foi",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<aux>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "Vm:v-pcp",
+          "palavra_original": "casada",
+          "palavra_canonica": "casar",
+          "tags": [
+            "<vH>",
+            "<mv>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "fA:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "H:prp",
+          "palavra_original": "com",
+          "palavra_canonica": "com",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "H:n",
+          "palavra_original": "presidente",
+          "palavra_canonica": "presidente",
+          "tags": [
+            "<Hprof>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "Chirac",
+          "palavra_canonica": "Chirac",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<np-close>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 3,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:spec",
+          "palavra_original": "Quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<rel>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:vp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Vaux:v-fin",
+          "palavra_original": "foi",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<aux>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "Vm:v-pcp",
+          "palavra_original": "casada",
+          "palavra_canonica": "casar",
+          "tags": [
+            "<vH>",
+            "<mv>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "marry",
+                "sinonimo": "juntar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "casar-se",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "casar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "acoplar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "casarem-se",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "marry",
+                "sinonimo": "tie",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "couple",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "twin",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "espouse",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "splice",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "get_hitched_with",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "match",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "pair",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "conjoin",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "mate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "wed",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "hook_up_with",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "marry",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "get_married",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "fA:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "H:prp",
+          "palavra_original": "com",
+          "palavra_canonica": "com",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Jacques_chirac",
+          "palavra_canonica": "Jacques_chirac",
+          "tags": [
+            "<inst>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "quem",
+        "confianca": 0.78,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [
+        [
+          {
+            "id": 4,
+            "tag_inicial": "Vaux:v-fin",
+            "palavra_original": "foi",
+            "palavra_canonica": "ser",
+            "tags": [
+              "<fmc>",
+              "<aux>",
+              "PS",
+              "3S",
+              "IND",
+              "VFIN"
+            ],
+            "nivel": 2,
+            "sinonimos": null
+          },
+          {
+            "id": 5,
+            "tag_inicial": "Vm:v-pcp",
+            "palavra_original": "casada",
+            "palavra_canonica": "casar",
+            "tags": [
+              "<vH>",
+              "<mv>",
+              "F",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "marry",
+                  "sinonimo": "juntar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "marry",
+                  "sinonimo": "casar-se",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "marry",
+                  "sinonimo": "casar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "match",
+                  "sinonimo": "acoplar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "marry",
+                  "sinonimo": "casarem-se",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "marry",
+                  "sinonimo": "tie",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "match",
+                  "sinonimo": "couple",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "match",
+                  "sinonimo": "twin",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "marry",
+                  "sinonimo": "espouse",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "marry",
+                  "sinonimo": "splice",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "marry",
+                  "sinonimo": "get_hitched_with",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "match",
+                  "sinonimo": "match",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "match",
+                  "sinonimo": "pair",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "marry",
+                  "sinonimo": "conjoin",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "match",
+                  "sinonimo": "mate",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "marry",
+                  "sinonimo": "wed",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "marry",
+                  "sinonimo": "hook_up_with",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "marry",
+                  "sinonimo": "marry",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "marry",
+                  "sinonimo": "get_married",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          }
+        ]
+      ],
+      "termos_relevantes": [
+        {
+          "id": 5,
+          "tag_inicial": "Vm:v-pcp",
+          "palavra_original": "casada",
+          "palavra_canonica": "casar",
+          "tags": [
+            "<vH>",
+            "<mv>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "marry",
+                "sinonimo": "juntar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "casar-se",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "casar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "acoplar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "casarem-se",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "marry",
+                "sinonimo": "tie",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "couple",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "twin",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "espouse",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "splice",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "get_hitched_with",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "match",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "pair",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "conjoin",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "mate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "wed",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "hook_up_with",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "marry",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "get_married",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 10,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Jacques_chirac",
+          "palavra_canonica": "Jacques_chirac",
+          "tags": [
+            "<inst>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*jacques_chirac",
+              "owl#sameas",
+              "q2105"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "jacques_chirac"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "jacques_chirac": {
+                  "keyword": {
+                    "termo": "jacques_chirac",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "jacques_chirac",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "jacques_chirac": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*jacques_chirac",
+              "owl#sameas",
+              "*jacques_chirac"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "jacques_chirac"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "jacques_chirac": {
+                  "keyword": {
+                    "termo": "jacques_chirac",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "jacques_chirac",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*jacques_chirac",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "jacques_chirac"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "jacques_chirac": {
+                  "keyword": {
+                    "termo": "jacques_chirac",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "jacques_chirac",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "jacques_chirac": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*jacques_chirac",
+              "owl#sameas",
+              "jak_sirak"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "jacques_chirac"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "jacques_chirac": {
+                  "keyword": {
+                    "termo": "jacques_chirac",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "jacques_chirac",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "jacques_chirac": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*jacques_chirac",
+              "owl#sameas",
+              "'_"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "jacques_chirac"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "jacques_chirac": {
+                  "keyword": {
+                    "termo": "jacques_chirac",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "jacques_chirac",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4,
+          "bind_control": {
+            "binds": {
+              "jacques_chirac": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*jacques_chirac",
+              "owl#sameas",
+              7
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "jacques_chirac"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "jacques_chirac": {
+                  "keyword": {
+                    "termo": "jacques_chirac",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "jacques_chirac",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "jacques_chirac": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*jacques_chirac",
+              "owl#sameas",
+              "iacobus_chirac"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "jacques_chirac"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "jacques_chirac": {
+                  "keyword": {
+                    "termo": "jacques_chirac",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "jacques_chirac",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6,
+          "bind_control": {
+            "binds": {
+              "jacques_chirac": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*jacques_chirac",
+              "owl#sameas",
+              "zaks_siraks"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "jacques_chirac"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "jacques_chirac": {
+                  "keyword": {
+                    "termo": "jacques_chirac",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "jacques_chirac",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7,
+          "bind_control": {
+            "binds": {
+              "jacques_chirac": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*jacques_chirac",
+              "owl#sameas",
+              ",_"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "jacques_chirac"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "jacques_chirac": {
+                  "keyword": {
+                    "termo": "jacques_chirac",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "jacques_chirac",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8,
+          "bind_control": {
+            "binds": {
+              "jacques_chirac": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*jacques_chirac",
+              "preposicao",
+              "da"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "jacques_chirac"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "jacques_chirac": {
+                  "keyword": {
+                    "termo": "jacques_chirac",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "jacques_chirac",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9,
+          "bind_control": {
+            "binds": {
+              "jacques_chirac": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*jacques_chirac",
+              "imagem",
+              "jacques chirac.jpg"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "jacques_chirac"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "jacques_chirac": {
+                  "keyword": {
+                    "termo": "jacques_chirac",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "jacques_chirac",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10,
+          "bind_control": {
+            "binds": {
+              "jacques_chirac": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*jacques_chirac",
+              "mandatoinicio",
+              "17"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "jacques_chirac"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "jacques_chirac": {
+                  "keyword": {
+                    "termo": "jacques_chirac",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "jacques_chirac",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11,
+          "bind_control": {
+            "binds": {
+              "jacques_chirac": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*jacques_chirac",
+              "mandatofim",
+              "16"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "jacques_chirac"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "jacques_chirac": {
+                  "keyword": {
+                    "termo": "jacques_chirac",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "jacques_chirac",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12,
+          "bind_control": {
+            "binds": {
+              "jacques_chirac": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*jacques_chirac",
+              "mandatoiniciotitulo",
+              "17"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "jacques_chirac"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "jacques_chirac": {
+                  "keyword": {
+                    "termo": "jacques_chirac",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "jacques_chirac",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13,
+          "bind_control": {
+            "binds": {
+              "jacques_chirac": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*jacques_chirac",
+              "mandatofimtitulo",
+              "16"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "jacques_chirac"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "jacques_chirac": {
+                  "keyword": {
+                    "termo": "jacques_chirac",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "jacques_chirac",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14,
+          "bind_control": {
+            "binds": {
+              "jacques_chirac": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*jacques_chirac",
+              "esposa",
+              "bernadette_chirac"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "jacques_chirac"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "jacques_chirac": {
+                  "keyword": {
+                    "termo": "jacques_chirac",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "jacques_chirac",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15,
+          "bind_control": {
+            "binds": {
+              "jacques_chirac": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*jacques_chirac",
+              "titulo",
+              "lista_de_presidentes_de_franca"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "jacques_chirac"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "jacques_chirac": {
+                  "keyword": {
+                    "termo": "jacques_chirac",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "jacques_chirac",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16,
+          "bind_control": {
+            "binds": {
+              "jacques_chirac": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*jacques_chirac",
+              "anos",
+              "1995"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "jacques_chirac"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "jacques_chirac": {
+                  "keyword": {
+                    "termo": "jacques_chirac",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "jacques_chirac",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17,
+          "bind_control": {
+            "binds": {
+              "jacques_chirac": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*jacques_chirac",
+              "antes",
+              "francois_mitterrand"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "jacques_chirac"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "jacques_chirac": {
+                  "keyword": {
+                    "termo": "jacques_chirac",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "jacques_chirac",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18,
+          "bind_control": {
+            "binds": {
+              "jacques_chirac": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*jacques_chirac",
+              "depois",
+              "nicolas_sarkozy"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "jacques_chirac"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "jacques_chirac": {
+                  "keyword": {
+                    "termo": "jacques_chirac",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "jacques_chirac",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19,
+          "bind_control": {
+            "binds": {
+              "jacques_chirac": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*jacques_chirac",
+              "titulo",
+              "anexo:lista_de_primeiros_ministros_da_franca"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "jacques_chirac"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "jacques_chirac": {
+                  "keyword": {
+                    "termo": "jacques_chirac",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "jacques_chirac",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20,
+          "bind_control": {
+            "binds": {
+              "jacques_chirac": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*jacques_chirac",
+              "anos",
+              "1974"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "jacques_chirac"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "jacques_chirac": {
+                  "keyword": {
+                    "termo": "jacques_chirac",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "jacques_chirac",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21,
+          "bind_control": {
+            "binds": {
+              "jacques_chirac": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*jacques_chirac",
+              "antes",
+              "pierre_messmer"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "jacques_chirac"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "jacques_chirac": {
+                  "keyword": {
+                    "termo": "jacques_chirac",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "jacques_chirac",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22,
+          "bind_control": {
+            "binds": {
+              "jacques_chirac": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*jacques_chirac",
+              "depois",
+              "raymond_barre"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "jacques_chirac"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "jacques_chirac": {
+                  "keyword": {
+                    "termo": "jacques_chirac",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "jacques_chirac",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23,
+          "bind_control": {
+            "binds": {
+              "jacques_chirac": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*jacques_chirac",
+              "anos",
+              "1986"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "jacques_chirac"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "jacques_chirac": {
+                  "keyword": {
+                    "termo": "jacques_chirac",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "jacques_chirac",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24,
+          "bind_control": {
+            "binds": {
+              "jacques_chirac": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*jacques_chirac",
+              "antes",
+              "laurent_fabius"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "jacques_chirac"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "jacques_chirac": {
+                  "keyword": {
+                    "termo": "jacques_chirac",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "jacques_chirac",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25,
+          "bind_control": {
+            "binds": {
+              "jacques_chirac": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*jacques_chirac",
+              "depois",
+              "michel_rocard"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "jacques_chirac"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "jacques_chirac": {
+                  "keyword": {
+                    "termo": "jacques_chirac",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "jacques_chirac",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26,
+          "bind_control": {
+            "binds": {
+              "jacques_chirac": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*jacques_chirac",
+              "depiction",
+              "*jacques_chirac.jpg"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "jacques_chirac"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "jacques_chirac": {
+                  "keyword": {
+                    "termo": "jacques_chirac",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "jacques_chirac",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*jacques_chirac",
+              "thumbnail",
+              "*jacques_chirac.jpg?width=300"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "jacques_chirac"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "jacques_chirac": {
+                  "keyword": {
+                    "termo": "jacques_chirac",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "jacques_chirac",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*jacques_chirac",
+              "wikipageusestemplate",
+              "predefinicao:parcial"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "jacques_chirac"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "jacques_chirac": {
+                  "keyword": {
+                    "termo": "jacques_chirac",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "jacques_chirac",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29,
+          "bind_control": {
+            "binds": {
+              "jacques_chirac": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "ranking_time": 719.1083431243896,
+      "l_sizes": [
+        1188
+      ],
+      "total_time": 8943.766593933105
+    }
+  }
+]

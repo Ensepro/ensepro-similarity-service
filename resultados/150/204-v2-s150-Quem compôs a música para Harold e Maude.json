@@ -1,0 +1,1764 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:spec",
+          "palavra_original": "Quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "compôs",
+          "palavra_canonica": "compor",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "música",
+          "palavra_canonica": "música",
+          "tags": [
+            "<domain>",
+            "<sem-l>",
+            "<cc-r>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "fA:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:prp",
+          "palavra_original": "para",
+          "palavra_canonica": "para",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DP:par",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "CJT:prop",
+          "palavra_original": "Harold",
+          "palavra_canonica": "Harold",
+          "tags": [
+            "<cjt-head>",
+            "<cjt-head-DP>",
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "CO:conj-c",
+          "palavra_original": "e",
+          "palavra_canonica": "e",
+          "tags": [
+            "<co-prparg>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "CJT:prop",
+          "palavra_original": "Maude",
+          "palavra_canonica": "Maude",
+          "tags": [
+            "<cjt-DP>",
+            "<civ>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 13,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:spec",
+          "palavra_original": "Quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "compôs",
+          "palavra_canonica": "compor",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "assemble",
+                "sinonimo": "montar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "form",
+                "sinonimo": "enquadrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "form",
+                "sinonimo": "constituir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "compose",
+                "sinonimo": "compor",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "assemble",
+                "sinonimo": "reunir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "form",
+                "sinonimo": "estabelecer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "compose",
+                "sinonimo": "escrever",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "form",
+                "sinonimo": "make",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "assemble",
+                "sinonimo": "put_together",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "compose",
+                "sinonimo": "write",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "compose",
+                "sinonimo": "compose",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "assemble",
+                "sinonimo": "tack",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "form",
+                "sinonimo": "form",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "assemble",
+                "sinonimo": "tack_together",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "assemble",
+                "sinonimo": "set_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "assemble",
+                "sinonimo": "assemble",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "assemble",
+                "sinonimo": "piece",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "form",
+                "sinonimo": "constitute",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "música",
+          "palavra_canonica": "música",
+          "tags": [
+            "<domain>",
+            "<sem-l>",
+            "<cc-r>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "music",
+                "sinonimo": "música",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "music",
+                "sinonimo": "eufonia",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "music",
+                "sinonimo": "euphony",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "music",
+                "sinonimo": "music",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "fA:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:prp",
+          "palavra_original": "para",
+          "palavra_canonica": "para",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DP:par",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "CJT:prop",
+          "palavra_original": "Harold",
+          "palavra_canonica": "Harold",
+          "tags": [
+            "<cjt-head>",
+            "<cjt-head-DP>",
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 11,
+          "tag_inicial": "CO:conj-c",
+          "palavra_original": "e",
+          "palavra_canonica": "e",
+          "tags": [
+            "<co-prparg>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "CJT:prop",
+          "palavra_original": "Maude",
+          "palavra_canonica": "Maude",
+          "tags": [
+            "<cjt-DP>",
+            "<civ>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 13,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "quem",
+        "confianca": 0.93,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "compôs",
+          "palavra_canonica": "compor",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "assemble",
+                "sinonimo": "montar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "form",
+                "sinonimo": "enquadrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "form",
+                "sinonimo": "constituir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "compose",
+                "sinonimo": "compor",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "assemble",
+                "sinonimo": "reunir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "form",
+                "sinonimo": "estabelecer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "compose",
+                "sinonimo": "escrever",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "form",
+                "sinonimo": "make",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "assemble",
+                "sinonimo": "put_together",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "compose",
+                "sinonimo": "write",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "compose",
+                "sinonimo": "compose",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "assemble",
+                "sinonimo": "tack",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "form",
+                "sinonimo": "form",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "assemble",
+                "sinonimo": "tack_together",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "assemble",
+                "sinonimo": "set_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "assemble",
+                "sinonimo": "assemble",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "assemble",
+                "sinonimo": "piece",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "form",
+                "sinonimo": "constitute",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "música",
+          "palavra_canonica": "música",
+          "tags": [
+            "<domain>",
+            "<sem-l>",
+            "<cc-r>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "music",
+                "sinonimo": "música",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "music",
+                "sinonimo": "eufonia",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "music",
+                "sinonimo": "euphony",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "music",
+                "sinonimo": "music",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              }
+            ]
+          }
+        },
+        {
+          "id": 10,
+          "tag_inicial": "CJT:prop",
+          "palavra_original": "Harold",
+          "palavra_canonica": "Harold",
+          "tags": [
+            "<cjt-head>",
+            "<cjt-head-DP>",
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 12,
+          "tag_inicial": "CJT:prop",
+          "palavra_original": "Maude",
+          "palavra_canonica": "Maude",
+          "tags": [
+            "<cjt-DP>",
+            "<civ>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "over_the_rainbow",
+              "*compositor",
+              "*harold arlen"
+            ]
+          ],
+          "score": 12.027253,
+          "detail": {
+            "keywords": [
+              "harold",
+              "compositor"
+            ],
+            "score_detail": {
+              "m1": 10.860586,
+              "m2": 0.6666667,
+              "m3": 0.5,
+              "matches": {
+                "harold": {
+                  "keyword": {
+                    "termo": "harold",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "harold arlen",
+                  "score": 8.860586
+                },
+                "compositor": {
+                  "keyword": {
+                    "termo": "compositor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "compositor",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0
+        },
+        {
+          "triples": [
+            [
+              "daylight_(cancao_de_bobby_womack)",
+              "*compositor",
+              "*harold_payne"
+            ]
+          ],
+          "score": 12.027253,
+          "detail": {
+            "keywords": [
+              "harold",
+              "compositor"
+            ],
+            "score_detail": {
+              "m1": 10.860586,
+              "m2": 0.6666667,
+              "m3": 0.5,
+              "matches": {
+                "harold": {
+                  "keyword": {
+                    "termo": "harold",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "harold_payne",
+                  "score": 8.860586
+                },
+                "compositor": {
+                  "keyword": {
+                    "termo": "compositor",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "compositor",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "babes_in_arms",
+              "*musica",
+              "*harold arlen  &"
+            ]
+          ],
+          "score": 11.321114,
+          "detail": {
+            "keywords": [
+              "harold",
+              "musica"
+            ],
+            "score_detail": {
+              "m1": 10.154447,
+              "m2": 0.6666667,
+              "m3": 0.5,
+              "matches": {
+                "harold": {
+                  "keyword": {
+                    "termo": "harold",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "harold arlen  &",
+                  "score": 8.154447
+                },
+                "musica": {
+                  "keyword": {
+                    "termo": "musica",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "musica",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*harold",
+              "owl#sameas",
+              "q222254"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "harold"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "harold": {
+                  "keyword": {
+                    "termo": "harold",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "harold",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*harold",
+              "owl#sameas",
+              "*harold"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "harold"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "harold": {
+                  "keyword": {
+                    "termo": "harold",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "harold",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*harold",
+              "owl#sameas",
+              4
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "harold"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "harold": {
+                  "keyword": {
+                    "termo": "harold",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "harold",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*harold",
+              "wikipageusestemplate",
+              "predefinicao:desambiguacao"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "harold"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "harold": {
+                  "keyword": {
+                    "termo": "harold",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "harold",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*harold",
+              "wikipageusestemplate",
+              "nome"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "harold"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "harold": {
+                  "keyword": {
+                    "termo": "harold",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "harold",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*harold",
+              "subject",
+              "categoria:desambiguacoes_de_antroponimos"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "harold"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "harold": {
+                  "keyword": {
+                    "termo": "harold",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "harold",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*harold",
+              "wikipagedisambiguates",
+              "*haroldo"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "harold"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "harold": {
+                  "keyword": {
+                    "termo": "harold",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "harold",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*harold",
+              "wikipagedisambiguates",
+              "*harold_bloom"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "harold"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "harold": {
+                  "keyword": {
+                    "termo": "harold",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "harold",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*harold",
+              "wikipagedisambiguates",
+              "*harold_charles_schonberg"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "harold"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "harold": {
+                  "keyword": {
+                    "termo": "harold",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "harold",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*harold",
+              "wikipagedisambiguates",
+              "*harold_(filme)"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "harold"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "harold": {
+                  "keyword": {
+                    "termo": "harold",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "harold",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*harold",
+              "related",
+              "*haroldo"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "harold"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "harold": {
+                  "keyword": {
+                    "termo": "harold",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "harold",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*harold",
+              "rdf_schema#label",
+              "*harold"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "harold"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "harold": {
+                  "keyword": {
+                    "termo": "harold",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "harold",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*harold",
+              "genero",
+              "masculino"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "harold"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "harold": {
+                  "keyword": {
+                    "termo": "harold",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "harold",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*harold",
+              "relativos",
+              "*haroldo"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "harold"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "harold": {
+                  "keyword": {
+                    "termo": "harold",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "harold",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*harold",
+              "22_rdf_syntax_ns#type",
+              "givenname"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "harold"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "harold": {
+                  "keyword": {
+                    "termo": "harold",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "harold",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*harold",
+              "22_rdf_syntax_ns#type",
+              "q202444"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "harold"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "harold": {
+                  "keyword": {
+                    "termo": "harold",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "harold",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*harold",
+              "22_rdf_syntax_ns#type",
+              "name"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "harold"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "harold": {
+                  "keyword": {
+                    "termo": "harold",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "harold",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*harold",
+              "22_rdf_syntax_ns#type",
+              "q82799"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "harold"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "harold": {
+                  "keyword": {
+                    "termo": "harold",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "harold",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*harold",
+              "22_rdf_syntax_ns#type",
+              "owl#thing"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "harold"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "harold": {
+                  "keyword": {
+                    "termo": "harold",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "harold",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "isabel_ii_do_reino_unido",
+              "nome",
+              "*harold"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "harold"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "harold": {
+                  "keyword": {
+                    "termo": "harold",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "harold",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*harold_(filme)",
+              "nome",
+              "*harold"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "harold"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "harold": {
+                  "keyword": {
+                    "termo": "harold",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "harold",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*harold_(filme)",
+              "tituloor",
+              "*harold"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "harold"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "harold": {
+                  "keyword": {
+                    "termo": "harold",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "harold",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*harold_(filme)",
+              "titulobr",
+              "*harold"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "harold"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "harold": {
+                  "keyword": {
+                    "termo": "harold",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "harold",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "historia_do_japao",
+              "nome",
+              "*harold"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "harold"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "harold": {
+                  "keyword": {
+                    "termo": "harold",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "harold",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "nucleo_(sistema_operacional)",
+              "first",
+              "*harold"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "harold"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "harold": {
+                  "keyword": {
+                    "termo": "harold",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "harold",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "ilhas_malvinas",
+              "nome",
+              "*harold"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "harold"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "harold": {
+                  "keyword": {
+                    "termo": "harold",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "harold",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "romeu_e_julieta",
+              "nome",
+              "*harold"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "harold"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "harold": {
+                  "keyword": {
+                    "termo": "harold",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "harold",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 5972.490310668945,
+      "l_sizes": [
+        24554,
+        14236
+      ],
+      "total_time": 20604.448556900024
+    }
+  }
+]

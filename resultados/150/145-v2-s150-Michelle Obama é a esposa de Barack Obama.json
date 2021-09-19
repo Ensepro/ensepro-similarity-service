@@ -1,0 +1,2504 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Michelle_Obama",
+          "palavra_canonica": "Michelle_Obama",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "é",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<vK>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Cs:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "esposa",
+          "palavra_canonica": "esposa",
+          "tags": [
+            "<Hfam>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Barack_Obama",
+          "palavra_canonica": "Barack_Obama",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Michelle_Obama",
+          "palavra_canonica": "Michelle_Obama",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "é",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<vK>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Cs:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "esposa",
+          "palavra_canonica": "esposa",
+          "tags": [
+            "<Hfam>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "spouse",
+                "sinonimo": "esposo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "spouse",
+                "sinonimo": "cônjuge",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "wife",
+                "sinonimo": "esposa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "wife",
+                "sinonimo": "marido",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "spouse",
+                "sinonimo": "homem",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "spouse",
+                "sinonimo": "consorte",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "spouse",
+                "sinonimo": "colega",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "spouse",
+                "sinonimo": "cónjuge",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "wife",
+                "sinonimo": "mulher",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "spouse",
+                "sinonimo": "partner",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "wife",
+                "sinonimo": "wife",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "spouse",
+                "sinonimo": "better_half",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "spouse",
+                "sinonimo": "married_person",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "wife",
+                "sinonimo": "married_woman",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "spouse",
+                "sinonimo": "spouse",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "spouse",
+                "sinonimo": "mate",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Barack_Obama",
+          "palavra_canonica": "Barack_Obama",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 10,
+          "tag_inicial": "?",
+          "palavra_original": " ",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "[ [ QUE:fcl|1| [S:prop|2| Michelle_Obama] [P:v-fin|3| é] [ Cs:np|4| [DN:art|5| a] [H:n|6| esposa] [ DN:pp|7| [H:prp|8| de] [DP:prop|9| Barack_Obama] ] ] [?|10|  ] ] ]",
+      "tipo": {
+        "tipo": "desconhecido",
+        "confianca": 1,
+        "ids": []
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 2,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Michelle_Obama",
+          "palavra_canonica": "Michelle_Obama",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "esposa",
+          "palavra_canonica": "esposa",
+          "tags": [
+            "<Hfam>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "spouse",
+                "sinonimo": "esposo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "spouse",
+                "sinonimo": "cônjuge",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "wife",
+                "sinonimo": "esposa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "wife",
+                "sinonimo": "marido",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "spouse",
+                "sinonimo": "homem",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "spouse",
+                "sinonimo": "consorte",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "spouse",
+                "sinonimo": "colega",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "spouse",
+                "sinonimo": "cónjuge",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "wife",
+                "sinonimo": "mulher",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "spouse",
+                "sinonimo": "partner",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "wife",
+                "sinonimo": "wife",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "spouse",
+                "sinonimo": "better_half",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "spouse",
+                "sinonimo": "married_person",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "wife",
+                "sinonimo": "married_woman",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "spouse",
+                "sinonimo": "spouse",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "spouse",
+                "sinonimo": "mate",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Barack_Obama",
+          "palavra_canonica": "Barack_Obama",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 6,
+            "tag_inicial": "H:n",
+            "palavra_original": "esposa",
+            "palavra_canonica": "esposa",
+            "tags": [
+              "<Hfam>",
+              "F",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "spouse",
+                  "sinonimo": "esposo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "spouse",
+                  "sinonimo": "cônjuge",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "wife",
+                  "sinonimo": "esposa",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "wife",
+                  "sinonimo": "marido",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "spouse",
+                  "sinonimo": "homem",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "spouse",
+                  "sinonimo": "consorte",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "spouse",
+                  "sinonimo": "colega",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "spouse",
+                  "sinonimo": "cónjuge",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "wife",
+                  "sinonimo": "mulher",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "spouse",
+                  "sinonimo": "partner",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "wife",
+                  "sinonimo": "wife",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "spouse",
+                  "sinonimo": "better_half",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "spouse",
+                  "sinonimo": "married_person",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "wife",
+                  "sinonimo": "married_woman",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "spouse",
+                  "sinonimo": "spouse",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "spouse",
+                  "sinonimo": "mate",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 9,
+            "tag_inicial": "DP:prop",
+            "palavra_original": "Barack_Obama",
+            "palavra_canonica": "Barack_Obama",
+            "tags": [
+              "<hum>",
+              "<*>",
+              "M/F",
+              "S"
+            ],
+            "nivel": 3,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "*michelle_obama",
+              "*spouse",
+              "*barack_obama"
+            ]
+          ],
+          "score": 23.0,
+          "detail": {
+            "keywords": [
+              "michelle_obama",
+              "esposa",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 21.0,
+              "m2": 1.0,
+              "m3": 1.0,
+              "matches": {
+                "michelle_obama": {
+                  "keyword": {
+                    "termo": "michelle_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michelle_obama",
+                  "score": 10.0
+                },
+                "esposa": {
+                  "keyword": {
+                    "termo": "spouse",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spouse",
+                  "score": 1.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "michelle_obama": "-8",
+              "spouse": "-139",
+              "barack_obama": "-17"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*michelle_obama",
+              "*spouse",
+              "*barack_obama"
+            ]
+          ],
+          "score": 23.0,
+          "detail": {
+            "keywords": [
+              "michelle_obama",
+              "esposa",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 21.0,
+              "m2": 1.0,
+              "m3": 1.0,
+              "matches": {
+                "michelle_obama": {
+                  "keyword": {
+                    "termo": "michelle_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michelle_obama",
+                  "score": 10.0
+                },
+                "esposa": {
+                  "keyword": {
+                    "termo": "spouse",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spouse",
+                  "score": 1.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "michelle_obama": "-8",
+              "spouse": "-139",
+              "barack_obama": "-17"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*barack_obama",
+              "*spouse",
+              "*michelle_obama"
+            ]
+          ],
+          "score": 23.0,
+          "detail": {
+            "keywords": [
+              "esposa",
+              "michelle_obama",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 21.0,
+              "m2": 1.0,
+              "m3": 1.0,
+              "matches": {
+                "esposa": {
+                  "keyword": {
+                    "termo": "spouse",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spouse",
+                  "score": 1.0
+                },
+                "michelle_obama": {
+                  "keyword": {
+                    "termo": "michelle_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michelle_obama",
+                  "score": 10.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*michelle_obama",
+              "*spouse",
+              "*barack_obama"
+            ],
+            [
+              "*michelle_obama",
+              "wikipageusestemplate",
+              "*predefinicao:barack_obama"
+            ]
+          ],
+          "score": 22.5,
+          "detail": {
+            "keywords": [
+              "michelle_obama",
+              "esposa",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 21.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "michelle_obama": {
+                  "keyword": {
+                    "termo": "michelle_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michelle_obama",
+                  "score": 10.0
+                },
+                "esposa": {
+                  "keyword": {
+                    "termo": "spouse",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spouse",
+                  "score": 1.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*michelle_obama",
+              "*spouse",
+              "*barack_obama"
+            ],
+            [
+              "*michelle_obama",
+              "*spousename",
+              "*marido"
+            ]
+          ],
+          "score": 22.5,
+          "detail": {
+            "keywords": [
+              "michelle_obama",
+              "esposa",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 21.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "michelle_obama": {
+                  "keyword": {
+                    "termo": "michelle_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michelle_obama",
+                  "score": 10.0
+                },
+                "esposa": {
+                  "keyword": {
+                    "termo": "marido",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "marido",
+                  "score": 1.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*michelle_obama",
+              "*spouse",
+              "*barack_obama"
+            ],
+            [
+              "*michelle_obama",
+              "*conjugetipo",
+              "*marido"
+            ]
+          ],
+          "score": 22.5,
+          "detail": {
+            "keywords": [
+              "michelle_obama",
+              "esposa",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 21.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "michelle_obama": {
+                  "keyword": {
+                    "termo": "michelle_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michelle_obama",
+                  "score": 10.0
+                },
+                "esposa": {
+                  "keyword": {
+                    "termo": "marido",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "marido",
+                  "score": 1.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*michelle_obama",
+              "*spouse",
+              "*barack_obama"
+            ],
+            [
+              "*michelle_obama",
+              "*conjuge",
+              "barack obama"
+            ]
+          ],
+          "score": 22.5,
+          "detail": {
+            "keywords": [
+              "michelle_obama",
+              "esposa",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 21.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "michelle_obama": {
+                  "keyword": {
+                    "termo": "michelle_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michelle_obama",
+                  "score": 10.0
+                },
+                "esposa": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "conjuge",
+                  "score": 1.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*michelle_obama",
+              "*spouse",
+              "*barack_obama"
+            ],
+            [
+              "*barack_obama",
+              "*conjuge",
+              "michelle robinson"
+            ]
+          ],
+          "score": 22.5,
+          "detail": {
+            "keywords": [
+              "michelle_obama",
+              "esposa",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 21.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "michelle_obama": {
+                  "keyword": {
+                    "termo": "michelle_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michelle_obama",
+                  "score": 10.0
+                },
+                "esposa": {
+                  "keyword": {
+                    "termo": "conjuge",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "conjuge",
+                  "score": 1.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*michelle_obama",
+              "*spouse",
+              "*barack_obama"
+            ],
+            [
+              "*michelle_obama",
+              "*almamater",
+              "universidade_de_princeton"
+            ]
+          ],
+          "score": 22.5,
+          "detail": {
+            "keywords": [
+              "michelle_obama",
+              "esposa",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 21.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "michelle_obama": {
+                  "keyword": {
+                    "termo": "michelle_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michelle_obama",
+                  "score": 10.0
+                },
+                "esposa": {
+                  "keyword": {
+                    "termo": "spouse",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spouse",
+                  "score": 1.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*michelle_obama",
+              "*spouse",
+              "*barack_obama"
+            ],
+            [
+              "*michelle_obama",
+              "*almamater",
+              "universidade_harvard"
+            ]
+          ],
+          "score": 22.5,
+          "detail": {
+            "keywords": [
+              "michelle_obama",
+              "esposa",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 21.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "michelle_obama": {
+                  "keyword": {
+                    "termo": "michelle_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michelle_obama",
+                  "score": 10.0
+                },
+                "esposa": {
+                  "keyword": {
+                    "termo": "spouse",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spouse",
+                  "score": 1.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*michelle_obama",
+              "*spouse",
+              "*barack_obama"
+            ],
+            [
+              "*barack_obama",
+              "*almamater",
+              "occidental college"
+            ]
+          ],
+          "score": 22.5,
+          "detail": {
+            "keywords": [
+              "michelle_obama",
+              "esposa",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 21.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "michelle_obama": {
+                  "keyword": {
+                    "termo": "michelle_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michelle_obama",
+                  "score": 10.0
+                },
+                "esposa": {
+                  "keyword": {
+                    "termo": "spouse",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spouse",
+                  "score": 1.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*michelle_obama",
+              "*spouse",
+              "*barack_obama"
+            ],
+            [
+              "*barack_obama",
+              "*almamater",
+              "universidade_columbia"
+            ]
+          ],
+          "score": 22.5,
+          "detail": {
+            "keywords": [
+              "michelle_obama",
+              "esposa",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 21.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "michelle_obama": {
+                  "keyword": {
+                    "termo": "michelle_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michelle_obama",
+                  "score": 10.0
+                },
+                "esposa": {
+                  "keyword": {
+                    "termo": "spouse",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spouse",
+                  "score": 1.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*michelle_obama",
+              "*spouse",
+              "*barack_obama"
+            ],
+            [
+              "*barack_obama",
+              "*almamater",
+              "harvard_law_school"
+            ]
+          ],
+          "score": 22.5,
+          "detail": {
+            "keywords": [
+              "michelle_obama",
+              "esposa",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 21.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "michelle_obama": {
+                  "keyword": {
+                    "termo": "michelle_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michelle_obama",
+                  "score": 10.0
+                },
+                "esposa": {
+                  "keyword": {
+                    "termo": "spouse",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spouse",
+                  "score": 1.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*michelle_obama",
+              "*spouse",
+              "*barack_obama"
+            ],
+            [
+              "*michelle_obama",
+              "abstract",
+              "*michelle lavaughn robinson obama (chicago, 17 de janeiro de 1964) e uma advogada e escritora norte-americana. e a esposa do 44o presidente dos estados unidos, barack obama, e a 46a primeira-dama daquele pais, sendo a primeira afro-descendente a ocupar o posto. michelle robinson nasceu e cresceu em chicago. graduou-se pela universidade princeton e pela harvard law school. apos completar seus estudos, retornou a chicago e aceitou um emprego na firma de advocacia sidley austin, onde conheceu seu futuro marido, obama. subsequentemente, trabalhou como ajudante do prefeito de chicago richard m. daley e para o centro medico da universidade de chicago. em 1992, casou-se com barack obama, com quem tem duas filhas: malia e sasha. ao longo de 2007 e 2008, ajudou na campanha presidencial de seu marido, sendo a sua presenca um dos principais destaques da campanha. discursou na convencao nacional democrata de 2008 e 2012. como esposa do entao senador e mais tarde primeira-dama, se tornou em um icone da moda e modelo para as mulheres."
+            ]
+          ],
+          "score": 22.5,
+          "detail": {
+            "keywords": [
+              "michelle_obama",
+              "esposa",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 21.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "michelle_obama": {
+                  "keyword": {
+                    "termo": "michelle_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michelle_obama",
+                  "score": 10.0
+                },
+                "esposa": {
+                  "keyword": {
+                    "termo": "spouse",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spouse",
+                  "score": 1.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*michelle_obama",
+              "*spouse",
+              "*barack_obama"
+            ],
+            [
+              "*michelle_obama",
+              "owl#sameas",
+              "q13133"
+            ]
+          ],
+          "score": 22.5,
+          "detail": {
+            "keywords": [
+              "michelle_obama",
+              "esposa",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 21.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "michelle_obama": {
+                  "keyword": {
+                    "termo": "michelle_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michelle_obama",
+                  "score": 10.0
+                },
+                "esposa": {
+                  "keyword": {
+                    "termo": "spouse",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spouse",
+                  "score": 1.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*michelle_obama",
+              "*spouse",
+              "*barack_obama"
+            ],
+            [
+              "*michelle_obama",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 22.5,
+          "detail": {
+            "keywords": [
+              "michelle_obama",
+              "esposa",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 21.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "michelle_obama": {
+                  "keyword": {
+                    "termo": "michelle_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michelle_obama",
+                  "score": 10.0
+                },
+                "esposa": {
+                  "keyword": {
+                    "termo": "spouse",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spouse",
+                  "score": 1.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*michelle_obama",
+              "*spouse",
+              "*barack_obama"
+            ],
+            [
+              "*michelle_obama",
+              "owl#sameas",
+              "misel_obama"
+            ]
+          ],
+          "score": 22.5,
+          "detail": {
+            "keywords": [
+              "michelle_obama",
+              "esposa",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 21.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "michelle_obama": {
+                  "keyword": {
+                    "termo": "michelle_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michelle_obama",
+                  "score": 10.0
+                },
+                "esposa": {
+                  "keyword": {
+                    "termo": "spouse",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spouse",
+                  "score": 1.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*michelle_obama",
+              "*spouse",
+              "*barack_obama"
+            ],
+            [
+              "*michelle_obama",
+              "owl#sameas",
+              "*michelle_obama"
+            ]
+          ],
+          "score": 22.5,
+          "detail": {
+            "keywords": [
+              "michelle_obama",
+              "esposa",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 21.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "michelle_obama": {
+                  "keyword": {
+                    "termo": "michelle_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michelle_obama",
+                  "score": 10.0
+                },
+                "esposa": {
+                  "keyword": {
+                    "termo": "spouse",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spouse",
+                  "score": 1.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*michelle_obama",
+              "*spouse",
+              "*barack_obama"
+            ],
+            [
+              "*michelle_obama",
+              "owl#sameas",
+              "michelle_obamova"
+            ]
+          ],
+          "score": 22.5,
+          "detail": {
+            "keywords": [
+              "michelle_obama",
+              "esposa",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 21.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "michelle_obama": {
+                  "keyword": {
+                    "termo": "michelle_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michelle_obama",
+                  "score": 10.0
+                },
+                "esposa": {
+                  "keyword": {
+                    "termo": "spouse",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spouse",
+                  "score": 1.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*michelle_obama",
+              "*spouse",
+              "*barack_obama"
+            ],
+            [
+              "*michelle_obama",
+              "owl#sameas",
+              "michelle_robinson_obama"
+            ]
+          ],
+          "score": 22.5,
+          "detail": {
+            "keywords": [
+              "michelle_obama",
+              "esposa",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 21.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "michelle_obama": {
+                  "keyword": {
+                    "termo": "michelle_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michelle_obama",
+                  "score": 10.0
+                },
+                "esposa": {
+                  "keyword": {
+                    "termo": "spouse",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spouse",
+                  "score": 1.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*michelle_obama",
+              "*spouse",
+              "*barack_obama"
+            ],
+            [
+              "*michelle_obama",
+              "owl#sameas",
+              6
+            ]
+          ],
+          "score": 22.5,
+          "detail": {
+            "keywords": [
+              "michelle_obama",
+              "esposa",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 21.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "michelle_obama": {
+                  "keyword": {
+                    "termo": "michelle_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michelle_obama",
+                  "score": 10.0
+                },
+                "esposa": {
+                  "keyword": {
+                    "termo": "spouse",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spouse",
+                  "score": 1.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*michelle_obama",
+              "*spouse",
+              "*barack_obama"
+            ],
+            [
+              "*michelle_obama",
+              "owl#sameas",
+              "michaela_obama"
+            ]
+          ],
+          "score": 22.5,
+          "detail": {
+            "keywords": [
+              "michelle_obama",
+              "esposa",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 21.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "michelle_obama": {
+                  "keyword": {
+                    "termo": "michelle_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michelle_obama",
+                  "score": 10.0
+                },
+                "esposa": {
+                  "keyword": {
+                    "termo": "spouse",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spouse",
+                  "score": 1.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*michelle_obama",
+              "*spouse",
+              "*barack_obama"
+            ],
+            [
+              "*michelle_obama",
+              "owl#sameas",
+              "misela_obama"
+            ]
+          ],
+          "score": 22.5,
+          "detail": {
+            "keywords": [
+              "michelle_obama",
+              "esposa",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 21.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "michelle_obama": {
+                  "keyword": {
+                    "termo": "michelle_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michelle_obama",
+                  "score": 10.0
+                },
+                "esposa": {
+                  "keyword": {
+                    "termo": "spouse",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spouse",
+                  "score": 1.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*michelle_obama",
+              "*spouse",
+              "*barack_obama"
+            ],
+            [
+              "*michelle_obama",
+              "owl#sameas",
+              ",_"
+            ]
+          ],
+          "score": 22.5,
+          "detail": {
+            "keywords": [
+              "michelle_obama",
+              "esposa",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 21.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "michelle_obama": {
+                  "keyword": {
+                    "termo": "michelle_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michelle_obama",
+                  "score": 10.0
+                },
+                "esposa": {
+                  "keyword": {
+                    "termo": "spouse",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spouse",
+                  "score": 1.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*michelle_obama",
+              "*spouse",
+              "*barack_obama"
+            ],
+            [
+              "*barack_obama",
+              "owl#sameas",
+              "q76"
+            ]
+          ],
+          "score": 22.5,
+          "detail": {
+            "keywords": [
+              "michelle_obama",
+              "esposa",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 21.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "michelle_obama": {
+                  "keyword": {
+                    "termo": "michelle_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michelle_obama",
+                  "score": 10.0
+                },
+                "esposa": {
+                  "keyword": {
+                    "termo": "spouse",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spouse",
+                  "score": 1.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*michelle_obama",
+              "*spouse",
+              "*barack_obama"
+            ],
+            [
+              "*barack_obama",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 22.5,
+          "detail": {
+            "keywords": [
+              "michelle_obama",
+              "esposa",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 21.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "michelle_obama": {
+                  "keyword": {
+                    "termo": "michelle_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michelle_obama",
+                  "score": 10.0
+                },
+                "esposa": {
+                  "keyword": {
+                    "termo": "spouse",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spouse",
+                  "score": 1.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*michelle_obama",
+              "*spouse",
+              "*barack_obama"
+            ],
+            [
+              "*barack_obama",
+              "owl#sameas",
+              "barak_obama"
+            ]
+          ],
+          "score": 22.5,
+          "detail": {
+            "keywords": [
+              "michelle_obama",
+              "esposa",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 21.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "michelle_obama": {
+                  "keyword": {
+                    "termo": "michelle_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michelle_obama",
+                  "score": 10.0
+                },
+                "esposa": {
+                  "keyword": {
+                    "termo": "spouse",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spouse",
+                  "score": 1.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*michelle_obama",
+              "*spouse",
+              "*barack_obama"
+            ],
+            [
+              "*barack_obama",
+              "owl#sameas",
+              6
+            ]
+          ],
+          "score": 22.5,
+          "detail": {
+            "keywords": [
+              "michelle_obama",
+              "esposa",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 21.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "michelle_obama": {
+                  "keyword": {
+                    "termo": "michelle_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michelle_obama",
+                  "score": 10.0
+                },
+                "esposa": {
+                  "keyword": {
+                    "termo": "spouse",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spouse",
+                  "score": 1.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*michelle_obama",
+              "*spouse",
+              "*barack_obama"
+            ],
+            [
+              "*barack_obama",
+              "owl#sameas",
+              "__"
+            ]
+          ],
+          "score": 22.5,
+          "detail": {
+            "keywords": [
+              "michelle_obama",
+              "esposa",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 21.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "michelle_obama": {
+                  "keyword": {
+                    "termo": "michelle_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michelle_obama",
+                  "score": 10.0
+                },
+                "esposa": {
+                  "keyword": {
+                    "termo": "spouse",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spouse",
+                  "score": 1.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*michelle_obama",
+              "*spouse",
+              "*barack_obama"
+            ],
+            [
+              "*barack_obama",
+              "owl#sameas",
+              "baracus_obama"
+            ]
+          ],
+          "score": 22.5,
+          "detail": {
+            "keywords": [
+              "michelle_obama",
+              "esposa",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 21.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "michelle_obama": {
+                  "keyword": {
+                    "termo": "michelle_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michelle_obama",
+                  "score": 10.0
+                },
+                "esposa": {
+                  "keyword": {
+                    "termo": "spouse",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spouse",
+                  "score": 1.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*michelle_obama",
+              "*spouse",
+              "*barack_obama"
+            ],
+            [
+              "*barack_obama",
+              "owl#sameas",
+              "baraks_obama"
+            ]
+          ],
+          "score": 22.5,
+          "detail": {
+            "keywords": [
+              "michelle_obama",
+              "esposa",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 21.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "michelle_obama": {
+                  "keyword": {
+                    "termo": "michelle_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "michelle_obama",
+                  "score": 10.0
+                },
+                "esposa": {
+                  "keyword": {
+                    "termo": "spouse",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "spouse",
+                  "score": 1.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 2115.1671409606934,
+      "l_sizes": [
+        17649,
+        12656
+      ],
+      "total_time": 10139.58191871643
+    }
+  }
+]

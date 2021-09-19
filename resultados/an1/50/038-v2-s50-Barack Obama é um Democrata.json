@@ -1,0 +1,1344 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Barack_Obama",
+          "palavra_canonica": "Barack_Obama",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "é",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<vK>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Cs:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "um",
+          "palavra_canonica": "um",
+          "tags": [
+            "<arti>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "Democrata",
+          "palavra_canonica": "democrata",
+          "tags": [
+            "<prop>",
+            "<*>",
+            "<Hprof>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Barack_Obama",
+          "palavra_canonica": "Barack_Obama",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "é",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<vK>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Cs:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "um",
+          "palavra_canonica": "um",
+          "tags": [
+            "<arti>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "Democrata",
+          "palavra_canonica": "democrata",
+          "tags": [
+            "<prop>",
+            "<*>",
+            "<Hprof>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "eh_um",
+        "confianca": 0.93,
+        "ids": [
+          3,
+          5
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 2,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Barack_Obama",
+          "palavra_canonica": "Barack_Obama",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "Democrata",
+          "palavra_canonica": "democrata",
+          "tags": [
+            "<prop>",
+            "<*>",
+            "<Hprof>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*barack_obama",
+              "subject",
+              "*categoria:democratas_de_illinois"
+            ]
+          ],
+          "score": 16.975052,
+          "detail": {
+            "keywords": [
+              "democrata",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 15.308386,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "democrata": {
+                  "keyword": {
+                    "termo": "democrata",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "categoria:democratas_de_illinois",
+                  "score": 5.3083854
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "barack_obama": "-8",
+              "democrata": "-111"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*barack_obama",
+              "party",
+              "*partido_democrata_(estados_unidos)"
+            ]
+          ],
+          "score": 16.44508,
+          "detail": {
+            "keywords": [
+              "democrata",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 14.778412,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "democrata": {
+                  "keyword": {
+                    "termo": "democrata",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "partido_democrata_(estados_unidos)",
+                  "score": 4.7784114
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "barack_obama": "-8",
+              "democrata": "-140"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*eleicao_primaria_do_partido_democrata_de_iowa_em_2012",
+              "candidato",
+              "*barack_obama"
+            ]
+          ],
+          "score": 12.878557,
+          "detail": {
+            "keywords": [
+              "democrata",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 11.21189,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "democrata": {
+                  "keyword": {
+                    "termo": "democrata",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "eleicao_primaria_do_partido_democrata_de_iowa_em_2012",
+                  "score": 1.2118905
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*eleicao_primaria_do_partido_democrata_de_iowa_em_2012",
+              "presidentetitular",
+              "*barack_obama"
+            ]
+          ],
+          "score": 12.878557,
+          "detail": {
+            "keywords": [
+              "democrata",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 11.21189,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "democrata": {
+                  "keyword": {
+                    "termo": "democrata",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "eleicao_primaria_do_partido_democrata_de_iowa_em_2012",
+                  "score": 1.2118905
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*barack_obama",
+              "abstract",
+              "*barack hussein obama ii (honolulu, 4 de agosto de 1961) e um advogado e politico dos estados unidos, o 44.o e atual presidente daquele pais, sendo o primeiro afro-americano a ocupar o cargo. nascido em honolulu, no havai, obama e graduado em ciencias politicas pela universidade columbia, tendo cursado posteriormente direito na universidade de harvard, onde foi presidente da harvard law review. tambem atuou como lider comunitario e como advogado na defesa de direitos civis e ensinou direito constitucional na escola de direito da universidade de chicago entre 1992 a 2004. ele representou por tres mandatos o 13.o distrito de illinois no senado estadual, entre 1994 a 2004, tentando eleger-se, sem sucesso, ao congresso dos estados unidos em 2000. em 2004, apos vencer a primaria democrata da eleicao para o senado em illinois, ele foi convidado para fazer um discurso na convencao nacional democrata daquele ano, e, com isso recebeu atencao nacional da midia. em novembro, foi eleito senador com 70% dos votos. obama comecou sua campanha para a presidencia em 2007 e em 2008, depois de uma apertada disputa nas primarias do partido com a tambem senadora hillary clinton, conseguiu apoio suficiente para ganhar a nomeacao do partido democrata para a presidencia dos estados unidos. ele derrotou o candidato republicano john mccain na eleicao presidencial de 2008, tendo sido empossado como presidente em 20 de janeiro de 2009. nove meses depois, ganhou o nobel da paz. durante seu primeiro mandato, obama assinou varias propostas de estimulo economico em resposta a grande recessao que assolou os estados unidos entre 2007 e 2009, atraves dos projetos de lei american recovery and reinvestment act de 2009. tambem sancionou leis de corte de impostos para a classe media e de criacao de empregos em 2010. outras importantes iniciativas nacionais durante seu primeiro mandato incluem a patient protection and affordable care act, projeto este que passou a ser chamado de obamacare; o doddfrank wall street reform and consumer protection act; o don't ask, don't tell; o budget control act of 2011; e o american taxpayer relief act of 2012. na politica externa, obama ordenou o fim do envolvimento americano na guerra do iraque; aumentou a quantidade de tropas americanas no afeganistao; assinou tratados de controle de armas com a russia; autorizou uma intervencao armada na guerra civil libia; e ordenou uma operacao militar no paquistao que resultou na morte de osama bin laden. obama foi reeleito presidente em novembro de 2012, derrotando o republicano mitt romney, e foi empossado para um segundo mandato em 20 de janeiro de 2013. durante seu segundo mandato, obama promoveu politicas internas relacionadas com o controle de armas, em resposta ao tiroteio na escola primaria de sandy hook e outros massacres, e tambem defendeu a igualdade lgbt. na ambito externo, para conter a ameaca do grupo estado islamico (ei) na regiao do oriente medio, ele ordenou a volta de tropas militares ao iraque e tambem autorizou ataques aereos e navais contra a siria para combater as organizacoes jihadistas locais. alem disso, continuou o plano de encerramento das operacoes de combate americanas no afeganistao. tambem iniciou o processo de normalizacao das relacoes entre cuba e estados unidos, e firmou um acordo nuclear com o ira."
+            ]
+          ],
+          "score": 11.666667,
+          "detail": {
+            "keywords": [
+              "democrata",
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "democrata": {
+                  "keyword": {
+                    "termo": "democrata",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack hussein obama ii (honolulu, 4 de agosto de 1961) e um advogado e politico dos estados unidos, o 44.o e atual presidente daquele pais, sendo o primeiro afro-americano a ocupar o cargo. nascido em honolulu, no havai, obama e graduado em ciencias politicas pela universidade columbia, tendo cursado posteriormente direito na universidade de harvard, onde foi presidente da harvard law review. tambem atuou como lider comunitario e como advogado na defesa de direitos civis e ensinou direito constitucional na escola de direito da universidade de chicago entre 1992 a 2004. ele representou por tres mandatos o 13.o distrito de illinois no senado estadual, entre 1994 a 2004, tentando eleger-se, sem sucesso, ao congresso dos estados unidos em 2000. em 2004, apos vencer a primaria democrata da eleicao para o senado em illinois, ele foi convidado para fazer um discurso na convencao nacional democrata daquele ano, e, com isso recebeu atencao nacional da midia. em novembro, foi eleito senador com 70% dos votos. obama comecou sua campanha para a presidencia em 2007 e em 2008, depois de uma apertada disputa nas primarias do partido com a tambem senadora hillary clinton, conseguiu apoio suficiente para ganhar a nomeacao do partido democrata para a presidencia dos estados unidos. ele derrotou o candidato republicano john mccain na eleicao presidencial de 2008, tendo sido empossado como presidente em 20 de janeiro de 2009. nove meses depois, ganhou o nobel da paz. durante seu primeiro mandato, obama assinou varias propostas de estimulo economico em resposta a grande recessao que assolou os estados unidos entre 2007 e 2009, atraves dos projetos de lei american recovery and reinvestment act de 2009. tambem sancionou leis de corte de impostos para a classe media e de criacao de empregos em 2010. outras importantes iniciativas nacionais durante seu primeiro mandato incluem a patient protection and affordable care act, projeto este que passou a ser chamado de obamacare; o doddfrank wall street reform and consumer protection act; o don't ask, don't tell; o budget control act of 2011; e o american taxpayer relief act of 2012. na politica externa, obama ordenou o fim do envolvimento americano na guerra do iraque; aumentou a quantidade de tropas americanas no afeganistao; assinou tratados de controle de armas com a russia; autorizou uma intervencao armada na guerra civil libia; e ordenou uma operacao militar no paquistao que resultou na morte de osama bin laden. obama foi reeleito presidente em novembro de 2012, derrotando o republicano mitt romney, e foi empossado para um segundo mandato em 20 de janeiro de 2013. durante seu segundo mandato, obama promoveu politicas internas relacionadas com o controle de armas, em resposta ao tiroteio na escola primaria de sandy hook e outros massacres, e tambem defendeu a igualdade lgbt. na ambito externo, para conter a ameaca do grupo estado islamico (ei) na regiao do oriente medio, ele ordenou a volta de tropas militares ao iraque e tambem autorizou ataques aereos e navais contra a siria para combater as organizacoes jihadistas locais. alem disso, continuou o plano de encerramento das operacoes de combate americanas no afeganistao. tambem iniciou o processo de normalizacao das relacoes entre cuba e estados unidos, e firmou um acordo nuclear com o ira.",
+                  "score": 0.0
+                },
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*barack_obama",
+              "owl#sameas",
+              "q76"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*barack_obama",
+              "owl#sameas",
+              "*barack_obama"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*barack_obama",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*barack_obama",
+              "owl#sameas",
+              "barak_obama"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*barack_obama",
+              "owl#sameas",
+              6
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*barack_obama",
+              "owl#sameas",
+              "__"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*barack_obama",
+              "owl#sameas",
+              "baracus_obama"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*barack_obama",
+              "owl#sameas",
+              "baraks_obama"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*barack_obama",
+              "owl#sameas",
+              ",_"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*democrata",
+              "owl#sameas",
+              "q12182781"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "democrata"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "democrata": {
+                  "keyword": {
+                    "termo": "democrata",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "democrata",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*democrata",
+              "owl#sameas",
+              "democratic"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "democrata"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "democrata": {
+                  "keyword": {
+                    "termo": "democrata",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "democrata",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*democrata",
+              "wikipageusestemplate",
+              "predefinicao:documentacao"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "democrata"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "democrata": {
+                  "keyword": {
+                    "termo": "democrata",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "democrata",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*barack_obama",
+              "nobel",
+              "sim"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*barack_obama",
+              "imagem",
+              "president barack obama.jpg"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*barack_obama",
+              "imagemtamanho",
+              "245"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*barack_obama",
+              "preposicao",
+              "dos"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*barack_obama",
+              "mandatofim",
+              "atualidade"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*barack_obama",
+              "antestitulo",
+              "peter fitzgerald"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*barack_obama",
+              "depoistitulo",
+              "kwame raoul"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*barack_obama",
+              "filhos",
+              "malia ann obama"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*barack_obama",
+              "filhos",
+              "natasha obama"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*barack_obama",
+              "wikiquote",
+              "barack obama"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*barack_obama",
+              "commons",
+              "barack obama"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*barack_obama",
+              "antes",
+              "george_w._bush"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*barack_obama",
+              "titulo",
+              "30"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "barack_obama"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "barack_obama": {
+                  "keyword": {
+                    "termo": "barack_obama",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "barack_obama",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 9228660200,
+      "total_time": 19691408200
+    }
+  }
+]

@@ -1,0 +1,1920 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Arnold_Schwarzenegger",
+          "palavra_canonica": "Arnold_Schwarzenegger",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "frequentou",
+          "palavra_canonica": "frequentar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "uma",
+          "palavra_canonica": "um",
+          "tags": [
+            "<arti>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "universidade",
+          "palavra_canonica": "universidade",
+          "tags": [
+            "<inst>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Arnold_Schwarzenegger",
+          "palavra_canonica": "Arnold_Schwarzenegger",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "frequentou",
+          "palavra_canonica": "frequentar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "frequent",
+                "sinonimo": "visitar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "frequent",
+                "sinonimo": "freqüentar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "frequent",
+                "sinonimo": "frequentar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "frequent",
+                "sinonimo": "haunt",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "frequent",
+                "sinonimo": "frequent",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "uma",
+          "palavra_canonica": "um",
+          "tags": [
+            "<arti>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "universidade",
+          "palavra_canonica": "universidade",
+          "tags": [
+            "<inst>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "college",
+                "sinonimo": "instituto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "university",
+                "sinonimo": "universidade",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "college",
+                "sinonimo": "faculdade",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "college",
+                "sinonimo": "escola",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "college",
+                "sinonimo": "IES",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "college",
+                "sinonimo": "Faculdade",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "college",
+                "sinonimo": "instituição_de_ensino_superior",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "college",
+                "sinonimo": "college",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "university",
+                "sinonimo": "university",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "desconhecido",
+        "confianca": 1,
+        "ids": []
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 2,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Arnold_Schwarzenegger",
+          "palavra_canonica": "Arnold_Schwarzenegger",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "frequentou",
+          "palavra_canonica": "frequentar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "frequent",
+                "sinonimo": "visitar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "frequent",
+                "sinonimo": "freqüentar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "frequent",
+                "sinonimo": "frequentar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "frequent",
+                "sinonimo": "haunt",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "frequent",
+                "sinonimo": "frequent",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "universidade",
+          "palavra_canonica": "universidade",
+          "tags": [
+            "<inst>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "college",
+                "sinonimo": "instituto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "university",
+                "sinonimo": "universidade",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "college",
+                "sinonimo": "faculdade",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "college",
+                "sinonimo": "escola",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "college",
+                "sinonimo": "IES",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "college",
+                "sinonimo": "Faculdade",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "college",
+                "sinonimo": "instituição_de_ensino_superior",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "college",
+                "sinonimo": "college",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "university",
+                "sinonimo": "university",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*arnold_schwarzenegger",
+              "almamater",
+              "*universidade de wisconsin-superior"
+            ]
+          ],
+          "score": 12.9205675,
+          "detail": {
+            "keywords": [
+              "universidade",
+              "arnold_schwarzenegger"
+            ],
+            "score_detail": {
+              "m1": 11.253901,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "universidade": {
+                  "keyword": {
+                    "termo": "universidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "universidade de wisconsin-superior",
+                  "score": 1.2539002
+                },
+                "arnold_schwarzenegger": {
+                  "keyword": {
+                    "termo": "arnold_schwarzenegger",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "arnold_schwarzenegger",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "arnold_schwarzenegger": "-1",
+              "universidade": "-19"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*arnold_schwarzenegger",
+              "almamater",
+              "*universidade de wisconsin-superior"
+            ],
+            [
+              "*true_lies",
+              "starring",
+              "*arnold_schwarzenegger"
+            ]
+          ],
+          "score": 12.587234,
+          "detail": {
+            "keywords": [
+              "universidade",
+              "arnold_schwarzenegger"
+            ],
+            "score_detail": {
+              "m1": 11.253901,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "universidade": {
+                  "keyword": {
+                    "termo": "universidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "universidade de wisconsin-superior",
+                  "score": 1.2539002
+                },
+                "arnold_schwarzenegger": {
+                  "keyword": {
+                    "termo": "arnold_schwarzenegger",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "arnold_schwarzenegger",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*arnold_schwarzenegger",
+              "almamater",
+              "*universidade de wisconsin-superior"
+            ],
+            [
+              "*true_lies",
+              "elenco",
+              "*arnold_schwarzenegger"
+            ]
+          ],
+          "score": 12.587234,
+          "detail": {
+            "keywords": [
+              "universidade",
+              "arnold_schwarzenegger"
+            ],
+            "score_detail": {
+              "m1": 11.253901,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "universidade": {
+                  "keyword": {
+                    "termo": "universidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "universidade de wisconsin-superior",
+                  "score": 1.2539002
+                },
+                "arnold_schwarzenegger": {
+                  "keyword": {
+                    "termo": "arnold_schwarzenegger",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "arnold_schwarzenegger",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*arnold_schwarzenegger",
+              "almamater",
+              "*universidade de wisconsin-superior"
+            ],
+            [
+              "*arnold_schwarzenegger",
+              "owl#sameas",
+              "q2685"
+            ]
+          ],
+          "score": 12.587234,
+          "detail": {
+            "keywords": [
+              "universidade",
+              "arnold_schwarzenegger"
+            ],
+            "score_detail": {
+              "m1": 11.253901,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "universidade": {
+                  "keyword": {
+                    "termo": "universidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "universidade de wisconsin-superior",
+                  "score": 1.2539002
+                },
+                "arnold_schwarzenegger": {
+                  "keyword": {
+                    "termo": "arnold_schwarzenegger",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "arnold_schwarzenegger",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*arnold_schwarzenegger",
+              "almamater",
+              "*universidade de wisconsin-superior"
+            ],
+            [
+              "*arnold_schwarzenegger",
+              "owl#sameas",
+              "*arnold_schwarzenegger"
+            ]
+          ],
+          "score": 12.587234,
+          "detail": {
+            "keywords": [
+              "universidade",
+              "arnold_schwarzenegger"
+            ],
+            "score_detail": {
+              "m1": 11.253901,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "universidade": {
+                  "keyword": {
+                    "termo": "universidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "universidade de wisconsin-superior",
+                  "score": 1.2539002
+                },
+                "arnold_schwarzenegger": {
+                  "keyword": {
+                    "termo": "arnold_schwarzenegger",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "arnold_schwarzenegger",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*arnold_schwarzenegger",
+              "almamater",
+              "*universidade de wisconsin-superior"
+            ],
+            [
+              "*arnold_schwarzenegger",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 12.587234,
+          "detail": {
+            "keywords": [
+              "universidade",
+              "arnold_schwarzenegger"
+            ],
+            "score_detail": {
+              "m1": 11.253901,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "universidade": {
+                  "keyword": {
+                    "termo": "universidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "universidade de wisconsin-superior",
+                  "score": 1.2539002
+                },
+                "arnold_schwarzenegger": {
+                  "keyword": {
+                    "termo": "arnold_schwarzenegger",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "arnold_schwarzenegger",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*arnold_schwarzenegger",
+              "almamater",
+              "*universidade de wisconsin-superior"
+            ],
+            [
+              "*arnold_schwarzenegger",
+              "owl#sameas",
+              "arnold_svartsenegger"
+            ]
+          ],
+          "score": 12.587234,
+          "detail": {
+            "keywords": [
+              "universidade",
+              "arnold_schwarzenegger"
+            ],
+            "score_detail": {
+              "m1": 11.253901,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "universidade": {
+                  "keyword": {
+                    "termo": "universidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "universidade de wisconsin-superior",
+                  "score": 1.2539002
+                },
+                "arnold_schwarzenegger": {
+                  "keyword": {
+                    "termo": "arnold_schwarzenegger",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "arnold_schwarzenegger",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*arnold_schwarzenegger",
+              "almamater",
+              "*universidade de wisconsin-superior"
+            ],
+            [
+              "*arnold_schwarzenegger",
+              "owl#sameas",
+              6
+            ]
+          ],
+          "score": 12.587234,
+          "detail": {
+            "keywords": [
+              "universidade",
+              "arnold_schwarzenegger"
+            ],
+            "score_detail": {
+              "m1": 11.253901,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "universidade": {
+                  "keyword": {
+                    "termo": "universidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "universidade de wisconsin-superior",
+                  "score": 1.2539002
+                },
+                "arnold_schwarzenegger": {
+                  "keyword": {
+                    "termo": "arnold_schwarzenegger",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "arnold_schwarzenegger",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*arnold_schwarzenegger",
+              "almamater",
+              "*universidade de wisconsin-superior"
+            ],
+            [
+              "*arnold_schwarzenegger",
+              "owl#sameas",
+              ",_"
+            ]
+          ],
+          "score": 12.587234,
+          "detail": {
+            "keywords": [
+              "universidade",
+              "arnold_schwarzenegger"
+            ],
+            "score_detail": {
+              "m1": 11.253901,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "universidade": {
+                  "keyword": {
+                    "termo": "universidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "universidade de wisconsin-superior",
+                  "score": 1.2539002
+                },
+                "arnold_schwarzenegger": {
+                  "keyword": {
+                    "termo": "arnold_schwarzenegger",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "arnold_schwarzenegger",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*arnold_schwarzenegger",
+              "almamater",
+              "*universidade de wisconsin-superior"
+            ],
+            [
+              "*arnold_schwarzenegger",
+              "owl#sameas",
+              "arnoldus_schwarzenegger"
+            ]
+          ],
+          "score": 12.587234,
+          "detail": {
+            "keywords": [
+              "universidade",
+              "arnold_schwarzenegger"
+            ],
+            "score_detail": {
+              "m1": 11.253901,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "universidade": {
+                  "keyword": {
+                    "termo": "universidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "universidade de wisconsin-superior",
+                  "score": 1.2539002
+                },
+                "arnold_schwarzenegger": {
+                  "keyword": {
+                    "termo": "arnold_schwarzenegger",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "arnold_schwarzenegger",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*arnold_schwarzenegger",
+              "almamater",
+              "*universidade de wisconsin-superior"
+            ],
+            [
+              "*arnold_schwarzenegger",
+              "owl#sameas",
+              "arnolds_svarcenegers"
+            ]
+          ],
+          "score": 12.587234,
+          "detail": {
+            "keywords": [
+              "universidade",
+              "arnold_schwarzenegger"
+            ],
+            "score_detail": {
+              "m1": 11.253901,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "universidade": {
+                  "keyword": {
+                    "termo": "universidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "universidade de wisconsin-superior",
+                  "score": 1.2539002
+                },
+                "arnold_schwarzenegger": {
+                  "keyword": {
+                    "termo": "arnold_schwarzenegger",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "arnold_schwarzenegger",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*arnold_schwarzenegger",
+              "almamater",
+              "*universidade de wisconsin-superior"
+            ],
+            [
+              "*arnold_schwarzenegger",
+              "imagem",
+              "*arnold_schwarzenegger_february_2015.jpg"
+            ]
+          ],
+          "score": 12.587234,
+          "detail": {
+            "keywords": [
+              "universidade",
+              "arnold_schwarzenegger"
+            ],
+            "score_detail": {
+              "m1": 11.253901,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "universidade": {
+                  "keyword": {
+                    "termo": "universidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "universidade de wisconsin-superior",
+                  "score": 1.2539002
+                },
+                "arnold_schwarzenegger": {
+                  "keyword": {
+                    "termo": "arnold_schwarzenegger",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "arnold_schwarzenegger",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*arnold_schwarzenegger",
+              "almamater",
+              "*universidade de wisconsin-superior"
+            ],
+            [
+              "*arnold_schwarzenegger",
+              "mandato",
+              "17"
+            ]
+          ],
+          "score": 12.587234,
+          "detail": {
+            "keywords": [
+              "universidade",
+              "arnold_schwarzenegger"
+            ],
+            "score_detail": {
+              "m1": 11.253901,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "universidade": {
+                  "keyword": {
+                    "termo": "universidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "universidade de wisconsin-superior",
+                  "score": 1.2539002
+                },
+                "arnold_schwarzenegger": {
+                  "keyword": {
+                    "termo": "arnold_schwarzenegger",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "arnold_schwarzenegger",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*arnold_schwarzenegger",
+              "almamater",
+              "*universidade de wisconsin-superior"
+            ],
+            [
+              "*arnold_schwarzenegger",
+              "mandato",
+              "ate 3 de janeiro de 2011"
+            ]
+          ],
+          "score": 12.587234,
+          "detail": {
+            "keywords": [
+              "universidade",
+              "arnold_schwarzenegger"
+            ],
+            "score_detail": {
+              "m1": 11.253901,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "universidade": {
+                  "keyword": {
+                    "termo": "universidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "universidade de wisconsin-superior",
+                  "score": 1.2539002
+                },
+                "arnold_schwarzenegger": {
+                  "keyword": {
+                    "termo": "arnold_schwarzenegger",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "arnold_schwarzenegger",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*arnold_schwarzenegger",
+              "almamater",
+              "*universidade de wisconsin-superior"
+            ],
+            [
+              "*arnold_schwarzenegger",
+              "vicetitulo",
+              "presidente"
+            ]
+          ],
+          "score": 12.587234,
+          "detail": {
+            "keywords": [
+              "universidade",
+              "arnold_schwarzenegger"
+            ],
+            "score_detail": {
+              "m1": 11.253901,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "universidade": {
+                  "keyword": {
+                    "termo": "universidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "universidade de wisconsin-superior",
+                  "score": 1.2539002
+                },
+                "arnold_schwarzenegger": {
+                  "keyword": {
+                    "termo": "arnold_schwarzenegger",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "arnold_schwarzenegger",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*arnold_schwarzenegger",
+              "almamater",
+              "*universidade de wisconsin-superior"
+            ],
+            [
+              "*arnold_schwarzenegger",
+              "mandato",
+              "1990"
+            ]
+          ],
+          "score": 12.587234,
+          "detail": {
+            "keywords": [
+              "universidade",
+              "arnold_schwarzenegger"
+            ],
+            "score_detail": {
+              "m1": 11.253901,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "universidade": {
+                  "keyword": {
+                    "termo": "universidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "universidade de wisconsin-superior",
+                  "score": 1.2539002
+                },
+                "arnold_schwarzenegger": {
+                  "keyword": {
+                    "termo": "arnold_schwarzenegger",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "arnold_schwarzenegger",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*arnold_schwarzenegger",
+              "almamater",
+              "*universidade de wisconsin-superior"
+            ],
+            [
+              "*arnold_schwarzenegger",
+              "anosdeservico",
+              "3.15576e7"
+            ]
+          ],
+          "score": 12.587234,
+          "detail": {
+            "keywords": [
+              "universidade",
+              "arnold_schwarzenegger"
+            ],
+            "score_detail": {
+              "m1": 11.253901,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "universidade": {
+                  "keyword": {
+                    "termo": "universidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "universidade de wisconsin-superior",
+                  "score": 1.2539002
+                },
+                "arnold_schwarzenegger": {
+                  "keyword": {
+                    "termo": "arnold_schwarzenegger",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "arnold_schwarzenegger",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*arnold_schwarzenegger",
+              "almamater",
+              "*universidade de wisconsin-superior"
+            ],
+            [
+              "*arnold_schwarzenegger",
+              "assinatura",
+              "arnold schwarzenegger signature.svg"
+            ]
+          ],
+          "score": 12.587234,
+          "detail": {
+            "keywords": [
+              "universidade",
+              "arnold_schwarzenegger"
+            ],
+            "score_detail": {
+              "m1": 11.253901,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "universidade": {
+                  "keyword": {
+                    "termo": "universidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "universidade de wisconsin-superior",
+                  "score": 1.2539002
+                },
+                "arnold_schwarzenegger": {
+                  "keyword": {
+                    "termo": "arnold_schwarzenegger",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "arnold_schwarzenegger",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*arnold_schwarzenegger",
+              "almamater",
+              "*universidade de wisconsin-superior"
+            ],
+            [
+              "*arnold_schwarzenegger",
+              "altura",
+              "2.2"
+            ]
+          ],
+          "score": 12.587234,
+          "detail": {
+            "keywords": [
+              "universidade",
+              "arnold_schwarzenegger"
+            ],
+            "score_detail": {
+              "m1": 11.253901,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "universidade": {
+                  "keyword": {
+                    "termo": "universidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "universidade de wisconsin-superior",
+                  "score": 1.2539002
+                },
+                "arnold_schwarzenegger": {
+                  "keyword": {
+                    "termo": "arnold_schwarzenegger",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "arnold_schwarzenegger",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*arnold_schwarzenegger",
+              "almamater",
+              "*universidade de wisconsin-superior"
+            ],
+            [
+              "*arnold_schwarzenegger",
+              "homepage",
+              6
+            ]
+          ],
+          "score": 12.587234,
+          "detail": {
+            "keywords": [
+              "universidade",
+              "arnold_schwarzenegger"
+            ],
+            "score_detail": {
+              "m1": 11.253901,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "universidade": {
+                  "keyword": {
+                    "termo": "universidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "universidade de wisconsin-superior",
+                  "score": 1.2539002
+                },
+                "arnold_schwarzenegger": {
+                  "keyword": {
+                    "termo": "arnold_schwarzenegger",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "arnold_schwarzenegger",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*arnold_schwarzenegger",
+              "almamater",
+              "*universidade de wisconsin-superior"
+            ],
+            [
+              "*arnold_schwarzenegger",
+              "homepage",
+              "schwarzenegger.com"
+            ]
+          ],
+          "score": 12.587234,
+          "detail": {
+            "keywords": [
+              "universidade",
+              "arnold_schwarzenegger"
+            ],
+            "score_detail": {
+              "m1": 11.253901,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "universidade": {
+                  "keyword": {
+                    "termo": "universidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "universidade de wisconsin-superior",
+                  "score": 1.2539002
+                },
+                "arnold_schwarzenegger": {
+                  "keyword": {
+                    "termo": "arnold_schwarzenegger",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "arnold_schwarzenegger",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*arnold_schwarzenegger",
+              "almamater",
+              "*universidade de wisconsin-superior"
+            ],
+            [
+              "*arnold_schwarzenegger",
+              "peso",
+              "190.0"
+            ]
+          ],
+          "score": 12.587234,
+          "detail": {
+            "keywords": [
+              "universidade",
+              "arnold_schwarzenegger"
+            ],
+            "score_detail": {
+              "m1": 11.253901,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "universidade": {
+                  "keyword": {
+                    "termo": "universidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "universidade de wisconsin-superior",
+                  "score": 1.2539002
+                },
+                "arnold_schwarzenegger": {
+                  "keyword": {
+                    "termo": "arnold_schwarzenegger",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "arnold_schwarzenegger",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*arnold_schwarzenegger",
+              "almamater",
+              "*universidade de wisconsin-superior"
+            ],
+            [
+              "*arnold_schwarzenegger",
+              "imagem",
+              "arnold schwarzenegger 2012.jpg"
+            ]
+          ],
+          "score": 12.587234,
+          "detail": {
+            "keywords": [
+              "universidade",
+              "arnold_schwarzenegger"
+            ],
+            "score_detail": {
+              "m1": 11.253901,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "universidade": {
+                  "keyword": {
+                    "termo": "universidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "universidade de wisconsin-superior",
+                  "score": 1.2539002
+                },
+                "arnold_schwarzenegger": {
+                  "keyword": {
+                    "termo": "arnold_schwarzenegger",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "arnold_schwarzenegger",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*arnold_schwarzenegger",
+              "almamater",
+              "*universidade de wisconsin-superior"
+            ],
+            [
+              "*arnold_schwarzenegger",
+              "altura",
+              "1.88"
+            ]
+          ],
+          "score": 12.587234,
+          "detail": {
+            "keywords": [
+              "universidade",
+              "arnold_schwarzenegger"
+            ],
+            "score_detail": {
+              "m1": 11.253901,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "universidade": {
+                  "keyword": {
+                    "termo": "universidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "universidade de wisconsin-superior",
+                  "score": 1.2539002
+                },
+                "arnold_schwarzenegger": {
+                  "keyword": {
+                    "termo": "arnold_schwarzenegger",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "arnold_schwarzenegger",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*arnold_schwarzenegger",
+              "almamater",
+              "*universidade de wisconsin-superior"
+            ],
+            [
+              "*arnold_schwarzenegger",
+              "peso",
+              "150.0"
+            ]
+          ],
+          "score": 12.587234,
+          "detail": {
+            "keywords": [
+              "universidade",
+              "arnold_schwarzenegger"
+            ],
+            "score_detail": {
+              "m1": 11.253901,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "universidade": {
+                  "keyword": {
+                    "termo": "universidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "universidade de wisconsin-superior",
+                  "score": 1.2539002
+                },
+                "arnold_schwarzenegger": {
+                  "keyword": {
+                    "termo": "arnold_schwarzenegger",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "arnold_schwarzenegger",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*arnold_schwarzenegger",
+              "almamater",
+              "*universidade de wisconsin-superior"
+            ],
+            [
+              "*arnold_schwarzenegger",
+              "commons",
+              "arnold alois schwarzenegger"
+            ]
+          ],
+          "score": 12.587234,
+          "detail": {
+            "keywords": [
+              "universidade",
+              "arnold_schwarzenegger"
+            ],
+            "score_detail": {
+              "m1": 11.253901,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "universidade": {
+                  "keyword": {
+                    "termo": "universidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "universidade de wisconsin-superior",
+                  "score": 1.2539002
+                },
+                "arnold_schwarzenegger": {
+                  "keyword": {
+                    "termo": "arnold_schwarzenegger",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "arnold_schwarzenegger",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*arnold_schwarzenegger",
+              "almamater",
+              "*universidade de wisconsin-superior"
+            ],
+            [
+              "*arnold_schwarzenegger",
+              "wikiquote",
+              "arnold schwarzenegger"
+            ]
+          ],
+          "score": 12.587234,
+          "detail": {
+            "keywords": [
+              "universidade",
+              "arnold_schwarzenegger"
+            ],
+            "score_detail": {
+              "m1": 11.253901,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "universidade": {
+                  "keyword": {
+                    "termo": "universidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "universidade de wisconsin-superior",
+                  "score": 1.2539002
+                },
+                "arnold_schwarzenegger": {
+                  "keyword": {
+                    "termo": "arnold_schwarzenegger",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "arnold_schwarzenegger",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*arnold_schwarzenegger",
+              "almamater",
+              "*universidade de wisconsin-superior"
+            ],
+            [
+              "*arnold_schwarzenegger",
+              "antes",
+              "gray_davis"
+            ]
+          ],
+          "score": 12.587234,
+          "detail": {
+            "keywords": [
+              "universidade",
+              "arnold_schwarzenegger"
+            ],
+            "score_detail": {
+              "m1": 11.253901,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "universidade": {
+                  "keyword": {
+                    "termo": "universidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "universidade de wisconsin-superior",
+                  "score": 1.2539002
+                },
+                "arnold_schwarzenegger": {
+                  "keyword": {
+                    "termo": "arnold_schwarzenegger",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "arnold_schwarzenegger",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*arnold_schwarzenegger",
+              "almamater",
+              "*universidade de wisconsin-superior"
+            ],
+            [
+              "*arnold_schwarzenegger",
+              "titulo",
+              "governador_da_california"
+            ]
+          ],
+          "score": 12.587234,
+          "detail": {
+            "keywords": [
+              "universidade",
+              "arnold_schwarzenegger"
+            ],
+            "score_detail": {
+              "m1": 11.253901,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "universidade": {
+                  "keyword": {
+                    "termo": "universidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "universidade de wisconsin-superior",
+                  "score": 1.2539002
+                },
+                "arnold_schwarzenegger": {
+                  "keyword": {
+                    "termo": "arnold_schwarzenegger",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "arnold_schwarzenegger",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*arnold_schwarzenegger",
+              "almamater",
+              "*universidade de wisconsin-superior"
+            ],
+            [
+              "*arnold_schwarzenegger",
+              "anos",
+              "2003"
+            ]
+          ],
+          "score": 12.587234,
+          "detail": {
+            "keywords": [
+              "universidade",
+              "arnold_schwarzenegger"
+            ],
+            "score_detail": {
+              "m1": 11.253901,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "universidade": {
+                  "keyword": {
+                    "termo": "universidade",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "universidade de wisconsin-superior",
+                  "score": 1.2539002
+                },
+                "arnold_schwarzenegger": {
+                  "keyword": {
+                    "termo": "arnold_schwarzenegger",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "arnold_schwarzenegger",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 1608168300,
+      "total_time": 11155761600
+    }
+  }
+]

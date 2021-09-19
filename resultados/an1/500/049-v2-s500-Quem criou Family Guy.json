@@ -1,0 +1,1559 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:spec",
+          "palavra_original": "Quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "criou",
+          "palavra_canonica": "criar",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:prop",
+          "palavra_original": "Family_Guy",
+          "palavra_canonica": "Family_Guy",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:spec",
+          "palavra_original": "Quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "criou",
+          "palavra_canonica": "criar",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "make",
+                "sinonimo": "realizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "make",
+                "sinonimo": "causar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "breed",
+                "sinonimo": "criar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "fazer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "breed",
+                "sinonimo": "reproduzir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "create",
+                "sinonimo": "instituir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "produzir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "construir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "make",
+                "sinonimo": "provocar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "desenvolver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "produce",
+                "sinonimo": "make",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "foster",
+                "sinonimo": "foster",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "parent",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "make",
+                "sinonimo": "create",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "bring_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "develop",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "raise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "rear",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "breed",
+                "sinonimo": "breed",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "nurture",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "produce",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:prop",
+          "palavra_original": "Family_Guy",
+          "palavra_canonica": "Family_Guy",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "quem",
+        "confianca": 0.93,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "criou",
+          "palavra_canonica": "criar",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "make",
+                "sinonimo": "realizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "make",
+                "sinonimo": "causar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "breed",
+                "sinonimo": "criar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "fazer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "breed",
+                "sinonimo": "reproduzir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "create",
+                "sinonimo": "instituir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "produzir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "construir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "make",
+                "sinonimo": "provocar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "desenvolver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "produce",
+                "sinonimo": "make",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "foster",
+                "sinonimo": "foster",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "parent",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "make",
+                "sinonimo": "create",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "bring_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "develop",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "raise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "rear",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "breed",
+                "sinonimo": "breed",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "nurture",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "produce",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:prop",
+          "palavra_original": "Family_Guy",
+          "palavra_canonica": "Family_Guy",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "*family_guy",
+              "*criador",
+              "seth_macfarlane"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "criador",
+              "family_guy"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "family_guy": {
+                  "keyword": {
+                    "termo": "family_guy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "family_guy",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "family_guy": "-13",
+              "criador": "-48"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*family_guy",
+              "*criador",
+              "seth_macfarlane"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "criador",
+              "family_guy"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "family_guy": {
+                  "keyword": {
+                    "termo": "family_guy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "family_guy",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "family_guy": "-13",
+              "criador": "-48"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*family_guy",
+              "owl#sameas",
+              "q5930"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "family_guy"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "family_guy": {
+                  "keyword": {
+                    "termo": "family_guy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "family_guy",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*family_guy",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "family_guy"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "family_guy": {
+                  "keyword": {
+                    "termo": "family_guy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "family_guy",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*family_guy",
+              "owl#sameas",
+              "qriffinlr"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "family_guy"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "family_guy": {
+                  "keyword": {
+                    "termo": "family_guy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "family_guy",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*family_guy",
+              "owl#sameas",
+              "*family_guy"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "family_guy"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "family_guy": {
+                  "keyword": {
+                    "termo": "family_guy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "family_guy",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*family_guy",
+              "owl#sameas",
+              "griffinovi"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "family_guy"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "family_guy": {
+                  "keyword": {
+                    "termo": "family_guy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "family_guy",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*family_guy",
+              "owl#sameas",
+              "padre_de_familia"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "family_guy"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "family_guy": {
+                  "keyword": {
+                    "termo": "family_guy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "family_guy",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*family_guy",
+              "owl#sameas",
+              "perepea"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "family_guy"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "family_guy": {
+                  "keyword": {
+                    "termo": "family_guy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "family_guy",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*family_guy",
+              "owl#sameas",
+              "familjan_griffin"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "family_guy"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "family_guy": {
+                  "keyword": {
+                    "termo": "family_guy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "family_guy",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*family_guy",
+              "owl#sameas",
+              "les_griffin"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "family_guy"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "family_guy": {
+                  "keyword": {
+                    "termo": "family_guy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "family_guy",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*family_guy",
+              "owl#sameas",
+              "i_griffin"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "family_guy"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "family_guy": {
+                  "keyword": {
+                    "termo": "family_guy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "family_guy",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*family_guy",
+              "owl#sameas",
+              23
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "family_guy"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "family_guy": {
+                  "keyword": {
+                    "termo": "family_guy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "family_guy",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*family_guy",
+              "owl#sameas",
+              "seimos_bicas"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "family_guy"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "family_guy": {
+                  "keyword": {
+                    "termo": "family_guy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "family_guy",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*family_guy",
+              "owl#sameas",
+              "mana_traka_gimene"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "family_guy"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "family_guy": {
+                  "keyword": {
+                    "termo": "family_guy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "family_guy",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*family_guy",
+              "owl#sameas",
+              "familien_griffin"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "family_guy"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "family_guy": {
+                  "keyword": {
+                    "termo": "family_guy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "family_guy",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*family_guy",
+              "owl#sameas",
+              "familia_mea_dementa"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "family_guy"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "family_guy": {
+                  "keyword": {
+                    "termo": "family_guy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "family_guy",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*family_guy",
+              "owl#sameas",
+              "griffinovci"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "family_guy"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "family_guy": {
+                  "keyword": {
+                    "termo": "family_guy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "family_guy",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*family_guy",
+              "titulo",
+              "family guy"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "family_guy"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "family_guy": {
+                  "keyword": {
+                    "termo": "family_guy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "family_guy",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*family_guy",
+              "titulopt",
+              "family guy"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "family_guy"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "family_guy": {
+                  "keyword": {
+                    "termo": "family_guy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "family_guy",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*family_guy",
+              "titulobr",
+              "uma familia da pesada"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "family_guy"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "family_guy": {
+                  "keyword": {
+                    "termo": "family_guy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "family_guy",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*family_guy",
+              "formato",
+              "animacao"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "family_guy"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "family_guy": {
+                  "keyword": {
+                    "termo": "family_guy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "family_guy",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*family_guy",
+              "genero",
+              "sitcom, animacao, humor negro, humor surreal"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "family_guy"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "family_guy": {
+                  "keyword": {
+                    "termo": "family_guy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "family_guy",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*family_guy",
+              "duracao",
+              "-1440.0"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "family_guy"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "family_guy": {
+                  "keyword": {
+                    "termo": "family_guy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "family_guy",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*family_guy",
+              "idioma",
+              "lingua_inglesa"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "family_guy"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "family_guy": {
+                  "keyword": {
+                    "termo": "family_guy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "family_guy",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*family_guy",
+              "elenco",
+              "seth macfarlane"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "family_guy"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "family_guy": {
+                  "keyword": {
+                    "termo": "family_guy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "family_guy",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*family_guy",
+              "elenco",
+              "alex_borstein"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "family_guy"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "family_guy": {
+                  "keyword": {
+                    "termo": "family_guy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "family_guy",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*family_guy",
+              "elenco",
+              "seth_green"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "family_guy"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "family_guy": {
+                  "keyword": {
+                    "termo": "family_guy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "family_guy",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*family_guy",
+              "elenco",
+              "mila_kunis"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "family_guy"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "family_guy": {
+                  "keyword": {
+                    "termo": "family_guy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "family_guy",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*family_guy",
+              "elenco",
+              "mike_henry_(dublador)"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "family_guy"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "family_guy": {
+                  "keyword": {
+                    "termo": "family_guy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "family_guy",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*family_guy",
+              "emissoraorig",
+              "fox"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "family_guy"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "family_guy": {
+                  "keyword": {
+                    "termo": "family_guy",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "family_guy",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 875146900,
+      "total_time": 6910471300
+    }
+  }
+]

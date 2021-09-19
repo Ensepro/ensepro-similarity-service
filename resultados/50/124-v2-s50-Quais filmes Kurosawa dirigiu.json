@@ -1,0 +1,2013 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "Quais",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "filmes",
+          "palavra_canonica": "filme",
+          "tags": [
+            "<sem-w>",
+            "<cc>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "Kurosawa",
+          "palavra_canonica": "Kurosawa",
+          "tags": [
+            "<tit>",
+            "<*>",
+            "<np-close>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "dirigiu",
+          "palavra_canonica": "dirigir",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 3,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "Od:pron-rel",
+          "palavra_original": "Quais",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<clb>",
+            "<clb-fs>",
+            "<*>",
+            "<rel>",
+            "DET",
+            "M/F",
+            "P"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Kurosawa",
+          "palavra_canonica": "Kurosawa",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "dirigiu",
+          "palavra_canonica": "dirigir",
+          "tags": [
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "head",
+                "sinonimo": "encabeçar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "canalizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "apontar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "esterçar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "direct",
+                "sinonimo": "conduzir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "dominate",
+                "sinonimo": "reger",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "dominate",
+                "sinonimo": "dominar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "direct",
+                "sinonimo": "gerir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "lidar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "address",
+                "sinonimo": "dirigir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "liderar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "guiar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "direcionar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "govern",
+                "sinonimo": "governar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "comandar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "steer",
+                "sinonimo": "manoeuver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "address",
+                "sinonimo": "turn_to",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "direct",
+                "sinonimo": "direct",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "steer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "govern",
+                "sinonimo": "govern",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "deal",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "guide",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "aim",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "drive",
+                "sinonimo": "drive",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "lead",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "dominate",
+                "sinonimo": "dominate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "dominate",
+                "sinonimo": "master",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "place",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "channelize",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "point",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "target",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "head",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "maneuver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "manoeuvre",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "handle",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "address",
+                "sinonimo": "address",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "manage",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "care",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "channelise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "qual",
+        "confianca": 0.67,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 3,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Kurosawa",
+          "palavra_canonica": "Kurosawa",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "dirigiu",
+          "palavra_canonica": "dirigir",
+          "tags": [
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "head",
+                "sinonimo": "encabeçar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "canalizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "apontar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "esterçar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "direct",
+                "sinonimo": "conduzir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "dominate",
+                "sinonimo": "reger",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "dominate",
+                "sinonimo": "dominar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "direct",
+                "sinonimo": "gerir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "lidar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "address",
+                "sinonimo": "dirigir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "liderar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "guiar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "direcionar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "govern",
+                "sinonimo": "governar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "comandar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "steer",
+                "sinonimo": "manoeuver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "address",
+                "sinonimo": "turn_to",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "direct",
+                "sinonimo": "direct",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "steer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "govern",
+                "sinonimo": "govern",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "deal",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "guide",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "aim",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "drive",
+                "sinonimo": "drive",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "lead",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "dominate",
+                "sinonimo": "dominate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "dominate",
+                "sinonimo": "master",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "place",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "channelize",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "point",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "target",
+                "sinonimo": "target",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "head",
+                "sinonimo": "head",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "maneuver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "manoeuvre",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "handle",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "address",
+                "sinonimo": "address",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "manage",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "manage",
+                "sinonimo": "care",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "steer",
+                "sinonimo": "channelise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "waga_seishun_ni_kuinashi",
+              "*direcao",
+              "*akira kurosawa"
+            ]
+          ],
+          "score": 12.78705,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 11.120383,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "akira kurosawa",
+                  "score": 9.120383
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "direcao": "-184",
+              "kurosawa": "-22"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "subarashiki_nichiyobi",
+              "*direcao",
+              "*akira kurosawa"
+            ]
+          ],
+          "score": 12.78705,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 11.120383,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "akira kurosawa",
+                  "score": 9.120383
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "direcao": "-184",
+              "kurosawa": "-22"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "kumonosu_jo",
+              "*direcao",
+              "*akira kurosawa"
+            ]
+          ],
+          "score": 12.78705,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 11.120383,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "akira kurosawa",
+                  "score": 9.120383
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "direcao": "-184",
+              "kurosawa": "-22"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "rashomon",
+              "*direcao",
+              "*akira kurosawa"
+            ]
+          ],
+          "score": 12.78705,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 11.120383,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "akira kurosawa",
+                  "score": 9.120383
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "direcao": "-184",
+              "kurosawa": "-22"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "waga_seishun_ni_kuinashi",
+              "*direcao",
+              "*akira kurosawa"
+            ]
+          ],
+          "score": 12.78705,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 11.120383,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "akira kurosawa",
+                  "score": 9.120383
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "direcao": "-184",
+              "kurosawa": "-22"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "subarashiki_nichiyobi",
+              "*direcao",
+              "*akira kurosawa"
+            ]
+          ],
+          "score": 12.78705,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 11.120383,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "akira kurosawa",
+                  "score": 9.120383
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "direcao": "-184",
+              "kurosawa": "-22"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "kumonosu_jo",
+              "*direcao",
+              "*akira kurosawa"
+            ]
+          ],
+          "score": 12.78705,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 11.120383,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "akira kurosawa",
+                  "score": 9.120383
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "direcao": "-184",
+              "kurosawa": "-22"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "rashomon",
+              "*direcao",
+              "*akira kurosawa"
+            ]
+          ],
+          "score": 12.78705,
+          "detail": {
+            "keywords": [
+              "direcao",
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 11.120383,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "direcao": {
+                  "keyword": {
+                    "termo": "direcao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "direcao",
+                  "score": 2.0
+                },
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "akira kurosawa",
+                  "score": 9.120383
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "direcao": "-184",
+              "kurosawa": "-22"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*kurosawa",
+              "owl#sameas",
+              "q351843"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*kurosawa",
+              "owl#sameas",
+              "*kurosawa"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*kurosawa",
+              "owl#sameas",
+              "*kurosawa_(disambiguation)"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*kurosawa",
+              "owl#sameas",
+              "*kurosawa_(homonymie)"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*kurosawa",
+              "owl#sameas",
+              6
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*kurosawa",
+              "wikipageusestemplate",
+              "predefinicao:desambiguacao"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*kurosawa",
+              "subject",
+              "categoria:desambiguacoes_de_antroponimos"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*kurosawa",
+              "wikipagedisambiguates",
+              "*akira_kurosawa"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*kurosawa",
+              "wikipagedisambiguates",
+              "*takuya_kurosawa"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*kurosawa",
+              "wikipagedisambiguates",
+              "*ai_kurosawa"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*kurosawa",
+              "rdf_schema#label",
+              "*kurosawa"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*kurosawa",
+              "owl#sameas",
+              "_()"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*takuya_kurosawa",
+              "surname",
+              "*kurosawa"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*ai_kurosawa",
+              "surname",
+              "*kurosawa"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*akira_kurosawa",
+              "surname",
+              "*kurosawa"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "kurosawa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*ai_kurosawa",
+              "name",
+              "*ai kurosawa"
+            ]
+          ],
+          "score": 10.936022,
+          "detail": {
+            "keywords": [
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 9.602689,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "ai kurosawa",
+                  "score": 9.602689
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*ai_kurosawa",
+              "rdf_schema#label",
+              "*ai kurosawa"
+            ]
+          ],
+          "score": 10.936022,
+          "detail": {
+            "keywords": [
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 9.602689,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "ai kurosawa",
+                  "score": 9.602689
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*ai_kurosawa",
+              "rdf_schema#label",
+              "*ai kurosawa"
+            ]
+          ],
+          "score": 10.936022,
+          "detail": {
+            "keywords": [
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 9.602689,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "ai kurosawa",
+                  "score": 9.602689
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*ai_kurosawa",
+              "abstract",
+              "*ai kurosawa (, kurosawa ai) (nasceu em 24 de dezembro de 1982) e uma modelo japonesa e atriz porno."
+            ]
+          ],
+          "score": 10.936022,
+          "detail": {
+            "keywords": [
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 9.602689,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "ai_kurosawa",
+                  "score": 9.602689
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*ai_kurosawa",
+              "nome",
+              "*ai kurosawa"
+            ]
+          ],
+          "score": 10.936022,
+          "detail": {
+            "keywords": [
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 9.602689,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "ai kurosawa",
+                  "score": 9.602689
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "yojimbo",
+              "roteiro",
+              "*akira kurosawa"
+            ]
+          ],
+          "score": 10.453716,
+          "detail": {
+            "keywords": [
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 9.120383,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "akira kurosawa",
+                  "score": 9.120383
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "donzoko",
+              "roteiro",
+              "*akira kurosawa"
+            ]
+          ],
+          "score": 10.453716,
+          "detail": {
+            "keywords": [
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 9.120383,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "akira kurosawa",
+                  "score": 9.120383
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "ran_(filme)",
+              "roteiro",
+              "*akira kurosawa"
+            ]
+          ],
+          "score": 10.453716,
+          "detail": {
+            "keywords": [
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 9.120383,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "akira kurosawa",
+                  "score": 9.120383
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "ran_(filme)",
+              "edicao",
+              "*akira kurosawa"
+            ]
+          ],
+          "score": 10.453716,
+          "detail": {
+            "keywords": [
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 9.120383,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "akira kurosawa",
+                  "score": 9.120383
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*akira_kurosawa",
+              "legenda",
+              "*akira kurosawa durante a gravacao do filme os sete samurais, em 1953."
+            ]
+          ],
+          "score": 10.453716,
+          "detail": {
+            "keywords": [
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 9.120383,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "akira_kurosawa",
+                  "score": 9.120383
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*akira_kurosawa",
+              "wikiquote",
+              "*akira kurosawa"
+            ]
+          ],
+          "score": 10.453716,
+          "detail": {
+            "keywords": [
+              "kurosawa"
+            ],
+            "score_detail": {
+              "m1": 9.120383,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "kurosawa": {
+                  "keyword": {
+                    "termo": "kurosawa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "akira kurosawa",
+                  "score": 9.120383
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 1100.2202033996582,
+      "l_sizes": [
+        10307
+      ],
+      "total_time": 9393.280506134033
+    }
+  }
+]

@@ -1,0 +1,2322 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Kaurismäki",
+          "palavra_canonica": "Kaurismäki",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:pron-indef",
+          "palavra_original": "alguma",
+          "palavra_canonica": "algum",
+          "tags": [
+            "<quant>",
+            "DET",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "vez",
+          "palavra_canonica": "vez",
+          "tags": [
+            "<temp>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "venceu",
+          "palavra_canonica": "vencer",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Grand_Prix_de_Cannes",
+          "palavra_canonica": "Grand_Prix_de_Cannes",
+          "tags": [
+            "<tit>",
+            "<*>",
+            "<foreign>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Kaurismäki",
+          "palavra_canonica": "Kaurismäki",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:pron-indef",
+          "palavra_original": "alguma",
+          "palavra_canonica": "algum",
+          "tags": [
+            "<quant>",
+            "DET",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "vez",
+          "palavra_canonica": "vez",
+          "tags": [
+            "<temp>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "time",
+                "sinonimo": "vez",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "turn",
+                "sinonimo": "jogo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "occasion",
+                "sinonimo": "chance",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "occasion",
+                "sinonimo": "ocasião",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "go",
+                "sinonimo": "turno",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "go",
+                "sinonimo": "tour",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "go",
+                "sinonimo": "spell",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "time",
+                "sinonimo": "clip",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "turn",
+                "sinonimo": "play",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "go",
+                "sinonimo": "go",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "occasion",
+                "sinonimo": "occasion",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "turn",
+                "sinonimo": "turn",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "time",
+                "sinonimo": "time",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "venceu",
+          "palavra_canonica": "vencer",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "acquire",
+                "sinonimo": "auferir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "overcome",
+                "sinonimo": "subjugar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "outdo",
+                "sinonimo": "superar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "vencer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "overcome",
+                "sinonimo": "ultrapassar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "get_the_better_of",
+                "sinonimo": "derrotar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "ganhar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "obter",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "get_the_better_of",
+                "sinonimo": "superado",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "beat",
+                "sinonimo": "bater",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "atingir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "comprar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "prevail",
+                "sinonimo": "triunfar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "lucrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "adquirir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "receber",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "acquire",
+                "sinonimo": "win",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "acquire",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "beat",
+                "sinonimo": "crush",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "outdo",
+                "sinonimo": "scoop",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "get_the_better_of",
+                "sinonimo": "get_the_better_of",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "gain",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "get_the_best",
+                "sinonimo": "get_the_best",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "outdo",
+                "sinonimo": "best",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "outdo",
+                "sinonimo": "outflank",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "get_the_better_of",
+                "sinonimo": "defeat",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "beat",
+                "sinonimo": "trounce",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "get_the_best",
+                "sinonimo": "have_the_best",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "beat",
+                "sinonimo": "beat_out",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "overcome",
+                "sinonimo": "subdue",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "overcome",
+                "sinonimo": "surmount",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "outdo",
+                "sinonimo": "outdo",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "prevail",
+                "sinonimo": "triumph",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "overcome",
+                "sinonimo": "get_over",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "outdo",
+                "sinonimo": "trump",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "overcome",
+                "sinonimo": "master",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "beat",
+                "sinonimo": "beat",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "get_the_best",
+                "sinonimo": "overcome",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "beat",
+                "sinonimo": "shell",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "prevail",
+                "sinonimo": "prevail",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "beat",
+                "sinonimo": "vanquish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Grand_prix_de_voleibol",
+          "palavra_canonica": "Grand_prix_de_voleibol",
+          "tags": [
+            "<inst>",
+            "<*>",
+            "<heur>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Festival_de_cannes",
+          "palavra_canonica": "Festival_de_cannes",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 13,
+          "tag_inicial": "?",
+          "palavra_original": " ",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "[ [ QUE:fcl|1| [S:prop|2| Kaurismäki] [ S:np|3| [DN:pron-indef|4| alguma] [H:n|5| vez] ] [P:v-fin|6| venceu] [ Od:np|7| [DN:art|8| o] [H:prop|9| Grand_prix_de_voleibol] [ DN:pp|10| [H:prp|11| de] [DP:prop|12| Festival_de_cannes] ] ] [?|13|  ] ] ]",
+      "tipo": {
+        "tipo": "algum",
+        "confianca": 0.89,
+        "ids": [
+          4
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "vez",
+          "palavra_canonica": "vez",
+          "tags": [
+            "<temp>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "time",
+                "sinonimo": "vez",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "turn",
+                "sinonimo": "jogo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "occasion",
+                "sinonimo": "chance",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "occasion",
+                "sinonimo": "ocasião",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "go",
+                "sinonimo": "turno",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "go",
+                "sinonimo": "tour",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "go",
+                "sinonimo": "spell",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "time",
+                "sinonimo": "clip",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "turn",
+                "sinonimo": "play",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "go",
+                "sinonimo": "go",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "occasion",
+                "sinonimo": "occasion",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "turn",
+                "sinonimo": "turn",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "time",
+                "sinonimo": "time",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "venceu",
+          "palavra_canonica": "vencer",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "acquire",
+                "sinonimo": "auferir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "overcome",
+                "sinonimo": "subjugar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "outdo",
+                "sinonimo": "superar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "vencer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "overcome",
+                "sinonimo": "ultrapassar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "get_the_better_of",
+                "sinonimo": "derrotar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "ganhar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "obter",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "get_the_better_of",
+                "sinonimo": "superado",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "beat",
+                "sinonimo": "bater",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "atingir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "comprar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "prevail",
+                "sinonimo": "triunfar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "lucrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "adquirir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "receber",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "acquire",
+                "sinonimo": "win",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "acquire",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "beat",
+                "sinonimo": "crush",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "outdo",
+                "sinonimo": "scoop",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "get_the_better_of",
+                "sinonimo": "get_the_better_of",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "acquire",
+                "sinonimo": "gain",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "get_the_best",
+                "sinonimo": "get_the_best",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "outdo",
+                "sinonimo": "best",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "outdo",
+                "sinonimo": "outflank",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "get_the_better_of",
+                "sinonimo": "defeat",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "beat",
+                "sinonimo": "trounce",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "get_the_best",
+                "sinonimo": "have_the_best",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "beat",
+                "sinonimo": "beat_out",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "overcome",
+                "sinonimo": "subdue",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "overcome",
+                "sinonimo": "surmount",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "outdo",
+                "sinonimo": "outdo",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "prevail",
+                "sinonimo": "triumph",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "overcome",
+                "sinonimo": "get_over",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "outdo",
+                "sinonimo": "trump",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "overcome",
+                "sinonimo": "master",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "beat",
+                "sinonimo": "beat",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "get_the_best",
+                "sinonimo": "overcome",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "beat",
+                "sinonimo": "shell",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "prevail",
+                "sinonimo": "prevail",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "beat",
+                "sinonimo": "vanquish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 9,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Grand_prix_de_voleibol",
+          "palavra_canonica": "Grand_prix_de_voleibol",
+          "tags": [
+            "<inst>",
+            "<*>",
+            "<heur>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 12,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Festival_de_cannes",
+          "palavra_canonica": "Festival_de_cannes",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 9,
+            "tag_inicial": "H:prop",
+            "palavra_original": "Grand_prix_de_voleibol",
+            "palavra_canonica": "Grand_prix_de_voleibol",
+            "tags": [
+              "<inst>",
+              "<*>",
+              "<heur>",
+              "M",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          },
+          "complemento": {
+            "id": 12,
+            "tag_inicial": "DP:prop",
+            "palavra_original": "Festival_de_cannes",
+            "palavra_canonica": "Festival_de_cannes",
+            "tags": [
+              "<hum>",
+              "<*>",
+              "<heur>",
+              "<foreign>",
+              "M/F",
+              "S"
+            ],
+            "nivel": 3,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*festival_de_cannes",
+              "owl#sameas",
+              "__"
+            ],
+            [
+              "*grand_prix_de_voleibol",
+              "owl#sameas",
+              "__"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "festival_de_cannes",
+              "grand_prix_de_voleibol"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "grand_prix_de_voleibol": {
+                  "keyword": {
+                    "termo": "grand_prix_de_voleibol",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "grand_prix_de_voleibol",
+                  "score": 10.0
+                },
+                "festival_de_cannes": {
+                  "keyword": {
+                    "termo": "festival_de_cannes",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "festival_de_cannes",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "festival_de_cannes": "-1",
+              "grand_prix_de_voleibol": "-43"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*festival_de_cannes",
+              "owl#sameas",
+              "_"
+            ],
+            [
+              "*grand_prix_de_voleibol",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "festival_de_cannes",
+              "grand_prix_de_voleibol"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "grand_prix_de_voleibol": {
+                  "keyword": {
+                    "termo": "grand_prix_de_voleibol",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "grand_prix_de_voleibol",
+                  "score": 10.0
+                },
+                "festival_de_cannes": {
+                  "keyword": {
+                    "termo": "festival_de_cannes",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "festival_de_cannes",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "festival_de_cannes": "-1",
+              "grand_prix_de_voleibol": "-43"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*festival_de_cannes",
+              "owl#sameas",
+              "___"
+            ],
+            [
+              "*grand_prix_de_voleibol",
+              "owl#sameas",
+              "___"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "festival_de_cannes",
+              "grand_prix_de_voleibol"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "grand_prix_de_voleibol": {
+                  "keyword": {
+                    "termo": "grand_prix_de_voleibol",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "grand_prix_de_voleibol",
+                  "score": 10.0
+                },
+                "festival_de_cannes": {
+                  "keyword": {
+                    "termo": "festival_de_cannes",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "festival_de_cannes",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "festival_de_cannes": "-1",
+              "grand_prix_de_voleibol": "-43"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*festival_de_cannes",
+              "owl#sameas",
+              28
+            ],
+            [
+              "*grand_prix_de_voleibol",
+              "owl#sameas",
+              28
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "festival_de_cannes",
+              "grand_prix_de_voleibol"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "grand_prix_de_voleibol": {
+                  "keyword": {
+                    "termo": "grand_prix_de_voleibol",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "grand_prix_de_voleibol",
+                  "score": 10.0
+                },
+                "festival_de_cannes": {
+                  "keyword": {
+                    "termo": "festival_de_cannes",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "festival_de_cannes",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "festival_de_cannes": "-1",
+              "grand_prix_de_voleibol": "-43"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*grand_prix_de_voleibol",
+              "owl#sameas",
+              "___"
+            ],
+            [
+              "*festival_de_cannes",
+              "owl#sameas",
+              "___"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "grand_prix_de_voleibol",
+              "festival_de_cannes"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "grand_prix_de_voleibol": {
+                  "keyword": {
+                    "termo": "grand_prix_de_voleibol",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "grand_prix_de_voleibol",
+                  "score": 10.0
+                },
+                "festival_de_cannes": {
+                  "keyword": {
+                    "termo": "festival_de_cannes",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "festival_de_cannes",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*grand_prix_de_voleibol",
+              "owl#sameas",
+              "__"
+            ],
+            [
+              "*festival_de_cannes",
+              "owl#sameas",
+              "__"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "grand_prix_de_voleibol",
+              "festival_de_cannes"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "grand_prix_de_voleibol": {
+                  "keyword": {
+                    "termo": "grand_prix_de_voleibol",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "grand_prix_de_voleibol",
+                  "score": 10.0
+                },
+                "festival_de_cannes": {
+                  "keyword": {
+                    "termo": "festival_de_cannes",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "festival_de_cannes",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*grand_prix_de_voleibol",
+              "owl#sameas",
+              28
+            ],
+            [
+              "*festival_de_cannes",
+              "owl#sameas",
+              28
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "grand_prix_de_voleibol",
+              "festival_de_cannes"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "grand_prix_de_voleibol": {
+                  "keyword": {
+                    "termo": "grand_prix_de_voleibol",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "grand_prix_de_voleibol",
+                  "score": 10.0
+                },
+                "festival_de_cannes": {
+                  "keyword": {
+                    "termo": "festival_de_cannes",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "festival_de_cannes",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*grand_prix_de_voleibol",
+              "owl#sameas",
+              "_"
+            ],
+            [
+              "*festival_de_cannes",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "grand_prix_de_voleibol",
+              "festival_de_cannes"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "grand_prix_de_voleibol": {
+                  "keyword": {
+                    "termo": "grand_prix_de_voleibol",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "grand_prix_de_voleibol",
+                  "score": 10.0
+                },
+                "festival_de_cannes": {
+                  "keyword": {
+                    "termo": "festival_de_cannes",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "festival_de_cannes",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*festival_de_cannes",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ],
+            [
+              "*grand_prix_de_voleibol",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "festival_de_cannes",
+              "grand_prix_de_voleibol"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "grand_prix_de_voleibol": {
+                  "keyword": {
+                    "termo": "grand_prix_de_voleibol",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "grand_prix_de_voleibol",
+                  "score": 10.0
+                },
+                "festival_de_cannes": {
+                  "keyword": {
+                    "termo": "festival_de_cannes",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "festival_de_cannes",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 8,
+          "bind_control": {
+            "binds": {
+              "festival_de_cannes": "-1",
+              "grand_prix_de_voleibol": "-43"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*grand_prix_de_voleibol",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ],
+            [
+              "*festival_de_cannes",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "grand_prix_de_voleibol",
+              "festival_de_cannes"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "grand_prix_de_voleibol": {
+                  "keyword": {
+                    "termo": "grand_prix_de_voleibol",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "grand_prix_de_voleibol",
+                  "score": 10.0
+                },
+                "festival_de_cannes": {
+                  "keyword": {
+                    "termo": "festival_de_cannes",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "festival_de_cannes",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*festival_de_cannes",
+              "owl#sameas",
+              "q42369"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "festival_de_cannes"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "festival_de_cannes": {
+                  "keyword": {
+                    "termo": "festival_de_cannes",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "festival_de_cannes",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*festival_de_cannes",
+              "owl#sameas",
+              "cannes_rolprentfees"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "festival_de_cannes"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "festival_de_cannes": {
+                  "keyword": {
+                    "termo": "festival_de_cannes",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "festival_de_cannes",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*festival_de_cannes",
+              "owl#sameas",
+              "__"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "festival_de_cannes"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "festival_de_cannes": {
+                  "keyword": {
+                    "termo": "festival_de_cannes",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "festival_de_cannes",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*festival_de_cannes",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "festival_de_cannes"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "festival_de_cannes": {
+                  "keyword": {
+                    "termo": "festival_de_cannes",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "festival_de_cannes",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*festival_de_cannes",
+              "owl#sameas",
+              "kann_kinofestival"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "festival_de_cannes"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "festival_de_cannes": {
+                  "keyword": {
+                    "termo": "festival_de_cannes",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "festival_de_cannes",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*festival_de_cannes",
+              "owl#sameas",
+              "_()"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "festival_de_cannes"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "festival_de_cannes": {
+                  "keyword": {
+                    "termo": "festival_de_cannes",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "festival_de_cannes",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*festival_de_cannes",
+              "owl#sameas",
+              "kanski_filmski_festival"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "festival_de_cannes"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "festival_de_cannes": {
+                  "keyword": {
+                    "termo": "festival_de_cannes",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "festival_de_cannes",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*festival_de_cannes",
+              "owl#sameas",
+              "festival_internacional_de_cinema_de_canes"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "festival_de_cannes"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "festival_de_cannes": {
+                  "keyword": {
+                    "termo": "festival_de_cannes",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "festival_de_cannes",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*festival_de_cannes",
+              "owl#sameas",
+              "cannes_film_festival"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "festival_de_cannes"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "festival_de_cannes": {
+                  "keyword": {
+                    "termo": "festival_de_cannes",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "festival_de_cannes",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*festival_de_cannes",
+              "owl#sameas",
+              "filmovy_festival_v_cannes"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "festival_de_cannes"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "festival_de_cannes": {
+                  "keyword": {
+                    "termo": "festival_de_cannes",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "festival_de_cannes",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*festival_de_cannes",
+              "owl#sameas",
+              "gwyl_ffilm_cannes"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "festival_de_cannes"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "festival_de_cannes": {
+                  "keyword": {
+                    "termo": "festival_de_cannes",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "festival_de_cannes",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*festival_de_cannes",
+              "owl#sameas",
+              "filmfestivalen_i_cannes"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "festival_de_cannes"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "festival_de_cannes": {
+                  "keyword": {
+                    "termo": "festival_de_cannes",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "festival_de_cannes",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*festival_de_cannes",
+              "owl#sameas",
+              "internationale_filmfestspiele_von_cannes"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "festival_de_cannes"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "festival_de_cannes": {
+                  "keyword": {
+                    "termo": "festival_de_cannes",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "festival_de_cannes",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*festival_de_cannes",
+              "owl#sameas",
+              "___"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "festival_de_cannes"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "festival_de_cannes": {
+                  "keyword": {
+                    "termo": "festival_de_cannes",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "festival_de_cannes",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*festival_de_cannes",
+              "owl#sameas",
+              "festivalo_de_cannes"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "festival_de_cannes"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "festival_de_cannes": {
+                  "keyword": {
+                    "termo": "festival_de_cannes",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "festival_de_cannes",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*festival_de_cannes",
+              "owl#sameas",
+              "*festival_de_cannes"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "festival_de_cannes"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "festival_de_cannes": {
+                  "keyword": {
+                    "termo": "festival_de_cannes",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "festival_de_cannes",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*festival_de_cannes",
+              "owl#sameas",
+              "cannes'i_filmifestival"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "festival_de_cannes"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "festival_de_cannes": {
+                  "keyword": {
+                    "termo": "festival_de_cannes",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "festival_de_cannes",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*festival_de_cannes",
+              "owl#sameas",
+              "cannesko_zinemaldia"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "festival_de_cannes"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "festival_de_cannes": {
+                  "keyword": {
+                    "termo": "festival_de_cannes",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "festival_de_cannes",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*festival_de_cannes",
+              "owl#sameas",
+              "cannesin_elokuvajuhlat"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "festival_de_cannes"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "festival_de_cannes": {
+                  "keyword": {
+                    "termo": "festival_de_cannes",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "festival_de_cannes",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*festival_de_cannes",
+              "owl#sameas",
+              "feile_scannanaiochta_cannes"
+            ]
+          ],
+          "score": 10.833333,
+          "detail": {
+            "keywords": [
+              "festival_de_cannes"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 0.5,
+              "matches": {
+                "festival_de_cannes": {
+                  "keyword": {
+                    "termo": "festival_de_cannes",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "festival_de_cannes",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 1299.5750904083252,
+      "l_sizes": [
+        24178,
+        11320
+      ],
+      "total_time": 17823.4543800354
+    }
+  }
+]

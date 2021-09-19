@@ -1,0 +1,1881 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:spec",
+          "palavra_original": "Quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "criou",
+          "palavra_canonica": "criar",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:prop",
+          "palavra_original": "Batman",
+          "palavra_canonica": "Batman",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:spec",
+          "palavra_original": "Quem",
+          "palavra_canonica": "quem",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "criou",
+          "palavra_canonica": "criar",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "make",
+                "sinonimo": "causar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "produzir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "create",
+                "sinonimo": "instituir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "fazer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "create",
+                "sinonimo": "criar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "make",
+                "sinonimo": "construir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "make",
+                "sinonimo": "provocar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "desenvolver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "breed",
+                "sinonimo": "reproduzir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "make",
+                "sinonimo": "realizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "foster",
+                "sinonimo": "foster",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "produce",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "rear",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "parent",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "make",
+                "sinonimo": "make",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "make",
+                "sinonimo": "create",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "nurture",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "breed",
+                "sinonimo": "breed",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "bring_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "develop",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "raise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:prop",
+          "palavra_original": "Batman",
+          "palavra_canonica": "Batman",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "quem",
+        "confianca": 0.93,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "criou",
+          "palavra_canonica": "criar",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "make",
+                "sinonimo": "causar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "produzir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "create",
+                "sinonimo": "instituir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "fazer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "create",
+                "sinonimo": "criar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "make",
+                "sinonimo": "construir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "make",
+                "sinonimo": "provocar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "desenvolver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "breed",
+                "sinonimo": "reproduzir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "make",
+                "sinonimo": "realizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "foster",
+                "sinonimo": "foster",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "produce",
+                "sinonimo": "produce",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "rear",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "parent",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "make",
+                "sinonimo": "make",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "make",
+                "sinonimo": "create",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "nurture",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "breed",
+                "sinonimo": "breed",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "bring_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "develop",
+                "sinonimo": "develop",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "rear",
+                "sinonimo": "raise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Od:prop",
+          "palavra_original": "Batman",
+          "palavra_canonica": "Batman",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "*batman",
+              "*criador",
+              "bill_finger"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "criador",
+              "batman"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "batman": {
+                  "keyword": {
+                    "termo": "batman",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "batman",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "batman": "-155",
+              "criador": "-518"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*batman",
+              "*criador",
+              "bob_kane"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "criador",
+              "batman"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "batman": {
+                  "keyword": {
+                    "termo": "batman",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "batman",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "batman": "-155",
+              "criador": "-518"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*batman",
+              "*criador",
+              "bill_finger"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "criador",
+              "batman"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "batman": {
+                  "keyword": {
+                    "termo": "batman",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "batman",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "batman": "-155",
+              "criador": "-518"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*batman",
+              "*criador",
+              "bob_kane"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "criador",
+              "batman"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "batman": {
+                  "keyword": {
+                    "termo": "batman",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "batman",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "batman": "-155",
+              "criador": "-518"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "dick_grayson",
+              "*criador",
+              "*batman:"
+            ]
+          ],
+          "score": 13.502732,
+          "detail": {
+            "keywords": [
+              "criador",
+              "batman"
+            ],
+            "score_detail": {
+              "m1": 11.836065,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "batman": {
+                  "keyword": {
+                    "termo": "batman",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "batman:",
+                  "score": 9.836065
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*batman:_the_animated_series",
+              "*criacaooriginal",
+              "*batman"
+            ]
+          ],
+          "score": 13.385811,
+          "detail": {
+            "keywords": [
+              "batman",
+              "criacao"
+            ],
+            "score_detail": {
+              "m1": 11.719144,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "batman": {
+                  "keyword": {
+                    "termo": "batman",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "batman",
+                  "score": 10.0
+                },
+                "criacao": {
+                  "keyword": {
+                    "termo": "criacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criacaooriginal",
+                  "score": 1.7191437
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*the_batman",
+              "*criacaooriginal",
+              "*batman de bob kane e bill finger"
+            ]
+          ],
+          "score": 12.667845,
+          "detail": {
+            "keywords": [
+              "batman",
+              "criacao"
+            ],
+            "score_detail": {
+              "m1": 11.001178,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "batman": {
+                  "keyword": {
+                    "termo": "batman",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "the_batman",
+                  "score": 9.282034
+                },
+                "criacao": {
+                  "keyword": {
+                    "termo": "criacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criacaooriginal",
+                  "score": 1.7191437
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*batman",
+              "*parentes",
+              "thomas_wayne"
+            ]
+          ],
+          "score": 12.632851,
+          "detail": {
+            "keywords": [
+              "criar",
+              "batman"
+            ],
+            "score_detail": {
+              "m1": 10.966184,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "criar": {
+                  "keyword": {
+                    "termo": "parent",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "parentes",
+                  "score": 0.96618354
+                },
+                "batman": {
+                  "keyword": {
+                    "termo": "batman",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "batman",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*batman",
+              "*parentes",
+              "martha wayne"
+            ]
+          ],
+          "score": 12.632851,
+          "detail": {
+            "keywords": [
+              "criar",
+              "batman"
+            ],
+            "score_detail": {
+              "m1": 10.966184,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "criar": {
+                  "keyword": {
+                    "termo": "parent",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "parentes",
+                  "score": 0.96618354
+                },
+                "batman": {
+                  "keyword": {
+                    "termo": "batman",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "batman",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*batman",
+              "*parentes",
+              "selina_kyle"
+            ]
+          ],
+          "score": 12.632851,
+          "detail": {
+            "keywords": [
+              "criar",
+              "batman"
+            ],
+            "score_detail": {
+              "m1": 10.966184,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "criar": {
+                  "keyword": {
+                    "termo": "parent",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "parentes",
+                  "score": 0.96618354
+                },
+                "batman": {
+                  "keyword": {
+                    "termo": "batman",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "batman",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*batman",
+              "*parentes",
+              "dick_grayson"
+            ]
+          ],
+          "score": 12.632851,
+          "detail": {
+            "keywords": [
+              "criar",
+              "batman"
+            ],
+            "score_detail": {
+              "m1": 10.966184,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "criar": {
+                  "keyword": {
+                    "termo": "parent",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "parentes",
+                  "score": 0.96618354
+                },
+                "batman": {
+                  "keyword": {
+                    "termo": "batman",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "batman",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*batman",
+              "*parentes",
+              "jason_todd"
+            ]
+          ],
+          "score": 12.632851,
+          "detail": {
+            "keywords": [
+              "criar",
+              "batman"
+            ],
+            "score_detail": {
+              "m1": 10.966184,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "criar": {
+                  "keyword": {
+                    "termo": "parent",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "parentes",
+                  "score": 0.96618354
+                },
+                "batman": {
+                  "keyword": {
+                    "termo": "batman",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "batman",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*batman",
+              "*parentes",
+              "tim_drake"
+            ]
+          ],
+          "score": 12.632851,
+          "detail": {
+            "keywords": [
+              "criar",
+              "batman"
+            ],
+            "score_detail": {
+              "m1": 10.966184,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "criar": {
+                  "keyword": {
+                    "termo": "parent",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "parentes",
+                  "score": 0.96618354
+                },
+                "batman": {
+                  "keyword": {
+                    "termo": "batman",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "batman",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*batman",
+              "*parentes",
+              "damian_wayne"
+            ]
+          ],
+          "score": 12.632851,
+          "detail": {
+            "keywords": [
+              "criar",
+              "batman"
+            ],
+            "score_detail": {
+              "m1": 10.966184,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "criar": {
+                  "keyword": {
+                    "termo": "parent",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "parentes",
+                  "score": 0.96618354
+                },
+                "batman": {
+                  "keyword": {
+                    "termo": "batman",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "batman",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*batman",
+              "*parentes",
+              "helena_wayne"
+            ]
+          ],
+          "score": 12.632851,
+          "detail": {
+            "keywords": [
+              "criar",
+              "batman"
+            ],
+            "score_detail": {
+              "m1": 10.966184,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "criar": {
+                  "keyword": {
+                    "termo": "parent",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "parentes",
+                  "score": 0.96618354
+                },
+                "batman": {
+                  "keyword": {
+                    "termo": "batman",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "batman",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*batman",
+              "*parentes",
+              "terry_mcginnis"
+            ]
+          ],
+          "score": 12.632851,
+          "detail": {
+            "keywords": [
+              "criar",
+              "batman"
+            ],
+            "score_detail": {
+              "m1": 10.966184,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "criar": {
+                  "keyword": {
+                    "termo": "parent",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "parentes",
+                  "score": 0.96618354
+                },
+                "batman": {
+                  "keyword": {
+                    "termo": "batman",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "batman",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*batman",
+              "*parentes",
+              "betsy kane"
+            ]
+          ],
+          "score": 12.632851,
+          "detail": {
+            "keywords": [
+              "criar",
+              "batman"
+            ],
+            "score_detail": {
+              "m1": 10.966184,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "criar": {
+                  "keyword": {
+                    "termo": "parent",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "parentes",
+                  "score": 0.96618354
+                },
+                "batman": {
+                  "keyword": {
+                    "termo": "batman",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "batman",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*batman",
+              "*parentes",
+              "philip wayne"
+            ]
+          ],
+          "score": 12.632851,
+          "detail": {
+            "keywords": [
+              "criar",
+              "batman"
+            ],
+            "score_detail": {
+              "m1": 10.966184,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "criar": {
+                  "keyword": {
+                    "termo": "parent",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "parentes",
+                  "score": 0.96618354
+                },
+                "batman": {
+                  "keyword": {
+                    "termo": "batman",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "batman",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "dick_grayson",
+              "*parentes",
+              "*batman"
+            ]
+          ],
+          "score": 12.632851,
+          "detail": {
+            "keywords": [
+              "criar",
+              "batman"
+            ],
+            "score_detail": {
+              "m1": 10.966184,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "criar": {
+                  "keyword": {
+                    "termo": "parent",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "parentes",
+                  "score": 0.96618354
+                },
+                "batman": {
+                  "keyword": {
+                    "termo": "batman",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "batman",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*batman:_arkham",
+              "*criador",
+              "rocksteady_studios"
+            ]
+          ],
+          "score": 12.065806,
+          "detail": {
+            "keywords": [
+              "criador",
+              "batman"
+            ],
+            "score_detail": {
+              "m1": 10.399139,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "batman": {
+                  "keyword": {
+                    "termo": "batman",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "batman:_arkham",
+                  "score": 8.399139
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*batman:_arkham",
+              "*criador",
+              "dc_entertainment"
+            ]
+          ],
+          "score": 12.065806,
+          "detail": {
+            "keywords": [
+              "criador",
+              "batman"
+            ],
+            "score_detail": {
+              "m1": 10.399139,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "batman": {
+                  "keyword": {
+                    "termo": "batman",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "batman:_arkham",
+                  "score": 8.399139
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*batman:_bad_blood",
+              "*criacaooriginal",
+              "*batman r.i.p."
+            ]
+          ],
+          "score": 12.020497,
+          "detail": {
+            "keywords": [
+              "batman",
+              "criacao"
+            ],
+            "score_detail": {
+              "m1": 10.35383,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "batman": {
+                  "keyword": {
+                    "termo": "batman",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "batman r.i.p.",
+                  "score": 8.634686
+                },
+                "criacao": {
+                  "keyword": {
+                    "termo": "criacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criacaooriginal",
+                  "score": 1.7191437
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*batman_(1989)",
+              "*criacaooriginal",
+              "*batman de bob kane e bill finger"
+            ]
+          ],
+          "score": 12.020497,
+          "detail": {
+            "keywords": [
+              "batman",
+              "criacao"
+            ],
+            "score_detail": {
+              "m1": 10.35383,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "batman": {
+                  "keyword": {
+                    "termo": "batman",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "batman_(1989)",
+                  "score": 8.634686
+                },
+                "criacao": {
+                  "keyword": {
+                    "termo": "criacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criacaooriginal",
+                  "score": 1.7191437
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*son_of_batman",
+              "*criacaooriginal",
+              "*batman e filho por grant morrison"
+            ]
+          ],
+          "score": 12.020497,
+          "detail": {
+            "keywords": [
+              "batman",
+              "criacao"
+            ],
+            "score_detail": {
+              "m1": 10.35383,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "batman": {
+                  "keyword": {
+                    "termo": "batman",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "son_of_batman",
+                  "score": 8.634686
+                },
+                "criacao": {
+                  "keyword": {
+                    "termo": "criacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criacaooriginal",
+                  "score": 1.7191437
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*batman_begins",
+              "*criacaooriginal",
+              "*batman de bob kane e bill finger"
+            ]
+          ],
+          "score": 12.020497,
+          "detail": {
+            "keywords": [
+              "batman",
+              "criacao"
+            ],
+            "score_detail": {
+              "m1": 10.35383,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "batman": {
+                  "keyword": {
+                    "termo": "batman",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "batman_begins",
+                  "score": 8.634686
+                },
+                "criacao": {
+                  "keyword": {
+                    "termo": "criacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criacaooriginal",
+                  "score": 1.7191437
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*batman_returns",
+              "*criacaooriginal",
+              "*batman de bob kane e bill finger"
+            ]
+          ],
+          "score": 11.78495,
+          "detail": {
+            "keywords": [
+              "batman",
+              "criacao"
+            ],
+            "score_detail": {
+              "m1": 10.118283,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "batman": {
+                  "keyword": {
+                    "termo": "batman",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "batman_returns",
+                  "score": 8.399139
+                },
+                "criacao": {
+                  "keyword": {
+                    "termo": "criacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criacaooriginal",
+                  "score": 1.7191437
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*batman_forever",
+              "*criacaooriginal",
+              "*batman de bob kane e bill finger"
+            ]
+          ],
+          "score": 11.78495,
+          "detail": {
+            "keywords": [
+              "batman",
+              "criacao"
+            ],
+            "score_detail": {
+              "m1": 10.118283,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "batman": {
+                  "keyword": {
+                    "termo": "batman",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "batman_forever",
+                  "score": 8.399139
+                },
+                "criacao": {
+                  "keyword": {
+                    "termo": "criacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criacaooriginal",
+                  "score": 1.7191437
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*batman_(terra_2)",
+              "*criador",
+              "dennis_o'neil"
+            ]
+          ],
+          "score": 11.567908,
+          "detail": {
+            "keywords": [
+              "criador",
+              "batman"
+            ],
+            "score_detail": {
+              "m1": 9.901241,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "batman": {
+                  "keyword": {
+                    "termo": "batman",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "batman_(terra_2)",
+                  "score": 7.901242
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*batman_(terra_2)",
+              "*criador",
+              "dick dillin"
+            ]
+          ],
+          "score": 11.567908,
+          "detail": {
+            "keywords": [
+              "criador",
+              "batman"
+            ],
+            "score_detail": {
+              "m1": 9.901241,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "criador": {
+                  "keyword": {
+                    "termo": "criador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "criador",
+                  "score": 2.0
+                },
+                "batman": {
+                  "keyword": {
+                    "termo": "batman",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "batman_(terra_2)",
+                  "score": 7.901242
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*batman",
+              "owl#sameas",
+              "q2695156"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "batman"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "batman": {
+                  "keyword": {
+                    "termo": "batman",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "batman",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*batman",
+              "owl#sameas",
+              "*batman"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "batman"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "batman": {
+                  "keyword": {
+                    "termo": "batman",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "batman",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*batman",
+              "owl#sameas",
+              62
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "batman"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "batman": {
+                  "keyword": {
+                    "termo": "batman",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "batman",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 3469550400,
+      "total_time": 12678293200
+    }
+  }
+]

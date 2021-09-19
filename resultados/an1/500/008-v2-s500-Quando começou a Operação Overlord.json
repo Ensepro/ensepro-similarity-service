@@ -1,0 +1,1156 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:adv",
+          "palavra_original": "Quando",
+          "palavra_canonica": "quando",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "começou",
+          "palavra_canonica": "começar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Operação_Overlord",
+          "palavra_canonica": "Operação_Overlord",
+          "tags": [
+            "<occ>",
+            "<*>",
+            "<foreign>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:adv",
+          "palavra_original": "Quando",
+          "palavra_canonica": "quando",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "começou",
+          "palavra_canonica": "começar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "start",
+                "sinonimo": "começar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "open",
+                "sinonimo": "abrir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "originate",
+                "sinonimo": "originar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "start",
+                "sinonimo": "iniciar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "originate",
+                "sinonimo": "provir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "originate",
+                "sinonimo": "tomar_a_iniciativa",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "set_about",
+                "sinonimo": "set_about",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "plunge",
+                "sinonimo": "launch",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "start",
+                "sinonimo": "take_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "start",
+                "sinonimo": "get_going",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "09"
+              },
+              {
+                "synset": "break_in",
+                "sinonimo": "break_in",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "set_in",
+                "sinonimo": "kick_in",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "start",
+                "sinonimo": "go",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "09"
+              },
+              {
+                "synset": "embark",
+                "sinonimo": "embark",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "get_down",
+                "sinonimo": "get",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "go_on",
+                "sinonimo": "go_on",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "get_down",
+                "sinonimo": "set_out",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "start",
+                "sinonimo": "start",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "09"
+              },
+              {
+                "synset": "set_about",
+                "sinonimo": "go_about",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "get_down",
+                "sinonimo": "get_down",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "begin",
+                "sinonimo": "lead_off",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "set_in",
+                "sinonimo": "set_in",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "go_on",
+                "sinonimo": "come_on",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "plunge",
+                "sinonimo": "plunge",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "open",
+                "sinonimo": "open",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "go_on",
+                "sinonimo": "come_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "start",
+                "sinonimo": "start_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "begin",
+                "sinonimo": "begin",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "begin",
+                "sinonimo": "commence",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "originate",
+                "sinonimo": "initiate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "embark",
+                "sinonimo": "enter",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "start",
+                "sinonimo": "embark_on",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "get_down",
+                "sinonimo": "start_out",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "originate",
+                "sinonimo": "originate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "set_about",
+                "sinonimo": "approach",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Operação_Overlord",
+          "palavra_canonica": "Operação_Overlord",
+          "tags": [
+            "<occ>",
+            "<*>",
+            "<foreign>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "quando",
+        "confianca": 0.91,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "começou",
+          "palavra_canonica": "começar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "start",
+                "sinonimo": "começar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "open",
+                "sinonimo": "abrir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "originate",
+                "sinonimo": "originar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "start",
+                "sinonimo": "iniciar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "originate",
+                "sinonimo": "provir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "originate",
+                "sinonimo": "tomar_a_iniciativa",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "set_about",
+                "sinonimo": "set_about",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "plunge",
+                "sinonimo": "launch",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "start",
+                "sinonimo": "take_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "start",
+                "sinonimo": "get_going",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "09"
+              },
+              {
+                "synset": "break_in",
+                "sinonimo": "break_in",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "set_in",
+                "sinonimo": "kick_in",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "start",
+                "sinonimo": "go",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "09"
+              },
+              {
+                "synset": "embark",
+                "sinonimo": "embark",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "get_down",
+                "sinonimo": "get",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "go_on",
+                "sinonimo": "go_on",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "get_down",
+                "sinonimo": "set_out",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "start",
+                "sinonimo": "start",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "09"
+              },
+              {
+                "synset": "set_about",
+                "sinonimo": "go_about",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "get_down",
+                "sinonimo": "get_down",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "begin",
+                "sinonimo": "lead_off",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "set_in",
+                "sinonimo": "set_in",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "go_on",
+                "sinonimo": "come_on",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "plunge",
+                "sinonimo": "plunge",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "open",
+                "sinonimo": "open",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "go_on",
+                "sinonimo": "come_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "start",
+                "sinonimo": "start_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "begin",
+                "sinonimo": "begin",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "begin",
+                "sinonimo": "commence",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "originate",
+                "sinonimo": "initiate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "embark",
+                "sinonimo": "enter",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "start",
+                "sinonimo": "embark_on",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "get_down",
+                "sinonimo": "start_out",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "originate",
+                "sinonimo": "originate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "set_about",
+                "sinonimo": "approach",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Operação_Overlord",
+          "palavra_canonica": "Operação_Overlord",
+          "tags": [
+            "<occ>",
+            "<*>",
+            "<foreign>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "linha_ferroviaria_de_alta_velocidade_madrid_saragoca_barcelona_fronteira_francesa",
+              "*start",
+              "estacao_de_atocha"
+            ]
+          ],
+          "score": 1.3333334,
+          "detail": {
+            "keywords": [
+              "comecar"
+            ],
+            "score_detail": {
+              "m1": 1.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "comecar": {
+                  "keyword": {
+                    "termo": "start",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "start",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 0
+        },
+        {
+          "triples": [
+            [
+              "linha_ferroviaria_de_alta_velocidade_madrid_saragoca_barcelona_fronteira_francesa",
+              "*start",
+              "madrid"
+            ]
+          ],
+          "score": 1.3333334,
+          "detail": {
+            "keywords": [
+              "comecar"
+            ],
+            "score_detail": {
+              "m1": 1.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "comecar": {
+                  "keyword": {
+                    "termo": "start",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "start",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "linha_ferroviaria_de_alta_velocidade_madrid_saragoca_barcelona_fronteira_francesa",
+              "*open",
+              "2008"
+            ]
+          ],
+          "score": 1.3333334,
+          "detail": {
+            "keywords": [
+              "comecar"
+            ],
+            "score_detail": {
+              "m1": 1.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "comecar": {
+                  "keyword": {
+                    "termo": "open",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "open",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "ilha_do_rei_george",
+              "*open",
+              "yes"
+            ]
+          ],
+          "score": 1.3333334,
+          "detail": {
+            "keywords": [
+              "comecar"
+            ],
+            "score_detail": {
+              "m1": 1.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "comecar": {
+                  "keyword": {
+                    "termo": "open",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "open",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "olusegun_obasanjo",
+              "*start",
+              "2004"
+            ]
+          ],
+          "score": 1.3333334,
+          "detail": {
+            "keywords": [
+              "comecar"
+            ],
+            "score_detail": {
+              "m1": 1.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "comecar": {
+                  "keyword": {
+                    "termo": "start",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "start",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "demetrio_paleologo",
+              "*start",
+              "1453"
+            ]
+          ],
+          "score": 1.3333334,
+          "detail": {
+            "keywords": [
+              "comecar"
+            ],
+            "score_detail": {
+              "m1": 1.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "comecar": {
+                  "keyword": {
+                    "termo": "start",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "start",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "vanern",
+              "*start",
+              "gotemburgo"
+            ]
+          ],
+          "score": 1.3333334,
+          "detail": {
+            "keywords": [
+              "comecar"
+            ],
+            "score_detail": {
+              "m1": 1.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "comecar": {
+                  "keyword": {
+                    "termo": "start",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "start",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "linha_ferroviaria_de_alta_velocidade_pequim_zhengzhou_wuhan_cantao_shenzhen_hong_kong",
+              "*start",
+              "estacao_ferroviaria_de_pequim_oeste"
+            ]
+          ],
+          "score": 1.3333334,
+          "detail": {
+            "keywords": [
+              "comecar"
+            ],
+            "score_detail": {
+              "m1": 1.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "comecar": {
+                  "keyword": {
+                    "termo": "start",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "start",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "linha_ferroviaria_de_alta_velocidade_pequim_zhengzhou_wuhan_cantao_shenzhen_hong_kong",
+              "*start",
+              "pequim"
+            ]
+          ],
+          "score": 1.3333334,
+          "detail": {
+            "keywords": [
+              "comecar"
+            ],
+            "score_detail": {
+              "m1": 1.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "comecar": {
+                  "keyword": {
+                    "termo": "start",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "start",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "linha_ferroviaria_de_alta_velocidade_pequim_zhengzhou_wuhan_cantao_shenzhen_hong_kong",
+              "*open",
+              "2009"
+            ]
+          ],
+          "score": 1.3333334,
+          "detail": {
+            "keywords": [
+              "comecar"
+            ],
+            "score_detail": {
+              "m1": 1.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "comecar": {
+                  "keyword": {
+                    "termo": "open",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "open",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "linha_sarmiento",
+              "*start",
+              "1857"
+            ]
+          ],
+          "score": 1.3333334,
+          "detail": {
+            "keywords": [
+              "comecar"
+            ],
+            "score_detail": {
+              "m1": 1.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "comecar": {
+                  "keyword": {
+                    "termo": "start",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "start",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "mittbanan",
+              "*start",
+              "sundsvall"
+            ]
+          ],
+          "score": 1.3333334,
+          "detail": {
+            "keywords": [
+              "comecar"
+            ],
+            "score_detail": {
+              "m1": 1.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "comecar": {
+                  "keyword": {
+                    "termo": "start",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "start",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "malmbanan",
+              "*start",
+              "lulea"
+            ]
+          ],
+          "score": 1.3333334,
+          "detail": {
+            "keywords": [
+              "comecar"
+            ],
+            "score_detail": {
+              "m1": 1.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "comecar": {
+                  "keyword": {
+                    "termo": "start",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "start",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "goodluck_jonathan",
+              "*start",
+              "2004"
+            ]
+          ],
+          "score": 1.3333334,
+          "detail": {
+            "keywords": [
+              "comecar"
+            ],
+            "score_detail": {
+              "m1": 1.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "comecar": {
+                  "keyword": {
+                    "termo": "start",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "start",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 13
+        }
+      ],
+      "ranking_time": 651722600,
+      "total_time": 6645606500
+    }
+  }
+]

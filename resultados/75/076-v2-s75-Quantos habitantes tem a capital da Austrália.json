@@ -1,0 +1,2248 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "Quantos",
+          "palavra_canonica": "quanto",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "<quant>",
+            "DET",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "habitantes",
+          "palavra_canonica": "habitante",
+          "tags": [
+            "<Hnat>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "tem",
+          "palavra_canonica": "ter",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:n",
+          "palavra_original": "capital",
+          "palavra_canonica": "capital",
+          "tags": [
+            "<Lciv>",
+            "<ac-sign>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<sam->",
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<-sam>",
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 13,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Austrália",
+          "palavra_canonica": "Austrália",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 14,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "Quantos",
+          "palavra_canonica": "quanto",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "<quant>",
+            "DET",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "habitantes",
+          "palavra_canonica": "habitante",
+          "tags": [
+            "<Hnat>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "inhabitant",
+                "sinonimo": "vizinho",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "inhabitant",
+                "sinonimo": "habitantes",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "inhabitant",
+                "sinonimo": "habitante",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "inhabitant",
+                "sinonimo": "morador",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "inhabitant",
+                "sinonimo": "habitant",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "inhabitant",
+                "sinonimo": "denizen",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "inhabitant",
+                "sinonimo": "indweller",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "inhabitant",
+                "sinonimo": "inhabitant",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "inhabitant",
+                "sinonimo": "dweller",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "tem",
+          "palavra_canonica": "ter",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:n",
+          "palavra_original": "capital",
+          "palavra_canonica": "capital",
+          "tags": [
+            "<Lciv>",
+            "<ac-sign>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "capital",
+                "sinonimo": "capital",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "capital",
+                "sinonimo": "Capital",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "capital",
+                "sinonimo": "fundos",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "fund",
+                "sinonimo": "fundo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "fund",
+                "sinonimo": "monetary_fund",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "capital",
+                "sinonimo": "capital",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "fund",
+                "sinonimo": "fund",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<sam->",
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<-sam>",
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 13,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Austrália",
+          "palavra_canonica": "Austrália",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 14,
+          "tag_inicial": "?",
+          "palavra_original": " ",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "[ [ QUE:fcl|1| [ S:np|2| [DN:pron-int|3| Quantos] [H:n|4| habitantes] ] [P:v-fin|5| tem] [ Od:np|6| [DN:art|7| a] [H:n|8| capital] [ DN:pp|9| [H:prp|10| de] [ DP:np|11| [DN:art|12| a] [H:prop|13| Austrália] ] ] ] [?|14|  ] ] ]",
+      "tipo": {
+        "tipo": "quanto",
+        "confianca": 0.92,
+        "ids": [
+          3
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "habitantes",
+          "palavra_canonica": "habitante",
+          "tags": [
+            "<Hnat>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "inhabitant",
+                "sinonimo": "vizinho",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "inhabitant",
+                "sinonimo": "habitantes",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "inhabitant",
+                "sinonimo": "habitante",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "inhabitant",
+                "sinonimo": "morador",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "inhabitant",
+                "sinonimo": "habitant",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "inhabitant",
+                "sinonimo": "denizen",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "inhabitant",
+                "sinonimo": "indweller",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "inhabitant",
+                "sinonimo": "inhabitant",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "inhabitant",
+                "sinonimo": "dweller",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:n",
+          "palavra_original": "capital",
+          "palavra_canonica": "capital",
+          "tags": [
+            "<Lciv>",
+            "<ac-sign>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "capital",
+                "sinonimo": "capital",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "capital",
+                "sinonimo": "Capital",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "capital",
+                "sinonimo": "fundos",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "fund",
+                "sinonimo": "fundo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "fund",
+                "sinonimo": "monetary_fund",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "capital",
+                "sinonimo": "capital",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "fund",
+                "sinonimo": "fund",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 13,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Austrália",
+          "palavra_canonica": "Austrália",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 8,
+            "tag_inicial": "H:n",
+            "palavra_original": "capital",
+            "palavra_canonica": "capital",
+            "tags": [
+              "<Lciv>",
+              "<ac-sign>",
+              "F",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "capital",
+                  "sinonimo": "capital",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "capital",
+                  "sinonimo": "Capital",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "capital",
+                  "sinonimo": "fundos",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "fund",
+                  "sinonimo": "fundo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "fund",
+                  "sinonimo": "monetary_fund",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "capital",
+                  "sinonimo": "capital",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "fund",
+                  "sinonimo": "fund",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 13,
+            "tag_inicial": "H:prop",
+            "palavra_original": "Austrália",
+            "palavra_canonica": "Austrália",
+            "tags": [
+              "<civ>",
+              "<*>",
+              "F",
+              "S"
+            ],
+            "nivel": 4,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "*australia",
+              "*capital",
+              "camberra"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "australia",
+              "capital"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "capital": {
+                  "keyword": {
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "capital",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "australia": "-8",
+              "capital": "-4165"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*australia",
+              "*capital",
+              "camberra"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "australia",
+              "capital"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "capital": {
+                  "keyword": {
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "capital",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "australia": "-8",
+              "capital": "-4165"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "*capital",
+              "camberra"
+            ],
+            [
+              "*australia",
+              "owl#sameas",
+              "m.0chghy"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "capital"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "capital": {
+                  "keyword": {
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "capital",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "*capital",
+              "camberra"
+            ],
+            [
+              "*australia",
+              "22_rdf_syntax_ns#type",
+              "country"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "capital"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "capital": {
+                  "keyword": {
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "capital",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "*capital",
+              "camberra"
+            ],
+            [
+              "*australia",
+              "rdf_schema#label",
+              "*australia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "capital"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "capital": {
+                  "keyword": {
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "capital",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "*capital",
+              "camberra"
+            ],
+            [
+              "*australia_(desambiguacao)",
+              "owl#sameas",
+              "*australia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "capital"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "capital": {
+                  "keyword": {
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "capital",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "*capital",
+              "camberra"
+            ],
+            [
+              "*australia",
+              "owl#sameas",
+              "*australia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "capital"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "capital": {
+                  "keyword": {
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "capital",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "*capital",
+              "camberra"
+            ],
+            [
+              "*predefinicao:patrimonio_mundial_na_australia",
+              "owl#sameas",
+              "*australia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "capital"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "capital": {
+                  "keyword": {
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "capital",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "*capital",
+              "camberra"
+            ],
+            [
+              "*predefinicao:infobox_olympics_australia",
+              "owl#sameas",
+              "*australia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "capital"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "capital": {
+                  "keyword": {
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "capital",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "*capital",
+              "camberra"
+            ],
+            [
+              "neale_fraser",
+              "cidadenatal",
+              "*australia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "capital"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "capital": {
+                  "keyword": {
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "capital",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "*capital",
+              "camberra"
+            ],
+            [
+              "lesley_turner",
+              "cidadenatal",
+              "*australia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "capital"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "capital": {
+                  "keyword": {
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "capital",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "*capital",
+              "camberra"
+            ],
+            [
+              "robert_howe",
+              "cidadenatal",
+              "*australia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "capital"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "capital": {
+                  "keyword": {
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "capital",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "*capital",
+              "camberra"
+            ],
+            [
+              "fred_stolle",
+              "cidadenatal",
+              "*australia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "capital"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "capital": {
+                  "keyword": {
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "capital",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "*capital",
+              "camberra"
+            ],
+            [
+              "luois_hunter",
+              "nascimentolocal",
+              "*australia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "capital"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "capital": {
+                  "keyword": {
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "capital",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "*capital",
+              "camberra"
+            ],
+            [
+              "laura_robson",
+              "cidadenatal",
+              "*australia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "capital"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "capital": {
+                  "keyword": {
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "capital",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "*capital",
+              "camberra"
+            ],
+            [
+              "adam_garcia",
+              "localidaden",
+              "*australia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "capital"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "capital": {
+                  "keyword": {
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "capital",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "*capital",
+              "camberra"
+            ],
+            [
+              "michael_denton",
+              "paisderesidencia",
+              "*australia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "capital"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "capital": {
+                  "keyword": {
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "capital",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "*capital",
+              "camberra"
+            ],
+            [
+              "*australia",
+              "nomenativo",
+              "*commonwealth of australia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "capital"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "capital": {
+                  "keyword": {
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "capital",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "*capital",
+              "camberra"
+            ],
+            [
+              "*australia",
+              "hino",
+              "*advance australia fair noicon|center"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "capital"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "capital": {
+                  "keyword": {
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "capital",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "*capital",
+              "camberra"
+            ],
+            [
+              "*australia_(cancao_de_manic_street_preachers)",
+              "nome",
+              "*australia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "capital"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "capital": {
+                  "keyword": {
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "capital",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "*capital",
+              "camberra"
+            ],
+            [
+              "*australia",
+              "imagembandeira",
+              "*flag of australia .svg"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "capital"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "capital": {
+                  "keyword": {
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "capital",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "*capital",
+              "camberra"
+            ],
+            [
+              "*australia",
+              "mapa",
+              "*australia - location map  - aus - unocha.svg"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "capital"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "capital": {
+                  "keyword": {
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "capital",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "*capital",
+              "camberra"
+            ],
+            [
+              "*australia",
+              "titulo",
+              "*artists & galleries of australia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "capital"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "capital": {
+                  "keyword": {
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "capital",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "*capital",
+              "camberra"
+            ],
+            [
+              "*australia",
+              "editora",
+              "*national museum of australia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "capital"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "capital": {
+                  "keyword": {
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "capital",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "*capital",
+              "camberra"
+            ],
+            [
+              "*australia",
+              "titulo",
+              "*cultural history in australia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "capital"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "capital": {
+                  "keyword": {
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "capital",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "*capital",
+              "camberra"
+            ],
+            [
+              "*australia",
+              "commons",
+              "*australia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "capital"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "capital": {
+                  "keyword": {
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "capital",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "*capital",
+              "camberra"
+            ],
+            [
+              "crasso",
+              "local",
+              "*australia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "capital"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "capital": {
+                  "keyword": {
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "capital",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "*capital",
+              "camberra"
+            ],
+            [
+              "2ky",
+              "pais",
+              "*australia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "capital"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "capital": {
+                  "keyword": {
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "capital",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "*capital",
+              "camberra"
+            ],
+            [
+              "thomas_bromhead",
+              "nacionalidade",
+              "*australia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "capital"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "capital": {
+                  "keyword": {
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "capital",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "*capital",
+              "camberra"
+            ],
+            [
+              "capture_the_crown",
+              "origem",
+              "*australia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "capital"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "capital": {
+                  "keyword": {
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "capital",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*australia",
+              "*capital",
+              "camberra"
+            ],
+            [
+              "lingua_yugambeh",
+              "regiao",
+              "*australia"
+            ]
+          ],
+          "score": 13.333333,
+          "detail": {
+            "keywords": [
+              "australia",
+              "capital"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "australia": {
+                  "keyword": {
+                    "termo": "australia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "australia",
+                  "score": 10.0
+                },
+                "capital": {
+                  "keyword": {
+                    "termo": "capital",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "capital",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 3956.0811519622803,
+      "l_sizes": [
+        23009,
+        1606
+      ],
+      "total_time": 14069.088459014893
+    }
+  }
+]

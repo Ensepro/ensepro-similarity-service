@@ -1,0 +1,2142 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "Quantas",
+          "palavra_canonica": "quanto",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "<quant>",
+            "DET",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "pessoas",
+          "palavra_canonica": "pessoa",
+          "tags": [
+            "<H>",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "vivem",
+          "palavra_canonica": "viver",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PR",
+            "3P",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "As:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "H:prp",
+          "palavra_original": "em",
+          "palavra_canonica": "em",
+          "tags": [
+            "<sam->"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<-sam>",
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Polônia",
+          "palavra_canonica": "Polônia",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "Quantas",
+          "palavra_canonica": "quanto",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "<quant>",
+            "DET",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "pessoas",
+          "palavra_canonica": "pessoa",
+          "tags": [
+            "<H>",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "individual",
+                "sinonimo": "Individuo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "personality",
+                "sinonimo": "personalidade",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "man",
+                "sinonimo": "homem",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "person",
+                "sinonimo": "alguém",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "person",
+                "sinonimo": "ser_humano",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "person",
+                "sinonimo": "pessoa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "personality",
+                "sinonimo": "temperamento",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "person",
+                "sinonimo": "indivíduo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "person",
+                "sinonimo": "somebody",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "man",
+                "sinonimo": "man",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "person",
+                "sinonimo": "someone",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "person",
+                "sinonimo": "person",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "individual",
+                "sinonimo": "individual",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "name",
+                "sinonimo": "figure",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "person",
+                "sinonimo": "soul",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "person",
+                "sinonimo": "mortal",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "name",
+                "sinonimo": "name",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "personality",
+                "sinonimo": "personality",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "name",
+                "sinonimo": "public_figure",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              }
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "vivem",
+          "palavra_canonica": "viver",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PR",
+            "3P",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "occupy",
+                "sinonimo": "residir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "live",
+                "sinonimo": "viver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "populate",
+                "sinonimo": "povoar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "occupy",
+                "sinonimo": "morar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "occupy",
+                "sinonimo": "habitar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "live",
+                "sinonimo": "live",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "occupy",
+                "sinonimo": "occupy",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "occupy",
+                "sinonimo": "reside",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "occupy",
+                "sinonimo": "lodge_in",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "populate",
+                "sinonimo": "inhabit",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "populate",
+                "sinonimo": "populate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "populate",
+                "sinonimo": "dwell",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "As:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "H:prp",
+          "palavra_original": "em",
+          "palavra_canonica": "em",
+          "tags": [
+            "<sam->"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<-sam>",
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Polónia",
+          "palavra_canonica": "Polónia",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "quanto",
+        "confianca": 0.95,
+        "ids": [
+          3
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "pessoas",
+          "palavra_canonica": "pessoa",
+          "tags": [
+            "<H>",
+            "F",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "individual",
+                "sinonimo": "Individuo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "personality",
+                "sinonimo": "personalidade",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "man",
+                "sinonimo": "homem",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "person",
+                "sinonimo": "alguém",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "person",
+                "sinonimo": "ser_humano",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "person",
+                "sinonimo": "pessoa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "personality",
+                "sinonimo": "temperamento",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "person",
+                "sinonimo": "indivíduo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "person",
+                "sinonimo": "somebody",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "man",
+                "sinonimo": "man",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "person",
+                "sinonimo": "someone",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "person",
+                "sinonimo": "person",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "individual",
+                "sinonimo": "individual",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "name",
+                "sinonimo": "figure",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "person",
+                "sinonimo": "soul",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "person",
+                "sinonimo": "mortal",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "name",
+                "sinonimo": "name",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "personality",
+                "sinonimo": "personality",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "name",
+                "sinonimo": "public_figure",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              }
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "vivem",
+          "palavra_canonica": "viver",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PR",
+            "3P",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "occupy",
+                "sinonimo": "residir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "live",
+                "sinonimo": "viver",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "populate",
+                "sinonimo": "povoar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "occupy",
+                "sinonimo": "morar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "occupy",
+                "sinonimo": "habitar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "live",
+                "sinonimo": "live",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "occupy",
+                "sinonimo": "occupy",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "occupy",
+                "sinonimo": "reside",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "occupy",
+                "sinonimo": "lodge_in",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "populate",
+                "sinonimo": "inhabit",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "populate",
+                "sinonimo": "populate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "populate",
+                "sinonimo": "dwell",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 10,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Polónia",
+          "palavra_canonica": "Polónia",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*1112_polonia",
+              "*name",
+              "*polonia"
+            ]
+          ],
+          "score": 12.666667,
+          "detail": {
+            "keywords": [
+              "pessoa",
+              "polonia"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "pessoa": {
+                  "keyword": {
+                    "termo": "name",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "name",
+                  "score": 1.0
+                },
+                "polonia": {
+                  "keyword": {
+                    "termo": "polonia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "polonia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "polonia": "-155",
+              "name": "-156"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "agnieszka_radwanska",
+              "*residence",
+              "*polonia"
+            ]
+          ],
+          "score": 12.614385,
+          "detail": {
+            "keywords": [
+              "polonia",
+              "viver"
+            ],
+            "score_detail": {
+              "m1": 10.947718,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "polonia": {
+                  "keyword": {
+                    "termo": "polonia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "polonia",
+                  "score": 10.0
+                },
+                "viver": {
+                  "keyword": {
+                    "termo": "reside",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "residence",
+                  "score": 0.9477176
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "tomasz_bednarek",
+              "*residence",
+              "*polonia"
+            ]
+          ],
+          "score": 12.614385,
+          "detail": {
+            "keywords": [
+              "polonia",
+              "viver"
+            ],
+            "score_detail": {
+              "m1": 10.947718,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "polonia": {
+                  "keyword": {
+                    "termo": "polonia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "polonia",
+                  "score": 10.0
+                },
+                "viver": {
+                  "keyword": {
+                    "termo": "reside",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "residence",
+                  "score": 0.9477176
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "mariusz_fyrstenberg",
+              "*residence",
+              "*polonia"
+            ]
+          ],
+          "score": 12.614385,
+          "detail": {
+            "keywords": [
+              "polonia",
+              "viver"
+            ],
+            "score_detail": {
+              "m1": 10.947718,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "polonia": {
+                  "keyword": {
+                    "termo": "polonia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "polonia",
+                  "score": 10.0
+                },
+                "viver": {
+                  "keyword": {
+                    "termo": "reside",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "residence",
+                  "score": 0.9477176
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "marcin_matkowski",
+              "*residence",
+              "*polonia"
+            ]
+          ],
+          "score": 12.614385,
+          "detail": {
+            "keywords": [
+              "polonia",
+              "viver"
+            ],
+            "score_detail": {
+              "m1": 10.947718,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "polonia": {
+                  "keyword": {
+                    "termo": "polonia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "polonia",
+                  "score": 10.0
+                },
+                "viver": {
+                  "keyword": {
+                    "termo": "reside",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "residence",
+                  "score": 0.9477176
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "micha_przysiezny",
+              "*residence",
+              "*polonia"
+            ]
+          ],
+          "score": 12.614385,
+          "detail": {
+            "keywords": [
+              "polonia",
+              "viver"
+            ],
+            "score_detail": {
+              "m1": 10.947718,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "polonia": {
+                  "keyword": {
+                    "termo": "polonia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "polonia",
+                  "score": 10.0
+                },
+                "viver": {
+                  "keyword": {
+                    "termo": "reside",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "residence",
+                  "score": 0.9477176
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "mariusz_fyrstenberg",
+              "*residencia",
+              "*polonia"
+            ]
+          ],
+          "score": 12.594871,
+          "detail": {
+            "keywords": [
+              "polonia",
+              "viver"
+            ],
+            "score_detail": {
+              "m1": 10.928204,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "polonia": {
+                  "keyword": {
+                    "termo": "polonia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "polonia",
+                  "score": 10.0
+                },
+                "viver": {
+                  "keyword": {
+                    "termo": "reside",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "residencia",
+                  "score": 0.9282034
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "marcin_matkowski",
+              "*residencia",
+              "*polonia"
+            ]
+          ],
+          "score": 12.594871,
+          "detail": {
+            "keywords": [
+              "polonia",
+              "viver"
+            ],
+            "score_detail": {
+              "m1": 10.928204,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "polonia": {
+                  "keyword": {
+                    "termo": "polonia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "polonia",
+                  "score": 10.0
+                },
+                "viver": {
+                  "keyword": {
+                    "termo": "reside",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "residencia",
+                  "score": 0.9282034
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "micha_przysiezny",
+              "*residencia",
+              "*polonia"
+            ]
+          ],
+          "score": 12.594871,
+          "detail": {
+            "keywords": [
+              "polonia",
+              "viver"
+            ],
+            "score_detail": {
+              "m1": 10.928204,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "polonia": {
+                  "keyword": {
+                    "termo": "polonia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "polonia",
+                  "score": 10.0
+                },
+                "viver": {
+                  "keyword": {
+                    "termo": "reside",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "residencia",
+                  "score": 0.9282034
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "tomasz_bednarek",
+              "*residencia",
+              "*polonia"
+            ]
+          ],
+          "score": 12.594871,
+          "detail": {
+            "keywords": [
+              "polonia",
+              "viver"
+            ],
+            "score_detail": {
+              "m1": 10.928204,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "polonia": {
+                  "keyword": {
+                    "termo": "polonia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "polonia",
+                  "score": 10.0
+                },
+                "viver": {
+                  "keyword": {
+                    "termo": "reside",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "residencia",
+                  "score": 0.9282034
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "mateusz_kowalczyk",
+              "*residencia",
+              "*polonia"
+            ]
+          ],
+          "score": 12.594871,
+          "detail": {
+            "keywords": [
+              "polonia",
+              "viver"
+            ],
+            "score_detail": {
+              "m1": 10.928204,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "polonia": {
+                  "keyword": {
+                    "termo": "polonia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "polonia",
+                  "score": 10.0
+                },
+                "viver": {
+                  "keyword": {
+                    "termo": "reside",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "residencia",
+                  "score": 0.9282034
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "agnieszka_radwanska",
+              "*residencia",
+              "*polonia"
+            ]
+          ],
+          "score": 12.594871,
+          "detail": {
+            "keywords": [
+              "polonia",
+              "viver"
+            ],
+            "score_detail": {
+              "m1": 10.928204,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "polonia": {
+                  "keyword": {
+                    "termo": "polonia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "polonia",
+                  "score": 10.0
+                },
+                "viver": {
+                  "keyword": {
+                    "termo": "reside",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "residencia",
+                  "score": 0.9282034
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*luis_polonia",
+              "*surname",
+              "*polonia"
+            ]
+          ],
+          "score": 12.590241,
+          "detail": {
+            "keywords": [
+              "pessoa",
+              "polonia"
+            ],
+            "score_detail": {
+              "m1": 10.923574,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "pessoa": {
+                  "keyword": {
+                    "termo": "name",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "surname",
+                  "score": 0.92357427
+                },
+                "polonia": {
+                  "keyword": {
+                    "termo": "polonia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "polonia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*1112_polonia",
+              "*name",
+              "*polonia"
+            ],
+            [
+              "*polonia",
+              "owl#sameas",
+              "m.05qhw"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "pessoa",
+              "polonia"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "pessoa": {
+                  "keyword": {
+                    "termo": "name",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "name",
+                  "score": 1.0
+                },
+                "polonia": {
+                  "keyword": {
+                    "termo": "polonia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "polonia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*1112_polonia",
+              "*name",
+              "*polonia"
+            ],
+            [
+              "*1112_polonia",
+              "rdf_schema#label",
+              "*1112 polonia"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "pessoa",
+              "polonia"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "pessoa": {
+                  "keyword": {
+                    "termo": "name",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "name",
+                  "score": 1.0
+                },
+                "polonia": {
+                  "keyword": {
+                    "termo": "polonia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "polonia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*1112_polonia",
+              "*name",
+              "*polonia"
+            ],
+            [
+              "*1112_polonia",
+              "abstract",
+              "*polonia (asteroide 1112) e um asteroide da cintura principal com um diametro de 35,76 quilometros, a 2,7149702 ua. possui uma excentricidade de 0,1014478 e um periodo orbital de 1 918,33 dias (5,25 anos). polonia tem uma velocidade orbital media de 17,13491203 km/s e uma inclinacao de 8,99516o. este asteroide foi descoberto em 15 de agosto de 1928 por pelageja shajn."
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "pessoa",
+              "polonia"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "pessoa": {
+                  "keyword": {
+                    "termo": "name",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "name",
+                  "score": 1.0
+                },
+                "polonia": {
+                  "keyword": {
+                    "termo": "polonia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "polonia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*luis_polonia",
+              "*surname",
+              "*polonia"
+            ],
+            [
+              "*luis_polonia",
+              "*name",
+              "*luis polonia"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "pessoa",
+              "polonia"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "pessoa": {
+                  "keyword": {
+                    "termo": "name",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "name",
+                  "score": 1.0
+                },
+                "polonia": {
+                  "keyword": {
+                    "termo": "polonia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "polonia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*luis_polonia",
+              "*name",
+              "*luis polonia"
+            ],
+            [
+              "*luis_polonia",
+              "*surname",
+              "*polonia"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "pessoa",
+              "polonia"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "pessoa": {
+                  "keyword": {
+                    "termo": "name",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "name",
+                  "score": 1.0
+                },
+                "polonia": {
+                  "keyword": {
+                    "termo": "polonia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "polonia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*polonia",
+              "owl#sameas",
+              "m.05qhw"
+            ],
+            [
+              "*1112_polonia",
+              "*name",
+              "*polonia"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "polonia",
+              "pessoa"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "pessoa": {
+                  "keyword": {
+                    "termo": "name",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "name",
+                  "score": 1.0
+                },
+                "polonia": {
+                  "keyword": {
+                    "termo": "polonia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "polonia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*1112_polonia",
+              "rdf_schema#label",
+              "*1112 polonia"
+            ],
+            [
+              "*1112_polonia",
+              "*name",
+              "*polonia"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "polonia",
+              "pessoa"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "pessoa": {
+                  "keyword": {
+                    "termo": "name",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "name",
+                  "score": 1.0
+                },
+                "polonia": {
+                  "keyword": {
+                    "termo": "polonia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "polonia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*1112_polonia",
+              "abstract",
+              "*polonia (asteroide 1112) e um asteroide da cintura principal com um diametro de 35,76 quilometros, a 2,7149702 ua. possui uma excentricidade de 0,1014478 e um periodo orbital de 1 918,33 dias (5,25 anos). polonia tem uma velocidade orbital media de 17,13491203 km/s e uma inclinacao de 8,99516o. este asteroide foi descoberto em 15 de agosto de 1928 por pelageja shajn."
+            ],
+            [
+              "*1112_polonia",
+              "*name",
+              "*polonia"
+            ]
+          ],
+          "score": 12.333333,
+          "detail": {
+            "keywords": [
+              "polonia",
+              "pessoa"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "pessoa": {
+                  "keyword": {
+                    "termo": "name",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "name",
+                  "score": 1.0
+                },
+                "polonia": {
+                  "keyword": {
+                    "termo": "polonia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "polonia",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "agnieszka_radwanska",
+              "*residence",
+              "*polonia"
+            ],
+            [
+              "tomasz_bednarek",
+              "*residence",
+              "*polonia"
+            ]
+          ],
+          "score": 12.281051,
+          "detail": {
+            "keywords": [
+              "polonia",
+              "viver"
+            ],
+            "score_detail": {
+              "m1": 10.947718,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "polonia": {
+                  "keyword": {
+                    "termo": "polonia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "polonia",
+                  "score": 10.0
+                },
+                "viver": {
+                  "keyword": {
+                    "termo": "reside",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "residence",
+                  "score": 0.9477176
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "agnieszka_radwanska",
+              "*residence",
+              "*polonia"
+            ],
+            [
+              "mariusz_fyrstenberg",
+              "*residence",
+              "*polonia"
+            ]
+          ],
+          "score": 12.281051,
+          "detail": {
+            "keywords": [
+              "polonia",
+              "viver"
+            ],
+            "score_detail": {
+              "m1": 10.947718,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "polonia": {
+                  "keyword": {
+                    "termo": "polonia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "polonia",
+                  "score": 10.0
+                },
+                "viver": {
+                  "keyword": {
+                    "termo": "reside",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "residence",
+                  "score": 0.9477176
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "agnieszka_radwanska",
+              "*residence",
+              "*polonia"
+            ],
+            [
+              "marcin_matkowski",
+              "*residence",
+              "*polonia"
+            ]
+          ],
+          "score": 12.281051,
+          "detail": {
+            "keywords": [
+              "polonia",
+              "viver"
+            ],
+            "score_detail": {
+              "m1": 10.947718,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "polonia": {
+                  "keyword": {
+                    "termo": "polonia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "polonia",
+                  "score": 10.0
+                },
+                "viver": {
+                  "keyword": {
+                    "termo": "reside",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "residence",
+                  "score": 0.9477176
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "agnieszka_radwanska",
+              "*residence",
+              "*polonia"
+            ],
+            [
+              "micha_przysiezny",
+              "*residence",
+              "*polonia"
+            ]
+          ],
+          "score": 12.281051,
+          "detail": {
+            "keywords": [
+              "polonia",
+              "viver"
+            ],
+            "score_detail": {
+              "m1": 10.947718,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "polonia": {
+                  "keyword": {
+                    "termo": "polonia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "polonia",
+                  "score": 10.0
+                },
+                "viver": {
+                  "keyword": {
+                    "termo": "reside",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "residence",
+                  "score": 0.9477176
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "agnieszka_radwanska",
+              "*residence",
+              "*polonia"
+            ],
+            [
+              "*polonia",
+              "owl#sameas",
+              "m.05qhw"
+            ]
+          ],
+          "score": 12.281051,
+          "detail": {
+            "keywords": [
+              "polonia",
+              "viver"
+            ],
+            "score_detail": {
+              "m1": 10.947718,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "polonia": {
+                  "keyword": {
+                    "termo": "polonia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "polonia",
+                  "score": 10.0
+                },
+                "viver": {
+                  "keyword": {
+                    "termo": "reside",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "residence",
+                  "score": 0.9477176
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "tomasz_bednarek",
+              "*residence",
+              "*polonia"
+            ],
+            [
+              "agnieszka_radwanska",
+              "*residence",
+              "*polonia"
+            ]
+          ],
+          "score": 12.281051,
+          "detail": {
+            "keywords": [
+              "polonia",
+              "viver"
+            ],
+            "score_detail": {
+              "m1": 10.947718,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "polonia": {
+                  "keyword": {
+                    "termo": "polonia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "polonia",
+                  "score": 10.0
+                },
+                "viver": {
+                  "keyword": {
+                    "termo": "reside",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "residence",
+                  "score": 0.9477176
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "tomasz_bednarek",
+              "*residence",
+              "*polonia"
+            ],
+            [
+              "mariusz_fyrstenberg",
+              "*residence",
+              "*polonia"
+            ]
+          ],
+          "score": 12.281051,
+          "detail": {
+            "keywords": [
+              "polonia",
+              "viver"
+            ],
+            "score_detail": {
+              "m1": 10.947718,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "polonia": {
+                  "keyword": {
+                    "termo": "polonia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "polonia",
+                  "score": 10.0
+                },
+                "viver": {
+                  "keyword": {
+                    "termo": "reside",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "residence",
+                  "score": 0.9477176
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "tomasz_bednarek",
+              "*residence",
+              "*polonia"
+            ],
+            [
+              "marcin_matkowski",
+              "*residence",
+              "*polonia"
+            ]
+          ],
+          "score": 12.281051,
+          "detail": {
+            "keywords": [
+              "polonia",
+              "viver"
+            ],
+            "score_detail": {
+              "m1": 10.947718,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "polonia": {
+                  "keyword": {
+                    "termo": "polonia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "polonia",
+                  "score": 10.0
+                },
+                "viver": {
+                  "keyword": {
+                    "termo": "reside",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "residence",
+                  "score": 0.9477176
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "tomasz_bednarek",
+              "*residence",
+              "*polonia"
+            ],
+            [
+              "micha_przysiezny",
+              "*residence",
+              "*polonia"
+            ]
+          ],
+          "score": 12.281051,
+          "detail": {
+            "keywords": [
+              "polonia",
+              "viver"
+            ],
+            "score_detail": {
+              "m1": 10.947718,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "polonia": {
+                  "keyword": {
+                    "termo": "polonia",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "polonia",
+                  "score": 10.0
+                },
+                "viver": {
+                  "keyword": {
+                    "termo": "reside",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "residence",
+                  "score": 0.9477176
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 1076221800,
+      "total_time": 9800124600
+    }
+  }
+]

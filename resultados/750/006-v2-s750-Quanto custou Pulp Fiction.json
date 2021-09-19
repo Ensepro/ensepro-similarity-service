@@ -1,0 +1,1354 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "Od:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "As:pron-int",
+          "palavra_original": "Quanto",
+          "palavra_canonica": "quanto",
+          "tags": [
+            "<clb>",
+            "<clb-fs>",
+            "<*>",
+            "<interr>",
+            "<quant>",
+            "DET",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "custou",
+          "palavra_canonica": "custar",
+          "tags": [
+            "<vN>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Pulp_Fiction",
+          "palavra_canonica": "Pulp_Fiction",
+          "tags": [
+            "<top>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "Od:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "As:pron-int",
+          "palavra_original": "Quanto",
+          "palavra_canonica": "quanto",
+          "tags": [
+            "<clb>",
+            "<clb-fs>",
+            "<*>",
+            "<interr>",
+            "<quant>",
+            "DET",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "custou",
+          "palavra_canonica": "custar",
+          "tags": [
+            "<vN>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "cost",
+                "sinonimo": "valer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cost",
+                "sinonimo": "custar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "claim",
+                "sinonimo": "exact",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "cost",
+                "sinonimo": "be",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cost",
+                "sinonimo": "cost",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "claim",
+                "sinonimo": "take",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "claim",
+                "sinonimo": "claim",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              }
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Pulp_Fiction",
+          "palavra_canonica": "Pulp_Fiction",
+          "tags": [
+            "<top>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "quanto",
+        "confianca": 0.8,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 3,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "custou",
+          "palavra_canonica": "custar",
+          "tags": [
+            "<vN>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "cost",
+                "sinonimo": "valer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cost",
+                "sinonimo": "custar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "claim",
+                "sinonimo": "exact",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "cost",
+                "sinonimo": "be",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cost",
+                "sinonimo": "cost",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "claim",
+                "sinonimo": "take",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "claim",
+                "sinonimo": "claim",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              }
+            ]
+          }
+        },
+        {
+          "id": 4,
+          "tag_inicial": "S:prop",
+          "palavra_original": "Pulp_Fiction",
+          "palavra_canonica": "Pulp_Fiction",
+          "tags": [
+            "<top>",
+            "<*>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "*costumedesigner",
+              "betsy_heimann"
+            ]
+          ],
+          "score": 12.350063,
+          "detail": {
+            "keywords": [
+              "custar",
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.683396,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "custar": {
+                  "keyword": {
+                    "termo": "cost",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "costumedesigner",
+                  "score": 0.6833965
+                },
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "pulp_fiction": "-1",
+              "cost": "-124"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "owl#sameas",
+              "q104123"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "pulp_fiction": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "owl#sameas",
+              "*pulp_fiction:_historky_z_podsveti"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "owl#sameas",
+              "*pulp_fiction"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "owl#sameas",
+              "*pulp_fiction_(film)"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "owl#sameas",
+              6
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "owl#sameas",
+              "kriminal_qirat_(film,_1994)"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "owl#sameas",
+              "_()"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "owl#sameas",
+              "pakleni_sund"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "owl#sameas",
+              "*pulp_fiction_(ffilm)"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "owl#sameas",
+              "*pulp_fiction__tarinoita_vakivallasta"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "owl#sameas",
+              "__()"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "owl#sameas",
+              "ponyvaregeny_(film)"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "owl#sameas",
+              "bulvarinis_skaitalas"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "owl#sameas",
+              "lubene"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "owl#sameas",
+              "*pulp_fiction:_historky_z_podsvetia"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "owl#sameas",
+              "__(_)"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "owl#sameas",
+              "ucuz_roman"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "imagem",
+              "pulp fiction cover.jpg"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "imagemtamanho",
+              "240"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "corpb",
+              "cor"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "duracao",
+              "154"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "tipo",
+              "lf"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "diretordearte",
+              "charles collum"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "lancamento",
+              "14"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "lancamento",
+              "25"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "lancamento",
+              "3"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "codigoadorocinema",
+              "pulp-fiction"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*pulp_fiction",
+              "depiction",
+              "*pulp_fiction_cover.jpg"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "pulp_fiction"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "pulp_fiction": {
+                  "keyword": {
+                    "termo": "pulp_fiction",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "pulp_fiction",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 1511.934757232666,
+      "l_sizes": [
+        949
+      ],
+      "total_time": 8533.475399017334
+    }
+  }
+]

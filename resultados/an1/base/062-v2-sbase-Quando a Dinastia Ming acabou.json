@@ -1,0 +1,1791 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:adv",
+          "palavra_original": "Quando",
+          "palavra_canonica": "quando",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Dinastia_Ming",
+          "palavra_canonica": "Dinastia_Ming",
+          "tags": [
+            "<org>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "acabou",
+          "palavra_canonica": "acabar",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:adv",
+          "palavra_original": "Quando",
+          "palavra_canonica": "quando",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Dinastia_Ming",
+          "palavra_canonica": "Dinastia_Ming",
+          "tags": [
+            "<org>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "acabou",
+          "palavra_canonica": "acabar",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "discontinue",
+                "sinonimo": "cessar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "discontinue",
+                "sinonimo": "deixar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "encerrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "discontinue",
+                "sinonimo": "parar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "discontinue",
+                "sinonimo": "desistir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "turn_out",
+                "sinonimo": "acabar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "discontinue",
+                "sinonimo": "descontinuar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "round_off",
+                "sinonimo": "arrendondar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "conclude",
+                "sinonimo": "concluir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "finish",
+                "sinonimo": "finalizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "terminar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "finish_up",
+                "sinonimo": "aportar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "discontinue",
+                "sinonimo": "discontinue",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "finish_up",
+                "sinonimo": "wind_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "complete",
+                "sinonimo": "complete",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "round_off",
+                "sinonimo": "round_out",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "finish_up",
+                "sinonimo": "fetch_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "discontinue",
+                "sinonimo": "cease",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "stop",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "discontinue",
+                "sinonimo": "quit",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "round_off",
+                "sinonimo": "round_down",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "round_off",
+                "sinonimo": "round_off",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "finish_up",
+                "sinonimo": "finish_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "finalize",
+                "sinonimo": "settle",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "finalize",
+                "sinonimo": "finalise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "finalize",
+                "sinonimo": "finalize",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "turn_out",
+                "sinonimo": "turn_out",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "end",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "terminate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "turn_out",
+                "sinonimo": "come_out",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "finalize",
+                "sinonimo": "nail_down",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "conclude",
+                "sinonimo": "conclude",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "finish_up",
+                "sinonimo": "land_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "conclude",
+                "sinonimo": "close",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "round_off",
+                "sinonimo": "round",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "discontinue",
+                "sinonimo": "give_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "complete",
+                "sinonimo": "finish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "finish_up",
+                "sinonimo": "end_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "discontinue",
+                "sinonimo": "lay_off",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "quando",
+        "confianca": 0.91,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 5,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Dinastia_Ming",
+          "palavra_canonica": "Dinastia_Ming",
+          "tags": [
+            "<org>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "acabou",
+          "palavra_canonica": "acabar",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "discontinue",
+                "sinonimo": "cessar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "discontinue",
+                "sinonimo": "deixar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "encerrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "discontinue",
+                "sinonimo": "parar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "discontinue",
+                "sinonimo": "desistir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "turn_out",
+                "sinonimo": "acabar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "discontinue",
+                "sinonimo": "descontinuar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "round_off",
+                "sinonimo": "arrendondar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "conclude",
+                "sinonimo": "concluir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "finish",
+                "sinonimo": "finalizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "terminar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "finish_up",
+                "sinonimo": "aportar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "discontinue",
+                "sinonimo": "discontinue",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "finish_up",
+                "sinonimo": "wind_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "complete",
+                "sinonimo": "complete",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "round_off",
+                "sinonimo": "round_out",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "finish_up",
+                "sinonimo": "fetch_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "discontinue",
+                "sinonimo": "cease",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "stop",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "discontinue",
+                "sinonimo": "quit",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "round_off",
+                "sinonimo": "round_down",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "round_off",
+                "sinonimo": "round_off",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "finish_up",
+                "sinonimo": "finish_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "finalize",
+                "sinonimo": "settle",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "finalize",
+                "sinonimo": "finalise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "finalize",
+                "sinonimo": "finalize",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "turn_out",
+                "sinonimo": "turn_out",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "end",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "end",
+                "sinonimo": "terminate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "turn_out",
+                "sinonimo": "come_out",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "finalize",
+                "sinonimo": "nail_down",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "conclude",
+                "sinonimo": "conclude",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "finish_up",
+                "sinonimo": "land_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "conclude",
+                "sinonimo": "close",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "round_off",
+                "sinonimo": "round",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "discontinue",
+                "sinonimo": "give_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "complete",
+                "sinonimo": "finish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "finish_up",
+                "sinonimo": "end_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "discontinue",
+                "sinonimo": "lay_off",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*dinastia_ming",
+              "*legendamapa",
+              "china sob a dinastia ming, quando comandada pelo imperador yongle"
+            ]
+          ],
+          "score": 12.390677,
+          "detail": {
+            "keywords": [
+              "acabar",
+              "dinastia_ming"
+            ],
+            "score_detail": {
+              "m1": 10.72401,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "acabar": {
+                  "keyword": {
+                    "termo": "end",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "legendamapa",
+                  "score": 0.72401005
+                },
+                "dinastia_ming": {
+                  "keyword": {
+                    "termo": "dinastia_ming",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dinastia_ming",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "dinastia_ming": "-1",
+              "end": "-182"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*dinastia_ming",
+              "owl#sameas",
+              "q9903"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dinastia_ming"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dinastia_ming": {
+                  "keyword": {
+                    "termo": "dinastia_ming",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dinastia_ming",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "dinastia_ming": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*dinastia_ming",
+              "owl#sameas",
+              "ming_dinastie"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dinastia_ming"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dinastia_ming": {
+                  "keyword": {
+                    "termo": "dinastia_ming",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dinastia_ming",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2,
+          "bind_control": {
+            "binds": {
+              "dinastia_ming": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*dinastia_ming",
+              "owl#sameas",
+              "ming_dynastie"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dinastia_ming"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dinastia_ming": {
+                  "keyword": {
+                    "termo": "dinastia_ming",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dinastia_ming",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3,
+          "bind_control": {
+            "binds": {
+              "dinastia_ming": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*dinastia_ming",
+              "owl#sameas",
+              "*dinastia_ming"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dinastia_ming"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dinastia_ming": {
+                  "keyword": {
+                    "termo": "dinastia_ming",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dinastia_ming",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*dinastia_ming",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dinastia_ming"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dinastia_ming": {
+                  "keyword": {
+                    "termo": "dinastia_ming",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dinastia_ming",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*dinastia_ming",
+              "owl#sameas",
+              "min_sulalsi"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dinastia_ming"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dinastia_ming": {
+                  "keyword": {
+                    "termo": "dinastia_ming",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dinastia_ming",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*dinastia_ming",
+              "owl#sameas",
+              8
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dinastia_ming"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dinastia_ming": {
+                  "keyword": {
+                    "termo": "dinastia_ming",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dinastia_ming",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*dinastia_ming",
+              "owl#sameas",
+              "tierniezh_ming"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dinastia_ming"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dinastia_ming": {
+                  "keyword": {
+                    "termo": "dinastia_ming",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dinastia_ming",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*dinastia_ming",
+              "owl#sameas",
+              "dinastija_ming"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dinastia_ming"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dinastia_ming": {
+                  "keyword": {
+                    "termo": "dinastia_ming",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dinastia_ming",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*dinastia_ming",
+              "owl#sameas",
+              "rise_ming"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dinastia_ming"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dinastia_ming": {
+                  "keyword": {
+                    "termo": "dinastia_ming",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dinastia_ming",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*dinastia_ming",
+              "owl#sameas",
+              "brenhinllin_ming"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dinastia_ming"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dinastia_ming": {
+                  "keyword": {
+                    "termo": "dinastia_ming",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dinastia_ming",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*dinastia_ming",
+              "owl#sameas",
+              "ming_dynastiet"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dinastia_ming"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dinastia_ming": {
+                  "keyword": {
+                    "termo": "dinastia_ming",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dinastia_ming",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*dinastia_ming",
+              "owl#sameas",
+              "ming_dynasty"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dinastia_ming"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dinastia_ming": {
+                  "keyword": {
+                    "termo": "dinastia_ming",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dinastia_ming",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*dinastia_ming",
+              "owl#sameas",
+              "dinastio_ming"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dinastia_ming"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dinastia_ming": {
+                  "keyword": {
+                    "termo": "dinastia_ming",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dinastia_ming",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*dinastia_ming",
+              "owl#sameas",
+              "mingi_dunastia"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dinastia_ming"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dinastia_ming": {
+                  "keyword": {
+                    "termo": "dinastia_ming",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dinastia_ming",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*dinastia_ming",
+              "owl#sameas",
+              "ming_dinastia"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dinastia_ming"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dinastia_ming": {
+                  "keyword": {
+                    "termo": "dinastia_ming",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dinastia_ming",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*dinastia_ming",
+              "owl#sameas",
+              "ming_dynastia"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dinastia_ming"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dinastia_ming": {
+                  "keyword": {
+                    "termo": "dinastia_ming",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dinastia_ming",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*dinastia_ming",
+              "owl#sameas",
+              "dynastie_ming"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dinastia_ming"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dinastia_ming": {
+                  "keyword": {
+                    "termo": "dinastia_ming",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dinastia_ming",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*dinastia_ming",
+              "owl#sameas",
+              "ming_(dinastija)"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dinastia_ming"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dinastia_ming": {
+                  "keyword": {
+                    "termo": "dinastia_ming",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dinastia_ming",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*dinastia_ming",
+              "owl#sameas",
+              "ming_dinasztia"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dinastia_ming"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dinastia_ming": {
+                  "keyword": {
+                    "termo": "dinastia_ming",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dinastia_ming",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*dinastia_ming",
+              "owl#sameas",
+              "dinasti_ming"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dinastia_ming"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dinastia_ming": {
+                  "keyword": {
+                    "termo": "dinastia_ming",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dinastia_ming",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*dinastia_ming",
+              "owl#sameas",
+              "mingveldi"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dinastia_ming"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dinastia_ming": {
+                  "keyword": {
+                    "termo": "dinastia_ming",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dinastia_ming",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*dinastia_ming",
+              "owl#sameas",
+              "wangsa_ming"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dinastia_ming"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dinastia_ming": {
+                  "keyword": {
+                    "termo": "dinastia_ming",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dinastia_ming",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*dinastia_ming",
+              "owl#sameas",
+              "domus_ming"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dinastia_ming"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dinastia_ming": {
+                  "keyword": {
+                    "termo": "dinastia_ming",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dinastia_ming",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*dinastia_ming",
+              "owl#sameas",
+              "mingu_dinastija"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dinastia_ming"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dinastia_ming": {
+                  "keyword": {
+                    "termo": "dinastia_ming",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dinastia_ming",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*dinastia_ming",
+              "owl#sameas",
+              "minu_dinastija"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dinastia_ming"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dinastia_ming": {
+                  "keyword": {
+                    "termo": "dinastia_ming",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dinastia_ming",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*dinastia_ming",
+              "owl#sameas",
+              "_()"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dinastia_ming"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dinastia_ming": {
+                  "keyword": {
+                    "termo": "dinastia_ming",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dinastia_ming",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*dinastia_ming",
+              "owl#sameas",
+              "ming_dynastie"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dinastia_ming"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dinastia_ming": {
+                  "keyword": {
+                    "termo": "dinastia_ming",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dinastia_ming",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*dinastia_ming",
+              "owl#sameas",
+              "ming"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "dinastia_ming"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "dinastia_ming": {
+                  "keyword": {
+                    "termo": "dinastia_ming",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "dinastia_ming",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 1368894200,
+      "total_time": 11323465000
+    }
+  }
+]

@@ -1,0 +1,2030 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "Qual",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "papa",
+          "palavra_canonica": "papa",
+          "tags": [
+            "<food-h>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "fundou",
+          "palavra_canonica": "fundar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Televisão_do_Vaticano",
+          "palavra_canonica": "Televisão_do_Vaticano",
+          "tags": [
+            "<org>",
+            "<*>",
+            "<heur>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "Qual",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "papa",
+          "palavra_canonica": "papa",
+          "tags": [
+            "<food-h>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "pope",
+                "sinonimo": "pontífice",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "papa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Papa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "pope",
+                "sinonimo": "Holy_Father",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Alexander_Pope",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "pope",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Pope",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "pontiff",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Roman_Catholic_Pope",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Catholic_Pope",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Bishop_of_Rome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Vicar_of_Christ",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "fundou",
+          "palavra_canonica": "fundar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "establish",
+                "sinonimo": "estabelecer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
+                "sinonimo": "fundar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "establish",
+                "sinonimo": "establish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
+                "sinonimo": "plant",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
+                "sinonimo": "institute",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
+                "sinonimo": "found",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
+                "sinonimo": "constitute",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Televisão_do_Vaticano",
+          "palavra_canonica": "Televisão_do_Vaticano",
+          "tags": [
+            "<org>",
+            "<*>",
+            "<heur>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 9,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "qual",
+        "confianca": 0.86,
+        "ids": [
+          3
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "papa",
+          "palavra_canonica": "papa",
+          "tags": [
+            "<food-h>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "pope",
+                "sinonimo": "pontífice",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "papa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Papa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "pope",
+                "sinonimo": "Holy_Father",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Alexander_Pope",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "pope",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Pope",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "pontiff",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Roman_Catholic_Pope",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Catholic_Pope",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Bishop_of_Rome",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pope",
+                "sinonimo": "Vicar_of_Christ",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "fundou",
+          "palavra_canonica": "fundar",
+          "tags": [
+            "<fmc>",
+            "<vH>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "establish",
+                "sinonimo": "estabelecer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
+                "sinonimo": "fundar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "establish",
+                "sinonimo": "establish",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
+                "sinonimo": "plant",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
+                "sinonimo": "institute",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
+                "sinonimo": "found",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "establish",
+                "sinonimo": "constitute",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Televisão_do_Vaticano",
+          "palavra_canonica": "Televisão_do_Vaticano",
+          "tags": [
+            "<org>",
+            "<*>",
+            "<heur>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "acta_apostolicae_sedis",
+              "*fundador",
+              "*papa_pio_x"
+            ]
+          ],
+          "score": 4.3432665,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador"
+            ],
+            "score_detail": {
+              "m1": 3.6766,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa_pio_x",
+                  "score": 1.6766001
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 0
+        },
+        {
+          "triples": [
+            [
+              "casa_de_medici",
+              "titulos",
+              "*papa"
+            ],
+            [
+              "casa_de_medici",
+              "*fundador",
+              "cosme_de_medici"
+            ]
+          ],
+          "score": 4.3333335,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador"
+            ],
+            "score_detail": {
+              "m1": 4.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*papa_pio_xii",
+              "wikipageusestemplate",
+              "*papa"
+            ],
+            [
+              "instituto_para_as_obras_de_religiao",
+              "*fundador",
+              "*papa_pio_xii"
+            ]
+          ],
+          "score": 4.3333335,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador"
+            ],
+            "score_detail": {
+              "m1": 4.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*papa_pio_x",
+              "wikipageusestemplate",
+              "*papa"
+            ],
+            [
+              "acta_apostolicae_sedis",
+              "*fundador",
+              "*papa_pio_x"
+            ]
+          ],
+          "score": 4.3333335,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador"
+            ],
+            "score_detail": {
+              "m1": 4.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*papa_joao_xxii",
+              "wikipageusestemplate",
+              "*papa"
+            ],
+            [
+              "ordem_de_cristo",
+              "*fundador",
+              "*papa_joao_xxii"
+            ]
+          ],
+          "score": 4.3333335,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador"
+            ],
+            "score_detail": {
+              "m1": 4.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "familia_albani",
+              "titulos",
+              "*papa"
+            ],
+            [
+              "familia_albani",
+              "*fundador",
+              "michael laci"
+            ]
+          ],
+          "score": 4.3333335,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador"
+            ],
+            "score_detail": {
+              "m1": 4.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "tv_morada_do_sol",
+              "*fundacao",
+              "1979"
+            ],
+            [
+              "tv_morada_do_sol",
+              "*fundador",
+              "roberto_montoro"
+            ]
+          ],
+          "score": 4.3333335,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "fundador"
+            ],
+            "score_detail": {
+              "m1": 4.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "tv_morada_do_sol",
+              "*fundador",
+              "roberto_montoro"
+            ],
+            [
+              "tv_morada_do_sol",
+              "*fundacao",
+              "1979"
+            ]
+          ],
+          "score": 4.3333335,
+          "detail": {
+            "keywords": [
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 4.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "instituto_para_as_obras_de_religiao",
+              "*fundador",
+              "*papa_pio_xii"
+            ],
+            [
+              "*papa_pio_xii",
+              "wikipageusestemplate",
+              "*papa"
+            ]
+          ],
+          "score": 4.3333335,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador"
+            ],
+            "score_detail": {
+              "m1": 4.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "minatec",
+              "*fundador",
+              "grenoble_inp"
+            ],
+            [
+              "grenoble_inp",
+              "*fundacao",
+              "1970"
+            ]
+          ],
+          "score": 4.3333335,
+          "detail": {
+            "keywords": [
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 4.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "universidade_federal_de_santa_maria",
+              "*fundacao",
+              "14"
+            ],
+            [
+              "universidade_federal_de_santa_maria",
+              "*fundador",
+              "jose mariano da rocha filho"
+            ]
+          ],
+          "score": 4.3333335,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "fundador"
+            ],
+            "score_detail": {
+              "m1": 4.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "universidade_federal_de_santa_maria",
+              "*fundador",
+              "jose mariano da rocha filho"
+            ],
+            [
+              "universidade_federal_de_santa_maria",
+              "*fundacao",
+              "14"
+            ]
+          ],
+          "score": 4.3333335,
+          "detail": {
+            "keywords": [
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 4.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "ordem_de_cristo",
+              "*fundador",
+              "*papa_joao_xxii"
+            ],
+            [
+              "*papa_joao_xxii",
+              "wikipageusestemplate",
+              "*papa"
+            ]
+          ],
+          "score": 4.3333335,
+          "detail": {
+            "keywords": [
+              "papa",
+              "fundador"
+            ],
+            "score_detail": {
+              "m1": 4.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "papa": {
+                  "keyword": {
+                    "termo": "papa",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "papa",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "tv_ms_record",
+              "*fundador",
+              "ivan paes barbosa"
+            ],
+            [
+              "tv_ms_record",
+              "*fundacao",
+              "fevereiro de 1987"
+            ]
+          ],
+          "score": 4.3333335,
+          "detail": {
+            "keywords": [
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 4.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "tv_ms_record",
+              "*fundacao",
+              "fevereiro de 1987"
+            ],
+            [
+              "tv_ms_record",
+              "*fundador",
+              "ivan paes barbosa"
+            ]
+          ],
+          "score": 4.3333335,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "fundador"
+            ],
+            "score_detail": {
+              "m1": 4.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "punta_indio_(partido)",
+              "*fundacao",
+              "6"
+            ],
+            [
+              "punta_indio_(partido)",
+              "*fundador",
+              "lei provinciana"
+            ]
+          ],
+          "score": 4.3333335,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "fundador"
+            ],
+            "score_detail": {
+              "m1": 4.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "punta_indio_(partido)",
+              "*fundador",
+              "lei provinciana"
+            ],
+            [
+              "punta_indio_(partido)",
+              "*fundacao",
+              "6"
+            ]
+          ],
+          "score": 4.3333335,
+          "detail": {
+            "keywords": [
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 4.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "tv_serra_do_carmo",
+              "*fundacao",
+              "decada de 90"
+            ],
+            [
+              "tv_serra_do_carmo",
+              "*fundador",
+              "joao_flavio"
+            ]
+          ],
+          "score": 4.3333335,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "fundador"
+            ],
+            "score_detail": {
+              "m1": 4.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "tv_serra_do_carmo",
+              "*fundador",
+              "joao_flavio"
+            ],
+            [
+              "tv_serra_do_carmo",
+              "*fundacao",
+              "decada de 90"
+            ]
+          ],
+          "score": 4.3333335,
+          "detail": {
+            "keywords": [
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 4.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "tv_girassol",
+              "*fundacao",
+              "1997"
+            ],
+            [
+              "tv_girassol",
+              "*fundador",
+              "euclides neri"
+            ]
+          ],
+          "score": 4.3333335,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "fundador"
+            ],
+            "score_detail": {
+              "m1": 4.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "tv_girassol",
+              "*fundador",
+              "euclides neri"
+            ],
+            [
+              "tv_girassol",
+              "*fundacao",
+              "1997"
+            ]
+          ],
+          "score": 4.3333335,
+          "detail": {
+            "keywords": [
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 4.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "tv_caxias_(net_caxias)",
+              "*fundacao",
+              "13"
+            ],
+            [
+              "tv_caxias_(net_caxias)",
+              "*fundador",
+              "daniel jardim"
+            ]
+          ],
+          "score": 4.3333335,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "fundador"
+            ],
+            "score_detail": {
+              "m1": 4.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "tv_caxias_(net_caxias)",
+              "*fundador",
+              "daniel jardim"
+            ],
+            [
+              "tv_caxias_(net_caxias)",
+              "*fundacao",
+              "13"
+            ]
+          ],
+          "score": 4.3333335,
+          "detail": {
+            "keywords": [
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 4.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "tv_real_(palmas)",
+              "*fundador",
+              "siqueira campos"
+            ],
+            [
+              "tv_real_(palmas)",
+              "*fundacao",
+              "1992"
+            ]
+          ],
+          "score": 4.3333335,
+          "detail": {
+            "keywords": [
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 4.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "tv_real_(palmas)",
+              "*fundacao",
+              "1992"
+            ],
+            [
+              "tv_real_(palmas)",
+              "*fundador",
+              "siqueira campos"
+            ]
+          ],
+          "score": 4.3333335,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "fundador"
+            ],
+            "score_detail": {
+              "m1": 4.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "tv_piratini",
+              "*fundador",
+              "assis_chateaubriand"
+            ],
+            [
+              "tv_piratini",
+              "*fundacao",
+              "20"
+            ]
+          ],
+          "score": 4.3333335,
+          "detail": {
+            "keywords": [
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 4.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "tv_piratini",
+              "*fundacao",
+              "20"
+            ],
+            [
+              "tv_piratini",
+              "*fundador",
+              "assis_chateaubriand"
+            ]
+          ],
+          "score": 4.3333335,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "fundador"
+            ],
+            "score_detail": {
+              "m1": 4.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "tv_altiora",
+              "*fundador",
+              "dr. joao soares de souza lima"
+            ],
+            [
+              "tv_altiora",
+              "*fundacao",
+              "2001"
+            ]
+          ],
+          "score": 4.3333335,
+          "detail": {
+            "keywords": [
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 4.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "tv_altiora",
+              "*fundador",
+              "dr. demerval goncalves"
+            ],
+            [
+              "tv_altiora",
+              "*fundacao",
+              "2001"
+            ]
+          ],
+          "score": 4.3333335,
+          "detail": {
+            "keywords": [
+              "fundador",
+              "fundacao"
+            ],
+            "score_detail": {
+              "m1": 4.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "tv_altiora",
+              "*fundacao",
+              "2001"
+            ],
+            [
+              "tv_altiora",
+              "*fundador",
+              "dr. joao soares de souza lima"
+            ]
+          ],
+          "score": 4.3333335,
+          "detail": {
+            "keywords": [
+              "fundacao",
+              "fundador"
+            ],
+            "score_detail": {
+              "m1": 4.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "fundacao": {
+                  "keyword": {
+                    "termo": "fundacao",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundacao",
+                  "score": 2.0
+                },
+                "fundador": {
+                  "keyword": {
+                    "termo": "fundador",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "fundador",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 10040.929317474365,
+      "l_sizes": [
+        15350,
+        316026
+      ],
+      "total_time": 30895.08366584778
+    }
+  }
+]

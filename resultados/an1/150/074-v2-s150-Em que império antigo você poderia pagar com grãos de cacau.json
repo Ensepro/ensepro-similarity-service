@@ -1,0 +1,2987 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "H:prp",
+          "palavra_original": "Em",
+          "palavra_canonica": "em",
+          "tags": [
+            "<clb>",
+            "<*>"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<interr>",
+            "DET",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "império",
+          "palavra_canonica": "império",
+          "tags": [
+            "<Lciv>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "conglomerate",
+                "sinonimo": "conglomerado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "empire",
+                "sinonimo": "Impérios",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "empire",
+                "sinonimo": "Império",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "conglomerate",
+                "sinonimo": "império",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "empire",
+                "sinonimo": "Imperio",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "empire",
+                "sinonimo": "empire",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "empire",
+                "sinonimo": "Empire",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "conglomerate",
+                "sinonimo": "conglomerate",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "empire",
+                "sinonimo": "imperium",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:adj",
+          "palavra_original": "antigo",
+          "palavra_canonica": "antigo",
+          "tags": [
+            "<jh>",
+            "<np-close>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "S:pron-pers",
+          "palavra_original": "você",
+          "palavra_canonica": "você",
+          "tags": [
+            "M/F",
+            "3S",
+            "NOM"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "P:vp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "Vaux:v-fin",
+          "palavra_original": "poderia",
+          "palavra_canonica": "poder",
+          "tags": [
+            "<fmc>",
+            "<aux>",
+            "COND",
+            "3S",
+            "VFIN"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "Vm:v-inf",
+          "palavra_original": "pagar",
+          "palavra_canonica": "pagar",
+          "tags": [
+            "<vH>",
+            "<mv>",
+            "<uninfl>",
+            "3S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "compensate",
+                "sinonimo": "recompensar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "compensate",
+                "sinonimo": "compensar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "pay",
+                "sinonimo": "pagar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pay_up",
+                "sinonimo": "custear",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "compensate",
+                "sinonimo": "remunerar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "compensate",
+                "sinonimo": "indemnizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "pay",
+                "sinonimo": "valer_a_pena",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "compensate",
+                "sinonimo": "indenizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "buy_off",
+                "sinonimo": "buy_off",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "foot",
+                "sinonimo": "foot",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "requite",
+                "sinonimo": "requite",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "compensate",
+                "sinonimo": "compensate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "compensate",
+                "sinonimo": "indemnify",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "pay_up",
+                "sinonimo": "pay_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pay",
+                "sinonimo": "pay",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "compensate",
+                "sinonimo": "remunerate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "compensate",
+                "sinonimo": "repair",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "buy_off",
+                "sinonimo": "pay_off",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "foot",
+                "sinonimo": "pick",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "compensate",
+                "sinonimo": "recompense",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "pay_up",
+                "sinonimo": "ante_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "requite",
+                "sinonimo": "repay",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 12,
+          "tag_inicial": "fA:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 13,
+          "tag_inicial": "H:prp",
+          "palavra_original": "com",
+          "palavra_canonica": "com",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 14,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 15,
+          "tag_inicial": "H:n",
+          "palavra_original": "grãos",
+          "palavra_canonica": "grão",
+          "tags": [
+            "<cc>",
+            "<anbo>",
+            "<sick-c>",
+            "M",
+            "P"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "grain",
+                "sinonimo": "Cariopse",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "grain",
+                "sinonimo": "cariopse",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "grain",
+                "sinonimo": "partícula",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "grain",
+                "sinonimo": "Cariópse",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "grain",
+                "sinonimo": "grão",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "06"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "grain",
+                "sinonimo": "metric_grain",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "grain",
+                "sinonimo": "grain",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "grain",
+                "sinonimo": "caryopsis",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "07"
+              }
+            ]
+          }
+        },
+        {
+          "id": 16,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 17,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<np-close>"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 18,
+          "tag_inicial": "DP:n",
+          "palavra_original": "cacau",
+          "palavra_canonica": "cacau",
+          "tags": [
+            "<food>",
+            "<drink>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "cacao",
+                "sinonimo": "cacau",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cacao",
+                "sinonimo": "Cacau",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cocoa",
+                "sinonimo": "chocolate_quente",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cacao",
+                "sinonimo": "Theobroma_cacao",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cacao",
+                "sinonimo": "cacaueiro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cocoa",
+                "sinonimo": "pralina",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cacao_bean",
+                "sinonimo": "grão_de_cacau",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cocoa",
+                "sinonimo": "Chocolate_quente",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cocoa",
+                "sinonimo": "chocolate",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "cacao",
+                "sinonimo": "cacao_tree",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cacao_bean",
+                "sinonimo": "cacao_bean",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cacao",
+                "sinonimo": "chocolate_tree",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cocoa",
+                "sinonimo": "hot_chocolate",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cacao",
+                "sinonimo": "Theobroma_cacao",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cacao",
+                "sinonimo": "cacao",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cocoa",
+                "sinonimo": "cocoa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cacao_bean",
+                "sinonimo": "cocoa_bean",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cocoa",
+                "sinonimo": "chocolate",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cocoa",
+                "sinonimo": "drinking_chocolate",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 19,
+          "tag_inicial": "?",
+          "palavra_original": " ",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "[ [ QUE:fcl|1| [ fA:pp|2| [H:prp|3| Em] [ DP:np|4| [DN:pron-int|5| que] [H:n|6| império] [DN:adj|7| antigo] ] ] [S:pron-pers|8| você] [ P:vp|9| [Vaux:v-fin|10| poderia] [Vm:v-inf|11| pagar] ] [ fA:pp|12| [H:prp|13| com] [ DP:np|14| [H:n|15| grãos] [ DN:pp|16| [H:prp|17| de] [DP:n|18| cacau] ] ] ] [?|19|  ] ] ]",
+      "tipo": {
+        "tipo": "em_que",
+        "confianca": 0.85,
+        "ids": [
+          3,
+          5
+        ]
+      },
+      "locucao_verbal": [
+        [
+          {
+            "id": 10,
+            "tag_inicial": "Vaux:v-fin",
+            "palavra_original": "poderia",
+            "palavra_canonica": "poder",
+            "tags": [
+              "<fmc>",
+              "<aux>",
+              "COND",
+              "3S",
+              "VFIN"
+            ],
+            "nivel": 2,
+            "sinonimos": null
+          },
+          {
+            "id": 11,
+            "tag_inicial": "Vm:v-inf",
+            "palavra_original": "pagar",
+            "palavra_canonica": "pagar",
+            "tags": [
+              "<vH>",
+              "<mv>",
+              "<uninfl>",
+              "3S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "compensate",
+                  "sinonimo": "recompensar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "compensate",
+                  "sinonimo": "compensar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "pay",
+                  "sinonimo": "pagar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "pay_up",
+                  "sinonimo": "custear",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "compensate",
+                  "sinonimo": "remunerar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "06"
+                },
+                {
+                  "synset": "compensate",
+                  "sinonimo": "indemnizar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "pay",
+                  "sinonimo": "valer_a_pena",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "07"
+                },
+                {
+                  "synset": "compensate",
+                  "sinonimo": "indenizar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "buy_off",
+                  "sinonimo": "buy_off",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "foot",
+                  "sinonimo": "foot",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "requite",
+                  "sinonimo": "requite",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "compensate",
+                  "sinonimo": "compensate",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "compensate",
+                  "sinonimo": "indemnify",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "pay_up",
+                  "sinonimo": "pay_up",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "pay",
+                  "sinonimo": "pay",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "compensate",
+                  "sinonimo": "remunerate",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "06"
+                },
+                {
+                  "synset": "compensate",
+                  "sinonimo": "repair",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "buy_off",
+                  "sinonimo": "pay_off",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "foot",
+                  "sinonimo": "pick",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "compensate",
+                  "sinonimo": "recompense",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "pay_up",
+                  "sinonimo": "ante_up",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "requite",
+                  "sinonimo": "repay",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          }
+        ]
+      ],
+      "termos_relevantes": [
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "império",
+          "palavra_canonica": "império",
+          "tags": [
+            "<Lciv>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "conglomerate",
+                "sinonimo": "conglomerado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "empire",
+                "sinonimo": "Impérios",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "empire",
+                "sinonimo": "Império",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "conglomerate",
+                "sinonimo": "império",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "empire",
+                "sinonimo": "Imperio",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "empire",
+                "sinonimo": "empire",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "empire",
+                "sinonimo": "Empire",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "conglomerate",
+                "sinonimo": "conglomerate",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "empire",
+                "sinonimo": "imperium",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 11,
+          "tag_inicial": "Vm:v-inf",
+          "palavra_original": "pagar",
+          "palavra_canonica": "pagar",
+          "tags": [
+            "<vH>",
+            "<mv>",
+            "<uninfl>",
+            "3S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "compensate",
+                "sinonimo": "recompensar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "compensate",
+                "sinonimo": "compensar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "pay",
+                "sinonimo": "pagar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pay_up",
+                "sinonimo": "custear",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "compensate",
+                "sinonimo": "remunerar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "compensate",
+                "sinonimo": "indemnizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "pay",
+                "sinonimo": "valer_a_pena",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "compensate",
+                "sinonimo": "indenizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "buy_off",
+                "sinonimo": "buy_off",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "foot",
+                "sinonimo": "foot",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "requite",
+                "sinonimo": "requite",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "compensate",
+                "sinonimo": "compensate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "compensate",
+                "sinonimo": "indemnify",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "pay_up",
+                "sinonimo": "pay_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pay",
+                "sinonimo": "pay",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "compensate",
+                "sinonimo": "remunerate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "compensate",
+                "sinonimo": "repair",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "buy_off",
+                "sinonimo": "pay_off",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "foot",
+                "sinonimo": "pick",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "compensate",
+                "sinonimo": "recompense",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "pay_up",
+                "sinonimo": "ante_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "requite",
+                "sinonimo": "repay",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 15,
+          "tag_inicial": "H:n",
+          "palavra_original": "grãos",
+          "palavra_canonica": "grão",
+          "tags": [
+            "<cc>",
+            "<anbo>",
+            "<sick-c>",
+            "M",
+            "P"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "grain",
+                "sinonimo": "Cariopse",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "grain",
+                "sinonimo": "cariopse",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "grain",
+                "sinonimo": "partícula",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "grain",
+                "sinonimo": "Cariópse",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "grain",
+                "sinonimo": "grão",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "06"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "grain",
+                "sinonimo": "metric_grain",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "grain",
+                "sinonimo": "grain",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "grain",
+                "sinonimo": "caryopsis",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "07"
+              }
+            ]
+          }
+        },
+        {
+          "id": 18,
+          "tag_inicial": "DP:n",
+          "palavra_original": "cacau",
+          "palavra_canonica": "cacau",
+          "tags": [
+            "<food>",
+            "<drink>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "cacao",
+                "sinonimo": "cacau",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cacao",
+                "sinonimo": "Cacau",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cocoa",
+                "sinonimo": "chocolate_quente",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cacao",
+                "sinonimo": "Theobroma_cacao",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cacao",
+                "sinonimo": "cacaueiro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cocoa",
+                "sinonimo": "pralina",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cacao_bean",
+                "sinonimo": "grão_de_cacau",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cocoa",
+                "sinonimo": "Chocolate_quente",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cocoa",
+                "sinonimo": "chocolate",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "cacao",
+                "sinonimo": "cacao_tree",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cacao_bean",
+                "sinonimo": "cacao_bean",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cacao",
+                "sinonimo": "chocolate_tree",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cocoa",
+                "sinonimo": "hot_chocolate",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cacao",
+                "sinonimo": "Theobroma_cacao",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cacao",
+                "sinonimo": "cacao",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cocoa",
+                "sinonimo": "cocoa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cacao_bean",
+                "sinonimo": "cocoa_bean",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cocoa",
+                "sinonimo": "chocolate",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cocoa",
+                "sinonimo": "drinking_chocolate",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 6,
+            "tag_inicial": "H:n",
+            "palavra_original": "império",
+            "palavra_canonica": "império",
+            "tags": [
+              "<Lciv>",
+              "M",
+              "S"
+            ],
+            "nivel": 3,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "conglomerate",
+                  "sinonimo": "conglomerado",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "empire",
+                  "sinonimo": "Impérios",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "empire",
+                  "sinonimo": "Império",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "conglomerate",
+                  "sinonimo": "império",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "empire",
+                  "sinonimo": "Imperio",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "05"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "empire",
+                  "sinonimo": "empire",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "empire",
+                  "sinonimo": "Empire",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "conglomerate",
+                  "sinonimo": "conglomerate",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "empire",
+                  "sinonimo": "imperium",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 7,
+            "tag_inicial": "DN:adj",
+            "palavra_original": "antigo",
+            "palavra_canonica": "antigo",
+            "tags": [
+              "<jh>",
+              "<np-close>",
+              "M",
+              "S"
+            ],
+            "nivel": 3,
+            "sinonimos": null
+          }
+        },
+        {
+          "nome": {
+            "id": 15,
+            "tag_inicial": "H:n",
+            "palavra_original": "grãos",
+            "palavra_canonica": "grão",
+            "tags": [
+              "<cc>",
+              "<anbo>",
+              "<sick-c>",
+              "M",
+              "P"
+            ],
+            "nivel": 3,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "grain",
+                  "sinonimo": "Cariopse",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "07"
+                },
+                {
+                  "synset": "grain",
+                  "sinonimo": "cariopse",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "07"
+                },
+                {
+                  "synset": "grain",
+                  "sinonimo": "partícula",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "grain",
+                  "sinonimo": "Cariópse",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "07"
+                },
+                {
+                  "synset": "grain",
+                  "sinonimo": "grão",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "06"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "grain",
+                  "sinonimo": "metric_grain",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "grain",
+                  "sinonimo": "grain",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "grain",
+                  "sinonimo": "caryopsis",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "07"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 18,
+            "tag_inicial": "DP:n",
+            "palavra_original": "cacau",
+            "palavra_canonica": "cacau",
+            "tags": [
+              "<food>",
+              "<drink>",
+              "M",
+              "S"
+            ],
+            "nivel": 4,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "cacao",
+                  "sinonimo": "cacau",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cacao",
+                  "sinonimo": "Cacau",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cocoa",
+                  "sinonimo": "chocolate_quente",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cacao",
+                  "sinonimo": "Theobroma_cacao",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cacao",
+                  "sinonimo": "cacaueiro",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cocoa",
+                  "sinonimo": "pralina",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cacao_bean",
+                  "sinonimo": "grão_de_cacau",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cocoa",
+                  "sinonimo": "Chocolate_quente",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cocoa",
+                  "sinonimo": "chocolate",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "cacao",
+                  "sinonimo": "cacao_tree",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cacao_bean",
+                  "sinonimo": "cacao_bean",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cacao",
+                  "sinonimo": "chocolate_tree",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cocoa",
+                  "sinonimo": "hot_chocolate",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cacao",
+                  "sinonimo": "Theobroma_cacao",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cacao",
+                  "sinonimo": "cacao",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cocoa",
+                  "sinonimo": "cocoa",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cacao_bean",
+                  "sinonimo": "cocoa_bean",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cocoa",
+                  "sinonimo": "chocolate",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cocoa",
+                  "sinonimo": "drinking_chocolate",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "H:prp",
+          "palavra_original": "Em",
+          "palavra_canonica": "em",
+          "tags": [
+            "<clb>",
+            "<*>"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<interr>",
+            "DET",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "império",
+          "palavra_canonica": "império",
+          "tags": [
+            "<Lciv>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "conglomerate",
+                "sinonimo": "conglomerado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "empire",
+                "sinonimo": "Impérios",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "empire",
+                "sinonimo": "Império",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "conglomerate",
+                "sinonimo": "império",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "empire",
+                "sinonimo": "Imperio",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "empire",
+                "sinonimo": "empire",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "empire",
+                "sinonimo": "Empire",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "conglomerate",
+                "sinonimo": "conglomerate",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "empire",
+                "sinonimo": "imperium",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:adj",
+          "palavra_original": "antigo",
+          "palavra_canonica": "antigo",
+          "tags": [
+            "<jh>",
+            "<np-close>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "S:pron-pers",
+          "palavra_original": "você",
+          "palavra_canonica": "você",
+          "tags": [
+            "M/F",
+            "3S",
+            "NOM"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "P:vp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "Vaux:v-fin",
+          "palavra_original": "poderia",
+          "palavra_canonica": "poder",
+          "tags": [
+            "<fmc>",
+            "<aux>",
+            "COND",
+            "3S",
+            "VFIN"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "Vm:v-inf",
+          "palavra_original": "pagar",
+          "palavra_canonica": "pagar",
+          "tags": [
+            "<vH>",
+            "<mv>",
+            "<uninfl>",
+            "3S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "compensate",
+                "sinonimo": "recompensar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "compensate",
+                "sinonimo": "compensar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "pay",
+                "sinonimo": "pagar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pay_up",
+                "sinonimo": "custear",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "compensate",
+                "sinonimo": "remunerar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "compensate",
+                "sinonimo": "indemnizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "pay",
+                "sinonimo": "valer_a_pena",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "compensate",
+                "sinonimo": "indenizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "buy_off",
+                "sinonimo": "buy_off",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "foot",
+                "sinonimo": "foot",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "requite",
+                "sinonimo": "requite",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "compensate",
+                "sinonimo": "compensate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "compensate",
+                "sinonimo": "indemnify",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "pay_up",
+                "sinonimo": "pay_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pay",
+                "sinonimo": "pay",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "compensate",
+                "sinonimo": "remunerate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "compensate",
+                "sinonimo": "repair",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "buy_off",
+                "sinonimo": "pay_off",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "foot",
+                "sinonimo": "pick",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "compensate",
+                "sinonimo": "recompense",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "pay_up",
+                "sinonimo": "ante_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "requite",
+                "sinonimo": "repay",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 12,
+          "tag_inicial": "fA:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 13,
+          "tag_inicial": "H:prp",
+          "palavra_original": "com",
+          "palavra_canonica": "com",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 14,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 15,
+          "tag_inicial": "H:n",
+          "palavra_original": "grãos",
+          "palavra_canonica": "grão",
+          "tags": [
+            "<cc>",
+            "<anbo>",
+            "<sick-c>",
+            "M",
+            "P"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "grain",
+                "sinonimo": "Cariopse",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "grain",
+                "sinonimo": "cariopse",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "grain",
+                "sinonimo": "partícula",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "grain",
+                "sinonimo": "Cariópse",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "grain",
+                "sinonimo": "grão",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "06"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "grain",
+                "sinonimo": "metric_grain",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "grain",
+                "sinonimo": "grain",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "grain",
+                "sinonimo": "caryopsis",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "07"
+              }
+            ]
+          }
+        },
+        {
+          "id": 16,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 17,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<np-close>"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 18,
+          "tag_inicial": "DP:n",
+          "palavra_original": "cacau",
+          "palavra_canonica": "cacau",
+          "tags": [
+            "<food>",
+            "<drink>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "cacao",
+                "sinonimo": "cacau",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cacao",
+                "sinonimo": "Cacau",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cocoa",
+                "sinonimo": "chocolate_quente",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cacao",
+                "sinonimo": "Theobroma_cacao",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cacao",
+                "sinonimo": "cacaueiro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cocoa",
+                "sinonimo": "pralina",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cacao_bean",
+                "sinonimo": "grão_de_cacau",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cocoa",
+                "sinonimo": "Chocolate_quente",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cocoa",
+                "sinonimo": "chocolate",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "cacao",
+                "sinonimo": "cacao_tree",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cacao_bean",
+                "sinonimo": "cacao_bean",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cacao",
+                "sinonimo": "chocolate_tree",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cocoa",
+                "sinonimo": "hot_chocolate",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cacao",
+                "sinonimo": "Theobroma_cacao",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cacao",
+                "sinonimo": "cacao",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cocoa",
+                "sinonimo": "cocoa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cacao_bean",
+                "sinonimo": "cocoa_bean",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cocoa",
+                "sinonimo": "chocolate",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cocoa",
+                "sinonimo": "drinking_chocolate",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 19,
+          "tag_inicial": "?",
+          "palavra_original": " ",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "[ [ QUE:fcl|1| [ fA:pp|2| [H:prp|3| Em] [ DP:np|4| [DN:pron-int|5| que] [H:n|6| império] [DN:adj|7| antigo] ] ] [S:pron-pers|8| você] [ P:vp|9| [Vaux:v-fin|10| poderia] [Vm:v-inf|11| pagar] ] [ fA:pp|12| [H:prp|13| com] [ DP:np|14| [H:n|15| grãos] [ DN:pp|16| [H:prp|17| de] [DP:n|18| cacau] ] ] ] [?|19|  ] ] ]",
+      "tipo": {
+        "tipo": "em_que",
+        "confianca": 0.85,
+        "ids": [
+          3,
+          5
+        ]
+      },
+      "locucao_verbal": [
+        [
+          {
+            "id": 10,
+            "tag_inicial": "Vaux:v-fin",
+            "palavra_original": "poderia",
+            "palavra_canonica": "poder",
+            "tags": [
+              "<fmc>",
+              "<aux>",
+              "COND",
+              "3S",
+              "VFIN"
+            ],
+            "nivel": 2,
+            "sinonimos": null
+          },
+          {
+            "id": 11,
+            "tag_inicial": "Vm:v-inf",
+            "palavra_original": "pagar",
+            "palavra_canonica": "pagar",
+            "tags": [
+              "<vH>",
+              "<mv>",
+              "<uninfl>",
+              "3S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "compensate",
+                  "sinonimo": "recompensar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "compensate",
+                  "sinonimo": "compensar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "pay",
+                  "sinonimo": "pagar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "pay_up",
+                  "sinonimo": "custear",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "compensate",
+                  "sinonimo": "remunerar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "06"
+                },
+                {
+                  "synset": "compensate",
+                  "sinonimo": "indemnizar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "pay",
+                  "sinonimo": "valer_a_pena",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "07"
+                },
+                {
+                  "synset": "compensate",
+                  "sinonimo": "indenizar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "buy_off",
+                  "sinonimo": "buy_off",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "foot",
+                  "sinonimo": "foot",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "requite",
+                  "sinonimo": "requite",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "compensate",
+                  "sinonimo": "compensate",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "compensate",
+                  "sinonimo": "indemnify",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "pay_up",
+                  "sinonimo": "pay_up",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "pay",
+                  "sinonimo": "pay",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "compensate",
+                  "sinonimo": "remunerate",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "06"
+                },
+                {
+                  "synset": "compensate",
+                  "sinonimo": "repair",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "buy_off",
+                  "sinonimo": "pay_off",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "foot",
+                  "sinonimo": "pick",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "compensate",
+                  "sinonimo": "recompense",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "pay_up",
+                  "sinonimo": "ante_up",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "requite",
+                  "sinonimo": "repay",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          }
+        ]
+      ],
+      "termos_relevantes": [
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "império",
+          "palavra_canonica": "império",
+          "tags": [
+            "<Lciv>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "conglomerate",
+                "sinonimo": "conglomerado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "empire",
+                "sinonimo": "Impérios",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "empire",
+                "sinonimo": "Império",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "conglomerate",
+                "sinonimo": "império",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "empire",
+                "sinonimo": "Imperio",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "empire",
+                "sinonimo": "empire",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "empire",
+                "sinonimo": "Empire",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "conglomerate",
+                "sinonimo": "conglomerate",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "empire",
+                "sinonimo": "imperium",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 11,
+          "tag_inicial": "Vm:v-inf",
+          "palavra_original": "pagar",
+          "palavra_canonica": "pagar",
+          "tags": [
+            "<vH>",
+            "<mv>",
+            "<uninfl>",
+            "3S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "compensate",
+                "sinonimo": "recompensar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "compensate",
+                "sinonimo": "compensar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "pay",
+                "sinonimo": "pagar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pay_up",
+                "sinonimo": "custear",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "compensate",
+                "sinonimo": "remunerar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "compensate",
+                "sinonimo": "indemnizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "pay",
+                "sinonimo": "valer_a_pena",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "compensate",
+                "sinonimo": "indenizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "buy_off",
+                "sinonimo": "buy_off",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "foot",
+                "sinonimo": "foot",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "requite",
+                "sinonimo": "requite",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "compensate",
+                "sinonimo": "compensate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "compensate",
+                "sinonimo": "indemnify",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "pay_up",
+                "sinonimo": "pay_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pay",
+                "sinonimo": "pay",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "compensate",
+                "sinonimo": "remunerate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "06"
+              },
+              {
+                "synset": "compensate",
+                "sinonimo": "repair",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "buy_off",
+                "sinonimo": "pay_off",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "foot",
+                "sinonimo": "pick",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "compensate",
+                "sinonimo": "recompense",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "pay_up",
+                "sinonimo": "ante_up",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "requite",
+                "sinonimo": "repay",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 15,
+          "tag_inicial": "H:n",
+          "palavra_original": "grãos",
+          "palavra_canonica": "grão",
+          "tags": [
+            "<cc>",
+            "<anbo>",
+            "<sick-c>",
+            "M",
+            "P"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "grain",
+                "sinonimo": "Cariopse",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "grain",
+                "sinonimo": "cariopse",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "grain",
+                "sinonimo": "partícula",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "grain",
+                "sinonimo": "Cariópse",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "grain",
+                "sinonimo": "grão",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "06"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "grain",
+                "sinonimo": "metric_grain",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "grain",
+                "sinonimo": "grain",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "grain",
+                "sinonimo": "caryopsis",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "07"
+              }
+            ]
+          }
+        },
+        {
+          "id": 18,
+          "tag_inicial": "DP:n",
+          "palavra_original": "cacau",
+          "palavra_canonica": "cacau",
+          "tags": [
+            "<food>",
+            "<drink>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "cacao",
+                "sinonimo": "cacau",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cacao",
+                "sinonimo": "Cacau",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cocoa",
+                "sinonimo": "chocolate_quente",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cacao",
+                "sinonimo": "Theobroma_cacao",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cacao",
+                "sinonimo": "cacaueiro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cocoa",
+                "sinonimo": "pralina",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cacao_bean",
+                "sinonimo": "grão_de_cacau",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cocoa",
+                "sinonimo": "Chocolate_quente",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cocoa",
+                "sinonimo": "chocolate",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "cacao",
+                "sinonimo": "cacao_tree",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cacao_bean",
+                "sinonimo": "cacao_bean",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cacao",
+                "sinonimo": "chocolate_tree",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cocoa",
+                "sinonimo": "hot_chocolate",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cacao",
+                "sinonimo": "Theobroma_cacao",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cacao",
+                "sinonimo": "cacao",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cocoa",
+                "sinonimo": "cocoa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cacao_bean",
+                "sinonimo": "cocoa_bean",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cocoa",
+                "sinonimo": "chocolate",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cocoa",
+                "sinonimo": "drinking_chocolate",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 6,
+            "tag_inicial": "H:n",
+            "palavra_original": "império",
+            "palavra_canonica": "império",
+            "tags": [
+              "<Lciv>",
+              "M",
+              "S"
+            ],
+            "nivel": 3,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "conglomerate",
+                  "sinonimo": "conglomerado",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "empire",
+                  "sinonimo": "Impérios",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "empire",
+                  "sinonimo": "Império",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "conglomerate",
+                  "sinonimo": "império",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "empire",
+                  "sinonimo": "Imperio",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "05"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "empire",
+                  "sinonimo": "empire",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "empire",
+                  "sinonimo": "Empire",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "conglomerate",
+                  "sinonimo": "conglomerate",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "empire",
+                  "sinonimo": "imperium",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 7,
+            "tag_inicial": "DN:adj",
+            "palavra_original": "antigo",
+            "palavra_canonica": "antigo",
+            "tags": [
+              "<jh>",
+              "<np-close>",
+              "M",
+              "S"
+            ],
+            "nivel": 3,
+            "sinonimos": null
+          }
+        },
+        {
+          "nome": {
+            "id": 15,
+            "tag_inicial": "H:n",
+            "palavra_original": "grãos",
+            "palavra_canonica": "grão",
+            "tags": [
+              "<cc>",
+              "<anbo>",
+              "<sick-c>",
+              "M",
+              "P"
+            ],
+            "nivel": 3,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "grain",
+                  "sinonimo": "Cariopse",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "07"
+                },
+                {
+                  "synset": "grain",
+                  "sinonimo": "cariopse",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "07"
+                },
+                {
+                  "synset": "grain",
+                  "sinonimo": "partícula",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "grain",
+                  "sinonimo": "Cariópse",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "07"
+                },
+                {
+                  "synset": "grain",
+                  "sinonimo": "grão",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "06"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "grain",
+                  "sinonimo": "metric_grain",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "grain",
+                  "sinonimo": "grain",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "04"
+                },
+                {
+                  "synset": "grain",
+                  "sinonimo": "caryopsis",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "07"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 18,
+            "tag_inicial": "DP:n",
+            "palavra_original": "cacau",
+            "palavra_canonica": "cacau",
+            "tags": [
+              "<food>",
+              "<drink>",
+              "M",
+              "S"
+            ],
+            "nivel": 4,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "cacao",
+                  "sinonimo": "cacau",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cacao",
+                  "sinonimo": "Cacau",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cocoa",
+                  "sinonimo": "chocolate_quente",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cacao",
+                  "sinonimo": "Theobroma_cacao",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cacao",
+                  "sinonimo": "cacaueiro",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cocoa",
+                  "sinonimo": "pralina",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cacao_bean",
+                  "sinonimo": "grão_de_cacau",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cocoa",
+                  "sinonimo": "Chocolate_quente",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cocoa",
+                  "sinonimo": "chocolate",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "cacao",
+                  "sinonimo": "cacao_tree",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cacao_bean",
+                  "sinonimo": "cacao_bean",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cacao",
+                  "sinonimo": "chocolate_tree",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cocoa",
+                  "sinonimo": "hot_chocolate",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cacao",
+                  "sinonimo": "Theobroma_cacao",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cacao",
+                  "sinonimo": "cacao",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cocoa",
+                  "sinonimo": "cocoa",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cacao_bean",
+                  "sinonimo": "cocoa_bean",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cocoa",
+                  "sinonimo": "chocolate",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cocoa",
+                  "sinonimo": "drinking_chocolate",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [],
+      "total_time": 11282337500
+    }
+  }
+]

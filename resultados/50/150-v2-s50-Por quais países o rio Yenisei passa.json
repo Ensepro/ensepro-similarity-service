@@ -1,0 +1,2053 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "Op:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "H:prp",
+          "palavra_original": "Por",
+          "palavra_canonica": "por",
+          "tags": [
+            "<clb>",
+            "<*>"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "quais",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<interr>",
+            "DET",
+            "M",
+            "P"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "países",
+          "palavra_canonica": "país",
+          "tags": [
+            "<Lciv>",
+            "M",
+            "P"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "H:n",
+          "palavra_original": "rio",
+          "palavra_canonica": "rio",
+          "tags": [
+            "<Lwater>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "Yenisei",
+          "palavra_canonica": "Yenisei",
+          "tags": [
+            "<top>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "<np-close>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "passa",
+          "palavra_canonica": "passar",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 3,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "Op:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "H:prp",
+          "palavra_original": "Por",
+          "palavra_canonica": "por",
+          "tags": [
+            "<clb>",
+            "<*>"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "quais",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<interr>",
+            "DET",
+            "M",
+            "P"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "países",
+          "palavra_canonica": "país",
+          "tags": [
+            "<Lciv>",
+            "M",
+            "P"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "country",
+                "sinonimo": "terra",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "domínio",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "província",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "bairro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "colónia",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "comarca",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "circunscrição",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "distrito",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "country",
+                "sinonimo": "nação",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "condado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "circunscrição_administriva",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "união",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "região",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "território",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "pais",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "países",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "districto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "república",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "país",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "country",
+                "sinonimo": "state",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "commonwealth",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "district",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "country",
+                "sinonimo": "country",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "body_politic",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "res_publica",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "territorial_dominion",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "country",
+                "sinonimo": "land",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "territory",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "dominion",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "nation",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Rio_ienissei",
+          "palavra_canonica": "Rio_ienissei",
+          "tags": [
+            "<inst>",
+            "<*>",
+            "<heur>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 10,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "passa",
+          "palavra_canonica": "passar",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "pass",
+                "sinonimo": "passar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "spread",
+                "sinonimo": "espalhar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "traspassar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "atravessar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "acercar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "trespassar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "ceder",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "entregar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "dar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "pass",
+                "sinonimo": "reach",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "go_across",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "give",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "go_through",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "guide",
+                "sinonimo": "guide",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "hand",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "pass_on",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "spread",
+                "sinonimo": "spread",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "pass",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "turn_over",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "guide",
+                "sinonimo": "run",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "guide",
+                "sinonimo": "draw",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "while_away",
+                "sinonimo": "while_away",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "while_away",
+                "sinonimo": "get_through",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "qual",
+        "confianca": 0.79,
+        "ids": [
+          5
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "países",
+          "palavra_canonica": "país",
+          "tags": [
+            "<Lciv>",
+            "M",
+            "P"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "country",
+                "sinonimo": "terra",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "domínio",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "província",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "bairro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "colónia",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "comarca",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "circunscrição",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "distrito",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "country",
+                "sinonimo": "nação",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "condado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "circunscrição_administriva",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "união",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "região",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "território",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "pais",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "países",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "districto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "república",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "país",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "country",
+                "sinonimo": "state",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "commonwealth",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "district",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "country",
+                "sinonimo": "country",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "body_politic",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "res_publica",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "territorial_dominion",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "country",
+                "sinonimo": "land",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "territory",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "district",
+                "sinonimo": "dominion",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "nation",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "04"
+              }
+            ]
+          }
+        },
+        {
+          "id": 9,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Rio_ienissei",
+          "palavra_canonica": "Rio_ienissei",
+          "tags": [
+            "<inst>",
+            "<*>",
+            "<heur>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 10,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "passa",
+          "palavra_canonica": "passar",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "pass",
+                "sinonimo": "passar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "spread",
+                "sinonimo": "espalhar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "traspassar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "atravessar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "acercar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "trespassar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "ceder",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "entregar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "dar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "pass",
+                "sinonimo": "reach",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "go_across",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "give",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "go_through",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "guide",
+                "sinonimo": "guide",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "hand",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "pass_on",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "spread",
+                "sinonimo": "spread",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "10"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "pass",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pass",
+                "sinonimo": "turn_over",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "guide",
+                "sinonimo": "run",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "guide",
+                "sinonimo": "draw",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "while_away",
+                "sinonimo": "while_away",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "while_away",
+                "sinonimo": "get_through",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "abstract",
+              "*o rio ienissei (em russo: ) e um dos principais rios da asia, tendo a sua desembocadura no oceano artico. com 4093 km de extensao (chegando aos 5539 km com as suas fontes mais longas), e o 14.o mais longo do mundo, o 6.o mais longo da asia e o 3.o mais longo da russia. a sua bacia hidrografica, com 2 580 000 km2, e a 8.a maior do mundo. e frequentemente referido como linha de divisa entre o medio oriente e extremo oriente, e foi usado por julio verne na sua obra michel strogoff, quando o protagonista o atravessa. nasce em kyzyl (tuva) da confluencia do bolshe ienissei (grande ienissei) e o maly ienissei (pequeno ienissei), que provem dos montes sayanes orientais ao longo da fronteira russo-mongol, e desemboca no mar de kara, oceano artico, num estuario de 400 km conformado pela baia de ienissei e o golfo de ienissei. os seus principais afluentes sao o angara, o podkamennaya tunguska (ou tunguska pedregoso), e o tunguska inferior. flui pelo centro da siberia na direcao sul-norte. a maior parte do rio e navegavel, salvo entre novembro e maio, em que permanece gelado. o seu curso superior e turbulento, o que tem sido aproveitado para construcao de estacoes de geracao hidroeletrica, destacando-se as barragens de sayan e krasnoyarsk. atravessa a cidade de krasnoyarsk."
+            ]
+          ],
+          "score": 11.666667,
+          "detail": {
+            "keywords": [
+              "rio_ienissei",
+              "pais"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                },
+                "pais": {
+                  "keyword": {
+                    "termo": "pais",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "o rio ienissei (em russo: ) e um dos principais rios da asia, tendo a sua desembocadura no oceano artico. com 4093 km de extensao (chegando aos 5539 km com as suas fontes mais longas), e o 14.o mais longo do mundo, o 6.o mais longo da asia e o 3.o mais longo da russia. a sua bacia hidrografica, com 2 580 000 km2, e a 8.a maior do mundo. e frequentemente referido como linha de divisa entre o medio oriente e extremo oriente, e foi usado por julio verne na sua obra michel strogoff, quando o protagonista o atravessa. nasce em kyzyl (tuva) da confluencia do bolshe ienissei (grande ienissei) e o maly ienissei (pequeno ienissei), que provem dos montes sayanes orientais ao longo da fronteira russo-mongol, e desemboca no mar de kara, oceano artico, num estuario de 400 km conformado pela baia de ienissei e o golfo de ienissei. os seus principais afluentes sao o angara, o podkamennaya tunguska (ou tunguska pedregoso), e o tunguska inferior. flui pelo centro da siberia na direcao sul-norte. a maior parte do rio e navegavel, salvo entre novembro e maio, em que permanece gelado. o seu curso superior e turbulento, o que tem sido aproveitado para construcao de estacoes de geracao hidroeletrica, destacando-se as barragens de sayan e krasnoyarsk. atravessa a cidade de krasnoyarsk.",
+                  "score": 0.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "rio_ienissei": "-1",
+              "pais": "-77"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "owl#sameas",
+              "q78707"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "owl#sameas",
+              "jenisejrivier"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "owl#sameas",
+              "yenisey"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "owl#sameas",
+              7
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "owl#sameas",
+              "jenisej"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "owl#sameas",
+              "ienissei"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "owl#sameas",
+              "_()"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "owl#sameas",
+              "afon_yenisei"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "owl#sameas",
+              "jenissei"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "owl#sameas",
+              "yenisei_river"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "owl#sameas",
+              "jenisejo"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "owl#sameas",
+              "rio_yenisei"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "owl#sameas",
+              "jenisei"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "owl#sameas",
+              "jenyiszej"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "owl#sameas",
+              "sungai_yenisei"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "owl#sameas",
+              "enisej"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "owl#sameas",
+              "ienisea"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "owl#sameas",
+              "jenisiejus"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "owl#sameas",
+              "jeniseja"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "owl#sameas",
+              "*rio_ienissei"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "owl#sameas",
+              "enisei"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "owl#sameas",
+              "yenisei"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "owl#sameas",
+              "e_()"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "owl#sameas",
+              "ilog_yenisei"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "owl#sameas",
+              "yenisey_irmag"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "nomenativo",
+              7
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "imagem",
+              "yenisey from the railway bridge.jpg"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*rio_ienissei",
+              "legenda",
+              "o ienissei visto da ponte krasnoyarsk, em krasnoyarsk"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "rio_ienissei"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "rio_ienissei": {
+                  "keyword": {
+                    "termo": "rio_ienissei",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "rio_ienissei",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 1110.011100769043,
+      "l_sizes": [
+        23302,
+        2350
+      ],
+      "total_time": 8819.59319114685
+    }
+  }
+]

@@ -1,0 +1,2302 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "H:prp",
+          "palavra_original": "Em",
+          "palavra_canonica": "em",
+          "tags": [
+            "<clb>",
+            "<*>"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<interr>",
+            "DET",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "museu",
+          "palavra_canonica": "museu",
+          "tags": [
+            "<inst>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "está",
+          "palavra_canonica": "estar",
+          "tags": [
+            "<fmc>",
+            "<vK>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "Cs:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "H:v-pcp",
+          "palavra_original": "exposto",
+          "palavra_canonica": "expor",
+          "tags": [
+            "<n>",
+            "<vH>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DN:prop",
+          "palavra_original": "O_Grito_de_Munch",
+          "palavra_canonica": "O_Grito_de_Munch",
+          "tags": [
+            "<top>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "<np-close>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 3,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "STA:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "fA:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "H:prp",
+          "palavra_original": "Em",
+          "palavra_canonica": "em",
+          "tags": [
+            "<clb>",
+            "<*>"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "que",
+          "palavra_canonica": "que",
+          "tags": [
+            "<interr>",
+            "DET",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "museu",
+          "palavra_canonica": "museu",
+          "tags": [
+            "<inst>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "museum",
+                "sinonimo": "museus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "museum",
+                "sinonimo": "museu",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "museum",
+                "sinonimo": "museum",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "está",
+          "palavra_canonica": "estar",
+          "tags": [
+            "<fmc>",
+            "<vK>",
+            "<mv>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "Cs:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "H:v-pcp",
+          "palavra_original": "exposto",
+          "palavra_canonica": "expor",
+          "tags": [
+            "<n>",
+            "<vH>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "expose",
+                "sinonimo": "formar_em_parada",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "expose",
+                "sinonimo": "apresentar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "expose",
+                "sinonimo": "exibir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "expose",
+                "sinonimo": "mostrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "expose",
+                "sinonimo": "expor",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "expose",
+                "sinonimo": "display",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "expose",
+                "sinonimo": "exhibit",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "expose",
+                "sinonimo": "expose",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ]
+          }
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DN:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "H:prop",
+          "palavra_original": "O_grito",
+          "palavra_canonica": "O_grito",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "<np-close>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 12,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 13,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<np-close>"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 14,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Edvard_munch",
+          "palavra_canonica": "Edvard_munch",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "arvore": "[ [ STA:fcl|1| [ fA:pp|2| [H:prp|3| Em] [ DP:np|4| [DN:pron-int|5| que] [H:n|6| museu] ] ] [P:v-fin|7| está] [ Cs:np|8| [H:v-pcp|9| exposto] [ DN:np|10| [H:prop|11| O_grito] [ DN:pp|12| [H:prp|13| de] [DP:prop|14| Edvard_munch] ] ] ] ] ]",
+      "tipo": {
+        "tipo": "em_que",
+        "confianca": 0.85,
+        "ids": [
+          3,
+          5
+        ]
+      },
+      "locucao_verbal": [
+        [
+          {
+            "id": 7,
+            "tag_inicial": "P:v-fin",
+            "palavra_original": "está",
+            "palavra_canonica": "estar",
+            "tags": [
+              "<fmc>",
+              "<vK>",
+              "<mv>",
+              "PR",
+              "3S",
+              "IND",
+              "VFIN"
+            ],
+            "nivel": 1,
+            "sinonimos": null
+          },
+          {
+            "id": 9,
+            "tag_inicial": "H:v-pcp",
+            "palavra_original": "exposto",
+            "palavra_canonica": "expor",
+            "tags": [
+              "<n>",
+              "<vH>",
+              "M",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "expose",
+                  "sinonimo": "formar_em_parada",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "expose",
+                  "sinonimo": "apresentar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "expose",
+                  "sinonimo": "exibir",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "expose",
+                  "sinonimo": "mostrar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "expose",
+                  "sinonimo": "expor",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "expose",
+                  "sinonimo": "display",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "expose",
+                  "sinonimo": "exhibit",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "expose",
+                  "sinonimo": "expose",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                }
+              ]
+            }
+          }
+        ]
+      ],
+      "termos_relevantes": [
+        {
+          "id": 6,
+          "tag_inicial": "H:n",
+          "palavra_original": "museu",
+          "palavra_canonica": "museu",
+          "tags": [
+            "<inst>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "museum",
+                "sinonimo": "museus",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "museum",
+                "sinonimo": "museu",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "museum",
+                "sinonimo": "museum",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 9,
+          "tag_inicial": "H:v-pcp",
+          "palavra_original": "exposto",
+          "palavra_canonica": "expor",
+          "tags": [
+            "<n>",
+            "<vH>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "expose",
+                "sinonimo": "formar_em_parada",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "expose",
+                "sinonimo": "apresentar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "expose",
+                "sinonimo": "exibir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "expose",
+                "sinonimo": "mostrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "expose",
+                "sinonimo": "expor",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "expose",
+                "sinonimo": "display",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "expose",
+                "sinonimo": "exhibit",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "expose",
+                "sinonimo": "expose",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              }
+            ]
+          }
+        },
+        {
+          "id": 11,
+          "tag_inicial": "H:prop",
+          "palavra_original": "O_grito",
+          "palavra_canonica": "O_grito",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "<np-close>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 14,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Edvard_munch",
+          "palavra_canonica": "Edvard_munch",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "<heur>",
+            "<foreign>",
+            "M/F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 11,
+            "tag_inicial": "H:prop",
+            "palavra_original": "O_grito",
+            "palavra_canonica": "O_grito",
+            "tags": [
+              "<hum>",
+              "<*>",
+              "<heur>",
+              "<np-close>",
+              "M/F",
+              "S"
+            ],
+            "nivel": 3,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          },
+          "complemento": {
+            "id": 14,
+            "tag_inicial": "DP:prop",
+            "palavra_original": "Edvard_munch",
+            "palavra_canonica": "Edvard_munch",
+            "tags": [
+              "<hum>",
+              "<*>",
+              "<heur>",
+              "<foreign>",
+              "M/F",
+              "S"
+            ],
+            "nivel": 4,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "*o_grito",
+              "artista",
+              "*edvard_munch"
+            ],
+            [
+              "*o_grito",
+              "*museu",
+              "galeria nacional"
+            ]
+          ],
+          "score": 23.5,
+          "detail": {
+            "keywords": [
+              "o_grito",
+              "edvard_munch",
+              "museu"
+            ],
+            "score_detail": {
+              "m1": 22.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "o_grito": {
+                  "keyword": {
+                    "termo": "o_grito",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "o_grito",
+                  "score": 10.0
+                },
+                "edvard_munch": {
+                  "keyword": {
+                    "termo": "edvard_munch",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "edvard_munch",
+                  "score": 10.0
+                },
+                "museu": {
+                  "keyword": {
+                    "termo": "museu",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "museu",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "o_grito": "-10",
+              "edvard_munch": "-1",
+              "museu": "-67"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*o_grito",
+              "artista",
+              "*edvard_munch"
+            ],
+            [
+              "*o_grito",
+              "*museu",
+              "galeria nacional"
+            ]
+          ],
+          "score": 23.5,
+          "detail": {
+            "keywords": [
+              "o_grito",
+              "edvard_munch",
+              "museu"
+            ],
+            "score_detail": {
+              "m1": 22.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "o_grito": {
+                  "keyword": {
+                    "termo": "o_grito",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "o_grito",
+                  "score": 10.0
+                },
+                "edvard_munch": {
+                  "keyword": {
+                    "termo": "edvard_munch",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "edvard_munch",
+                  "score": 10.0
+                },
+                "museu": {
+                  "keyword": {
+                    "termo": "museu",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "museu",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "o_grito": "-10",
+              "edvard_munch": "-1",
+              "museu": "-67"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*o_grito",
+              "*museu",
+              "galeria nacional"
+            ],
+            [
+              "*o_grito",
+              "artista",
+              "*edvard_munch"
+            ]
+          ],
+          "score": 23.5,
+          "detail": {
+            "keywords": [
+              "o_grito",
+              "museu",
+              "edvard_munch"
+            ],
+            "score_detail": {
+              "m1": 22.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "o_grito": {
+                  "keyword": {
+                    "termo": "o_grito",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "o_grito",
+                  "score": 10.0
+                },
+                "edvard_munch": {
+                  "keyword": {
+                    "termo": "edvard_munch",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "edvard_munch",
+                  "score": 10.0
+                },
+                "museu": {
+                  "keyword": {
+                    "termo": "museu",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "museu",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*o_grito",
+              "owl#sameas",
+              "*krik_(edvard_munch)"
+            ],
+            [
+              "*o_grito",
+              "*museu",
+              "galeria nacional"
+            ]
+          ],
+          "score": 22.767326,
+          "detail": {
+            "keywords": [
+              "o_grito",
+              "edvard_munch",
+              "museu"
+            ],
+            "score_detail": {
+              "m1": 21.267326,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "o_grito": {
+                  "keyword": {
+                    "termo": "o_grito",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "o_grito",
+                  "score": 10.0
+                },
+                "edvard_munch": {
+                  "keyword": {
+                    "termo": "edvard_munch",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "krik_(edvard_munch)",
+                  "score": 9.267327
+                },
+                "museu": {
+                  "keyword": {
+                    "termo": "museu",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "museu",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*o_grito",
+              "*museu",
+              "galeria nacional"
+            ],
+            [
+              "*o_grito",
+              "owl#sameas",
+              "*krik_(edvard_munch)"
+            ]
+          ],
+          "score": 22.767326,
+          "detail": {
+            "keywords": [
+              "o_grito",
+              "museu",
+              "edvard_munch"
+            ],
+            "score_detail": {
+              "m1": 21.267326,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "o_grito": {
+                  "keyword": {
+                    "termo": "o_grito",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "o_grito",
+                  "score": 10.0
+                },
+                "edvard_munch": {
+                  "keyword": {
+                    "termo": "edvard_munch",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "krik_(edvard_munch)",
+                  "score": 9.267327
+                },
+                "museu": {
+                  "keyword": {
+                    "termo": "museu",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "museu",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*o_grito",
+              "artista",
+              "*edvard_munch"
+            ]
+          ],
+          "score": 21.666666,
+          "detail": {
+            "keywords": [
+              "o_grito",
+              "edvard_munch"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "o_grito": {
+                  "keyword": {
+                    "termo": "o_grito",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "o_grito",
+                  "score": 10.0
+                },
+                "edvard_munch": {
+                  "keyword": {
+                    "termo": "edvard_munch",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "edvard_munch",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*o_grito",
+              "artista",
+              "*edvard_munch"
+            ],
+            [
+              "*o_grito",
+              "abstract",
+              "*o grito (no original skrik) e uma serie de quatro pinturas do noruegues edvard munch, a mais celebre das quais datada de 1893. a obra representa uma figura androgina num momento de profunda angustia e desespero existencial. o plano de fundo e a doca de oslofjord (em oslo) ao por-do-sol. o grito e considerado como uma das obras mais importantes do movimento expressionista e adquiriu um estatuto de icone cultural, a par da mona lisa de leonardo da vinci. a serie tem quatro pinturas conhecidas: duas na posse do museu munch, em oslo, outra na galeria nacional de oslo e outra em colecao particular. em 2012, esta ultima tornou-se a pintura mais cara da historia a ser arrematada, num leilao, por 119,9 milhoes de dolares."
+            ]
+          ],
+          "score": 21.5,
+          "detail": {
+            "keywords": [
+              "o_grito",
+              "edvard_munch",
+              "museu"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "o_grito": {
+                  "keyword": {
+                    "termo": "o_grito",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "o_grito",
+                  "score": 10.0
+                },
+                "edvard_munch": {
+                  "keyword": {
+                    "termo": "edvard_munch",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "edvard_munch",
+                  "score": 10.0
+                },
+                "museu": {
+                  "keyword": {
+                    "termo": "museu",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "o grito (no original skrik) e uma serie de quatro pinturas do noruegues edvard munch, a mais celebre das quais datada de 1893. a obra representa uma figura androgina num momento de profunda angustia e desespero existencial. o plano de fundo e a doca de oslofjord (em oslo) ao por-do-sol. o grito e considerado como uma das obras mais importantes do movimento expressionista e adquiriu um estatuto de icone cultural, a par da mona lisa de leonardo da vinci. a serie tem quatro pinturas conhecidas: duas na posse do museu munch, em oslo, outra na galeria nacional de oslo e outra em colecao particular. em 2012, esta ultima tornou-se a pintura mais cara da historia a ser arrematada, num leilao, por 119,9 milhoes de dolares.",
+                  "score": 1.9056595e-29
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*o_grito",
+              "abstract",
+              "*o grito (no original skrik) e uma serie de quatro pinturas do noruegues edvard munch, a mais celebre das quais datada de 1893. a obra representa uma figura androgina num momento de profunda angustia e desespero existencial. o plano de fundo e a doca de oslofjord (em oslo) ao por-do-sol. o grito e considerado como uma das obras mais importantes do movimento expressionista e adquiriu um estatuto de icone cultural, a par da mona lisa de leonardo da vinci. a serie tem quatro pinturas conhecidas: duas na posse do museu munch, em oslo, outra na galeria nacional de oslo e outra em colecao particular. em 2012, esta ultima tornou-se a pintura mais cara da historia a ser arrematada, num leilao, por 119,9 milhoes de dolares."
+            ],
+            [
+              "*o_grito",
+              "artista",
+              "*edvard_munch"
+            ]
+          ],
+          "score": 21.5,
+          "detail": {
+            "keywords": [
+              "o_grito",
+              "museu",
+              "edvard_munch"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "o_grito": {
+                  "keyword": {
+                    "termo": "o_grito",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "o_grito",
+                  "score": 10.0
+                },
+                "edvard_munch": {
+                  "keyword": {
+                    "termo": "edvard_munch",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "edvard_munch",
+                  "score": 10.0
+                },
+                "museu": {
+                  "keyword": {
+                    "termo": "museu",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "o grito (no original skrik) e uma serie de quatro pinturas do noruegues edvard munch, a mais celebre das quais datada de 1893. a obra representa uma figura androgina num momento de profunda angustia e desespero existencial. o plano de fundo e a doca de oslofjord (em oslo) ao por-do-sol. o grito e considerado como uma das obras mais importantes do movimento expressionista e adquiriu um estatuto de icone cultural, a par da mona lisa de leonardo da vinci. a serie tem quatro pinturas conhecidas: duas na posse do museu munch, em oslo, outra na galeria nacional de oslo e outra em colecao particular. em 2012, esta ultima tornou-se a pintura mais cara da historia a ser arrematada, num leilao, por 119,9 milhoes de dolares.",
+                  "score": 1.9056595e-29
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*o_grito",
+              "artista",
+              "*edvard_munch"
+            ],
+            [
+              "*o_grito",
+              "owl#sameas",
+              "*krik_(edvard_munch)"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "o_grito",
+              "edvard_munch"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "o_grito": {
+                  "keyword": {
+                    "termo": "o_grito",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "o_grito",
+                  "score": 10.0
+                },
+                "edvard_munch": {
+                  "keyword": {
+                    "termo": "edvard_munch",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "edvard_munch",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*o_grito",
+              "artista",
+              "*edvard_munch"
+            ],
+            [
+              "*edvard_munch",
+              "notablework",
+              "*o_grito_(pintura)"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "o_grito",
+              "edvard_munch"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "o_grito": {
+                  "keyword": {
+                    "termo": "o_grito",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "o_grito",
+                  "score": 10.0
+                },
+                "edvard_munch": {
+                  "keyword": {
+                    "termo": "edvard_munch",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "edvard_munch",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*o_grito",
+              "artista",
+              "*edvard_munch"
+            ],
+            [
+              "*o_grito",
+              "subject",
+              "*categoria:pinturas_de_edvard_munch"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "o_grito",
+              "edvard_munch"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "o_grito": {
+                  "keyword": {
+                    "termo": "o_grito",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "o_grito",
+                  "score": 10.0
+                },
+                "edvard_munch": {
+                  "keyword": {
+                    "termo": "edvard_munch",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "edvard_munch",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*o_grito",
+              "artista",
+              "*edvard_munch"
+            ],
+            [
+              "*o_grito",
+              "owl#sameas",
+              "*category:the_scream_by_edvard_munch"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "o_grito",
+              "edvard_munch"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "o_grito": {
+                  "keyword": {
+                    "termo": "o_grito",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "o_grito",
+                  "score": 10.0
+                },
+                "edvard_munch": {
+                  "keyword": {
+                    "termo": "edvard_munch",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "edvard_munch",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*o_grito",
+              "artista",
+              "*edvard_munch"
+            ],
+            [
+              "*o_grito",
+              "depiction",
+              "*edvard_munch___the_scream___google_art_project.jpg"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "o_grito",
+              "edvard_munch"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "o_grito": {
+                  "keyword": {
+                    "termo": "o_grito",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "o_grito",
+                  "score": 10.0
+                },
+                "edvard_munch": {
+                  "keyword": {
+                    "termo": "edvard_munch",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "edvard_munch",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*o_grito",
+              "artista",
+              "*edvard_munch"
+            ],
+            [
+              "*o_grito",
+              "thumbnail",
+              "*edvard_munch___the_scream___google_art_project.jpg?width=300"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "o_grito",
+              "edvard_munch"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "o_grito": {
+                  "keyword": {
+                    "termo": "o_grito",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "o_grito",
+                  "score": 10.0
+                },
+                "edvard_munch": {
+                  "keyword": {
+                    "termo": "edvard_munch",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "edvard_munch",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*o_grito",
+              "artista",
+              "*edvard_munch"
+            ],
+            [
+              "*edvard_munch",
+              "owl#sameas",
+              "q41406"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "o_grito",
+              "edvard_munch"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "o_grito": {
+                  "keyword": {
+                    "termo": "o_grito",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "o_grito",
+                  "score": 10.0
+                },
+                "edvard_munch": {
+                  "keyword": {
+                    "termo": "edvard_munch",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "edvard_munch",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*o_grito",
+              "artista",
+              "*edvard_munch"
+            ],
+            [
+              "*edvard_munch",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "o_grito",
+              "edvard_munch"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "o_grito": {
+                  "keyword": {
+                    "termo": "o_grito",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "o_grito",
+                  "score": 10.0
+                },
+                "edvard_munch": {
+                  "keyword": {
+                    "termo": "edvard_munch",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "edvard_munch",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*o_grito",
+              "artista",
+              "*edvard_munch"
+            ],
+            [
+              "*edvard_munch",
+              "owl#sameas",
+              "edvard_munk"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "o_grito",
+              "edvard_munch"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "o_grito": {
+                  "keyword": {
+                    "termo": "o_grito",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "o_grito",
+                  "score": 10.0
+                },
+                "edvard_munch": {
+                  "keyword": {
+                    "termo": "edvard_munch",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "edvard_munch",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*o_grito",
+              "artista",
+              "*edvard_munch"
+            ],
+            [
+              "*edvard_munch",
+              "owl#sameas",
+              6
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "o_grito",
+              "edvard_munch"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "o_grito": {
+                  "keyword": {
+                    "termo": "o_grito",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "o_grito",
+                  "score": 10.0
+                },
+                "edvard_munch": {
+                  "keyword": {
+                    "termo": "edvard_munch",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "edvard_munch",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*o_grito",
+              "artista",
+              "*edvard_munch"
+            ],
+            [
+              "*edvard_munch",
+              "owl#sameas",
+              "eduardus_munch"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "o_grito",
+              "edvard_munch"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "o_grito": {
+                  "keyword": {
+                    "termo": "o_grito",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "o_grito",
+                  "score": 10.0
+                },
+                "edvard_munch": {
+                  "keyword": {
+                    "termo": "edvard_munch",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "edvard_munch",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*o_grito",
+              "artista",
+              "*edvard_munch"
+            ],
+            [
+              "*edvard_munch",
+              "owl#sameas",
+              "edvards_munks"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "o_grito",
+              "edvard_munch"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "o_grito": {
+                  "keyword": {
+                    "termo": "o_grito",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "o_grito",
+                  "score": 10.0
+                },
+                "edvard_munch": {
+                  "keyword": {
+                    "termo": "edvard_munch",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "edvard_munch",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*o_grito",
+              "artista",
+              "*edvard_munch"
+            ],
+            [
+              "*edvard_munch",
+              "owl#sameas",
+              ",_"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "o_grito",
+              "edvard_munch"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "o_grito": {
+                  "keyword": {
+                    "termo": "o_grito",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "o_grito",
+                  "score": 10.0
+                },
+                "edvard_munch": {
+                  "keyword": {
+                    "termo": "edvard_munch",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "edvard_munch",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*o_grito",
+              "artista",
+              "*edvard_munch"
+            ],
+            [
+              "*o_grito",
+              "owl#sameas",
+              "q471379"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "o_grito",
+              "edvard_munch"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "o_grito": {
+                  "keyword": {
+                    "termo": "o_grito",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "o_grito",
+                  "score": 10.0
+                },
+                "edvard_munch": {
+                  "keyword": {
+                    "termo": "edvard_munch",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "edvard_munch",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*o_grito",
+              "artista",
+              "*edvard_munch"
+            ],
+            [
+              "*o_grito",
+              "owl#sameas",
+              "vykrik"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "o_grito",
+              "edvard_munch"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "o_grito": {
+                  "keyword": {
+                    "termo": "o_grito",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "o_grito",
+                  "score": 10.0
+                },
+                "edvard_munch": {
+                  "keyword": {
+                    "termo": "edvard_munch",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "edvard_munch",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*o_grito",
+              "artista",
+              "*edvard_munch"
+            ],
+            [
+              "*o_grito",
+              "owl#sameas",
+              "der_schrei"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "o_grito",
+              "edvard_munch"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "o_grito": {
+                  "keyword": {
+                    "termo": "o_grito",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "o_grito",
+                  "score": 10.0
+                },
+                "edvard_munch": {
+                  "keyword": {
+                    "termo": "edvard_munch",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "edvard_munch",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*o_grito",
+              "artista",
+              "*edvard_munch"
+            ],
+            [
+              "*o_grito",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "o_grito",
+              "edvard_munch"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "o_grito": {
+                  "keyword": {
+                    "termo": "o_grito",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "o_grito",
+                  "score": 10.0
+                },
+                "edvard_munch": {
+                  "keyword": {
+                    "termo": "edvard_munch",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "edvard_munch",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*o_grito",
+              "artista",
+              "*edvard_munch"
+            ],
+            [
+              "*o_grito",
+              "owl#sameas",
+              "the_scream"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "o_grito",
+              "edvard_munch"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "o_grito": {
+                  "keyword": {
+                    "termo": "o_grito",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "o_grito",
+                  "score": 10.0
+                },
+                "edvard_munch": {
+                  "keyword": {
+                    "termo": "edvard_munch",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "edvard_munch",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*o_grito",
+              "artista",
+              "*edvard_munch"
+            ],
+            [
+              "*o_grito",
+              "owl#sameas",
+              "el_grito"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "o_grito",
+              "edvard_munch"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "o_grito": {
+                  "keyword": {
+                    "termo": "o_grito",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "o_grito",
+                  "score": 10.0
+                },
+                "edvard_munch": {
+                  "keyword": {
+                    "termo": "edvard_munch",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "edvard_munch",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*o_grito",
+              "artista",
+              "*edvard_munch"
+            ],
+            [
+              "*o_grito",
+              "owl#sameas",
+              "garrasia_(margolana)"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "o_grito",
+              "edvard_munch"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "o_grito": {
+                  "keyword": {
+                    "termo": "o_grito",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "o_grito",
+                  "score": 10.0
+                },
+                "edvard_munch": {
+                  "keyword": {
+                    "termo": "edvard_munch",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "edvard_munch",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*o_grito",
+              "artista",
+              "*edvard_munch"
+            ],
+            [
+              "*o_grito",
+              "owl#sameas",
+              "le_cri"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "o_grito",
+              "edvard_munch"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "o_grito": {
+                  "keyword": {
+                    "termo": "o_grito",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "o_grito",
+                  "score": 10.0
+                },
+                "edvard_munch": {
+                  "keyword": {
+                    "termo": "edvard_munch",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "edvard_munch",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*o_grito",
+              "artista",
+              "*edvard_munch"
+            ],
+            [
+              "*o_grito",
+              "owl#sameas",
+              "jeritan_(lukisan)"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "o_grito",
+              "edvard_munch"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "o_grito": {
+                  "keyword": {
+                    "termo": "o_grito",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "o_grito",
+                  "score": 10.0
+                },
+                "edvard_munch": {
+                  "keyword": {
+                    "termo": "edvard_munch",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "edvard_munch",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*o_grito",
+              "artista",
+              "*edvard_munch"
+            ],
+            [
+              "*o_grito",
+              "owl#sameas",
+              "l'urlo"
+            ]
+          ],
+          "score": 21.333334,
+          "detail": {
+            "keywords": [
+              "o_grito",
+              "edvard_munch"
+            ],
+            "score_detail": {
+              "m1": 20.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "o_grito": {
+                  "keyword": {
+                    "termo": "o_grito",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "o_grito",
+                  "score": 10.0
+                },
+                "edvard_munch": {
+                  "keyword": {
+                    "termo": "edvard_munch",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "edvard_munch",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 2,
+            "proper_nouns_matched_count": 2
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 1647.3839282989502,
+      "l_sizes": [
+        11096,
+        8748
+      ],
+      "total_time": 15260.95461845398
+    }
+  }
+]

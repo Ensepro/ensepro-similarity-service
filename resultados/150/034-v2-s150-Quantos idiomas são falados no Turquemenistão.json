@@ -1,0 +1,2796 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "Quantos",
+          "palavra_canonica": "quanto",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "<quant>",
+            "DET",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "idiomas",
+          "palavra_canonica": "idioma",
+          "tags": [
+            "<ling>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "P:vp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "Vaux:v-fin",
+          "palavra_original": "são",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<aux>",
+            "PR",
+            "3P",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "Vm:v-pcp",
+          "palavra_original": "falados",
+          "palavra_canonica": "falar",
+          "tags": [
+            "<vH>",
+            "<mv>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "fA:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "H:prp",
+          "palavra_original": "em",
+          "palavra_canonica": "em",
+          "tags": [
+            "<sam->"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<-sam>",
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Turquemenistão",
+          "palavra_canonica": "Turquemenistão",
+          "tags": [
+            "<inst>",
+            "<*>",
+            "<heur>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 13,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "Quantos",
+          "palavra_canonica": "quanto",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "<quant>",
+            "DET",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "idiomas",
+          "palavra_canonica": "idioma",
+          "tags": [
+            "<ling>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "natural_language",
+                "sinonimo": "linguagem_natural",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "Dialetos",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "dialeto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "Lingua_natural",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "locução",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "language",
+                "sinonimo": "discurso",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "Língua_Natural",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "idioma",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "ditado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "expressão",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "dialecto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "provérbio",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "language",
+                "sinonimo": "linguagem",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "língua",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "língua_natural",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "speech",
+                "sinonimo": "voice_communication",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "accent",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "speech",
+                "sinonimo": "speech",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "dialect",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "language",
+                "sinonimo": "language",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "speech",
+                "sinonimo": "spoken_communication",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "locution",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "language",
+                "sinonimo": "linguistic_communication",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "speech",
+                "sinonimo": "oral_communication",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "natural_language",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "speech",
+                "sinonimo": "spoken_language",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "idiom",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "tongue",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "expression",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "speech",
+                "sinonimo": "speech_communication",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "saying",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "P:vp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "Vaux:v-fin",
+          "palavra_original": "são",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<aux>",
+            "PR",
+            "3P",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "Vm:v-pcp",
+          "palavra_original": "falados",
+          "palavra_canonica": "falar",
+          "tags": [
+            "<vH>",
+            "<mv>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "talk",
+                "sinonimo": "verbalizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "tratar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "lecture",
+                "sinonimo": "palestrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "proferir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "conversar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "discourse",
+                "sinonimo": "discursar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "dizer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "contar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "pronunciar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "falar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "lecture",
+                "sinonimo": "lecture",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "articulate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "address",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "verbalize",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "state",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "plow",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "talk_of",
+                "sinonimo": "talk_about",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "enunciate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "say",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "drone",
+                "sinonimo": "drone_on",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "speak",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "utter",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "pronounce",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "treat",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "sound_out",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "discourse",
+                "sinonimo": "discourse",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "enounce",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "handle",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "discourse",
+                "sinonimo": "discuss",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "mouth",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "cover",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "drone",
+                "sinonimo": "drone",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "deal",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "tell",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "talk_of",
+                "sinonimo": "talk_of",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "speak",
+                "sinonimo": "talk",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "verbalise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 8,
+          "tag_inicial": "fA:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "H:prp",
+          "palavra_original": "em",
+          "palavra_canonica": "em",
+          "tags": [
+            "<sam->"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<-sam>",
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Turquemenistão",
+          "palavra_canonica": "Turquemenistão",
+          "tags": [
+            "<inst>",
+            "<*>",
+            "<heur>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 13,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "quanto",
+        "confianca": 0.92,
+        "ids": [
+          3
+        ]
+      },
+      "locucao_verbal": [
+        [
+          {
+            "id": 6,
+            "tag_inicial": "Vaux:v-fin",
+            "palavra_original": "são",
+            "palavra_canonica": "ser",
+            "tags": [
+              "<fmc>",
+              "<aux>",
+              "PR",
+              "3P",
+              "IND",
+              "VFIN"
+            ],
+            "nivel": 2,
+            "sinonimos": null
+          },
+          {
+            "id": 7,
+            "tag_inicial": "Vm:v-pcp",
+            "palavra_original": "falados",
+            "palavra_canonica": "falar",
+            "tags": [
+              "<vH>",
+              "<mv>",
+              "M",
+              "P"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "talk",
+                  "sinonimo": "verbalizar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "cover",
+                  "sinonimo": "tratar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "lecture",
+                  "sinonimo": "palestrar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "talk",
+                  "sinonimo": "proferir",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "talk",
+                  "sinonimo": "conversar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "discourse",
+                  "sinonimo": "discursar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "talk",
+                  "sinonimo": "dizer",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "state",
+                  "sinonimo": "contar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "pronounce",
+                  "sinonimo": "pronunciar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "talk",
+                  "sinonimo": "falar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "lecture",
+                  "sinonimo": "lecture",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "pronounce",
+                  "sinonimo": "articulate",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cover",
+                  "sinonimo": "address",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "talk",
+                  "sinonimo": "verbalize",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "state",
+                  "sinonimo": "state",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cover",
+                  "sinonimo": "plow",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "talk_of",
+                  "sinonimo": "talk_about",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "pronounce",
+                  "sinonimo": "enunciate",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "state",
+                  "sinonimo": "say",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "drone",
+                  "sinonimo": "drone_on",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "talk",
+                  "sinonimo": "speak",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "talk",
+                  "sinonimo": "utter",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "pronounce",
+                  "sinonimo": "pronounce",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cover",
+                  "sinonimo": "treat",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "pronounce",
+                  "sinonimo": "sound_out",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "discourse",
+                  "sinonimo": "discourse",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "pronounce",
+                  "sinonimo": "enounce",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "cover",
+                  "sinonimo": "handle",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "discourse",
+                  "sinonimo": "discuss",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "talk",
+                  "sinonimo": "mouth",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "cover",
+                  "sinonimo": "cover",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "drone",
+                  "sinonimo": "drone",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "cover",
+                  "sinonimo": "deal",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "state",
+                  "sinonimo": "tell",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "talk_of",
+                  "sinonimo": "talk_of",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "speak",
+                  "sinonimo": "talk",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "talk",
+                  "sinonimo": "verbalise",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                }
+              ]
+            }
+          }
+        ]
+      ],
+      "termos_relevantes": [
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "idiomas",
+          "palavra_canonica": "idioma",
+          "tags": [
+            "<ling>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "natural_language",
+                "sinonimo": "linguagem_natural",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "Dialetos",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "dialeto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "Lingua_natural",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "locução",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "language",
+                "sinonimo": "discurso",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "Língua_Natural",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "idioma",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "ditado",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "expressão",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "dialecto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "provérbio",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "language",
+                "sinonimo": "linguagem",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "língua",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "língua_natural",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "speech",
+                "sinonimo": "voice_communication",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "accent",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "speech",
+                "sinonimo": "speech",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "dialect",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "language",
+                "sinonimo": "language",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "speech",
+                "sinonimo": "spoken_communication",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "locution",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "language",
+                "sinonimo": "linguistic_communication",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "speech",
+                "sinonimo": "oral_communication",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "natural_language",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "speech",
+                "sinonimo": "spoken_language",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "idiom",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "tongue",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "expression",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "speech",
+                "sinonimo": "speech_communication",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "saying",
+                "sinonimo": "saying",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "Vm:v-pcp",
+          "palavra_original": "falados",
+          "palavra_canonica": "falar",
+          "tags": [
+            "<vH>",
+            "<mv>",
+            "M",
+            "P"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "talk",
+                "sinonimo": "verbalizar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "tratar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "lecture",
+                "sinonimo": "palestrar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "proferir",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "conversar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "discourse",
+                "sinonimo": "discursar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "dizer",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "contar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "pronunciar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "falar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "lecture",
+                "sinonimo": "lecture",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "articulate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "address",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "verbalize",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "state",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "plow",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "talk_of",
+                "sinonimo": "talk_about",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "enunciate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "say",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "drone",
+                "sinonimo": "drone_on",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "speak",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "utter",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "pronounce",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "treat",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "sound_out",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "discourse",
+                "sinonimo": "discourse",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "pronounce",
+                "sinonimo": "enounce",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "handle",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "discourse",
+                "sinonimo": "discuss",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "mouth",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "cover",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "drone",
+                "sinonimo": "drone",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "cover",
+                "sinonimo": "deal",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "state",
+                "sinonimo": "tell",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "talk_of",
+                "sinonimo": "talk_of",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "speak",
+                "sinonimo": "talk",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "talk",
+                "sinonimo": "verbalise",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 12,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Turquemenistão",
+          "palavra_canonica": "Turquemenistão",
+          "tags": [
+            "<inst>",
+            "<*>",
+            "<heur>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*turquemenistao",
+              "owl#sameas",
+              "m.01c4pv"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "turquemenistao"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "turquemenistao": {
+                  "keyword": {
+                    "termo": "turquemenistao",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "turquemenistao",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "turquemenistao": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*turquemenistao",
+              "rdf_schema#label",
+              "*turquemenistao"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "turquemenistao"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "turquemenistao": {
+                  "keyword": {
+                    "termo": "turquemenistao",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "turquemenistao",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*turquemenistao",
+              "owl#sameas",
+              "m.01c4pv"
+            ],
+            [
+              "*turquemenistao",
+              "rdf_schema#label",
+              "*turquemenistao"
+            ]
+          ],
+          "score": 11.166667,
+          "detail": {
+            "keywords": [
+              "turquemenistao"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.16666667,
+              "m3": 1.0,
+              "matches": {
+                "turquemenistao": {
+                  "keyword": {
+                    "termo": "turquemenistao",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "turquemenistao",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*turquemenistao",
+              "rdf_schema#label",
+              "*turquemenistao"
+            ],
+            [
+              "*turquemenistao",
+              "owl#sameas",
+              "m.01c4pv"
+            ]
+          ],
+          "score": 11.166667,
+          "detail": {
+            "keywords": [
+              "turquemenistao"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.16666667,
+              "m3": 1.0,
+              "matches": {
+                "turquemenistao": {
+                  "keyword": {
+                    "termo": "turquemenistao",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "turquemenistao",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*lingua_kitara",
+              "*falantes",
+              "*a linguagem escrita ensinada na universidade. 5 milhoes de falantes de idiomas fontes"
+            ]
+          ],
+          "score": 3.3222098,
+          "detail": {
+            "keywords": [
+              "fala",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 2.655543,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "fala": {
+                  "keyword": {
+                    "termo": "fala",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "falantes",
+                  "score": 1.7920744
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_kitara",
+                  "score": 0.8634687
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*monegasco_(dialeto)",
+              "*falantes",
+              "35657"
+            ]
+          ],
+          "score": 3.2247372,
+          "detail": {
+            "keywords": [
+              "fala",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 2.5580704,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "fala": {
+                  "keyword": {
+                    "termo": "fala",
+                    "peso": 2.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "falantes",
+                  "score": 1.7920744
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "dialeto",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "monegasco_(dialeto)",
+                  "score": 0.7659959
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*lingua_ho",
+              "*state",
+              "india"
+            ]
+          ],
+          "score": 2.6143844,
+          "detail": {
+            "keywords": [
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 1.9477177,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_ho",
+                  "score": 0.9477176
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*lingua_ho",
+              "*state",
+              "bangladesh"
+            ]
+          ],
+          "score": 2.6143844,
+          "detail": {
+            "keywords": [
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 1.9477177,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_ho",
+                  "score": 0.9477176
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*lingua_wa",
+              "*state",
+              "mianmar"
+            ]
+          ],
+          "score": 2.6143844,
+          "detail": {
+            "keywords": [
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 1.9477177,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_wa",
+                  "score": 0.9477176
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*lingua_wa",
+              "*state",
+              "china"
+            ]
+          ],
+          "score": 2.6143844,
+          "detail": {
+            "keywords": [
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 1.9477177,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_wa",
+                  "score": 0.9477176
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*lingua_wa",
+              "*state",
+              "tailandia"
+            ]
+          ],
+          "score": 2.6143844,
+          "detail": {
+            "keywords": [
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 1.9477177,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_wa",
+                  "score": 0.9477176
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*lingua_yap",
+              "*state",
+              "yap"
+            ]
+          ],
+          "score": 2.59487,
+          "detail": {
+            "keywords": [
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 1.9282033,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_yap",
+                  "score": 0.9282034
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*lingua_yap",
+              "*state",
+              "estados_federados_da_micronesia"
+            ]
+          ],
+          "score": 2.59487,
+          "detail": {
+            "keywords": [
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 1.9282033,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_yap",
+                  "score": 0.9282034
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*lingua_mam",
+              "*state",
+              "guatemala"
+            ]
+          ],
+          "score": 2.59487,
+          "detail": {
+            "keywords": [
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 1.9282033,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_mam",
+                  "score": 0.9282034
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*lingua_mam",
+              "*state",
+              "mexico"
+            ]
+          ],
+          "score": 2.59487,
+          "detail": {
+            "keywords": [
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 1.9282033,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_mam",
+                  "score": 0.9282034
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*lingua_xoo",
+              "*state",
+              "botsuana"
+            ]
+          ],
+          "score": 2.59487,
+          "detail": {
+            "keywords": [
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 1.9282033,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_xoo",
+                  "score": 0.9282034
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*lingua_xoo",
+              "*state",
+              "namibia"
+            ]
+          ],
+          "score": 2.59487,
+          "detail": {
+            "keywords": [
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 1.9282033,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_xoo",
+                  "score": 0.9282034
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*lingua_tiv",
+              "*state",
+              "nigeria"
+            ]
+          ],
+          "score": 2.59487,
+          "detail": {
+            "keywords": [
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 1.9282033,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_tiv",
+                  "score": 0.9282034
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*lingua_tiv",
+              "*state",
+              "camaroes"
+            ]
+          ],
+          "score": 2.59487,
+          "detail": {
+            "keywords": [
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 1.9282033,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_tiv",
+                  "score": 0.9282034
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*lingua_luo",
+              "*state",
+              "quenia"
+            ]
+          ],
+          "score": 2.59487,
+          "detail": {
+            "keywords": [
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 1.9282033,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_luo",
+                  "score": 0.9282034
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*lingua_luo",
+              "*state",
+              "tanzania"
+            ]
+          ],
+          "score": 2.59487,
+          "detail": {
+            "keywords": [
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 1.9282033,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_luo",
+                  "score": 0.9282034
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*lingua_luo",
+              "*state",
+              "sudao"
+            ]
+          ],
+          "score": 2.59487,
+          "detail": {
+            "keywords": [
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 1.9282033,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_luo",
+                  "score": 0.9282034
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*lingua_fur",
+              "*state",
+              "sudao"
+            ]
+          ],
+          "score": 2.59487,
+          "detail": {
+            "keywords": [
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 1.9282033,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_fur",
+                  "score": 0.9282034
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*lingua_fur",
+              "*state",
+              "chade"
+            ]
+          ],
+          "score": 2.59487,
+          "detail": {
+            "keywords": [
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 1.9282033,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_fur",
+                  "score": 0.9282034
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*lingua_dan",
+              "*state",
+              "costa_do_marfim"
+            ]
+          ],
+          "score": 2.59487,
+          "detail": {
+            "keywords": [
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 1.9282033,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_dan",
+                  "score": 0.9282034
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*lingua_dan",
+              "*state",
+              "guine"
+            ]
+          ],
+          "score": 2.59487,
+          "detail": {
+            "keywords": [
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 1.9282033,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_dan",
+                  "score": 0.9282034
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*lingua_dan",
+              "*state",
+              "liberia"
+            ]
+          ],
+          "score": 2.59487,
+          "detail": {
+            "keywords": [
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 1.9282033,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_dan",
+                  "score": 0.9282034
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*lingua_han",
+              "*state",
+              "estados_unidos_da_america"
+            ]
+          ],
+          "score": 2.59487,
+          "detail": {
+            "keywords": [
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 1.9282033,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_han",
+                  "score": 0.9282034
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*lingua_han",
+              "*state",
+              "canada"
+            ]
+          ],
+          "score": 2.59487,
+          "detail": {
+            "keywords": [
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 1.9282033,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_han",
+                  "score": 0.9282034
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*lingua_mro",
+              "*state",
+              "bangladesh"
+            ]
+          ],
+          "score": 2.59487,
+          "detail": {
+            "keywords": [
+              "falar",
+              "idioma"
+            ],
+            "score_detail": {
+              "m1": 1.9282033,
+              "m2": 0.6666667,
+              "m3": 0.0,
+              "matches": {
+                "falar": {
+                  "keyword": {
+                    "termo": "state",
+                    "peso": 1.0,
+                    "classe": "VERB"
+                  },
+                  "resource": "state",
+                  "score": 1.0
+                },
+                "idioma": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_mro",
+                  "score": 0.9282034
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 2381.9477558135986,
+      "l_sizes": [
+        30402,
+        526
+      ],
+      "total_time": 13305.81283569336
+    }
+  }
+]

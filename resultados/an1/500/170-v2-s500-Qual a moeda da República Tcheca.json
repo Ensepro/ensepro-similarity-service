@@ -1,0 +1,1953 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "X:par",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "CJT:pron-int",
+          "palavra_original": "Qual",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<cjt-head>",
+            "<cjt-head-X>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "CJT:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "moeda",
+          "palavra_canonica": "moeda",
+          "tags": [
+            "<cjt-X>",
+            "<cc-h>",
+            "<mon>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<sam->",
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<-sam>",
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "H:prop",
+          "palavra_original": "República_Tcheca",
+          "palavra_canonica": "República_Tcheca",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "X:par",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "CJT:pron-int",
+          "palavra_original": "Qual",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<cjt-head>",
+            "<cjt-head-X>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "CJT:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "moeda",
+          "palavra_canonica": "moeda",
+          "tags": [
+            "<cjt-X>",
+            "<cc-h>",
+            "<mon>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "coin",
+                "sinonimo": "prata",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "currency",
+                "sinonimo": "moeda",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "currency",
+                "sinonimo": "divisa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "currency",
+                "sinonimo": "dinheiro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "change",
+                "sinonimo": "cobre",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "08"
+              },
+              {
+                "synset": "coin",
+                "sinonimo": "peça",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "money",
+                "sinonimo": "Dinheiro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "coin",
+                "sinonimo": "coin",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "coinage",
+                "sinonimo": "coinage",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "money",
+                "sinonimo": "money",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "coinage",
+                "sinonimo": "mintage",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "currency",
+                "sinonimo": "currency",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "change",
+                "sinonimo": "change",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "08"
+              },
+              {
+                "synset": "coinage",
+                "sinonimo": "specie",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "coinage",
+                "sinonimo": "metal_money",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<sam->",
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<-sam>",
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "H:prop",
+          "palavra_original": "República_checa",
+          "palavra_canonica": "República_checa",
+          "tags": [
+            "<org>",
+            "<*>",
+            "<heur>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 11,
+          "tag_inicial": "?",
+          "palavra_original": " ",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "[ [ X:par|1| [CJT:pron-int|2| Qual] [ CJT:np|3| [DN:art|4| a] [H:n|5| moeda] [ DN:pp|6| [H:prp|7| de] [ DP:np|8| [DN:art|9| a] [H:prop|10| República_checa] ] ] ] [?|11|  ] ] ]",
+      "tipo": {
+        "tipo": "qual",
+        "confianca": 0.64,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "moeda",
+          "palavra_canonica": "moeda",
+          "tags": [
+            "<cjt-X>",
+            "<cc-h>",
+            "<mon>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "coin",
+                "sinonimo": "prata",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "currency",
+                "sinonimo": "moeda",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "currency",
+                "sinonimo": "divisa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "currency",
+                "sinonimo": "dinheiro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "change",
+                "sinonimo": "cobre",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "08"
+              },
+              {
+                "synset": "coin",
+                "sinonimo": "peça",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "money",
+                "sinonimo": "Dinheiro",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "coin",
+                "sinonimo": "coin",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "coinage",
+                "sinonimo": "coinage",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "money",
+                "sinonimo": "money",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "coinage",
+                "sinonimo": "mintage",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "currency",
+                "sinonimo": "currency",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "change",
+                "sinonimo": "change",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "08"
+              },
+              {
+                "synset": "coinage",
+                "sinonimo": "specie",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "coinage",
+                "sinonimo": "metal_money",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 10,
+          "tag_inicial": "H:prop",
+          "palavra_original": "República_checa",
+          "palavra_canonica": "República_checa",
+          "tags": [
+            "<org>",
+            "<*>",
+            "<heur>",
+            "F",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 5,
+            "tag_inicial": "H:n",
+            "palavra_original": "moeda",
+            "palavra_canonica": "moeda",
+            "tags": [
+              "<cjt-X>",
+              "<cc-h>",
+              "<mon>",
+              "F",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "coin",
+                  "sinonimo": "prata",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "currency",
+                  "sinonimo": "moeda",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "currency",
+                  "sinonimo": "divisa",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "currency",
+                  "sinonimo": "dinheiro",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "change",
+                  "sinonimo": "cobre",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "08"
+                },
+                {
+                  "synset": "coin",
+                  "sinonimo": "peça",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "money",
+                  "sinonimo": "Dinheiro",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "coin",
+                  "sinonimo": "coin",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "coinage",
+                  "sinonimo": "coinage",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "money",
+                  "sinonimo": "money",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "coinage",
+                  "sinonimo": "mintage",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "currency",
+                  "sinonimo": "currency",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "change",
+                  "sinonimo": "change",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "08"
+                },
+                {
+                  "synset": "coinage",
+                  "sinonimo": "specie",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "coinage",
+                  "sinonimo": "metal_money",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 10,
+            "tag_inicial": "H:prop",
+            "palavra_original": "República_checa",
+            "palavra_canonica": "República_checa",
+            "tags": [
+              "<org>",
+              "<*>",
+              "<heur>",
+              "F",
+              "S"
+            ],
+            "nivel": 4,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "*republica_checa",
+              "*moeda",
+              "coroa_checa"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "republica_checa",
+              "moeda"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "republica_checa": {
+                  "keyword": {
+                    "termo": "republica_checa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "republica_checa",
+                  "score": 10.0
+                },
+                "moeda": {
+                  "keyword": {
+                    "termo": "moeda",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "moeda",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "republica_checa": "-1",
+              "moeda": "-456"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*republica_checa",
+              "*moeda",
+              "coroa_checa"
+            ]
+          ],
+          "score": 13.666667,
+          "detail": {
+            "keywords": [
+              "republica_checa",
+              "moeda"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "republica_checa": {
+                  "keyword": {
+                    "termo": "republica_checa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "republica_checa",
+                  "score": 10.0
+                },
+                "moeda": {
+                  "keyword": {
+                    "termo": "moeda",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "moeda",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "republica_checa": "-1",
+              "moeda": "-456"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*republica_checa",
+              "*currency",
+              "coroa_checa"
+            ]
+          ],
+          "score": 12.666667,
+          "detail": {
+            "keywords": [
+              "republica_checa",
+              "moeda"
+            ],
+            "score_detail": {
+              "m1": 11.0,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "republica_checa": {
+                  "keyword": {
+                    "termo": "republica_checa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "republica_checa",
+                  "score": 10.0
+                },
+                "moeda": {
+                  "keyword": {
+                    "termo": "currency",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "currency",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*republica_checa",
+              "owl#sameas",
+              "m.01mjq"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "republica_checa"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "republica_checa": {
+                  "keyword": {
+                    "termo": "republica_checa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "republica_checa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*republica_checa",
+              "rdf_schema#label",
+              "republica checa"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "republica_checa"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "republica_checa": {
+                  "keyword": {
+                    "termo": "republica_checa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "republica_checa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*republica_checa",
+              "owl#sameas",
+              "*republica_checa"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "republica_checa"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "republica_checa": {
+                  "keyword": {
+                    "termo": "republica_checa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "republica_checa",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*brasao_de_armas_da_republica_checa",
+              "abstract",
+              "*o brasao de armas da republica checa (em checo: statni znak ceske republiky) mostra as tres regioes historicas que compoem a nacao. os ramos da boemia mostram um leao de prata double-tailed sobre um fundo vermelho; na lingua heraldica blazoned como gules, um leao galopante, fila fourchee argent, coroado, langued e armados ou. e repetido no canto inferior do lado esquerdo, o brasao de armas (do ponto de vista da pessoa que detenha o escudo). a moravia com uma aguia vermelho-e-prata axadrezada e mostrada num fundo azul. os ramos da silesia e composto por uma aguia preta com o chamado \\\"trevo em haste\\\" no seu peito sobre um fundo dourado, embora apenas uma pequena parte do sudeste da historica regiao da silesia pertenca a republica checa. o escudo tambem e usado como o emblema nacional da republica checa para a equipa de futebol e pela equipa nacional de hoquei no gelo."
+            ]
+          ],
+          "score": 9.12345,
+          "detail": {
+            "keywords": [
+              "republica_checa",
+              "moeda"
+            ],
+            "score_detail": {
+              "m1": 7.456784,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "republica_checa": {
+                  "keyword": {
+                    "termo": "republica_checa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "brasao_de_armas_da_republica_checa",
+                  "score": 7.456784
+                },
+                "moeda": {
+                  "keyword": {
+                    "termo": "prata",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "o brasao de armas da republica checa (em checo: statni znak ceske republiky) mostra as tres regioes historicas que compoem a nacao. os ramos da boemia mostram um leao de prata double-tailed sobre um fundo vermelho; na lingua heraldica blazoned como gules, um leao galopante, fila fourchee argent, coroado, langued e armados ou. e repetido no canto inferior do lado esquerdo, o brasao de armas (do ponto de vista da pessoa que detenha o escudo). a moravia com uma aguia vermelho-e-prata axadrezada e mostrada num fundo azul. os ramos da silesia e composto por uma aguia preta com o chamado \\\"trevo em haste\\\" no seu peito sobre um fundo dourado, embora apenas uma pequena parte do sudeste da historica regiao da silesia pertenca a republica checa. o escudo tambem e usado como o emblema nacional da republica checa para a equipa de futebol e pela equipa nacional de hoquei no gelo.",
+                  "score": 3.022472e-36
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*republica_checa_nos_jogos_olimpicos_de_verao_de_2016",
+              "*prata",
+              "2"
+            ]
+          ],
+          "score": 5.791408,
+          "detail": {
+            "keywords": [
+              "republica_checa",
+              "moeda"
+            ],
+            "score_detail": {
+              "m1": 4.1247416,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "republica_checa": {
+                  "keyword": {
+                    "termo": "republica_checa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "republica_checa_nos_jogos_olimpicos_de_verao_de_2016",
+                  "score": 3.1247413
+                },
+                "moeda": {
+                  "keyword": {
+                    "termo": "prata",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prata",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*republica_checa_nos_jogos_olimpicos_de_verao_de_2008",
+              "*prata",
+              "3"
+            ]
+          ],
+          "score": 5.791408,
+          "detail": {
+            "keywords": [
+              "republica_checa",
+              "moeda"
+            ],
+            "score_detail": {
+              "m1": 4.1247416,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "republica_checa": {
+                  "keyword": {
+                    "termo": "republica_checa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "republica_checa_nos_jogos_olimpicos_de_verao_de_2008",
+                  "score": 3.1247413
+                },
+                "moeda": {
+                  "keyword": {
+                    "termo": "prata",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prata",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*republica_checa_nos_jogos_olimpicos_de_verao_de_2012",
+              "*prata",
+              "3"
+            ]
+          ],
+          "score": 5.791408,
+          "detail": {
+            "keywords": [
+              "republica_checa",
+              "moeda"
+            ],
+            "score_detail": {
+              "m1": 4.1247416,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "republica_checa": {
+                  "keyword": {
+                    "termo": "republica_checa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "republica_checa_nos_jogos_olimpicos_de_verao_de_2012",
+                  "score": 3.1247413
+                },
+                "moeda": {
+                  "keyword": {
+                    "termo": "prata",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prata",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*republica_checa_nos_jogos_olimpicos_de_verao_de_2000",
+              "*prata",
+              "3"
+            ]
+          ],
+          "score": 5.791408,
+          "detail": {
+            "keywords": [
+              "republica_checa",
+              "moeda"
+            ],
+            "score_detail": {
+              "m1": 4.1247416,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "republica_checa": {
+                  "keyword": {
+                    "termo": "republica_checa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "republica_checa_nos_jogos_olimpicos_de_verao_de_2000",
+                  "score": 3.1247413
+                },
+                "moeda": {
+                  "keyword": {
+                    "termo": "prata",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prata",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*republica_checa_nos_jogos_olimpicos_de_verao_de_2004",
+              "*prata",
+              "3"
+            ]
+          ],
+          "score": 5.791408,
+          "detail": {
+            "keywords": [
+              "republica_checa",
+              "moeda"
+            ],
+            "score_detail": {
+              "m1": 4.1247416,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "republica_checa": {
+                  "keyword": {
+                    "termo": "republica_checa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "republica_checa_nos_jogos_olimpicos_de_verao_de_2004",
+                  "score": 3.1247413
+                },
+                "moeda": {
+                  "keyword": {
+                    "termo": "prata",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prata",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*republica_checa_nos_jogos_olimpicos_de_verao_de_1996",
+              "*prata",
+              "3"
+            ]
+          ],
+          "score": 5.791408,
+          "detail": {
+            "keywords": [
+              "republica_checa",
+              "moeda"
+            ],
+            "score_detail": {
+              "m1": 4.1247416,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "republica_checa": {
+                  "keyword": {
+                    "termo": "republica_checa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "republica_checa_nos_jogos_olimpicos_de_verao_de_1996",
+                  "score": 3.1247413
+                },
+                "moeda": {
+                  "keyword": {
+                    "termo": "prata",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prata",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*republica_checa_nos_jogos_olimpicos_de_inverno_de_1998",
+              "*prata",
+              "1"
+            ]
+          ],
+          "score": 5.3867774,
+          "detail": {
+            "keywords": [
+              "republica_checa",
+              "moeda"
+            ],
+            "score_detail": {
+              "m1": 3.7201107,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "republica_checa": {
+                  "keyword": {
+                    "termo": "republica_checa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "republica_checa_nos_jogos_olimpicos_de_inverno_de_1998",
+                  "score": 2.7201107
+                },
+                "moeda": {
+                  "keyword": {
+                    "termo": "prata",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prata",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*republica_checa_nos_jogos_olimpicos_de_inverno_de_1994",
+              "*prata",
+              "0"
+            ]
+          ],
+          "score": 5.3867774,
+          "detail": {
+            "keywords": [
+              "republica_checa",
+              "moeda"
+            ],
+            "score_detail": {
+              "m1": 3.7201107,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "republica_checa": {
+                  "keyword": {
+                    "termo": "republica_checa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "republica_checa_nos_jogos_olimpicos_de_inverno_de_1994",
+                  "score": 2.7201107
+                },
+                "moeda": {
+                  "keyword": {
+                    "termo": "prata",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prata",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*republica_checa_nos_jogos_olimpicos_de_inverno_de_2014",
+              "*prata",
+              "4"
+            ]
+          ],
+          "score": 5.3867774,
+          "detail": {
+            "keywords": [
+              "republica_checa",
+              "moeda"
+            ],
+            "score_detail": {
+              "m1": 3.7201107,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "republica_checa": {
+                  "keyword": {
+                    "termo": "republica_checa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "republica_checa_nos_jogos_olimpicos_de_inverno_de_2014",
+                  "score": 2.7201107
+                },
+                "moeda": {
+                  "keyword": {
+                    "termo": "prata",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prata",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*republica_checa_nos_jogos_olimpicos_de_inverno_de_2010",
+              "*prata",
+              "0"
+            ]
+          ],
+          "score": 5.3867774,
+          "detail": {
+            "keywords": [
+              "republica_checa",
+              "moeda"
+            ],
+            "score_detail": {
+              "m1": 3.7201107,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "republica_checa": {
+                  "keyword": {
+                    "termo": "republica_checa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "republica_checa_nos_jogos_olimpicos_de_inverno_de_2010",
+                  "score": 2.7201107
+                },
+                "moeda": {
+                  "keyword": {
+                    "termo": "prata",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prata",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*republica_checa_nos_jogos_olimpicos_de_inverno_de_2006",
+              "*prata",
+              "2"
+            ]
+          ],
+          "score": 5.3867774,
+          "detail": {
+            "keywords": [
+              "republica_checa",
+              "moeda"
+            ],
+            "score_detail": {
+              "m1": 3.7201107,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "republica_checa": {
+                  "keyword": {
+                    "termo": "republica_checa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "republica_checa_nos_jogos_olimpicos_de_inverno_de_2006",
+                  "score": 2.7201107
+                },
+                "moeda": {
+                  "keyword": {
+                    "termo": "prata",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prata",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*republica_checa_nos_jogos_olimpicos_de_inverno_de_2002",
+              "*prata",
+              "2"
+            ]
+          ],
+          "score": 5.3867774,
+          "detail": {
+            "keywords": [
+              "republica_checa",
+              "moeda"
+            ],
+            "score_detail": {
+              "m1": 3.7201107,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "republica_checa": {
+                  "keyword": {
+                    "termo": "republica_checa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "republica_checa_nos_jogos_olimpicos_de_inverno_de_2002",
+                  "score": 2.7201107
+                },
+                "moeda": {
+                  "keyword": {
+                    "termo": "prata",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prata",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*republica_checa_nos_jogos_paralimpicos_de_verao_de_2016",
+              "*prata",
+              "2"
+            ]
+          ],
+          "score": 5.197915,
+          "detail": {
+            "keywords": [
+              "republica_checa",
+              "moeda"
+            ],
+            "score_detail": {
+              "m1": 3.5312483,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "republica_checa": {
+                  "keyword": {
+                    "termo": "republica_checa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "republica_checa_nos_jogos_paralimpicos_de_verao_de_2016",
+                  "score": 2.5312483
+                },
+                "moeda": {
+                  "keyword": {
+                    "termo": "prata",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prata",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*republica_checa_nos_jogos_paralimpicos_de_verao_de_2012",
+              "*prata",
+              "6"
+            ]
+          ],
+          "score": 5.197915,
+          "detail": {
+            "keywords": [
+              "republica_checa",
+              "moeda"
+            ],
+            "score_detail": {
+              "m1": 3.5312483,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "republica_checa": {
+                  "keyword": {
+                    "termo": "republica_checa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "republica_checa_nos_jogos_paralimpicos_de_verao_de_2012",
+                  "score": 2.5312483
+                },
+                "moeda": {
+                  "keyword": {
+                    "termo": "prata",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prata",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*republica_checa_nos_jogos_olimpicos_de_verao_de_2008",
+              "abstract",
+              "*a republica checa competiu nos jogos olimpicos de 2008 em pequim na china, com 134 participantes em 20 esportes. durante quase quase quatro seculos ficou sob o dominio do imperio austro-hungaro. em 1918, apos a primeira guerra mundial, eslovacos e tchecos se uniram e formaram a checoslovaquia. a uniao durou 85 anos e, neste periodo, o esporte foi uma das principais forcas do pais. entre as olimpiadas da antuerpia 1920 e de barcelona 1992, foram 143 medalhas e o 24o lugar no quadro geral historico. em helsinque 1952, teve o seu melhor desempenho, ficando em sexto lugar geral. nessa olimpiada, o atleta emil zatopek entrou para a historia olimpica, sendo o unico a vencer a maratona, os 5.000 m e 10.000 m na mesma edicao. em pequim 2008 teve uma pequena volta por cima. foram tres medalhistas de ouro, com duas vitorias no tiro e uma no lancamento de dardo, com barbora spotakova. o destaque individual foi katerina emmons, que ganhou a primeira medalha de ouro das olimpiadas e ainda levou uma prata. mesmo com esse desempenho, o total de medalhas caiu de oito para seis em relacao a atenas 2004 e o pais ainda tem muito trabalho ate londres 2012."
+            ]
+          ],
+          "score": 4.791408,
+          "detail": {
+            "keywords": [
+              "republica_checa",
+              "moeda"
+            ],
+            "score_detail": {
+              "m1": 3.1247413,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "republica_checa": {
+                  "keyword": {
+                    "termo": "republica_checa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "republica_checa_nos_jogos_olimpicos_de_verao_de_2008",
+                  "score": 3.1247413
+                },
+                "moeda": {
+                  "keyword": {
+                    "termo": "prata",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "a republica checa competiu nos jogos olimpicos de 2008 em pequim na china, com 134 participantes em 20 esportes. durante quase quase quatro seculos ficou sob o dominio do imperio austro-hungaro. em 1918, apos a primeira guerra mundial, eslovacos e tchecos se uniram e formaram a checoslovaquia. a uniao durou 85 anos e, neste periodo, o esporte foi uma das principais forcas do pais. entre as olimpiadas da antuerpia 1920 e de barcelona 1992, foram 143 medalhas e o 24o lugar no quadro geral historico. em helsinque 1952, teve o seu melhor desempenho, ficando em sexto lugar geral. nessa olimpiada, o atleta emil zatopek entrou para a historia olimpica, sendo o unico a vencer a maratona, os 5.000 m e 10.000 m na mesma edicao. em pequim 2008 teve uma pequena volta por cima. foram tres medalhistas de ouro, com duas vitorias no tiro e uma no lancamento de dardo, com barbora spotakova. o destaque individual foi katerina emmons, que ganhou a primeira medalha de ouro das olimpiadas e ainda levou uma prata. mesmo com esse desempenho, o total de medalhas caiu de oito para seis em relacao a atenas 2004 e o pais ainda tem muito trabalho ate londres 2012.",
+                  "score": 0.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*republica_checa_nos_jogos_olimpicos_de_inverno_de_2006",
+              "abstract",
+              "*a republica checa mandou 84 competidores para os jogos olimpicos de inverno de 2006, em turim, na italia. a delegacao conquistou 4 medalhas no total, sendo uma de ouro, duas de prata e uma de bronze. a esquiadora katerina neumannova foi a atleta com mais medalhas, uma de ouro e uma de prata. as outras medalhas foram conquistadas por lukas bauer no esqui cross-country e pela equipe de hoquei no gelo masculina."
+            ]
+          ],
+          "score": 4.3867774,
+          "detail": {
+            "keywords": [
+              "republica_checa",
+              "moeda"
+            ],
+            "score_detail": {
+              "m1": 2.7201107,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "republica_checa": {
+                  "keyword": {
+                    "termo": "republica_checa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "republica_checa_nos_jogos_olimpicos_de_inverno_de_2006",
+                  "score": 2.7201107
+                },
+                "moeda": {
+                  "keyword": {
+                    "termo": "prata",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "a republica checa mandou 84 competidores para os jogos olimpicos de inverno de 2006, em turim, na italia. a delegacao conquistou 4 medalhas no total, sendo uma de ouro, duas de prata e uma de bronze. a esquiadora katerina neumannova foi a atleta com mais medalhas, uma de ouro e uma de prata. as outras medalhas foram conquistadas por lukas bauer no esqui cross-country e pela equipe de hoquei no gelo masculina.",
+                  "score": 7.1144825e-17
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*republica_checa_nos_jogos_olimpicos_de_verao_da_juventude_de_2010",
+              "*prata",
+              "2"
+            ]
+          ],
+          "score": 3.8082976,
+          "detail": {
+            "keywords": [
+              "republica_checa",
+              "moeda"
+            ],
+            "score_detail": {
+              "m1": 2.141631,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "republica_checa": {
+                  "keyword": {
+                    "termo": "republica_checa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "republica_checa_nos_jogos_olimpicos_de_verao_da_juventude_de_2010",
+                  "score": 1.1416309
+                },
+                "moeda": {
+                  "keyword": {
+                    "termo": "prata",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prata",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*republica_checa_nos_jogos_olimpicos_de_inverno_da_juventude_de_2012",
+              "*prata",
+              "1"
+            ]
+          ],
+          "score": 3.6279397,
+          "detail": {
+            "keywords": [
+              "republica_checa",
+              "moeda"
+            ],
+            "score_detail": {
+              "m1": 1.961273,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "republica_checa": {
+                  "keyword": {
+                    "termo": "republica_checa",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "republica_checa_nos_jogos_olimpicos_de_inverno_da_juventude_de_2012",
+                  "score": 0.96127295
+                },
+                "moeda": {
+                  "keyword": {
+                    "termo": "prata",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "prata",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*moeda",
+              "owl#sameas",
+              "q8142"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "moeda"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "moeda": {
+                  "keyword": {
+                    "termo": "moeda",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "moeda",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*moeda",
+              "owl#sameas",
+              "wahrung"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "moeda"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "moeda": {
+                  "keyword": {
+                    "termo": "moeda",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "moeda",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*moeda",
+              "owl#sameas",
+              "*divisa"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "moeda"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "moeda": {
+                  "keyword": {
+                    "termo": "moeda",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "moeda",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*moeda",
+              "owl#sameas",
+              14
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "moeda"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "moeda": {
+                  "keyword": {
+                    "termo": "moeda",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "moeda",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*moeda",
+              "owl#sameas",
+              "valyuta"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "moeda"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "moeda": {
+                  "keyword": {
+                    "termo": "moeda",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "moeda",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*moeda",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 2.3333333,
+          "detail": {
+            "keywords": [
+              "moeda"
+            ],
+            "score_detail": {
+              "m1": 2.0,
+              "m2": 0.33333334,
+              "m3": 0.0,
+              "matches": {
+                "moeda": {
+                  "keyword": {
+                    "termo": "moeda",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "moeda",
+                  "score": 2.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 0
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 3285972700,
+      "total_time": 13041223300
+    }
+  }
+]

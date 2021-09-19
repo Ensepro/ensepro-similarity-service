@@ -1,0 +1,2403 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "X:par",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "CJT:pron-int",
+          "palavra_original": "Qual",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<cjt-head>",
+            "<cjt-head-X>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "CJT:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "língua",
+          "palavra_canonica": "língua",
+          "tags": [
+            "<cjt-X>",
+            "<anmov>",
+            "<ling>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:adj",
+          "palavra_original": "oficial",
+          "palavra_canonica": "oficial",
+          "tags": [
+            "<nh>",
+            "<np-close>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<sam->",
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<-sam>",
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Suriname",
+          "palavra_canonica": "Suriname",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "X:par",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "CJT:pron-int",
+          "palavra_original": "Qual",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<cjt-head>",
+            "<cjt-head-X>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "M/F",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "CJT:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "DN:art",
+          "palavra_original": "a",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "língua",
+          "palavra_canonica": "língua",
+          "tags": [
+            "<cjt-X>",
+            "<anmov>",
+            "<ling>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "natural_language",
+                "sinonimo": "Língua_Natural",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "expressive_style",
+                "sinonimo": "discurso",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "expressive_style",
+                "sinonimo": "estilo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "linguagem_natural",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "Lingua_natural",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "idioma",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "Dialetos",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "língua",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "linguagem",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "dialecto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "língua_natural",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "dialeto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "dialect",
+                "sinonimo": "accent",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "natural_language",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "dialect",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "expressive_style",
+                "sinonimo": "style",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "expressive_style",
+                "sinonimo": "expressive_style",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "language",
+                "sinonimo": "speech",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "tongue",
+                "sinonimo": "lingua",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "tongue",
+                "sinonimo": "glossa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "language",
+                "sinonimo": "language",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "tongue",
+                "sinonimo": "tongue",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "tongue",
+                "sinonimo": "clapper",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "language",
+                "sinonimo": "linguistic_communication",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "idiom",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "DN:adj",
+          "palavra_original": "oficial",
+          "palavra_canonica": "oficial",
+          "tags": [
+            "<nh>",
+            "<np-close>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<sam->",
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "DP:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<-sam>",
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Suriname",
+          "palavra_canonica": "Suriname",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 12,
+          "tag_inicial": "?",
+          "palavra_original": " ",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "[ [ X:par|1| [CJT:pron-int|2| Qual] [ CJT:np|3| [DN:art|4| a] [H:n|5| língua] [DN:adj|6| oficial] [ DN:pp|7| [H:prp|8| de] [ DP:np|9| [DN:art|10| o] [H:prop|11| Suriname] ] ] ] [?|12|  ] ] ]",
+      "tipo": {
+        "tipo": "qual",
+        "confianca": 0.64,
+        "ids": [
+          2
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 5,
+          "tag_inicial": "H:n",
+          "palavra_original": "língua",
+          "palavra_canonica": "língua",
+          "tags": [
+            "<cjt-X>",
+            "<anmov>",
+            "<ling>",
+            "F",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "natural_language",
+                "sinonimo": "Língua_Natural",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "expressive_style",
+                "sinonimo": "discurso",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "expressive_style",
+                "sinonimo": "estilo",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "linguagem_natural",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "Lingua_natural",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "idioma",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "Dialetos",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "língua",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "linguagem",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "dialecto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "língua_natural",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "dialeto",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "dialect",
+                "sinonimo": "accent",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "natural_language",
+                "sinonimo": "natural_language",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "dialect",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "expressive_style",
+                "sinonimo": "style",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "expressive_style",
+                "sinonimo": "expressive_style",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "language",
+                "sinonimo": "speech",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "05"
+              },
+              {
+                "synset": "tongue",
+                "sinonimo": "lingua",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "tongue",
+                "sinonimo": "glossa",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "language",
+                "sinonimo": "language",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "tongue",
+                "sinonimo": "tongue",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "07"
+              },
+              {
+                "synset": "tongue",
+                "sinonimo": "clapper",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "language",
+                "sinonimo": "linguistic_communication",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "dialect",
+                "sinonimo": "idiom",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 11,
+          "tag_inicial": "H:prop",
+          "palavra_original": "Suriname",
+          "palavra_canonica": "Suriname",
+          "tags": [
+            "<civ>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 4,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 5,
+            "tag_inicial": "H:n",
+            "palavra_original": "língua",
+            "palavra_canonica": "língua",
+            "tags": [
+              "<cjt-X>",
+              "<anmov>",
+              "<ling>",
+              "F",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "natural_language",
+                  "sinonimo": "Língua_Natural",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "expressive_style",
+                  "sinonimo": "discurso",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "expressive_style",
+                  "sinonimo": "estilo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "natural_language",
+                  "sinonimo": "linguagem_natural",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "natural_language",
+                  "sinonimo": "Lingua_natural",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "natural_language",
+                  "sinonimo": "idioma",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "dialect",
+                  "sinonimo": "Dialetos",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "natural_language",
+                  "sinonimo": "língua",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "natural_language",
+                  "sinonimo": "linguagem",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "dialect",
+                  "sinonimo": "dialecto",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "natural_language",
+                  "sinonimo": "língua_natural",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "dialect",
+                  "sinonimo": "dialeto",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "dialect",
+                  "sinonimo": "accent",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "natural_language",
+                  "sinonimo": "natural_language",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "dialect",
+                  "sinonimo": "dialect",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "expressive_style",
+                  "sinonimo": "style",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "expressive_style",
+                  "sinonimo": "expressive_style",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "language",
+                  "sinonimo": "speech",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "tongue",
+                  "sinonimo": "lingua",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "tongue",
+                  "sinonimo": "glossa",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "language",
+                  "sinonimo": "language",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "tongue",
+                  "sinonimo": "tongue",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "07"
+                },
+                {
+                  "synset": "tongue",
+                  "sinonimo": "clapper",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "language",
+                  "sinonimo": "linguistic_communication",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "dialect",
+                  "sinonimo": "idiom",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 6,
+            "tag_inicial": "DN:adj",
+            "palavra_original": "oficial",
+            "palavra_canonica": "oficial",
+            "tags": [
+              "<nh>",
+              "<np-close>",
+              "F",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": null
+          }
+        },
+        {
+          "nome": {
+            "id": 5,
+            "tag_inicial": "H:n",
+            "palavra_original": "língua",
+            "palavra_canonica": "língua",
+            "tags": [
+              "<cjt-X>",
+              "<anmov>",
+              "<ling>",
+              "F",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "natural_language",
+                  "sinonimo": "Língua_Natural",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "expressive_style",
+                  "sinonimo": "discurso",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "expressive_style",
+                  "sinonimo": "estilo",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "natural_language",
+                  "sinonimo": "linguagem_natural",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "natural_language",
+                  "sinonimo": "Lingua_natural",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "natural_language",
+                  "sinonimo": "idioma",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "dialect",
+                  "sinonimo": "Dialetos",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "natural_language",
+                  "sinonimo": "língua",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "natural_language",
+                  "sinonimo": "linguagem",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "dialect",
+                  "sinonimo": "dialecto",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "natural_language",
+                  "sinonimo": "língua_natural",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "dialect",
+                  "sinonimo": "dialeto",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "dialect",
+                  "sinonimo": "accent",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "natural_language",
+                  "sinonimo": "natural_language",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "dialect",
+                  "sinonimo": "dialect",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "expressive_style",
+                  "sinonimo": "style",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "expressive_style",
+                  "sinonimo": "expressive_style",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "language",
+                  "sinonimo": "speech",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "05"
+                },
+                {
+                  "synset": "tongue",
+                  "sinonimo": "lingua",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "tongue",
+                  "sinonimo": "glossa",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "language",
+                  "sinonimo": "language",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "tongue",
+                  "sinonimo": "tongue",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "07"
+                },
+                {
+                  "synset": "tongue",
+                  "sinonimo": "clapper",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "language",
+                  "sinonimo": "linguistic_communication",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "dialect",
+                  "sinonimo": "idiom",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 11,
+            "tag_inicial": "H:prop",
+            "palavra_original": "Suriname",
+            "palavra_canonica": "Suriname",
+            "tags": [
+              "<civ>",
+              "<*>",
+              "M",
+              "S"
+            ],
+            "nivel": 4,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*suriname",
+              "*linguaoficial",
+              "*lingua_neerlandesa"
+            ]
+          ],
+          "score": 14.726937,
+          "detail": {
+            "keywords": [
+              "suriname",
+              "lingua",
+              "oficial"
+            ],
+            "score_detail": {
+              "m1": 12.726937,
+              "m2": 1.0,
+              "m3": 1.0,
+              "matches": {
+                "suriname": {
+                  "keyword": {
+                    "termo": "suriname",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "suriname",
+                  "score": 10.0
+                },
+                "lingua": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "linguaoficial",
+                  "score": 1.7269374
+                },
+                "oficial": {
+                  "keyword": {
+                    "termo": "oficial",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "linguaoficial",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "suriname": "-23",
+              "lingua": "-116"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*lingua_neerlandesa",
+              "*oficial",
+              "*suriname"
+            ]
+          ],
+          "score": 14.474485,
+          "detail": {
+            "keywords": [
+              "suriname",
+              "lingua",
+              "oficial"
+            ],
+            "score_detail": {
+              "m1": 12.474485,
+              "m2": 1.0,
+              "m3": 1.0,
+              "matches": {
+                "suriname": {
+                  "keyword": {
+                    "termo": "suriname",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "suriname",
+                  "score": 10.0
+                },
+                "lingua": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_neerlandesa",
+                  "score": 1.4744859
+                },
+                "oficial": {
+                  "keyword": {
+                    "termo": "oficial",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "oficial",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1
+        },
+        {
+          "triples": [
+            [
+              "*lingua_aluku",
+              "estados",
+              "*suriname"
+            ]
+          ],
+          "score": 13.438785,
+          "detail": {
+            "keywords": [
+              "suriname",
+              "lingua"
+            ],
+            "score_detail": {
+              "m1": 11.772118,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "suriname": {
+                  "keyword": {
+                    "termo": "suriname",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "suriname",
+                  "score": 10.0
+                },
+                "lingua": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_aluku",
+                  "score": 1.7721173
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*lingua_aluku",
+              "fam",
+              "*suriname"
+            ]
+          ],
+          "score": 13.438785,
+          "detail": {
+            "keywords": [
+              "suriname",
+              "lingua"
+            ],
+            "score_detail": {
+              "m1": 11.772118,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "suriname": {
+                  "keyword": {
+                    "termo": "suriname",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "suriname",
+                  "score": 10.0
+                },
+                "lingua": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_aluku",
+                  "score": 1.7721173
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*lingua_aluku",
+              "state",
+              "*suriname"
+            ]
+          ],
+          "score": 13.438785,
+          "detail": {
+            "keywords": [
+              "suriname",
+              "lingua"
+            ],
+            "score_detail": {
+              "m1": 11.772118,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "suriname": {
+                  "keyword": {
+                    "termo": "suriname",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "suriname",
+                  "score": 10.0
+                },
+                "lingua": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_aluku",
+                  "score": 1.7721173
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*lingua_aluku",
+              "spokenin",
+              "*suriname"
+            ]
+          ],
+          "score": 13.438785,
+          "detail": {
+            "keywords": [
+              "suriname",
+              "lingua"
+            ],
+            "score_detail": {
+              "m1": 11.772118,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "suriname": {
+                  "keyword": {
+                    "termo": "suriname",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "suriname",
+                  "score": 10.0
+                },
+                "lingua": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_aluku",
+                  "score": 1.7721173
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5
+        },
+        {
+          "triples": [
+            [
+              "*lingua_aluku",
+              "*languagefamily",
+              "*suriname"
+            ]
+          ],
+          "score": 13.438785,
+          "detail": {
+            "keywords": [
+              "suriname",
+              "lingua"
+            ],
+            "score_detail": {
+              "m1": 11.772118,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "suriname": {
+                  "keyword": {
+                    "termo": "suriname",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "suriname",
+                  "score": 10.0
+                },
+                "lingua": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_aluku",
+                  "score": 1.7721173
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6
+        },
+        {
+          "triples": [
+            [
+              "*lingua_tirio",
+              "state",
+              "*suriname"
+            ]
+          ],
+          "score": 13.438785,
+          "detail": {
+            "keywords": [
+              "suriname",
+              "lingua"
+            ],
+            "score_detail": {
+              "m1": 11.772118,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "suriname": {
+                  "keyword": {
+                    "termo": "suriname",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "suriname",
+                  "score": 10.0
+                },
+                "lingua": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_tirio",
+                  "score": 1.7721173
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7
+        },
+        {
+          "triples": [
+            [
+              "*lingua_tirio",
+              "spokenin",
+              "*suriname"
+            ]
+          ],
+          "score": 13.438785,
+          "detail": {
+            "keywords": [
+              "suriname",
+              "lingua"
+            ],
+            "score_detail": {
+              "m1": 11.772118,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "suriname": {
+                  "keyword": {
+                    "termo": "suriname",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "suriname",
+                  "score": 10.0
+                },
+                "lingua": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_tirio",
+                  "score": 1.7721173
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8
+        },
+        {
+          "triples": [
+            [
+              "*lingua_kwinti",
+              "estados",
+              "*suriname"
+            ]
+          ],
+          "score": 13.393604,
+          "detail": {
+            "keywords": [
+              "suriname",
+              "lingua"
+            ],
+            "score_detail": {
+              "m1": 11.726937,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "suriname": {
+                  "keyword": {
+                    "termo": "suriname",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "suriname",
+                  "score": 10.0
+                },
+                "lingua": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_kwinti",
+                  "score": 1.7269374
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*lingua_kwinti",
+              "fam",
+              "*suriname"
+            ]
+          ],
+          "score": 13.393604,
+          "detail": {
+            "keywords": [
+              "suriname",
+              "lingua"
+            ],
+            "score_detail": {
+              "m1": 11.726937,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "suriname": {
+                  "keyword": {
+                    "termo": "suriname",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "suriname",
+                  "score": 10.0
+                },
+                "lingua": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_kwinti",
+                  "score": 1.7269374
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*lingua_ndyuka",
+              "estados",
+              "*suriname"
+            ]
+          ],
+          "score": 13.393604,
+          "detail": {
+            "keywords": [
+              "suriname",
+              "lingua"
+            ],
+            "score_detail": {
+              "m1": 11.726937,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "suriname": {
+                  "keyword": {
+                    "termo": "suriname",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "suriname",
+                  "score": 10.0
+                },
+                "lingua": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_ndyuka",
+                  "score": 1.7269374
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*lingua_ndyuka",
+              "fam",
+              "*suriname"
+            ]
+          ],
+          "score": 13.393604,
+          "detail": {
+            "keywords": [
+              "suriname",
+              "lingua"
+            ],
+            "score_detail": {
+              "m1": 11.726937,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "suriname": {
+                  "keyword": {
+                    "termo": "suriname",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "suriname",
+                  "score": 10.0
+                },
+                "lingua": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_ndyuka",
+                  "score": 1.7269374
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*lingua_lokono",
+              "estados",
+              "*suriname"
+            ]
+          ],
+          "score": 13.393604,
+          "detail": {
+            "keywords": [
+              "suriname",
+              "lingua"
+            ],
+            "score_detail": {
+              "m1": 11.726937,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "suriname": {
+                  "keyword": {
+                    "termo": "suriname",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "suriname",
+                  "score": 10.0
+                },
+                "lingua": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_lokono",
+                  "score": 1.7269374
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*lingua_lokono",
+              "state",
+              "*suriname"
+            ]
+          ],
+          "score": 13.393604,
+          "detail": {
+            "keywords": [
+              "suriname",
+              "lingua"
+            ],
+            "score_detail": {
+              "m1": 11.726937,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "suriname": {
+                  "keyword": {
+                    "termo": "suriname",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "suriname",
+                  "score": 10.0
+                },
+                "lingua": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_lokono",
+                  "score": 1.7269374
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*lingua_lokono",
+              "spokenin",
+              "*suriname"
+            ]
+          ],
+          "score": 13.393604,
+          "detail": {
+            "keywords": [
+              "suriname",
+              "lingua"
+            ],
+            "score_detail": {
+              "m1": 11.726937,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "suriname": {
+                  "keyword": {
+                    "termo": "suriname",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "suriname",
+                  "score": 10.0
+                },
+                "lingua": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_lokono",
+                  "score": 1.7269374
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*lingua_kwinti",
+              "state",
+              "*suriname"
+            ]
+          ],
+          "score": 13.393604,
+          "detail": {
+            "keywords": [
+              "suriname",
+              "lingua"
+            ],
+            "score_detail": {
+              "m1": 11.726937,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "suriname": {
+                  "keyword": {
+                    "termo": "suriname",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "suriname",
+                  "score": 10.0
+                },
+                "lingua": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_kwinti",
+                  "score": 1.7269374
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*lingua_kwinti",
+              "spokenin",
+              "*suriname"
+            ]
+          ],
+          "score": 13.393604,
+          "detail": {
+            "keywords": [
+              "suriname",
+              "lingua"
+            ],
+            "score_detail": {
+              "m1": 11.726937,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "suriname": {
+                  "keyword": {
+                    "termo": "suriname",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "suriname",
+                  "score": 10.0
+                },
+                "lingua": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_kwinti",
+                  "score": 1.7269374
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*lingua_kwinti",
+              "*languagefamily",
+              "*suriname"
+            ]
+          ],
+          "score": 13.393604,
+          "detail": {
+            "keywords": [
+              "suriname",
+              "lingua"
+            ],
+            "score_detail": {
+              "m1": 11.726937,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "suriname": {
+                  "keyword": {
+                    "termo": "suriname",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "suriname",
+                  "score": 10.0
+                },
+                "lingua": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_kwinti",
+                  "score": 1.7269374
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*lingua_ndyuka",
+              "state",
+              "*suriname"
+            ]
+          ],
+          "score": 13.393604,
+          "detail": {
+            "keywords": [
+              "suriname",
+              "lingua"
+            ],
+            "score_detail": {
+              "m1": 11.726937,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "suriname": {
+                  "keyword": {
+                    "termo": "suriname",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "suriname",
+                  "score": 10.0
+                },
+                "lingua": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_ndyuka",
+                  "score": 1.7269374
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*lingua_ndyuka",
+              "spokenin",
+              "*suriname"
+            ]
+          ],
+          "score": 13.393604,
+          "detail": {
+            "keywords": [
+              "suriname",
+              "lingua"
+            ],
+            "score_detail": {
+              "m1": 11.726937,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "suriname": {
+                  "keyword": {
+                    "termo": "suriname",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "suriname",
+                  "score": 10.0
+                },
+                "lingua": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_ndyuka",
+                  "score": 1.7269374
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*lingua_ndyuka",
+              "*languagefamily",
+              "*suriname"
+            ]
+          ],
+          "score": 13.393604,
+          "detail": {
+            "keywords": [
+              "suriname",
+              "lingua"
+            ],
+            "score_detail": {
+              "m1": 11.726937,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "suriname": {
+                  "keyword": {
+                    "termo": "suriname",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "suriname",
+                  "score": 10.0
+                },
+                "lingua": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_ndyuka",
+                  "score": 1.7269374
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*lingua_akuriyo",
+              "estados",
+              "*suriname"
+            ]
+          ],
+          "score": 13.346495,
+          "detail": {
+            "keywords": [
+              "suriname",
+              "lingua"
+            ],
+            "score_detail": {
+              "m1": 11.679828,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "suriname": {
+                  "keyword": {
+                    "termo": "suriname",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "suriname",
+                  "score": 10.0
+                },
+                "lingua": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_akuriyo",
+                  "score": 1.6798279
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*lingua_akuriyo",
+              "state",
+              "*suriname"
+            ]
+          ],
+          "score": 13.346495,
+          "detail": {
+            "keywords": [
+              "suriname",
+              "lingua"
+            ],
+            "score_detail": {
+              "m1": 11.679828,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "suriname": {
+                  "keyword": {
+                    "termo": "suriname",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "suriname",
+                  "score": 10.0
+                },
+                "lingua": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_akuriyo",
+                  "score": 1.6798279
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "*lingua_akuriyo",
+              "spokenin",
+              "*suriname"
+            ]
+          ],
+          "score": 13.346495,
+          "detail": {
+            "keywords": [
+              "suriname",
+              "lingua"
+            ],
+            "score_detail": {
+              "m1": 11.679828,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "suriname": {
+                  "keyword": {
+                    "termo": "suriname",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "suriname",
+                  "score": 10.0
+                },
+                "lingua": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_akuriyo",
+                  "score": 1.6798279
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*lingua_bhojpuri",
+              "state",
+              "*suriname"
+            ]
+          ],
+          "score": 13.297557,
+          "detail": {
+            "keywords": [
+              "suriname",
+              "lingua"
+            ],
+            "score_detail": {
+              "m1": 11.63089,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "suriname": {
+                  "keyword": {
+                    "termo": "suriname",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "suriname",
+                  "score": 10.0
+                },
+                "lingua": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_bhojpuri",
+                  "score": 1.6308894
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*lingua_bhojpuri",
+              "spokenin",
+              "*suriname"
+            ]
+          ],
+          "score": 13.297557,
+          "detail": {
+            "keywords": [
+              "suriname",
+              "lingua"
+            ],
+            "score_detail": {
+              "m1": 11.63089,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "suriname": {
+                  "keyword": {
+                    "termo": "suriname",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "suriname",
+                  "score": 10.0
+                },
+                "lingua": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_bhojpuri",
+                  "score": 1.6308894
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*lingua_indonesia",
+              "region",
+              "*suriname"
+            ]
+          ],
+          "score": 13.246915,
+          "detail": {
+            "keywords": [
+              "suriname",
+              "lingua"
+            ],
+            "score_detail": {
+              "m1": 11.580248,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "suriname": {
+                  "keyword": {
+                    "termo": "suriname",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "suriname",
+                  "score": 10.0
+                },
+                "lingua": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_indonesia",
+                  "score": 1.5802484
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*suriname",
+              "*officiallanguage",
+              "*lingua_neerlandesa"
+            ]
+          ],
+          "score": 13.141152,
+          "detail": {
+            "keywords": [
+              "suriname",
+              "lingua"
+            ],
+            "score_detail": {
+              "m1": 11.474485,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "suriname": {
+                  "keyword": {
+                    "termo": "suriname",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "suriname",
+                  "score": 10.0
+                },
+                "lingua": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_neerlandesa",
+                  "score": 1.4744859
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*lingua_neerlandesa",
+              "estados",
+              "*suriname"
+            ]
+          ],
+          "score": 13.141152,
+          "detail": {
+            "keywords": [
+              "suriname",
+              "lingua"
+            ],
+            "score_detail": {
+              "m1": 11.474485,
+              "m2": 0.6666667,
+              "m3": 1.0,
+              "matches": {
+                "suriname": {
+                  "keyword": {
+                    "termo": "suriname",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "suriname",
+                  "score": 10.0
+                },
+                "lingua": {
+                  "keyword": {
+                    "termo": "lingua",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "lingua_neerlandesa",
+                  "score": 1.4744859
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 4637.893199920654,
+      "l_sizes": [
+        23633
+      ],
+      "total_time": 14351.80377960205
+    }
+  }
+]

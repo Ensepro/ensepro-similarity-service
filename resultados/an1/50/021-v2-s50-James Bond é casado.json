@@ -1,0 +1,1909 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:prop",
+          "palavra_original": "James_Bond",
+          "palavra_canonica": "James_Bond",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:vp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Vaux:v-fin",
+          "palavra_original": "é",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<aux>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "Vm:v-pcp",
+          "palavra_original": "casado",
+          "palavra_canonica": "casar",
+          "tags": [
+            "<vH>",
+            "<mv>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:prop",
+          "palavra_original": "James_Bond",
+          "palavra_canonica": "James_Bond",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 3,
+          "tag_inicial": "P:vp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "Vaux:v-fin",
+          "palavra_original": "é",
+          "palavra_canonica": "ser",
+          "tags": [
+            "<fmc>",
+            "<aux>",
+            "PR",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "Vm:v-pcp",
+          "palavra_original": "casado",
+          "palavra_canonica": "casar",
+          "tags": [
+            "<vH>",
+            "<mv>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "marry",
+                "sinonimo": "casarem-se",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "juntar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "acoplar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "casar-se",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "casar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "match",
+                "sinonimo": "match",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "wed",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "mate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "get_married",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "couple",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "marry",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "tie",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "twin",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "hook_up_with",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "pair",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "espouse",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "splice",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "get_hitched_with",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "conjoin",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 6,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": {
+        "tipo": "desconhecido",
+        "confianca": 1,
+        "ids": []
+      },
+      "locucao_verbal": [
+        [
+          {
+            "id": 4,
+            "tag_inicial": "Vaux:v-fin",
+            "palavra_original": "é",
+            "palavra_canonica": "ser",
+            "tags": [
+              "<fmc>",
+              "<aux>",
+              "PR",
+              "3S",
+              "IND",
+              "VFIN"
+            ],
+            "nivel": 2,
+            "sinonimos": null
+          },
+          {
+            "id": 5,
+            "tag_inicial": "Vm:v-pcp",
+            "palavra_original": "casado",
+            "palavra_canonica": "casar",
+            "tags": [
+              "<vH>",
+              "<mv>",
+              "M",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "marry",
+                  "sinonimo": "casarem-se",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "marry",
+                  "sinonimo": "juntar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "match",
+                  "sinonimo": "acoplar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "marry",
+                  "sinonimo": "casar-se",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "marry",
+                  "sinonimo": "casar",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "match",
+                  "sinonimo": "match",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "marry",
+                  "sinonimo": "wed",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "match",
+                  "sinonimo": "mate",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "marry",
+                  "sinonimo": "get_married",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "match",
+                  "sinonimo": "couple",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "marry",
+                  "sinonimo": "marry",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "marry",
+                  "sinonimo": "tie",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "match",
+                  "sinonimo": "twin",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "marry",
+                  "sinonimo": "hook_up_with",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "match",
+                  "sinonimo": "pair",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "marry",
+                  "sinonimo": "espouse",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "marry",
+                  "sinonimo": "splice",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "marry",
+                  "sinonimo": "get_hitched_with",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "marry",
+                  "sinonimo": "conjoin",
+                  "classe_gramatical": "ClasseGramatical.VERBO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          }
+        ]
+      ],
+      "termos_relevantes": [
+        {
+          "id": 2,
+          "tag_inicial": "S:prop",
+          "palavra_original": "James_Bond",
+          "palavra_canonica": "James_Bond",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 1,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "Vm:v-pcp",
+          "palavra_original": "casado",
+          "palavra_canonica": "casar",
+          "tags": [
+            "<vH>",
+            "<mv>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "marry",
+                "sinonimo": "casarem-se",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "juntar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "acoplar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "casar-se",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "casar",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "match",
+                "sinonimo": "match",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "wed",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "mate",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "get_married",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "couple",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "marry",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "tie",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "twin",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "hook_up_with",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "match",
+                "sinonimo": "pair",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "espouse",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "splice",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "get_hitched_with",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "marry",
+                "sinonimo": "conjoin",
+                "classe_gramatical": "ClasseGramatical.VERBO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [
+        {
+          "triples": [
+            [
+              "mata_bond",
+              "parentesco",
+              "*james_bond"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "james_bond"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "james_bond": {
+                  "keyword": {
+                    "termo": "james_bond",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "james_bond",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 81,
+          "bind_control": {
+            "binds": {
+              "james_bond": "-73",
+              "casar": 559
+            },
+            "best_bind": {
+              "score": 0.35602626,
+              "resource_id": 559,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "jimmy_bond",
+              "parentesco",
+              "*james_bond"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "james_bond"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "james_bond": {
+                  "keyword": {
+                    "termo": "james_bond",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "james_bond",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 82,
+          "bind_control": {
+            "binds": {
+              "james_bond": "-73",
+              "casar": 559
+            },
+            "best_bind": {
+              "score": 0.35602626,
+              "resource_id": 559,
+              "tr": "casar"
+            }
+          }
+        }
+      ],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*james_bond",
+              "owl#sameas",
+              "q844"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "james_bond"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "james_bond": {
+                  "keyword": {
+                    "termo": "james_bond",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "james_bond",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "james_bond": "-73"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*james_bond",
+              "owl#sameas",
+              "_"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "james_bond"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "james_bond": {
+                  "keyword": {
+                    "termo": "james_bond",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "james_bond",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "james_bond": "-73"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*james_bond",
+              "owl#sameas",
+              "*james_bond"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "james_bond"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "james_bond": {
+                  "keyword": {
+                    "termo": "james_bond",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "james_bond",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*james_bond",
+              "owl#sameas",
+              "*james_bond_(fikcia_universo)"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "james_bond"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "james_bond": {
+                  "keyword": {
+                    "termo": "james_bond",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "james_bond",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*james_bond",
+              "owl#sameas",
+              "*james_bond_(franquicia)"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "james_bond"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "james_bond": {
+                  "keyword": {
+                    "termo": "james_bond",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "james_bond",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4
+        },
+        {
+          "triples": [
+            [
+              "*james_bond",
+              "owl#sameas",
+              "'_"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "james_bond"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "james_bond": {
+                  "keyword": {
+                    "termo": "james_bond",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "james_bond",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "james_bond": "-73"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*james_bond",
+              "owl#sameas",
+              79
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "james_bond"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "james_bond": {
+                  "keyword": {
+                    "termo": "james_bond",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "james_bond",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6,
+          "bind_control": {
+            "binds": {
+              "james_bond": "-73"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*james_bond",
+              "owl#sameas",
+              "iacobus_bond"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "james_bond"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "james_bond": {
+                  "keyword": {
+                    "termo": "james_bond",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "james_bond",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7,
+          "bind_control": {
+            "binds": {
+              "james_bond": "-73"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*james_bond",
+              "owl#sameas",
+              "dzeimsas_bondas"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "james_bond"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "james_bond": {
+                  "keyword": {
+                    "termo": "james_bond",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "james_bond",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8,
+          "bind_control": {
+            "binds": {
+              "james_bond": "-73"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*james_bond",
+              "owl#sameas",
+              "dzeimss_bonds"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "james_bond"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "james_bond": {
+                  "keyword": {
+                    "termo": "james_bond",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "james_bond",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9,
+          "bind_control": {
+            "binds": {
+              "james_bond": "-73"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*james_bond",
+              "owl#sameas",
+              "_()"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "james_bond"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "james_bond": {
+                  "keyword": {
+                    "termo": "james_bond",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "james_bond",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10,
+          "bind_control": {
+            "binds": {
+              "james_bond": "-73"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*james_bond",
+              "imagem",
+              "170"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "james_bond"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "james_bond": {
+                  "keyword": {
+                    "termo": "james_bond",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "james_bond",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11,
+          "bind_control": {
+            "binds": {
+              "james_bond": "-73"
+            },
+            "best_bind": {
+              "score": 0.16871215,
+              "resource_id": 20,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*james_bond",
+              "artistacapa",
+              "diogo"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "james_bond"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "james_bond": {
+                  "keyword": {
+                    "termo": "james_bond",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "james_bond",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12,
+          "bind_control": {
+            "binds": {
+              "james_bond": "-73"
+            },
+            "best_bind": {
+              "score": 0.22124118199999998,
+              "resource_id": 305,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*james_bond",
+              "editora",
+              "jonathan cape"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "james_bond"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "james_bond": {
+                  "keyword": {
+                    "termo": "james_bond",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "james_bond",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13,
+          "bind_control": {
+            "binds": {
+              "james_bond": "-73"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*james_bond",
+              "lancamento",
+              "1953"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "james_bond"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "james_bond": {
+                  "keyword": {
+                    "termo": "james_bond",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "james_bond",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14,
+          "bind_control": {
+            "binds": {
+              "james_bond": "-73"
+            },
+            "best_bind": {
+              "score": 0.25907114,
+              "resource_id": 308,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*james_bond",
+              "depiction",
+              "fleming007impression1.jpg"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "james_bond"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "james_bond": {
+                  "keyword": {
+                    "termo": "james_bond",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "james_bond",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15,
+          "bind_control": {
+            "binds": {
+              "james_bond": "-73"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*james_bond",
+              "thumbnail",
+              "fleming007impression1.jpg?width=300"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "james_bond"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "james_bond": {
+                  "keyword": {
+                    "termo": "james_bond",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "james_bond",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16,
+          "bind_control": {
+            "binds": {
+              "james_bond": "-73"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*james_bond",
+              "wikipageusestemplate",
+              "predefinicao:ver_desambig"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "james_bond"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "james_bond": {
+                  "keyword": {
+                    "termo": "james_bond",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "james_bond",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17,
+          "bind_control": {
+            "binds": {
+              "james_bond": "-73"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*james_bond",
+              "wikipageusestemplate",
+              "livro"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "james_bond"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "james_bond": {
+                  "keyword": {
+                    "termo": "james_bond",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "james_bond",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18,
+          "bind_control": {
+            "binds": {
+              "james_bond": "-73"
+            },
+            "best_bind": {
+              "score": 0.10327924575,
+              "resource_id": 216,
+              "tr": "casar"
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*james_bond",
+              "wikipageusestemplate",
+              "predefinicao:anexo"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "james_bond"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "james_bond": {
+                  "keyword": {
+                    "termo": "james_bond",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "james_bond",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19,
+          "bind_control": {
+            "binds": {
+              "james_bond": "-73"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*james_bond",
+              "wikipageusestemplate",
+              "predefinicao:artigo_principal"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "james_bond"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "james_bond": {
+                  "keyword": {
+                    "termo": "james_bond",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "james_bond",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20,
+          "bind_control": {
+            "binds": {
+              "james_bond": "-73"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*james_bond",
+              "wikipageusestemplate",
+              "predefinicao:curiosidades"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "james_bond"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "james_bond": {
+                  "keyword": {
+                    "termo": "james_bond",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "james_bond",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21,
+          "bind_control": {
+            "binds": {
+              "james_bond": "-73"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*james_bond",
+              "wikipageusestemplate",
+              "predefinicao:referencias"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "james_bond"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "james_bond": {
+                  "keyword": {
+                    "termo": "james_bond",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "james_bond",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22,
+          "bind_control": {
+            "binds": {
+              "james_bond": "-73"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*james_bond",
+              "wikipageusestemplate",
+              "predefinicao:commons1"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "james_bond"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "james_bond": {
+                  "keyword": {
+                    "termo": "james_bond",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "james_bond",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23,
+          "bind_control": {
+            "binds": {
+              "james_bond": "-73"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*james_bond",
+              "wikipageusestemplate",
+              "predefinicao:link"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "james_bond"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "james_bond": {
+                  "keyword": {
+                    "termo": "james_bond",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "james_bond",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24,
+          "bind_control": {
+            "binds": {
+              "james_bond": "-73"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*james_bond",
+              "wikipageusestemplate",
+              "*predefinicao:personagem_de_james_bond"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "james_bond"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "james_bond": {
+                  "keyword": {
+                    "termo": "james_bond",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "james_bond",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "*james_bond",
+              "wikipageusestemplate",
+              "*predefinicao:filmes_de_james_bond"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "james_bond"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "james_bond": {
+                  "keyword": {
+                    "termo": "james_bond",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "james_bond",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "*james_bond",
+              "wikipageusestemplate",
+              "*predefinicao:equipe_dos_filmes_de_james_bond"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "james_bond"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "james_bond": {
+                  "keyword": {
+                    "termo": "james_bond",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "james_bond",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "*james_bond",
+              "subject",
+              "*categoria:james_bond"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "james_bond"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "james_bond": {
+                  "keyword": {
+                    "termo": "james_bond",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "james_bond",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "*james_bond",
+              "subject",
+              "categoria:personagens_da_ficcao_com_situs_inversus"
+            ]
+          ],
+          "score": 11.333333,
+          "detail": {
+            "keywords": [
+              "james_bond"
+            ],
+            "score_detail": {
+              "m1": 10.0,
+              "m2": 0.33333334,
+              "m3": 1.0,
+              "matches": {
+                "james_bond": {
+                  "keyword": {
+                    "termo": "james_bond",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "james_bond",
+                  "score": 10.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29,
+          "bind_control": {
+            "binds": {
+              "james_bond": "-73"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        }
+      ],
+      "ranking_time": 772558800,
+      "total_time": 7401295900
+    }
+  }
+]

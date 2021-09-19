@@ -1,0 +1,2721 @@
+[
+  {
+    "frase_original": {
+      "id": 1,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "Qual",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "filme",
+          "palavra_canonica": "filme",
+          "tags": [
+            "<sem-w>",
+            "<cc>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Tim_Burton",
+          "palavra_canonica": "Tim_Burton",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 8,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "teve",
+          "palavra_canonica": "ter",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "DN:adj",
+          "palavra_original": "maior",
+          "palavra_canonica": "grande",
+          "tags": [
+            "<KOMP>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "H:n",
+          "palavra_original": "orçamento",
+          "palavra_canonica": "orçamento",
+          "tags": [
+            "<mon>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 13,
+          "tag_inicial": "?",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "None",
+      "tipo": null,
+      "locucao_verbal": null,
+      "termos_relevantes": null,
+      "voz": "None",
+      "complementos_nominais": null,
+      "resposta": null
+    },
+    "frase_final": {
+      "id": 2,
+      "palavras": [
+        {
+          "id": 1,
+          "tag_inicial": "QUE:fcl",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 0,
+          "sinonimos": null
+        },
+        {
+          "id": 2,
+          "tag_inicial": "S:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 3,
+          "tag_inicial": "DN:pron-int",
+          "palavra_original": "Qual",
+          "palavra_canonica": "qual",
+          "tags": [
+            "<clb>",
+            "<*>",
+            "<interr>",
+            "DET",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "filme",
+          "palavra_canonica": "filme",
+          "tags": [
+            "<sem-w>",
+            "<cc>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "movie",
+                "sinonimo": "cinema",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "filme",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "filmes",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "filme_fotográfico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "produção",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "Filme_Fotográfico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "Filme_fotografico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "película",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "movie",
+                "sinonimo": "movie",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "photographic_film",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "motion-picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "flick",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "film",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "pic",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "moving-picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "moving_picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "motion_picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 5,
+          "tag_inicial": "DN:pp",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 6,
+          "tag_inicial": "H:prp",
+          "palavra_original": "de",
+          "palavra_canonica": "de",
+          "tags": [
+            "<np-close>"
+          ],
+          "nivel": 3,
+          "sinonimos": null
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Tim_Burton",
+          "palavra_canonica": "Tim_Burton",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 8,
+          "tag_inicial": "P:v-fin",
+          "palavra_original": "teve",
+          "palavra_canonica": "ter",
+          "tags": [
+            "<fmc>",
+            "<mv>",
+            "PS",
+            "3S",
+            "IND",
+            "VFIN"
+          ],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 9,
+          "tag_inicial": "Od:np",
+          "palavra_original": "",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        },
+        {
+          "id": 10,
+          "tag_inicial": "DN:art",
+          "palavra_original": "o",
+          "palavra_canonica": "o",
+          "tags": [
+            "<artd>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 11,
+          "tag_inicial": "DN:adj",
+          "palavra_original": "maior",
+          "palavra_canonica": "grande",
+          "tags": [
+            "<KOMP>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": null
+        },
+        {
+          "id": 12,
+          "tag_inicial": "H:n",
+          "palavra_original": "orçamento",
+          "palavra_canonica": "orçamento",
+          "tags": [
+            "<mon>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "budget",
+                "sinonimo": "verba",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "budget",
+                "sinonimo": "orçamento",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "budget",
+                "sinonimo": "budget",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        },
+        {
+          "id": 13,
+          "tag_inicial": "?",
+          "palavra_original": " ",
+          "palavra_canonica": "",
+          "tags": [],
+          "nivel": 1,
+          "sinonimos": null
+        }
+      ],
+      "arvore": "[ [ QUE:fcl|1| [ S:np|2| [DN:pron-int|3| Qual] [H:n|4| filme] [ DN:pp|5| [H:prp|6| de] [DP:prop|7| Tim_Burton] ] ] [P:v-fin|8| teve] [ Od:np|9| [DN:art|10| o] [DN:adj|11| maior] [H:n|12| orçamento] ] [?|13|  ] ] ]",
+      "tipo": {
+        "tipo": "qual",
+        "confianca": 0.86,
+        "ids": [
+          3
+        ]
+      },
+      "locucao_verbal": [],
+      "termos_relevantes": [
+        {
+          "id": 4,
+          "tag_inicial": "H:n",
+          "palavra_original": "filme",
+          "palavra_canonica": "filme",
+          "tags": [
+            "<sem-w>",
+            "<cc>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "movie",
+                "sinonimo": "cinema",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "filme",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "filmes",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "filme_fotográfico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "produção",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "Filme_Fotográfico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "Filme_fotografico",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "película",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "movie",
+                "sinonimo": "movie",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "film",
+                "sinonimo": "photographic_film",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "03"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "motion-picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "flick",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "film",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "pic",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "moving-picture_show",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "moving_picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              },
+              {
+                "synset": "movie",
+                "sinonimo": "motion_picture",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "01"
+              }
+            ]
+          }
+        },
+        {
+          "id": 7,
+          "tag_inicial": "DP:prop",
+          "palavra_original": "Tim_Burton",
+          "palavra_canonica": "Tim_Burton",
+          "tags": [
+            "<hum>",
+            "<*>",
+            "M",
+            "S"
+          ],
+          "nivel": 3,
+          "sinonimos": {
+            "por": [],
+            "eng": []
+          }
+        },
+        {
+          "id": 12,
+          "tag_inicial": "H:n",
+          "palavra_original": "orçamento",
+          "palavra_canonica": "orçamento",
+          "tags": [
+            "<mon>",
+            "M",
+            "S"
+          ],
+          "nivel": 2,
+          "sinonimos": {
+            "por": [
+              {
+                "synset": "budget",
+                "sinonimo": "verba",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              },
+              {
+                "synset": "budget",
+                "sinonimo": "orçamento",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ],
+            "eng": [
+              {
+                "synset": "budget",
+                "sinonimo": "budget",
+                "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                "distancia_semantica": "02"
+              }
+            ]
+          }
+        }
+      ],
+      "voz": "None",
+      "complementos_nominais": [
+        {
+          "nome": {
+            "id": 4,
+            "tag_inicial": "H:n",
+            "palavra_original": "filme",
+            "palavra_canonica": "filme",
+            "tags": [
+              "<sem-w>",
+              "<cc>",
+              "M",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "movie",
+                  "sinonimo": "cinema",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "filme",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "filmes",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "film",
+                  "sinonimo": "filme_fotográfico",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "produção",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "film",
+                  "sinonimo": "Filme_Fotográfico",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "film",
+                  "sinonimo": "Filme_fotografico",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "película",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "movie",
+                  "sinonimo": "movie",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "film",
+                  "sinonimo": "photographic_film",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "03"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "picture_show",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "motion-picture_show",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "flick",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "film",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "pic",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "moving-picture_show",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "moving_picture",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "picture",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                },
+                {
+                  "synset": "movie",
+                  "sinonimo": "motion_picture",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "01"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 7,
+            "tag_inicial": "DP:prop",
+            "palavra_original": "Tim_Burton",
+            "palavra_canonica": "Tim_Burton",
+            "tags": [
+              "<hum>",
+              "<*>",
+              "M",
+              "S"
+            ],
+            "nivel": 3,
+            "sinonimos": {
+              "por": [],
+              "eng": []
+            }
+          }
+        },
+        {
+          "nome": {
+            "id": 12,
+            "tag_inicial": "H:n",
+            "palavra_original": "orçamento",
+            "palavra_canonica": "orçamento",
+            "tags": [
+              "<mon>",
+              "M",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": {
+              "por": [
+                {
+                  "synset": "budget",
+                  "sinonimo": "verba",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                },
+                {
+                  "synset": "budget",
+                  "sinonimo": "orçamento",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                }
+              ],
+              "eng": [
+                {
+                  "synset": "budget",
+                  "sinonimo": "budget",
+                  "classe_gramatical": "ClasseGramatical.SUBSTANTIVO",
+                  "distancia_semantica": "02"
+                }
+              ]
+            }
+          },
+          "complemento": {
+            "id": 11,
+            "tag_inicial": "DN:adj",
+            "palavra_original": "maior",
+            "palavra_canonica": "grande",
+            "tags": [
+              "<KOMP>",
+              "M",
+              "S"
+            ],
+            "nivel": 2,
+            "sinonimos": null
+          }
+        }
+      ],
+      "resposta": null
+    },
+    "resposta": {
+      "correct_answer": [],
+      "all_answers": [
+        {
+          "triples": [
+            [
+              "*9_(filme)",
+              "*producao",
+              "*tim_burton"
+            ],
+            [
+              "*tim_burton",
+              "abstract",
+              "*timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee."
+            ]
+          ],
+          "score": 14.330128,
+          "detail": {
+            "keywords": [
+              "tim_burton",
+              "filme",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 12.830128,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "tim_burton": {
+                  "keyword": {
+                    "termo": "tim_burton",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tim_burton",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "9_(filme)",
+                  "score": 1.8301275
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee.",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 0,
+          "bind_control": {
+            "binds": {
+              "filme": "-127",
+              "producao": "-128",
+              "tim_burton": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*9_(filme)",
+              "producer",
+              "*tim_burton"
+            ],
+            [
+              "*tim_burton",
+              "abstract",
+              "*timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee."
+            ]
+          ],
+          "score": 14.330128,
+          "detail": {
+            "keywords": [
+              "tim_burton",
+              "filme",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 12.830128,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "tim_burton": {
+                  "keyword": {
+                    "termo": "tim_burton",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tim_burton",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "9_(filme)",
+                  "score": 1.8301275
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee.",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 1,
+          "bind_control": {
+            "binds": {
+              "filme": "-127",
+              "tim_burton": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*tim_burton",
+              "abstract",
+              "*timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee."
+            ],
+            [
+              "*9_(filme)",
+              "*producao",
+              "*tim_burton"
+            ]
+          ],
+          "score": 14.330128,
+          "detail": {
+            "keywords": [
+              "tim_burton",
+              "filme",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 12.830128,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "tim_burton": {
+                  "keyword": {
+                    "termo": "tim_burton",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tim_burton",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "9_(filme)",
+                  "score": 1.8301275
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee.",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 2
+        },
+        {
+          "triples": [
+            [
+              "*tim_burton",
+              "abstract",
+              "*timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee."
+            ],
+            [
+              "*9_(filme)",
+              "producer",
+              "*tim_burton"
+            ]
+          ],
+          "score": 14.330128,
+          "detail": {
+            "keywords": [
+              "tim_burton",
+              "filme",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 12.830128,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "tim_burton": {
+                  "keyword": {
+                    "termo": "tim_burton",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tim_burton",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "9_(filme)",
+                  "score": 1.8301275
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee.",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 3
+        },
+        {
+          "triples": [
+            [
+              "*ed_wood_(filme)",
+              "direcao",
+              "*tim_burton"
+            ],
+            [
+              "*tim_burton",
+              "abstract",
+              "*timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee."
+            ]
+          ],
+          "score": 14.016589,
+          "detail": {
+            "keywords": [
+              "tim_burton",
+              "filme",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 12.516589,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "tim_burton": {
+                  "keyword": {
+                    "termo": "tim_burton",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tim_burton",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "ed_wood_(filme)",
+                  "score": 1.5165893
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee.",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 4,
+          "bind_control": {
+            "binds": {
+              "filme": "-125",
+              "tim_burton": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*vincent_(filme)",
+              "direcao",
+              "*tim_burton"
+            ],
+            [
+              "*tim_burton",
+              "abstract",
+              "*timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee."
+            ]
+          ],
+          "score": 14.016589,
+          "detail": {
+            "keywords": [
+              "tim_burton",
+              "filme",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 12.516589,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "tim_burton": {
+                  "keyword": {
+                    "termo": "tim_burton",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tim_burton",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "vincent_(filme)",
+                  "score": 1.5165893
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee.",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 5,
+          "bind_control": {
+            "binds": {
+              "filme": "-140",
+              "tim_burton": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*vincent_(filme)",
+              "director",
+              "*tim_burton"
+            ],
+            [
+              "*tim_burton",
+              "abstract",
+              "*timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee."
+            ]
+          ],
+          "score": 14.016589,
+          "detail": {
+            "keywords": [
+              "tim_burton",
+              "filme",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 12.516589,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "tim_burton": {
+                  "keyword": {
+                    "termo": "tim_burton",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tim_burton",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "vincent_(filme)",
+                  "score": 1.5165893
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee.",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 6,
+          "bind_control": {
+            "binds": {
+              "filme": "-140",
+              "tim_burton": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*ed_wood_(filme)",
+              "director",
+              "*tim_burton"
+            ],
+            [
+              "*tim_burton",
+              "abstract",
+              "*timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee."
+            ]
+          ],
+          "score": 14.016589,
+          "detail": {
+            "keywords": [
+              "tim_burton",
+              "filme",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 12.516589,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "tim_burton": {
+                  "keyword": {
+                    "termo": "tim_burton",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tim_burton",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "ed_wood_(filme)",
+                  "score": 1.5165893
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee.",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 7,
+          "bind_control": {
+            "binds": {
+              "filme": "-125",
+              "tim_burton": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*ed_wood_(filme)",
+              "producer",
+              "*tim_burton"
+            ],
+            [
+              "*tim_burton",
+              "abstract",
+              "*timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee."
+            ]
+          ],
+          "score": 14.016589,
+          "detail": {
+            "keywords": [
+              "tim_burton",
+              "filme",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 12.516589,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "tim_burton": {
+                  "keyword": {
+                    "termo": "tim_burton",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tim_burton",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "ed_wood_(filme)",
+                  "score": 1.5165893
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee.",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 8,
+          "bind_control": {
+            "binds": {
+              "filme": "-125",
+              "tim_burton": "-1"
+            },
+            "best_bind": {
+              "score": 0
+            }
+          }
+        },
+        {
+          "triples": [
+            [
+              "*tim_burton",
+              "abstract",
+              "*timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee."
+            ],
+            [
+              "*ed_wood_(filme)",
+              "direcao",
+              "*tim_burton"
+            ]
+          ],
+          "score": 14.016589,
+          "detail": {
+            "keywords": [
+              "tim_burton",
+              "filme",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 12.516589,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "tim_burton": {
+                  "keyword": {
+                    "termo": "tim_burton",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tim_burton",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "ed_wood_(filme)",
+                  "score": 1.5165893
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee.",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 9
+        },
+        {
+          "triples": [
+            [
+              "*tim_burton",
+              "abstract",
+              "*timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee."
+            ],
+            [
+              "*vincent_(filme)",
+              "direcao",
+              "*tim_burton"
+            ]
+          ],
+          "score": 14.016589,
+          "detail": {
+            "keywords": [
+              "tim_burton",
+              "filme",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 12.516589,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "tim_burton": {
+                  "keyword": {
+                    "termo": "tim_burton",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tim_burton",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "vincent_(filme)",
+                  "score": 1.5165893
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee.",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 10
+        },
+        {
+          "triples": [
+            [
+              "*tim_burton",
+              "abstract",
+              "*timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee."
+            ],
+            [
+              "*vincent_(filme)",
+              "director",
+              "*tim_burton"
+            ]
+          ],
+          "score": 14.016589,
+          "detail": {
+            "keywords": [
+              "tim_burton",
+              "filme",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 12.516589,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "tim_burton": {
+                  "keyword": {
+                    "termo": "tim_burton",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tim_burton",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "vincent_(filme)",
+                  "score": 1.5165893
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee.",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 11
+        },
+        {
+          "triples": [
+            [
+              "*tim_burton",
+              "abstract",
+              "*timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee."
+            ],
+            [
+              "*ed_wood_(filme)",
+              "director",
+              "*tim_burton"
+            ]
+          ],
+          "score": 14.016589,
+          "detail": {
+            "keywords": [
+              "tim_burton",
+              "filme",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 12.516589,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "tim_burton": {
+                  "keyword": {
+                    "termo": "tim_burton",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tim_burton",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "ed_wood_(filme)",
+                  "score": 1.5165893
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee.",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 12
+        },
+        {
+          "triples": [
+            [
+              "*tim_burton",
+              "abstract",
+              "*timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee."
+            ],
+            [
+              "*ed_wood_(filme)",
+              "producer",
+              "*tim_burton"
+            ]
+          ],
+          "score": 14.016589,
+          "detail": {
+            "keywords": [
+              "tim_burton",
+              "filme",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 12.516589,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "tim_burton": {
+                  "keyword": {
+                    "termo": "tim_burton",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tim_burton",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "ed_wood_(filme)",
+                  "score": 1.5165893
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee.",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 13
+        },
+        {
+          "triples": [
+            [
+              "*tim_burton",
+              "abstract",
+              "*timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee."
+            ],
+            [
+              "*dark_shadows_(filme)",
+              "direcao",
+              "*tim_burton"
+            ]
+          ],
+          "score": 13.722905,
+          "detail": {
+            "keywords": [
+              "tim_burton",
+              "filme",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 12.222905,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "tim_burton": {
+                  "keyword": {
+                    "termo": "tim_burton",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tim_burton",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "dark_shadows_(filme)",
+                  "score": 1.222905
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee.",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 14
+        },
+        {
+          "triples": [
+            [
+              "*tim_burton",
+              "abstract",
+              "*timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee."
+            ],
+            [
+              "*dark_shadows_(filme)",
+              "director",
+              "*tim_burton"
+            ]
+          ],
+          "score": 13.722905,
+          "detail": {
+            "keywords": [
+              "tim_burton",
+              "filme",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 12.222905,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "tim_burton": {
+                  "keyword": {
+                    "termo": "tim_burton",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tim_burton",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "dark_shadows_(filme)",
+                  "score": 1.222905
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee.",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 15
+        },
+        {
+          "triples": [
+            [
+              "*dark_shadows_(filme)",
+              "direcao",
+              "*tim_burton"
+            ],
+            [
+              "*tim_burton",
+              "abstract",
+              "*timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee."
+            ]
+          ],
+          "score": 13.722905,
+          "detail": {
+            "keywords": [
+              "tim_burton",
+              "filme",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 12.222905,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "tim_burton": {
+                  "keyword": {
+                    "termo": "tim_burton",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tim_burton",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "dark_shadows_(filme)",
+                  "score": 1.222905
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee.",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 16
+        },
+        {
+          "triples": [
+            [
+              "*dark_shadows_(filme)",
+              "director",
+              "*tim_burton"
+            ],
+            [
+              "*tim_burton",
+              "abstract",
+              "*timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee."
+            ]
+          ],
+          "score": 13.722905,
+          "detail": {
+            "keywords": [
+              "tim_burton",
+              "filme",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 12.222905,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "tim_burton": {
+                  "keyword": {
+                    "termo": "tim_burton",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tim_burton",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "filme",
+                    "peso": 2.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "dark_shadows_(filme)",
+                  "score": 1.222905
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee.",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 17
+        },
+        {
+          "triples": [
+            [
+              "*tim_burton",
+              "abstract",
+              "*timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee."
+            ],
+            [
+              "abraham_lincoln:_vampire_hunter",
+              "*producao",
+              "*tim_burton"
+            ]
+          ],
+          "score": 13.5,
+          "detail": {
+            "keywords": [
+              "tim_burton",
+              "filme",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "tim_burton": {
+                  "keyword": {
+                    "termo": "tim_burton",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tim_burton",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "producao",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "producao",
+                  "score": 1.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee.",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 18
+        },
+        {
+          "triples": [
+            [
+              "*tim_burton",
+              "abstract",
+              "*timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee."
+            ],
+            [
+              "*alice_through_the_looking_glass_(filme)",
+              "*producao",
+              "*tim_burton"
+            ]
+          ],
+          "score": 13.5,
+          "detail": {
+            "keywords": [
+              "tim_burton",
+              "filme",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "tim_burton": {
+                  "keyword": {
+                    "termo": "tim_burton",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tim_burton",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "producao",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "producao",
+                  "score": 1.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee.",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 19
+        },
+        {
+          "triples": [
+            [
+              "*tim_burton",
+              "abstract",
+              "*timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee."
+            ],
+            [
+              "batman_returns",
+              "*producao",
+              "*tim_burton"
+            ]
+          ],
+          "score": 13.5,
+          "detail": {
+            "keywords": [
+              "tim_burton",
+              "filme",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "tim_burton": {
+                  "keyword": {
+                    "termo": "tim_burton",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tim_burton",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "producao",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "producao",
+                  "score": 1.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee.",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 20
+        },
+        {
+          "triples": [
+            [
+              "*tim_burton",
+              "abstract",
+              "*timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee."
+            ],
+            [
+              "batman_forever",
+              "*producao",
+              "*tim_burton"
+            ]
+          ],
+          "score": 13.5,
+          "detail": {
+            "keywords": [
+              "tim_burton",
+              "filme",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "tim_burton": {
+                  "keyword": {
+                    "termo": "tim_burton",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tim_burton",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "producao",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "producao",
+                  "score": 1.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee.",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 21
+        },
+        {
+          "triples": [
+            [
+              "*tim_burton",
+              "abstract",
+              "*timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee."
+            ],
+            [
+              "cabin_boy",
+              "*producao",
+              "*tim_burton"
+            ]
+          ],
+          "score": 13.5,
+          "detail": {
+            "keywords": [
+              "tim_burton",
+              "filme",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "tim_burton": {
+                  "keyword": {
+                    "termo": "tim_burton",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tim_burton",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "producao",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "producao",
+                  "score": 1.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee.",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 22
+        },
+        {
+          "triples": [
+            [
+              "*tim_burton",
+              "abstract",
+              "*timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee."
+            ],
+            [
+              "o_estranho_mundo_de_jack",
+              "*producao",
+              "*tim_burton"
+            ]
+          ],
+          "score": 13.5,
+          "detail": {
+            "keywords": [
+              "tim_burton",
+              "filme",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "tim_burton": {
+                  "keyword": {
+                    "termo": "tim_burton",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tim_burton",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "producao",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "producao",
+                  "score": 1.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee.",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 23
+        },
+        {
+          "triples": [
+            [
+              "abraham_lincoln:_vampire_hunter",
+              "*producao",
+              "*tim_burton"
+            ],
+            [
+              "*tim_burton",
+              "abstract",
+              "*timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee."
+            ]
+          ],
+          "score": 13.5,
+          "detail": {
+            "keywords": [
+              "tim_burton",
+              "filme",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "tim_burton": {
+                  "keyword": {
+                    "termo": "tim_burton",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tim_burton",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "producao",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "producao",
+                  "score": 1.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee.",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 24
+        },
+        {
+          "triples": [
+            [
+              "*alice_through_the_looking_glass_(filme)",
+              "*producao",
+              "*tim_burton"
+            ],
+            [
+              "*tim_burton",
+              "abstract",
+              "*timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee."
+            ]
+          ],
+          "score": 13.5,
+          "detail": {
+            "keywords": [
+              "tim_burton",
+              "filme",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "tim_burton": {
+                  "keyword": {
+                    "termo": "tim_burton",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tim_burton",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "producao",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "producao",
+                  "score": 1.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee.",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 25
+        },
+        {
+          "triples": [
+            [
+              "batman_returns",
+              "*producao",
+              "*tim_burton"
+            ],
+            [
+              "*tim_burton",
+              "abstract",
+              "*timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee."
+            ]
+          ],
+          "score": 13.5,
+          "detail": {
+            "keywords": [
+              "tim_burton",
+              "filme",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "tim_burton": {
+                  "keyword": {
+                    "termo": "tim_burton",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tim_burton",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "producao",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "producao",
+                  "score": 1.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee.",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 26
+        },
+        {
+          "triples": [
+            [
+              "batman_forever",
+              "*producao",
+              "*tim_burton"
+            ],
+            [
+              "*tim_burton",
+              "abstract",
+              "*timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee."
+            ]
+          ],
+          "score": 13.5,
+          "detail": {
+            "keywords": [
+              "tim_burton",
+              "filme",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "tim_burton": {
+                  "keyword": {
+                    "termo": "tim_burton",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tim_burton",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "producao",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "producao",
+                  "score": 1.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee.",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 27
+        },
+        {
+          "triples": [
+            [
+              "cabin_boy",
+              "*producao",
+              "*tim_burton"
+            ],
+            [
+              "*tim_burton",
+              "abstract",
+              "*timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee."
+            ]
+          ],
+          "score": 13.5,
+          "detail": {
+            "keywords": [
+              "tim_burton",
+              "filme",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "tim_burton": {
+                  "keyword": {
+                    "termo": "tim_burton",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tim_burton",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "producao",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "producao",
+                  "score": 1.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee.",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 28
+        },
+        {
+          "triples": [
+            [
+              "o_estranho_mundo_de_jack",
+              "*producao",
+              "*tim_burton"
+            ],
+            [
+              "*tim_burton",
+              "abstract",
+              "*timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee."
+            ]
+          ],
+          "score": 13.5,
+          "detail": {
+            "keywords": [
+              "tim_burton",
+              "filme",
+              "grande"
+            ],
+            "score_detail": {
+              "m1": 12.0,
+              "m2": 0.5,
+              "m3": 1.0,
+              "matches": {
+                "tim_burton": {
+                  "keyword": {
+                    "termo": "tim_burton",
+                    "peso": 10.0,
+                    "classe": "PROP"
+                  },
+                  "resource": "tim_burton",
+                  "score": 10.0
+                },
+                "filme": {
+                  "keyword": {
+                    "termo": "producao",
+                    "peso": 1.0,
+                    "classe": "SUB"
+                  },
+                  "resource": "producao",
+                  "score": 1.0
+                },
+                "grande": {
+                  "keyword": {
+                    "termo": "grande",
+                    "peso": 1.0,
+                    "classe": "ADJ"
+                  },
+                  "resource": "timothy \\\"tim\\\" willian burton (burbank, 25 de agosto de 1958) e um cineasta norte-americano. frequentemente, seus filmes acompanham os atores johnny depp e helena bonham carter, com quem mantinha um relacionamento serio desde 2001 ate 2014 e tem dois filhos, e danny elfman compondo a trilha sonora. amante dos grandes nomes dos filmes de terror, ja realizou projetos sobre ed wood e chamou para estrelar seus trabalhos, os notorios atores vincent price e christopher lee.",
+                  "score": 1.0
+                }
+              }
+            },
+            "proper_nouns_count": 1,
+            "proper_nouns_matched_count": 1
+          },
+          "id": 29
+        }
+      ],
+      "ranking_time": 1087532800,
+      "total_time": 10982236500
+    }
+  }
+]
